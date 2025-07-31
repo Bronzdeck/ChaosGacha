@@ -52,7 +52,7 @@ def read_file_with_weight(filename,avg,min,max): # Creates a list of the availab
                         rarities.pop()
                         continue
                     line = line.replace(pgtext, "")
-                    print("Replaced:" + line)
+                    #print("Replaced:" + line)
                 if familiartext in line:
                     if classicfamiliar:
                         elements.pop()
