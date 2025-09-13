@@ -534,8 +534,8 @@
 #Allows you to conjure and control weaker small-scale virtual black holes. With training, you could even conjure real black holes and make it everyone else's problem.
 268.Void Dragon's Breath,4.0
 #Allows you to charge and unleash a breath attack of erosive and destructive void energy that exhausts the energy of whatever it touches. The longer you charge for and the more energy you use the stronger the breath is.
-269.Shadow Mirror,2.0
-#Legendary Mechanic - Conjures a shadow copy of you that can't interact with physical matter but can act as a distraction.
+269.Void Mirror Image,1.5
+#Legendary Mechanic - Allows you to conjure clones of yourself under your control that cannot interact with the world and act as distractions.
 270.Void Travel,3.9
 #Legendary Mechanic - Allows you to temporarily slip into the void dimension, while in the void dimension, you can freely traverse space but are unable to interact with the real world, time in the void dimension time is slower than normal. The distance you have covered in the void realm is equal to real life, allowing you to teleport short ranges with it, you can stay in the void dimension for 30 seconds but this can be increased with training. 5 Minute cooldown.
 271.Chaos Entity Release,5.1
@@ -763,7 +763,7 @@
 382.Instant Transmission,5.0
 #Allows the user to instantly teleport to any location they can sense or have been to and bring passengers along with them. Energy consumption scales slightly with the amount of passengers or the distance crossed. Mental focus is required to activate this ability.
 383.Rewind,4.3
-#Allows you to rewind time on an object, does not affect soul or mind so it cannot bring back the dead. The longer you try to rewind time on a target for, the more strain you feel and the more energy you expend.
+#MHA - Rewind allows you to build a stockpile of energy for as long as it is slotted in an active ability slot by taking a portion of your natural energy regeneration. You can use this stockpile to rewind the effects of time on target; the more powerful a target is in relation to you, the more of the more energy you have to expend to rewind them, and less to rewind weaker targets. It takes more energy to rewind resisting targets. Rewind cannot affect immaterial such as Soul, Energy or Mind. By default the stockpiles manifests as a horn on the users head.
 384.Haste,4.1
 #Allows you to speed up your time and the time of any object you are in contact with, the faster you make time flow, the more strain you feel and the more energy you expend.
 385.Apport,3.1
@@ -980,7 +980,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #You are immune, simple as, while Immune is in an active slot you cannot be poisoned, become ill, get cursed, or receive debuffs. You are immune to all negative status effects.
 491.Animate Undead,4.3
 #You are able to animate corpses into a variety of undead such as skeletons, zombies, ghouls etc. but you cannot transform them into higher forms of undead such as vampires, dullahans, ghosts etc. Undead possess basic intelligence below human level but can understand orders. You can control up to 100 undead at once, this can be increased through training.
-492.Necromancy,5.5
+492.Greater Animate Undead,5.5
 #You are able to animate corpses into a variety of undead such as skeletons, zombies, ghouls and even higher forms of undead depending on the quality of the corpses. The higher the quality of the corpse, the higher the intelligence the undead will possess, all undead under your command are naturally loyal and obedient and you can dominate natural undead weaker than you. You can control up to 1000 undead at once, this can be increased through training.
 493.Authority of Lust,6.6
 #When activated, everyone capable of seeing you treats you as an object of affection, whether that be platonic or romantic, the larger the power difference between you and the target the stronger the effect. You can ask a mundane for their life savings or wife and they will happily give it over to you, but for someone of equal level, they might just treat you like an ordinary friend.
@@ -2194,15 +2194,15 @@ You are able to weaken effects and abilities by being in contact with them. The 
 #(Tech)Allows you to build technological constructs or contraptions related to biology and living organisms. Such as Cloning Vats, granting biological powers, cracking the codes of genetically passed down powers, complete genetic overhauling, sentient viruses that assimilate into people's bodies and eat them inside out, and much more.
 1097.Tinker - Bio(V),8.3
 #(Tech)Allows you to build technological constructs or contraptions related to biology and living organisms. Such as being able to decode and grant genetics-based abilities you have scanned, creating incredibly powerful living creatures from scratch, design, fabricate and assimilate legendary rank and below biology-based abilities to beings, and much, much more.
-1098.Thinker - Alchemy(I),2.1
+1098.Tinker - Alchemy(I),2.1
 #(Tech)Allows you to design, modify and build technology and technological constructs related to alchemical reagents, potions and production of those items. Such as minor potions like healing, stamina restoration, making skin slightly tougher, or potent acids to be used in combat.
-1099.Thinker - Alchemy(II),3.8
+1099.Tinker - Alchemy(II),3.8
 #(Tech)Allows you to design, modify and build technology and technological constructs related to alchemical reagents, potions and production of those items. Such as healing, stamina, energy potions, potions that cure diseases, grant minor permanent buffs, or very explosive gases, incendiary acid, etc. But the stronger a target that consumes a potion, the less effective it is, and vice versa. The more potent a potion is, the better materials you need for it.
-1100.Thinker - Alchemy(III),5.2
+1100.Tinker - Alchemy(III),5.2
 #(Tech)Allows you to design, modify and build technology and technological constructs related to alchemical reagents, potions and production of those items. Such as potions that permanently alter bodies, potent ingredients such as more potent gunpowder and flesh-eating acid and general potions such as Healing, Mana, Ironskin, with notable potency, but the stronger a target that consumes a potion, the less effective it is, and vice versa. The more potent a potion is, the better materials you need for it.
-1101.Thinker - Alchemy(IV),6.4
+1101.Tinker - Alchemy(IV),6.4
 #(Tech)Allows you to design, modify and build technology and technological constructs related to alchemical reagents, potions and production of those items. You can craft incredibly potent potions such as healing potions that restore limbs perfectly, mana boosting potions, ultra steroids, and permanent buff potions that grant physical traits up to Epic Tier and many more alchemical reagents.
-1102.Thinker - Alchemy(V),7.8
+1102.Tinker - Alchemy(V),7.8
 #(Tech)Allows you to design, modify and build technology and technological constructs related to alchemical reagents, potions and production of those items. You can create miracles with alchemy if you have enough resources, Panaceas, Elixirs, Ichor, whatever can be crafted from alchemy, you can create it, even make Elixirs that can grant physical traits up to Legendary rank.
 1103.Tinker - Augments(I),1,8
 #(Tech)Allows you to design, modify and build technology and technological constructs related to Augments and Implants. At such a low level, you can only do augmentations such as replacement limbs, metal bone plating, camera eyes, and functional metal teeth. You are also skilled at performing surgeries to install said augments.
@@ -2318,3 +2318,35 @@ You are able to weaken effects and abilities by being in contact with them. The 
 #Danmachi - Argonaut allows you to charge up any attack, allowing you to temporarily bypass their maximum energy output. The longer you charge the ability, the more power you can unleash. For 10x power, you need 10x the energy to use it. You can only charge one action at a time, and if you get interrupted during charge, you will lose the energy you would have otherwise used on the ability without being able to unleash the effect.
 1159.Tinker - Vehicles(III),4.1
 #This tinker ability allows you to build, design and build technology and technological constructs related to Vehicles. You can create supernatural vehicles that would normally be impossible, a ship that sails at the speed of sound without shaking, a motorcycle that can ride through the air through hard light technology, a regular looking sports car 10x better armored than a tank and with fuel efficiency to last a year with one tank of gasoline, or just simply build a killdozer in league with the batmobile.
+1160.Fumofication,5.2
+#Allows you to touch a target to turn them into a fumo; the fumo created from this ability is immune to all damage, but the targets still feel everything done to them in this state. Stronger targets can resist this effect, and how long you can keep someone as a fumo depends on the amount of energy you expend and the power difference between you and the target. Grab 'em, soak 'em in milk, slam 'em against the wall or stick 'em in a jar. You cannot Fumo someone for 1 hour after they have awakened from the effect of the ability.
+1161.Void Shadow,2.2
+#Legendary Mechanic - Allows you to conjure a shadow copy of yourself. This copy acts like a shadow, invulnerable to damage and unable to interact with the world, but it can move extremely fast, can be used to disrupt the vision of others or allow you to see through its eyes. This clone lasts for 30 minutes at base, and you can only release one at a time. But this can be increased by training.
+1162.Void Distortion,5.9
+#Legendary Mechanic - Allows you to pull on the Void Dimension and cause spatial disruptions on the material world using it, allowing you to cause massive devastation and damage on targets in exchange for an incredibly taxing energy expenditure.
+1163.Choices & Choices,4.3
+#Whenever you need to make a choice, you can turn this ability on to be able to view up to 3 relevant choices you can make in a given situation and their vague outcomes. For example, [We shouldn't go +reputation with X --Reputation with Y, Z Dies]. The choices are rather vague.
+1164.Tinker - Resources,3.6
+#This tinker speciality allows you to design, modify and build technology and technological constructs related to acquiring materials.
+1165.Fate Draw,3.3
+#Allows you to roll a random number out of 22 and invoke the effect of whichever Major Arcana Tarot Card it landed on. Cooldown: 120 Hours
+1166.Inanimate Interrogation,3.8
+#Allows you to "interrogate' inanimate objects for information, ask a wall how many people it saw enter in the 24 hours, a machine or a weapon how to use it, or ask a building how to infiltrate it. Objects feel compelled to tell the truth to your questions. Their answers are based on their own perception, and they can only give answers based on what they have seen, about themselves, what they have heard and what they have heard. The more information you force an object to recall, the more energy you have to expend.
+1167.Hustle,1.7
+#Yomi Hustle - "It may be your only move" allows you to "Hustle" your opponents by performing a gesture, whether it's snapping your fingers and giving a taunting smile or lying down on a lawn chair mid-fight, your hustle must at least last half a second. When you successfully complete a Hustle, you regain some energy and stamina. The longer your hustle goes on, the more you will recover energy. Effectiveness depends on how stylish and aggravating you were. Can only be used in active combat against an enemy who means you genuine harm.
+1168.Restraint Levels,2.6
+#Hellsing - Allows you to place "Restraint Levels" on targets who are willing or unable to resist, including yourself. The restraint levels you place can forcefully prevent targets from using and activating abilities and forms, sealing them or using certain levels of power. These restraint levels can only be lifted by you or a designated target saying the unlock phrase.
+1169.Marionette Grasp,5.2
+#Allows you to take control of a target's physical body in your line of sight. When you take control of a target you can move their body against their will like forcing them to walk away or grovel. The stronger a target is in relation to you, the harder it is to control them and the more energy you have to expend to maintain your control. You can also choose to share senses with your target. You can also control more targets at once at the cost of taxing your mind and spending more energy. You can narrow your targets to individual body parts like fingers to expend less energy.
+1170.Edict,4.8
+#Edict allows you to put rules on people by touching them and expending energy. Edicts force rules on targets that they must follow, like not being able to drink milk or forcing them to go to a certain location at certain times or making them unable to wear clothes in a certain room. The target will feel an incredible mental compulsion to follow your edicts. The stronger a target is in relation to you, the harder it is to place an edict on them. If an edict goes against a target's self-preservation instincts, it will be exponentially harder to set.
+1171.Phantom Sensation,3.3
+#Allows you to project sensations of what you can do to someone in your line of sight without actually affecting them physically. You can project the sensation of groping, licking, scratching, choking, burning, stabbing, hanging, etc. provided you could actually do those things to your target without the ability.
+1172.Mind Blast,2.5
+#Allows you to send a wave of shimmering psionic energy through your eyes. When hitting a sentient target, it will cause mental damage to them, confusing them and giving them painful headaches. The effectiveness depends on the mental and magical power of the target.
+1173.Geass - Command,5.4
+#Code Geass - Allows you to give an absolute command to anyone you make eye contact with. The target will be forced to obey the command as long as they are physically capable of accomplishing the command. It can only be used once per person, and if a target is comparable to you in power or beyond, they can resist the effects or ignore the effect outright. Does not cost energy to use.
+1174.Geass - Memory,5.8
+#Code Geass - Allows you to rewrite the memories of a target through making direct eye contact. The more memories you rewrite in more detail, the more energy you expend and the more time you need. The energy you expend scales with the power difference between you and the target, as well as their willpower. It is possible to break through the rewritten memories. Through training you can improve the speed at which you rewrite memories and expend less energy, as well being more detailed and accurate.
+1175.Geass - Suspension,6.1
+#Code Geass - This geass allows you to suspend the perception of time of those in range of your effect, freezing them in place, but this effect only affects sentient beings. This effect expands as a dome around you, maintaining this effect greatly drains your vitality and energy. The amount of drain you experience depends on the size of the range you expand, the amount of targets in your area of effect and the power level of the targets you are affecting. You cannot selectively affect targets; all targets in range are affected.

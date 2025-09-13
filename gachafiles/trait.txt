@@ -55,7 +55,7 @@
 28. Kakyoin's Gift,2.5
 #Married women and milfs find themselves more attracted to you and consider you a potential romantic interest more easily.
 29. King of Disco,2.2
-#You are the best dancer around, no one can beat you at the art of dance, or dodging for that matter, you feel the rhythm in your bones.
+#You are the best dancer around, no one can beat you at the art of dance, this also has the effect of increasing your body control, finesse, balance, sense of rythmm and nimbleness.
 30. Mmmm Milk,3.8
 #Drinking milk replenishes Energy.
 31. Animal Lover,1.9
@@ -69,30 +69,30 @@
 35. Bad Boy/girl Charm,2.4
 #You have that raw bad boy/girl edge, you are an object of affection for emo's and edgy people. Rudeness may come across as cool more often.
 36. I know a guy,5.0
-#Your car broke down? You know a guy. Your friend is sealed in a rune array? You know a guy. Once every 30 days you can retroactively rewrite reality to have known a person that can help you with your current situation.
+#Your car broke down? You know a guy. Your friend is sealed in a rune array? You know a guy. Once every 30 days you can retroactively rewrite reality to have known a person that can help you with your current situation. That person must be someone who already exists and is not a full tier above you in power. You do not choose who you know, just that you learn that you know of someone who could help you.
 37. Serene Grace,3.4
 #You have an aura of refinement and grace around you, your presence is calming to those around you and your presence is very noticeable.
 38. Voice,3.1
 #You have a very powerful and versatile voice, you can make it loud, quiet, smooth, rugged, feminine, masculine, etc. Boosts the power of voice-based abilities.
 39. Tough Skin,2.2
 #YOu have abnormally tough skin, enhancing your durability beyond the norm. 
-40. Intermediate Fire Resistance,3.5
-#You are naturally resistant to fire and fire-based abilities.
-41. Intermediate Water Resistance,3.2
-#You are naturally resistant to water and water-based abilities.
-42. Intermediate Air Resistance,3.6
-#You are naturally resistant to air and weather-based abilities.
-43. Intermediate Lightning Resistance,3.5
-#You are naturally resistant to lightning and lightning-based abilities.
-44. Intermediate Earth Resistance,3.0
-#You are naturally resistant to Earth and earth-based abilities.
-45. Intermediate Ice Resistance,3.3
-#You are naturally resistant to ice and ice-based abilities.
+40. Fire Resistance,3.5
+#You are naturally resistant to fire and fire-based effects and attacks, such as being set on fire, high temperature environments, or being hit by fireballs. This resistance scales with your basic stats. 
+41. Water Resistance,3.2
+#You are naturally resistant to water and water-based effects and attacks, such as being struck by water canons, being placed under depth pressure, your lungs being filled with water or getting water spat in your eye. This resistance scales with your basic stats. 
+42. Air Resistance,3.6
+#You are naturally resistant to air and weather-based effects and attacks such as vacuums, wind slashes, being caught in a tornado, and being lifted off your feet by wind. This resistance scales with your basic stats. 
+43. Lightning Resistance,3.5
+#You are naturally resistant to lightning and lightning-based effects and attacks such as being tasered, struck by lightning, or licking an outlet. This resistance scales with your basic stats. 
+44. Earth Resistance,3.0
+#You are naturally resistant to Earth and earth-based attacks and effects such as being stuck in quicksand, being buffeted by a sandstorm, or being struck by a meteor. No, metal does not count. This resistance scales with your basic stats. 
+45. Ice Resistance,3.3
+#You are naturally resistant to ice and ice-based attacks and effects such as being frozen, being in low-temperature environments, or eating a large icicle to the face. This resistance scales with your basic stats. 
 46. Thermal Balance,3.9
-#You are always thermally balanced to be at a comfortable temperature, as long as the temperature isn't beyond mundane, you instantly adapt to the temperature. 
+#You are always thermally balanced to be at a comfortable temperature, as long as the temperature isn't hotter than 1000°C or colder than -100°C your body will always keep an optimal body temprature.
 47. Disney Princess,4.0
 #All animals naturally adore you and are friendly toward you, even supernatural animals quickly take a liking to you.
-48. Sartorial Savant,2.8
+48. Sartorial Savant,1.2
 #Your clothes are, for some reason, always clean and tidy, even your wardrobe, and small damages seem to even mend themselves.
 49. Quantum Disentanglement,4.6
 #You are an anomaly, whenever you are bound or restrained you somehow find yourself untangled.
@@ -414,7 +414,7 @@
 #You can recover your energy by converting the fear people hold towards you into energy, if enough people fear you you might even gain permanent stat increases.
 208. Lord of Fear,6.6
 #You are the ruler of fear, if your opponent fears you their energy starts getting drained to yours, and you can physically interact with fear and absorb it into your own energy.
-209. Necromancy,4.0
+209. Necromancer,4.0
 #Specialization - You are a natural-born necromancer, dealing with death and souls is just your lane of business. Any death or soul-related ability is easier to master and costs less energy.
 210. Plaugemaster,4.2
 #Specialization - You are a natural-born contagion, spreading disease, poison, and decay is second nature to you. Any poison or disease-related ability is easier to master and costs less energy to use.
@@ -567,7 +567,7 @@
 284.Master of Arms,5.3
 #You are a Master of Arms, being able to wield any weapon you lay on your hand as if you have been wielding it for 10 years, in addition, you are able to bypass any requirements a weapon might have to wield it such as being an angel or a chosen hero. In addition, all sentient or conscious weapons adore you and weapons would love to be wielded by you.
 285.Qualified,4.8
-#Who says you aren't qualified? It says right here! You can wield any item or pass through any door with qualifications. Excalibur wants a worthy wielder? Too bad, you are qualified to wield it whether it likes it or not. 
+#Who says you aren't qualified? It says right here! You can wield any item or pass through any door with qualifications. Excalibur wants a worthy wielder? Too bad, you are qualified to wield it whether it likes it or not. Unarmed combat does not count, you have to be holding said weapon, mastery vanishes upon letting go of the weapon you are wielding.
 286.Innocuous,3.1
 #Look at that face! How can you stay angry at that? People are far more forgiving to you, and they cannot stay angry at you too long. It even works in court.
 287. Sharing Is Caring,4.2
@@ -686,8 +686,8 @@
 #Race(Dragon Ball) - You are a Saiyan warrior, having a great natural physique and a monkey tail as a weakness. When exposed to a full moon you turn into a rampaging giant monkey with massively increased stats. Don't expect to be too strong too soon, even Goku needed decades of training from the greatest martial artists.
 344. Child of Man,8.4
 #Warhammer 40 - You are the child of the God Emperor of Mankind himself, sharing most of his attributes like his gifted physique, charisma, martial prowess, scientific gift and the talent to be possibly the strongest Psyker. You are capable of mastering all Psyker Disciplines(Not related to Chaos) and reaching levels where you may eventually be able to tear apart a planet with your Psyker power alone, as long as you train enough. Your psyker power is not connected to the Warp but emulates its power 
-345.Majin,7.3
-#Race(Dragon Ball) - You are a Majin, a descendant of Majin Buu, possessing a malleable gum-like physique with massively enhanced physical and magical stats. As a Majin you can survive and regenerate if even a handful of your body is left, in addition, you are able to absorb people and objects to strengthen yourself.
+345.Majin,7.9
+#Race(Dragon Ball) - You are a Majin, a descendant of Majin Buu, possessing a malleable gum-like physique with massively enhanced physical and magical stats. As a Majin you can survive and regenerate if even a handful of your body is left, in addition, you are able to absorb people and objects to strengthen yourself. Alas, you are no Majin Buu, starting off with only greatly superhuman physical abilities and increased energy levels.
 346.Rodrigues,2.7
 #You are a Brazillian, but not only that, you are a descendant of the legendary Jetstream Sam. Not only do you have the Brazillian ability to double jump but you are also talented in swordsmanship and swordsmithing. 
 347.Tepes,3.8
@@ -904,7 +904,7 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 #(Nsfw)"Not the one you are thinking of" Your cum refills almost instantly, and the volume of your ejaculations is substantially increased.
 453.Scarousing,3.3
 #For some reason, the scarier you act, instead of being rightfully terrified, people that you consider potential partners are also equal parts aroused by you. The mind works in mysterious ways.
-454.Large than Life,1,4
+454.Larger than Life,1,4
 #People feel like your presence is larger than it should be. Even if you are a head shorter than them, it will still feel like you are towering over them.
 455.Speak of the Devil,4.8
 #-And they shall appear. You become instantly aware of the location of someone in relation to you whenever they say your name while intending you. You are able to sense their location for around 5 minutes when they speak your name like a GPS, and can use them for anchors for stuff like teleportation abilities or Curses.
@@ -958,3 +958,45 @@ When you roll a ticket, you have the option to reroll it, but with its rarity lo
 #You are perfectly ambidexterous, you can use both of your arms and hands as if they were both dominant hands. The same applies to all of your limbs, perfectly balanced, as all things should be.
 480,Tune Up,3.3
 #You have received a body tune-up, an upgrade to every aspect of your body, slightly increasing all of your physical stats, your energy reserves, and most importantly, fixing all of the physical or genetic problems ailing in your body at the moment of you rolling this trait.
+481.Greater Beastkin,3.4
+#Race Change - You are a greater beastkin, a creature that is half beast and half whatever you are. As a Greater Beastkin, you possess superhuman physical abilities and enhanced natural senses and instincts. You possess more affinity towards nature-based abilities and spells, allowing you to utilise them more effectively. Your Beast side is powerful too; even simple cat claws are tough as iron. (Chosen beast is decided by the writer, not an in-story choice)
+482.Noble Beastkin,4.7
+#Race Change - You are a Noble Beastkin, a beast hybrid that has mystical blood running through their veins. You possess potent physical abilities and greatly enhanced senses depending on your race; your natural instincts are very potent. You possess a greater affinity towards Changer and Nature-based abilities, allowing you to utilise them to greater effect with more finesse. You also possess control over your beast side, being able to completely suppress your traits or completely transform into your beast side. It is easier to command respect from beast-aligned beings.
+483.Royal Beastkin,5.1
+#Race Change - You are a Royal Beastkin, a powerful beast hybrid that has potent royal blood running through their veins. You possess great physical strength and incredibly honed enhanced senses with slight differences according to the race of your beast side. Your natural fighting instincts are strong enough to compete with trained fighters without having training beforehand. You possess a great affinity toward changer abilities, making them more efficient and easier to control. You possess incredible control over your beast side, being able to completely suppress your beast side or completely transform into it and anything in between. Your royal blood also grants you increased charisma and an authoritative presence, which is far more effective against beast-aligned beings.
+484.Nephalem,8.7
+#You are a Nephalem, an impossible union of a Daemon and Seraphim. You possess immense power, both magical and physical. All Holy, Light, Darkness and Infernal abilities are increased by one tier and cost significantly less energy. You can naturally convert your energy into either Darkness or Holy mana bursts. 
+485.Provocative,2.6
+#You are very good at getting under people's skin, whether it is angering them or breaking their mask of stoicism with a joke or a flirty remark. It is harder for people to keep their composure around you.
+486.Steel Man,4.1
+#You have a heart of steel that can endure any hardship, your body is like a machine that needs less than even the bare minimum. You only need 1/100th of the sustenance you would normally need; you can go entire years without eating and months without drinking a drop of water, you even need 1/100th of the sleep you usually need, having to sleep every few months or so even as a regular human being.
+487.Blacklight Physique,7.2
+#Prototype - Your previous genetic material has been completely assimilated, turning you into a living mass of Blacklight Virus. Even at your base, you can smash apart tanks and run faster than cars. You are also able to regenerate by assimilating biological matter. As long as you have even a fist-sized mass of Blacklight left that makes up your core, you will still live. Any biological part you consume, you are able to analyse and replicate. The stronger the target you assimilate is, the harder it is to assimilate them. 
+488.Dragonlord,7.0
+#Elden Ring - You are the hatching of Placidusax, the Dragonlord. As a Royal Ancient Dragon, albeit a child, you possess greatly superhuman physical abilities and greatly increased magical powers. You can shift between your 5-headed ancient dragon form and humanoid form at will; the size of your dragon form is dependent on your power level and your maturity. You possess gilded gravel scales that give you incredible resilience, and in addition, as the child of Placidusax, you are able to breathe out incinerating golden flames and manifest crimson dragon lightning. A trait unique to your lineage, you possess immense time affinity, allowing you to learn time spells on your own with your natural inclination towards it. But even with your talent, time is not trifling power and mastery over it will take a very, very long time.
+489.Everlasting Dragon,6.8
+#Dark Souls - You are an Everlasting Dragon, a being before the existence of time and light, well, you are a hatching of an Everlasting Dragon at least. As an Everlasting Dragon, you possess greatly superhuman stats and magical abilities. But most of all, you possess the Stone Scales of Immortality. While in your dragon form, as long as your scales are on, you are incredibly resilient towards any attack, as if they were made of adamantium with similar resistance to magic, as well as great regenerative abilities. But when struck by lightning or a greatly powerful attack, your scales are rended from your flesh, and you lose your increased durability. You are able to shift between your base form and dragon form at will.
+490.Nidhogg,7.8
+#You are a descendant of Nidhogg, the mythical dragon of Death and Decay. You are able to swap between your base form and Nidhogg at will; the degree of transformation dictates the amount of power you have access to. You possess tremendous physical abilities and incredibly potent and dense magical energy. You possess an overwhelming affinity towards necromancy, being able to naturally revive the dead into undead under your command and massively boosting the potency and efficiency of any necromancy-based abilities or spells you use. Your dragon breath has the concept of decay distilled into itself, decaying whatever it touches, down to the flesh, down to the soul, down to the existence. Effectiveness varies depending on the target and their power level.
+491.Gift of Nyar,4.9
+#You have been given a gift by Nyarlathotep, the Crawling Ones. All Stranger abilities are made more potent and cost energy to use. You are more proficient in deception, obscurification and acting. 
+492.Hydra Heart,7.8
+#Your heart is that of a Mythical Hydra, granting you Epic-level regeneration that expends your stamina and energy to work. In addition, you possess 9 lives. Every time your heart or head is destroyed, you will almost instantly be restored to the peak of your health with all negative conditions cleansed. Any resurrection effect, Legendary rank and above, can be used to restore a life.
+493.Ork Colour Theory,4.5
+#Warhammer 40k -You have a PHD in the study of Ork Colour Theory. Allowing you to paint things to get the benefits that Orks do. RED IZ FASTA, BLACK IZ TOUGHA, YELLOW IZ BIG BOOM, PURPLE IS SNEAKYY, BLUE IZ LUCKER AND GREEN IZ DA BEST. For a target to benefit from this effect, you must be the one to paint it yourself.
+494.Reapers Writ,5.4
+#Death itself has given you permission to kill anything, and reality shall obey. When facing a target with Immortality, you are capable of nullifying their immortality. Any lethal blow to your land that would otherwise kill them without their immortality will enact absolute death on them, and prevent their resurrection unless you declare that they can live. Even a god, even an avatar, even a spirit, you will strip away their immortality.
+495.Introspection,1.8
+#You are very well aware of how you are. You know when you are affected by what effects, when you are poisoned, when you are feeling ill or uncomfortable. Nothing about you escapes your attention.
+496.Insurance Policy,4.7
+#It's quite a shame when your beloved Familiars die, that's why you should always get them insured. Whenever a familiar of yours dies, they will get revived in your familiar space, but in the process of reviving they will be using your energy reserves to heal themselves and be left in a temporary weakened state for several days afterwards. If you have a familiar that automatically revives, they revive 50% faster and need 50% less energy to revive.
+497.Psionic,4.5
+You are a psionic, someone who specialises in the Mind and Mental world. Granting you greater control and finesse over your mental abilities and making them more efficient to use. You also train mental abilities faster and have a better natural grasp of them.
+498.Netoranger,2.8
+#(Nsfw)You are a Netoranger; no relationship is sacred to you. It is easier to get people to betray their loved ones for you, and people in relationships find themselves more attracted to you.
+499.Natural Restoration,5.3
+#Your natural healing works differently; instead of regenerating, your body heals itself at the same speed as your natural regeneration, but instead restores your body to its most healthy state constantly, affecting even curses, diseases and afflictions. Of course, the more severe an effect, the longer and harder it is for you to get restored to full condition.
+500.Tune Up,3.3
+#Your body has received a Tune Up, all previous health complications have been erased, and your body has been altered to become improved, increasing your latent genetic potential and giving you a fit and incredibly healthy body.
+501.Code of Immortality,7.6
+#Code Geass - You are marked by the Code of Immortality by an imitation of C's World. Whenever you get fatally wounded, are sick or are otherwise unable to function, parts of you will get instantly replaced by a pocket dimension constantly producing replacement parts for your existence, constantly keeping you healthy, ageless and alive. This includes your mind and soul. The only way to keep you dead is to either separate you from your dimension, exhaust your lives faster than they can be reproduced or kill you with a spatial attack. In addition, you are capable of granting individuals Geass', a power over that manifests in their eyes, the exact function and power of which depends on the potential of the individual. You can always sense the individual you have given a Geass to, and those they deem closest to them.

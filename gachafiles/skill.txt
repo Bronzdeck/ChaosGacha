@@ -387,13 +387,13 @@ You are an expert in the way of stealth, you know how to move like a ghost, sile
 194.Master Stealth,5.8
 You have mastered the art of stealth, you blend in with the shadows and move without a single sound, you can also suppress your presence so much that even someone looking directly at you would struggle to distinguish between you and the world around you. You are in league with even the greatest of the Hassasin.
 195.Jack of All Trades,3.2
-#You have novice-level expertise in all basic skills, you can cook, smith, perform medicine, draw, repair, teach, drive, interface, and know most fields of study with basic competence and are fairly talented in those fields. Does not extend to combat skills. 
+#You have novice-level expertise in all basic trades (Novice Blacksmithing, Medicine, Mechanics, Cooking, Interfacing) with competence of an apprentice and are fairly talented in those fields. Does not extend to combat skills. 
 196.Queen of All Trades,4.6
-#You have intermediate-level expertise in all basic trades, you can cook, smith, perform medicine, draw, repair, teach, drive and interface with fair competence comparable to actual performers of the trade and are talented in those fields. Does not extend to combat skills. 
+#You have intermediate-level expertise in all basic trades (Intermediate Blacksmithing, Medicine, Mechanics, Cooking, Interfacing) with fair competence comparable to actual performers of the trade and are talented in those fields. 
 197.King of All Trades,5.1
-#You have Adept-level expertise in all basic trades, you can cook, smith, perform medicine, draw, repair, teach, drive and interface with fair competence comparable to an actual veteran of the trade and are greatly talented in those fields. Does not extend to combat skills.
+#You have Adept-level expertise in all basic trades (Adept Blacksmithing, Medicine, Mechanics, Cooking, Interfacing) with competence comparable to an actual veteran of the trade and are greatly talented in those fields. 
 198.Ace of All Trades,6.2
-#You have Expert-level expertise in all basic trades, you can cook, smith, perform medicine, draw, build, teach, drive and interface with fair competence comparable to true experts of said trades and are very talented in those fields. Does not extend to combat skills.
+#You have Expert-level expertise in all basic trade skills(Expert Blacksmithing, Medicine, Mechanics, Cooking, Interfacing), granting you expertise comparable to the real masters of the trades. And if you choose to train them further, you are also far more talented in any Trade field.
 199.Firebending,4.7
 #Avatar - You are an apprentice Firebender, being able to convert your internal energy into fire you can manipulate with your own form of movements and martial arts. The more experienced and trained you are the stronger your bending.
 200.Waterbending,4.6
