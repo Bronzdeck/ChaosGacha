@@ -451,7 +451,7 @@
 227. Any Vehicle Voucher,3.1
 #(Tech)You can exchange this voucher any time for any Mundane Vehicle available in your world, ranging from a supercar to a cruise ship, the vehicle will teleport in front of you with all of the legal work taken care of.
 228. Refined Heart-Shaped Herb,4.3
-#Marvel - A mystical herb from Wakanda blessed by the goddess Bast. This harvest has been refined to filter out any harmful side effects and mystical strings attached, making it completely safe to consume. Consuming it grants enhanced strength, speed, stamina, durability, reflexes, agility, and instincts. Restock Timer: 240 Hours
+#MCU - A mystical herb from Wakanda blessed by the goddess Bast. This harvest has been refined to filter out any harmful side effects and mystical strings attached, making it completely safe to consume. Consuming it grants enhanced strength, speed, stamina, durability, reflexes, agility, and instincts. Restock Timer: 240 Hours
 229. Senzu Bean,5.9
 #Dragon Ball - A small bean containing mystical power cultivated personally by the guardian of the earth. Consuming it instantly restores physical condition to its peak, restores energy completely, and keeps a person satiated for 10 days. Restock Timer: 720 Hours
 230. Unknown Mask,3.4
@@ -1168,3 +1168,17 @@
 #An ornate golden hand mirror that has the ability to perfectly reverse any magical attack that makes contact with its mirror surface. The moment a magic makes contact with it, its direction is instantly reversed. 
 574.Nazar,3.4
 #An eye-shaped blue glass charm that passively grants the user's decent resistance to curses and negative energy. If the user is afflicted with an Epic rank or above curse, the Nazar will break to nullify the curse.
+575.Scooby Snacks,1.2
+#Scooby Doo - A box of dog treats, no reason for anyone to consume these. But familiars and familiar candidates seem to like the taste. You have a lifetime supply as the treats will keep pouring out of the box indefinitely.
+576.Familiar Card,4.8
+#The Ainsworths can suck it. The Familiar Card allows you to capture one of your familiars into the card and give it to someone to insert it into themselves and activate it. If they do, they will be granted the powers of the familiars to use as their own. Does not transfer familiar stats, only abilities. Familiar Cards can be forcefully ejected from a target by recalling the familiar inside back into familiar space.
+577.Gun Cache,3.5
+#A dark grey duffle bag that you can pull out a copy of any single mundane firearm or bullet magazine produced for public use on Basic Earth. Ranging from revolvers, sniper rifles, etc., with bullets included. You can only pull out up to 20kg of items per day from the bag.
+578.Rivers of Blood,2.7
+#Elden Ring - An old katana that has been used to the blood of countless, used by a champion of Mohg. The blade is incredibly durable and sharp despite its appearance. Whenever this blade scores flesh, the target will begin haemorrhaging unnaturally fast.
+579.The Jar,2.0
+#Elden Ring - A large jar made to wear on the head. Once worn by a tarnished warrior when he vanquished the goddess of rot a thousandfold. Wearing the Jar over one's head grants them increased physical abilities, reflexes and instincts when facing Gods or Divine entities. Despite its appearance, the jar does not hinder vision and is supernaturally durable.
+580.Contract from Below,5.5
+#"Is it worth the price?" A seemingly ordinary worn piece of paper stained in blood. By offering up 3 sacrifices(Abilities, Items, Familiars etc. Skills do not count) of equal level, you can sign this paper with your blood to gain the Summon Demon ability of equal rank that does not consume an ability slot. For example, sacrificing a Rare Ability and 2 Rare Items, you can get the ability Summon Demon(Rare). The moment this paper is signed, it can never be used again. This item can be refunded for free, giving back the ticket it was rolled with.
+581.Covenant from Above,5.5
+#"Devotion at a price." A seemingly ordinary scroll made of gold and trimmed in silver. By offering up 3 sacrifices(Abilities, Items, etc. Skills and Familiars do not count) of equal level, you can sign this paper with your blood to gain the Summon Angel ability of equal rank that does not consume an ability slot. For example, sacrificing an Elite Ability and 2 Elite Items, you can get the ability Summon Angel(Elite). The moment this scroll is signed, it can never be used again. This item can be refunded for free, giving back the ticket it was rolled with.
