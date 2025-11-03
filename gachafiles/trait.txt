@@ -252,8 +252,8 @@
 #You are really good at organizing and managing things, distributing tasks, and prioritizing. 
 127. Thinker,4.8
 #I think, therefore I am. All of your thinker abilities are more potent and cost less to use, in addition, thinker headaches are mitigated.
-128. Zenkai Boost,5.3
-#What doesn't kill me makes me stronger, whenever you come back from near death and recover to full you get a substantial boost to all of your basic stats.
+128. Dramatic Tumbleweed,0.3
+#During tense and dramatic moments like a standoff, a stray tumbleweed will pass by you and your opponent in a dramatic manner. The tumbleweed fades out of existence the moment it stops being observed.
 129. Herbalist,2.1
 #You have a vast knowledge base related to plants, you can easily understand the function and origin of a plant just by looking at it. You can also make basic medicines.
 130. Feline Friend,2.2
@@ -276,8 +276,8 @@
 #You are very hard to track, cameras mysteriously stop recording when you step into the frame, your footprints get covered by the natural elements, and normal people just cannot remember which way you went when someone asks them. Very good for a serial killer or a paranoid.
 139. Golden Goose,5.7
 #People want you on their side and they will dote on you to make sure you don't defect from their side, if you are in an organization your higher-ups like you way easier and they will try to accommodate you. If the king or queen meets you they will probably also take a liking to you.
-140. Ex Nihilo,5.3
-#Your emitter abilities produce actual matter now, not just energy constructs but permanent new matter in the universe, trying to study how this works is sure to cause an aneurysm.
+140. Ex Nihilo,5.0
+#All abilities that create constructs or new matter now cost significantly less energy to produce and maintain.
 141. Peerless,3.6
 #You are peerless in bed, you can quickly adapt to your partners' preferences and learn their weak spots in bed, you improve at the tantric arts much faster also, none will leave your bed unsatisfied.
 142. Helltaker,3.3
@@ -376,8 +376,8 @@
 #"Hurt me more" Whenever you are hurt or damaged you recover energy proportional to the damage you receive.
 189. Demon Lord,4.4
 #You are a Demon Lord, all Darkness and Unholy magic and abilities are strengthened and so are your physical stats, this effect is increased if your race is demonic or infernal., you greatly resist all darkness and unholy attributes. Demonic/Infernal beings are more servile to you and it is easier to assert your authority over them and receive their obedience. All Demonic/Infernal beings under your service or command you can command and manage better, in addition, they get minor buffs from being under you.
-190. Hero,4.9
-#All holy and light abilities are enhanced as well as a basic boost to all physical stats.  All related abilities are increased by half a rank if they are below the elite rank.
+190. Item Warranty,3.5
+#Your gacha items now have warranty, if an equipment you own is broken to a level where it cannot be used effectively, within 24 hours that item and all parts of that item will be replaced with a replica in perfect condition as long as the item has not been traded away or given away. Only applies to items that were broken during intended use, warranty does not apply in cases of sacrifice, smelting, destruction during modification etc. and does not apply to consumable items.
 191. Hero Time,4.7
 #Can only be activated once a week, if you are fighting to protect someone all enhancement abilities receive a full rank boost.
 192. In Time of Need,4.0
@@ -390,8 +390,8 @@
 #Your very existence is oppression, in your presence, any creature below Epic rank will have all their energy lowered by one rank, and anyone more than two ranks below you cannot breathe without your permission
 196. Gluttonous Abyss,6.6
 #You can extract the energy out of any object you eat to permanently increase your own energy reserves
-197. Free Flier,2.1
-#You are a master of flight, you are almost more comfortable flying than walking.
+197. Free Flier,1.6
+#You are a master of flight, flying is as natural to you as walking or breathing, as long as you are capable of flight that is. Flight using abilities costs less energy.
 198. Stable,2.6
 #You will never lose your balance from anything short of your legs getting sheared off.
 199. Zenkai Boost,5.6
@@ -402,8 +402,8 @@
 #Your heart pumps mana instead of blood, and your energy capacity and regeneration are massively increased.
 202. Mana Substitution,4.0
 #Whoever said you needed paltry things such as blood, food, water, or air to breathe were liars. You can substitute any of those things with your own mana but don't depend on it for too long, or else you may instantly die when you run out of mana.
-203. Iron Man,3.3
-#Your mind is made of iron and your body will obey. Even if you are exhausted and starving the effect it has on your performance is minimal.
+203. Iron Mind,3.3
+#Your mind is made of iron and your body will obey. Even if you are exhausted and starving the effect it has on your performance is minimal. Regardless of your suffering, your performance will be optimal. Does not extend to physical limitations or wounds. Also increases resistance against all Negative Mental Ailments.
 204. Bloodless,2.2
 #Bloodloss who? You don't bleed like they do, even if your body is drained of most of its blood, as long as there is a cupful left you won't feel its effect. If you are a vampire with this trait, you won't suffer the need for blood.
 205. Bloodbank,2.7
@@ -641,14 +641,14 @@
 321.My Friend Now,5.5
 #Everyone you meet starts off friendly to you as long as they don't have a preconceived opinion of you. You can walk up to Thanos and open a can of beer with him. Even death seems to like the cut of your gib.
 322.Uchiha,5.4
-#Naruto - You are a member of the Uchiha Clan, granting you increased martial talent, energy reserves, fire affinity and a natural sharingan that does not take up an ability slot. 
+#Naruto - You are a member of the Uchiha Clan, granting you increased martial talent, energy reserves, fire affinity and a natural sharingan that does not take up an ability slot.(Does not give Chakra)
 323.Uzumaki,5.9
-#Naruto - You are a member of the Uzumaki clan, granting you increased life force and endurance. In addition, you can heal yourself and others by imbuing your blood with your energy and life force. And with training, you can unlock the ability to create sealing adamantine chains capable of suppressing and sealing energy.
+#Naruto - You are a member of the Uzumaki clan, granting you increased life force and endurance. In addition, you can heal yourself and others by imbuing your blood with your energy and life force. And with training, you can unlock the ability to create sealing adamantine chains capable of suppressing and sealing energy.(Does not give Chakra)
 324.Hyuga,5.1
-#Naruto - You are a member of the Hyuga clan, granting you increased dexterity, energy reserves and fine control over your body and energy. In addition, you possess a natural Byakugan that does not take up an ability slot. You also may or may not have dormant alien-good genes.
+#Naruto - You are a member of the Hyuga clan, granting you increased dexterity, energy reserves and fine control over your body and energy. In addition, you possess a natural Byakugan that does not take up an ability slot. You also may or may not have dormant alien-good genes.(Does not give Chakra)
 325.Senju,6.0
-#Naruto - You are a direct descendant of Hashirama Senju, granting you greatly increased lifeforce and energy reserves as well as martial prowess. In addition, you possess a natural Wood Release and have increased Natura Affinity.
-326.Hanma,2.8
+#Naruto - You are a direct descendant of Hashirama Senju, granting you greatly increased lifeforce and energy reserves as well as martial prowess. In addition, you possess a natural Wood Release and have increased Natura Affinity.(Does not give Chakra)
+326.Hanma,3.5
 #Baki - You are a Hanma, you are incredibly genetically gifted, possessing increased resistance to poisons and your physical stats grow way faster. In addition, you have so much testosterone in you, any other men may as well be a girl in comparison. Your talent in martial arts is also greatly increased. If you are female the same effects apply without the testosterone, you are just a genetically gifted freak.
 327.Lesser Undead,2.5
 #Race - You are a lesser undead, once you get this trait you have to choose between being a zombie or a skeleton. As an undead, you have no stamina and instead consume energy for everything and get unique bonuses and demerits depending on the undead you end up as. Once a race trait is toggled it is permanent until contested.
@@ -664,7 +664,7 @@
 #Race(Tsukihime) - You are a special kind of vampire known as a Nightmare born from the blood of a Dead Apostle. As a Nightmare, you possess superhuman physical and magical abilities and have rewinding regeneration as long as you have blood. In addition, as a high-rank vampire, you can turn people into ghouls and have your own unique Elite rank ability you can use without an ability slot. You can get stronger and eventually evolve to the next stage of undeath by consuming enough blood.
 333.Dead Apostle,6.7
 #Race(Tsukihime) - You are a fully realized Dead Apostle, a blight upon the kands and possessing your own ability unique to yourself befitting your rank, granting you an epic ranked ability that does not take up an ability slot. In addition, you have vastly superior physical stats and have time rewinding regenerative immortality as long as you have blood in your body. You can turn humans and animals into your thralls as lower-ranking apostles. The more blood you consume the stronger you get and recover energy.
-334.Dead Apostle Ancestor,8.6
+334.Dead Apostle Ancestor,8.0
 #Race(Tsukihime) - You are a true Dead Apostle Ancestor, a crimson stain from the moon to the earth. As a Dead Apostle Ancestor you have immense physical and magical powers, your body naturally rewinds its own time whenever you are injured to restore your health as long as you have blood. You have your own Idea Blood, a Legendary Ability that suits you which you can freely use without an ability slot. Your blood can turn those who ingest it into fully fledged powerful vampires instantly. Any vampire and undead will acknowledge your existence as the ultimate vampire class.
 335.Beastkin,3.5
 #Race - You are a beastkin of a random animal such as a bear, rabbit cat, wolf etc. granting you enhanced physical stats, night vision as well as unique traits and biological features depending on what you are a hybrid of.
@@ -682,7 +682,7 @@
 #Race(Invincible) - You are a viltrumite, one of the fiercest warrior races of the galaxy. As a vitrumite, you possess an incredibly powerful body and the ability to freely fly. You are almost invulnerable to most things but are vulnerable to a specific sound frequency.
 342.Kryptonian,8.8
 #Race(DC) - You are a Kryptonian, enough said. Your physical and energy reserves increase the more sunlight you take, in addition, you have heat vision, ice breath, high-speed flight, no need to breathe, tactile telekinesis, X-ray vision, and probably more. Under the yellow sun you are basically a living god. 
-343.Saiyan,6.2
+343.Saiyan,6.4
 #Race(Dragon Ball) - You are a Saiyan warrior, having a great natural physique and a monkey tail as a weakness. When exposed to a full moon you turn into a rampaging giant monkey with massively increased stats. Don't expect to be too strong too soon, even Goku needed decades of training from the greatest martial artists.
 344. Child of Man,8.4
 #Warhammer 40 - You are the child of the God Emperor of Mankind himself, sharing most of his attributes like his gifted physique, charisma, martial prowess, scientific gift and the talent to be possibly the strongest Psyker. You are capable of mastering all Psyker Disciplines(Not related to Chaos) and reaching levels where you may eventually be able to tear apart a planet with your Psyker power alone, as long as you train enough. Your psyker power is not connected to the Warp but emulates its power 
@@ -731,7 +731,7 @@
 366.Prodigious Pupil,4.1
 #You are THE Pupil. You learn things much faster and far more easily when taught personally by someone who has a higher skill level than you in the subject in question. In addition, it is easier to earn the favour of your teachers.
 367.The Taker,4.0
-#"You wake up with a dream, a harem full of... what the fuck?" You are the Taker, all beings of the opposite gender that are either Infernal, Holy or Divine find themselves more attracted to you and it is easier to earn their affection.
+#"You wake up with a dream, a harem full of... what the fuck?" You are the Taker, all beings that are either Infernal, Holy or Divine who you are attracted to find themselves more attracted to you and it is easier to earn their affection.
 368.Monstergirl Enthusiast,2.5
 #(Nsfw)You seem to fancy some interests that most don't. Hybrid Girls or those of the opposite gender with monster or beast traits take more of a liking to you and it is easier to build relationships with them. And some monsters you encounter seem oddly humanoid and... compatible.
 369.Reapers Presence,4.4
@@ -970,7 +970,7 @@ When you roll a ticket, you have the option to reroll it, but with its rarity lo
 #You are very good at getting under people's skin, whether it is angering them or breaking their mask of stoicism with a joke or a flirty remark. It is harder for people to keep their composure around you.
 486.Steel Man,4.1
 #You have a heart of steel that can endure any hardship, your body is like a machine that needs less than even the bare minimum. You only need 1/100th of the sustenance you would normally need; you can go entire years without eating and months without drinking a drop of water, you even need 1/100th of the sleep you usually need, having to sleep every few months or so even as a regular human being.
-487.Blacklight Physique,7.2
+487.Blacklight Physique,7.4
 #Prototype - Race Change - Your previous genetic material has been completely assimilated, turning you into a living mass of Blacklight Virus. Even at your base, you can smash apart tanks and run faster than cars. You are also able to regenerate by assimilating biological matter. As long as you have even a fist-sized mass of Blacklight left that makes up your core, you will still live. Any biological part you consume, you are able to analyse and replicate. The stronger the target you assimilate is, the harder it is to assimilate them. 
 488.Dragonlord,7.0
 #Elden Ring - Race Change - You are the hatching of Placidusax, the Dragonlord. As a Royal Ancient Dragon, albeit a child, you possess greatly superhuman physical abilities and greatly increased magical powers. You can shift between your 5-headed ancient dragon form and humanoid form at will; the size of your dragon form is dependent on your power level and your maturity. You possess gilded gravel scales that give you incredible resilience, and in addition, as the child of Placidusax, you are able to breathe out incinerating golden flames and manifest crimson dragon lightning. A trait unique to your lineage, you possess immense time affinity, allowing you to learn time spells on your own with your natural inclination towards it. But even with your talent, time is not trifling power and mastery over it will take a very, very long time.
@@ -1005,7 +1005,7 @@ You are a psionic, someone who specialises in the Mind and Mental world. Grantin
 503.Silkheart,5.2
 #Silksong - Allows you to naturally turn your energy reserves into Silk, you can manipulate this silk as if it were a part of your body and dissolve it at will. You can control this silk to perform a wide variety of Silk Arts, such as shooting needles of silk, whipping it around, using it to bind your own wounds, etc.
 504.Chaos Response,4.3
-#Your existence is chaos as defined by the chaos gacha, automatically causing feedback to whatever tries to peek into your existence. Future seeing gets scrambled and incoherent, abilities that try to read into you will malfunction and trying to read your mind will cause them a great headache at best.
+#Your existence is chaos as defined by the chaos gacha, automatically causing feedback to whatever tries to peek into your existence. Future seeing gets scrambled and incoherent, abilities that try to read into you will malfunction and trying to read your mind will cause them a great headache at minimum.
 505.Broken Limiter,9.5
 #One Punch Man - You possess a broken limiter, making your physical abilities practically boundless. Whenever you are pushed, your physical abilities grow at an exponential rate, scaling with how much you are challenged.
 506.Elementalist,3.8
@@ -1014,3 +1014,97 @@ You are a psionic, someone who specialises in the Mind and Mental world. Grantin
 #You are an Exorcist, an agent of the Heavenly Realm, a profession specialising in destroying spiritual beings and demons with the Holy attribute. You have an increased affinity towards Holy, Spiritual and Light and learning magic from those disciplines. You can also sense nearby unholy and spiritual entities, whether to give them a peaceful passing or a painful eviction from the material realm.
 508.Warlock,4.8
 #You are a Warlock, a practitioner whose interest lies in Dark and Demonic Arts. You have an increased affinity towards Unholy and darkness-based abilities and spells. You are also immune to fae deals and are capable of detecting the true nature of magical bindings as someone wanting to deal with Demons. You also naturally know how to make magically binding deals, though only ones where both parties explicitly know exactly what they are getting out of the deal.
+509.Death Knight,3.5
+#Race Change - You are a Death Knight, an Undead that has evolved into a far tougher and physically capable caste. As a Death Knight, you have greatly increased physical capabilities and do not need any kind of rest or sustenance; all functions are powered by your energy reserves. You are capable of naturally using the ability [Necrotic Weapon]. You possess increased Necromancy, Darkness and Martial Affinity, augmenting the potency of related abilities, skills and magic. But you are rendered vulnerable to Holy and Light-based abilities and magic. Your energy recovery speeds are increased when in locations with more negative energy. 
+510.Dread Knight,4.8
+#Race Change - You are a Dread Knight, a Higher Caste of Undead specialising in Direct Martial Combat. As a Dread Knight, you have very potent physical abilities as well as virtually unlimited stamina, the only thing you need to sustain yourself with is Energy. You are naturally capable of using the ability [Dread Blade] and possess great Necromancy, Darkness and Martial Affinity, augmenting the potency of related abilities, skills and magic. But you are rendered vulnerable to Holy and Light-based abilities and magic.
+511.Gravelord,5.5
+#Race Change - You are a Gravelord, a Royal Cast of Undead evolved to specialise in Direct Combat. As a Dread Knight, you have mighty physical abilities and virtually unlimited stamina, as the only thing you need to sustain yourself with is your own Energy reserves. You are naturally capable of using the ability [Gravelord's Blade] and possess greatly increased Necrotic, Dark and Martial Affinity, augmenting the potency of related skills, magic and abilities. But you are rendered vulnerable to Holy and Light-based abilities and magic.
+512.Necro Kaiser,6.4
+#Race Change - You are a Necro Kaiser, an Undead Ruler, evolved specifically for devastation. As a Dread Knight, you have incredible physical abilities and virtually unlimited stamina, as the only thing you need to sustain yourself with is your own Energy reserves. You are naturally capable of using the ability [Gravelord's Blade] and [Animate Undead], all undead under your command are naturally stronger and possess the ability to act independently. You possess immense affinity towards Necromancy, Darkness and Martial abilities, spells and skills, greatly increasing their potency. But you are rendered vulnerable to Holy and Light-based abilities and magic.
+513.Ruin Tyrant,7.2
+#Race Change - You are a Ruin Tyrant, the highest caste of undead, ruler of all dead and the extinguisher of life. As the Ruin, you have unrivalled physical abilities and unlimited stamina; you do not even need energy to sustain yourself, you are like a force of nature, you just are, but you are still liable to getting destroyed. You are capable of naturally using the [Ruin Edge] and [Animate Undead]; all undead under your command are naturally stronger and possess the ability to act independently. You possess unrivalled Necrotic, Dark and Martial Affinity, augmenting the potency of related skills, magic and abilities. But you are rendered vulnerable to Holy and Light-based abilities and magic.
+514.Lich,3.8
+#Race Change - You are Lich, a Caste of Undead specialising in Necromancy and Dark Magic, not the phylactery kind. Although rather weak physically, you have increased energy reserves and nigh-unlimited stamina, as the only thing you need to sustain yourself with is your own Energy reserves. You are capable of studying magic more easily and have increased Darkness and Necromancy affinity. In addition, you can naturally use [Lesser Necromancy] to raise your own Undead Servants.
+515.Elder Lich,4.7
+#Race Change - You are an Elder Lich, a higher cast of Undead evolved from a regular lich, specialising in raising armies of the dead and Necromancy. Although rather disappointing physically, you have greater energy reserves and magical abilities paired with nigh-unlimited stamina, as the only thing you need to sustain yourself with is your own Energy reserves. You are capable of studying magic with greater ease and have increased Darkness and Necromancy affinity. In addition, you can naturally use [Lesser Necromancy] to raise your own Undead Servants, undead under your command are naturally more powerful and intelligent than they would otherwise be. You can also command more undead at once than you would otherwise.
+516.Night Lich,5.8
+#Race Change - You are a Night Lich, an evolved undead with dark magic thrumming in their bones, specialising in raising armies of the dead, Dark Magic and Necromancy. Albeit lacking in physical might, you have great energy reserves and magical ability paired with nigh-unlimited stamina, as the only thing you need to sustain yourself with is your own Energy reserves. You have a great capacity for learning, developing and studying Necromancy and Dark Magic, and Necromancy-based abilities you use are more efficient. In addition, you can naturally use [Animate Undead] to raise your own Undead Servants; undead under your command are naturally more powerful and intelligent than they would otherwise be. You can also command more undead at once than you would otherwise. You can instinctively sense the dead around you like a sixth sense.
+517.Overlord,6.7
+#Race Change - You are an Overlord, the highest caste of regular undead, a being whose existence exists to overturn the living into an army of the dead. While your physical abilities are only superhuman, your magical prowess is mighty, granting you increased energy reserves and magical potency paired with nigh-unlimited stamina, as the only thing you need to sustain yourself with is your own Energy reserves. Your Necromancy affinity is incredibly potent, allowing you to learn, study and create Necromancy spells with great ease and any Necromancy-related ability you use is increased in potency. You can naturally use [Greater Animate Undead] to raise your own Undead Army; undead under your command are naturally more powerful and intelligent than they would otherwise be. You can also command an unlimited number of undead at once. You can instinctively sense the dead around you like a sixth sense. You can also wrestle command of any undead you come across as long as you are overwhelmingly stronger than them or defeat them yourself.
+518.Eclipse,7.9
+#Race Change - You are the eclipse, pure necromancy in the shape of an undead, a living icon of death that exists to extinguish life. Altough your physique is only superhuman, your magical reserves are vast and incredibly potent alongside your infinite stamina due to being undead. You are Necromancy embodied, thus your affinity towards Necromancy spells and Abilities is unmatched, increasing all of their potency beyond their normal limits and allowing you to invent necromancy spells purely off of instinct and learn existing ones simply off of observation. You are also naturally capable of using [True Necromancy] to raise an army of undead servants, all undead under your command are naturally more powerful and can act with cognizance, you can command an unlimited number of undead at once. Any undead not under your command naturally feels the need to submit to your rule.
+519.Skeleton,2.2
+#Race Change - You are an animated skeleton, the most basic of undead. Your physical stats are the same as if you were alive, but you no longer need any kind of sustenance or rest, instead only needing your own energy reserves to sustain yourself. You also possess an increased Necro and Dark affinity but are rendered vulnerable to Light and Holy-based abilities.(This can be rerolled for free)
+520.Kure,2.8
+#Kengan Ashura - You are a Member of the Kure Clan, a clan of people selectively bred to be assassins and martial artists. Your genes grant you increased physical abilities, greater physical growth, and better combat instincts. You can also use the skill "Removal", which removes the natural limiters the brain has to stop you from using all 100% of your physical strength in order not to hurt yourself. You can increase your removal percentage by training.
+521.Pretty Up,1.9
+#You receive a cosmetic alteration to your physique and form, making you more attractive, at least by your own standards. Perhaps longer prettier hair, a few inches, different eye color. etc. Cannot completely change your looks, only enhances what is already there, it would take an ordinary person to a fairly attractive person, but still at a level where anyone who knows you would still be able to recognise you.
+522.Newtype,4.2
+#Gundam - You are a Newtype, an evolved form of human to adapt to space. As a Newtype, other than having a slightly stronger body, you have greatly increased spatial awareness and mental focus, boosting the potency of all Thinker abilities. You are also naturally capable of sensing malintent directed towards you. With enough training and meditation, you may even be able to unlock the ability to communicate with the minds of others.
+523.Rule of Cool,2.8
+#You have the Rule of Cool, physics bends around you slightly to allow you to do things the "cool" way while ignoring the fact that it shouldn't work, Style AND Substance baby. Grab a bullet out of the air and send it back, walk with your back to an explosion without feeling anything, do tricks in the middle of a fight without incurring any disadvantages, etc. Doing things the cool way just comes naturally to you.(Does not affect your stats or level of skills.)
+524.Crazy Lure,3.2
+#Crazy, Mentally Unstable, or otherwise insane people find themselves more attracted to you, and it is easier to gain their affection and favour. It is also easier for you to reason with them.
+525.Beelzebub's Blessing,3.8
+#You are blessed by Beelzebub, the Lord of all that is vermin and insect. Increasing your affinity with all vermin, insects and arachnids, making them more friendly towards you and making it easier to earn their affection. All Vermin and Poison based abilities are more potent and cost less energy to use.
+526.Great Ass,1.3
+#You have a great ass, with incredible cushioning abilities, you can sit upon practically any surface without discomfort. It also looks and feels very good.
+527.Cuddle Emperor,3.6
+#Your existence is one that "Cuddles Greatly." Your hugs and snuggles are incredible, being able to comfort even broken souls. Being cuddled by your cıddles feel like being wrapped by the softest, warmest blanket, and they are even therapeutic, helping stabilise the mental state and comfort whoever you are targeting. 
+528.Chompers,1.4
+#You've got a big ol' pair of chompers on you. Your teeth are spectacularly durable and strong, you are even able to take bites out of rocks and chew them without any damage to your teeth. In addition, you will never have to worry about dental health ever again. If your teeth break, they will regrow like one might regrow fingernails.
+529.Nakiri,2.9
+#Shokugeki no Souma - You are a child of the Nakiri Clan, a born gourmet and chef. You have a natural affinity towards cooking, allowing you to improve your cooking skills and recipes much faster than an ordinary person. You also possess the God Tongue, allowing you to discern taste at a level unimaginable by the average person, even being able to pick out specific ingredients and their amounts from others with a single bite.
+530.Anathema,6.4
+#Your existence is one that opposes the Gods and Divine. You have a massive resistance to any Divine influence or Authorities, and against any Divine opponent, your physical and magical abilities are massively increased.
+531.Dominant,4.1
+#You are naturally dominant, its easier to assert yourself on others and act in a more dominant fashion. In addition, people are more receptive to your acting more dominant and assertive, especially submissive people.
+532.Light Resistance,3.7
+#You are naturally resistant against Light and Light based effects. You can stare straight at the sun, flashbangs are far less effective and you can resist attacks like light arrow, purification rituals, searing beams of light, etc. This resistance scales with your base stats.
+533.Dark Resistance,3.5
+#You are naturally resistant against Darkness and Darkness based effects. Such as shadow blasts, darkness chains, clouds of darkness, shadow blades, etc. This resistance scales with your base stats.
+534.Tech Priest Diploma,4.2
+#(Tech)Praise the Omnisaiah! At least you can try to. You have the ability to pray and perform rituals to appease the machine spirit dwellin in machines and have it actually work. Burn some incenses, do a cool dance, sing to it, make some cool drawing depicting it and depending on how pleased the machine spirit is with your devotion it will somehow increase the power and efficiency of the machine. With enough worship you may even develop a relationship with the machine that it will stick through thick and thin with you.
+535.Blessing of the Omnisiah,4.7
+#(Tech)You are blessed by the Omnisiah; they praise you, not the other way around. Any machine you handle or encounter is eager to please you, blatantly favoring you. Their charges will deplete slower, cars will go faster than they normally can and handle better, slot machines will give better odds, simply speaking, there is a machine spirit inside the machines and they naturally like you unless you lose that favor.
+536.Kitsune,4.6
+#Race Change - You are a single-tailed Kitsune, a Fox Yokai(semi-spiritual being) who is attuned to nature and illusions. As a Kitsune, your humanoid form is naturally incredibly attractive, and you possess slightly increased physical stats and increased energy reserves. You can naturally weave and use [Foxfire] and all Stranger abilities and illusion spells you use are more potent. This also extends to nature-based abilities you have. You can also shift between your fox and humanoid form at will, and even hide your fox features using illusions. As you age or your energy reserves increase, you naturally gain more tails, reaching up to 9 in number, each tail slightly enhancing the aforementioned capabilities.
+537.Kyubi,5.7
+#Race Change - You are a Kyubi, a nine-tailed Kitsune, a powerful fox yokai(semi-spiritual being) who is incredibly attuned to nature and illusions. As a Kyubi, you possess superhuman physical ability and greatly increased energy reserves. You can swap between your Nine-Tailed Kitsune form and human form at will that is supernaturally good-looking. You can naturally use [Nine Tailed Foxfire] at will and possess a great affinity towards Stranger and Nature-based abilities and spells, making them more efficient to use and maintain. 
+538.Demeter's Blessing,3.7
+#You are a child blessed by Demeter, the goddess of Nature and Harvest. Increasing your affinity towards nature-based abilities and magic, making it easier to master and increasing their potency. In any territory you own, the soil will be enriched and fertile, and the crops will be protected from disease and vermin.
+539.Comforting Presence,3.7
+#Your presence is a very comforting one; those who encounter you might feel like they just came home. This also makes you feel very trustworthy. People are more likely to confide in you and feel less threatened by you. Comforting people in distress also comes naturally to you. Does not work on people with a strong negative opinion of you.
+540.Poseidon's Child,4.1
+#You are the child blessed by Poseidon, the god of the seas. Thanks to this blessing, you are freely capable of breathing, moving, and seeing underwater as naturally as if you were on land. All mundane aquatic life are friendly, and supernatural ones are more friendly towards you. You also possess increased water affinity, making your water-based abilities and spells more potent and easier to master.
+541.Deviant Fashion,1.4
+#It is no longer illegal or unacceptable to wear whatever you want to wear, people can still get uncomfortable with it, but legally or morally, there is nothing wrong with what you are wearing. Yes, that also means you can go into high society wearing whatever you were born with.
+542.Machine Spirit Mechanic,5.4
+#(Tech)You are a special kind of mechanic; whatever sufficiently advanced technology you make has a newborn Machine Spirit inside of it. The existence of a machine spirit passively improves the quality of the machine over time and increases its performance. Depending on the mood of the spirit, the machine can work even more efficiently or perform worse and even prevent a user from accessing it altogether. More mature Machine Spirits can even use their tech autonomously and independently. All Machine Spirits you create naturally see you as their creator. 
+543.Necromantic Heart,4.3
+#Race Change - You possess the Necromantic Heart, turning you undead, but at the same time, granting you the capacity to evolve. You start as (Uncommon trait)Skeleton but the more time you spend "alive", the more you kill and the more negative energy you immerse yourself in, the faster you will evolve into the next tier of undead. In addition, you can still retain a humanoid facade that can act with the same functions as a human but will fall apart when you use your undead traits or get damaged.
+544.Oedipus Simple,2.5
+#(Nsfw)"Complex? I think you'll find it is quite simple." There is nothing wrong with keeping it in the family. Society as a whole does not find it particularly morally wrong if you marry your own kin. In addition, all genetic problems that could possibly occur with inbreeding are resolved. Any biological conceived and born children of yours inherit your traits far better and inherit at least two of your abilities. It is easier to earn the affection of your family, platonically or romantically. This trait can be rerolled for free. 
+545.Full Coverage Insurance Plan,5.2
+#Your Familiars get a full coverage insurance plan, as long as a familiar is in Familiar space for 24 hours straight, uninterrupted, they are completely and absolutely returned to perfect health. If a familiar dies, they will be resurrected in the familiar space after 48 hours have passed in perfect health.
+546.The Real Familiars,5.1
+#"-Were the friends we made along the way." This trait allows you to register any cognizant living being as a familiar as long as they completely submit to you and are tamed.
+547.Perception Awareness,4.2
+#You are able to instinctively tell when someone is looking at you or observing you at all times, as well as which direction they are looking at you from, if they are using clairvoyance you will know someone is looking at you but cannot pinpoint their direction.
+548.Scenic Wind,0.5
+#The scenic wind favors you, making your clothes and hair flutter majestically, even in impossible weather conditions and indoors whenever it is opportune.
+549.Lactation,1.2
+#You are capable of lactating; the quality of milk that you produce scales with your physical stats and has unique qualities depending on your traits. This trait can be rerolled for free. 
+550.Calcium Cultivation,3.7
+#Your bones crave milk, nay, they demand it. Every time you consume milk, your bones get a permanent boost to their durability and quality. The higher the quality of milk, the greater the boost to your bones you get. Consuming the same kind of milk decreases its effects exponentially after the first drink and the boost your bones get are relative to the quality of the milk to your bones.
+551.Perfect Skin,1.9
+#Your skin is one any model would envy, always perfectly moist, supple and smooth, your skin also never scars or gets marred unless you want it to. Skin and superficial injuries also heal slightly faster and more seamlessly.
+552.Comfortable,0.8
+#You should always be comfortable in your own skin, your physical features do not hamper your mobility or your comfort of life, whether you have distorted features or rather oversized assets.
+553.Form Fitting,2.1
+#Whatever piece of clothing or equipment you try to wear or equip will automatically adjust to your size perfectly as long as the change is not too drastic. The changes revert if the clothing is unequipped.
+554.Endless Stomach,2.2
+#Your stomach is 1000x larger on the inside than the outside, don't ask how it works. You can keep eating and you will digest the food inside of you on a need to basis without feeling discomfort, allowing you to eat months worth of food ahead of time and not worry for a month, same for water. Thankfully, the stomach is very efficient so you also only produce 1/1000th of the waste.
+555.Tanuki,4.6
+#Race Change - You are a Tanuki, a racoon-dog(?) yokai, a semi spiritual being who excells in trickery. As a tanuki you can shift between your tanuki form and humanoid form and in between. You also posess increased energy reserves and increased affinity towards Stranger abilities and traits, allowing you to use and master them easier as well as use them more efficiently. You can naturally use the ability [Tanuki's Leaves(Rare)] without needing an ability slot.

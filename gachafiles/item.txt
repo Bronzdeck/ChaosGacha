@@ -14,8 +14,8 @@
 #Calamity Mod - An injection made from the essence of the starborn astral blight, MASSIVELY increases energy regeneration for 10 minutes but while the effect is active your insides will start tearing up and rotting from the influx of astral energy. Restock time: 120 hours
 8. Yharim Stimulants, 4.1
 #Calamity Mod - An injection made by Dreadon to give its user immense might for a short time, upon injecting these stimulants you will receive a large boost in physical ability and a large boost in regenerative capabilities for 30 minutes. After duration passes you will be inflicted with weakness and exhaustion. Restock time: 120 Hours
-9. Cloak of Invisibility, 3.0
-#A cloak that bends light around it to obscure its wearer
+9. Ring of Invisibility, 2.0
+#An ornate platinum ring that constantly bends light around its wearer, rendering them invisible.
 10. Master Key, 5.2
 #Allows you to open any physical lock and even barriers and wards by inserting the key and twisting it.
 11. Spear of Longinus X, 5.5
@@ -39,11 +39,11 @@
 20. Enuma Elish, 8.7
 #Fate Gilgamesh - The Sword of Rupture, Ea. Granted by the gods to King Gilgamesh, this sword was forged before the concept of swords was created. The sword is capable of releasing red winds capable of dislocating and shredding spacetime without expending the user's energy, in addition, it can act as a mortar when its full power is unleashed, allowing the user to unleash a beam that removes the texture of the world, essentially annihilating everything in its path. 
 21. Pokeball Set, 3.3
-#Pokemon - A set of Pokeballs that can capture creatures and house them for convenient storage, creatures caught by Pokeballs are registered as familiars by the system. Restock timer: 24 hours
+#Pokemon - A set of Pokeballs that can capture creatures and house them for convenient storage, creatures caught by Pokeballs are registered as familiars by the system. Contains 6 regular pokeballs. Restock timer: 24 hours
 22. Inverted Spear of Heaven, 5.3
-#JJK - The inverted spear of heaven is capable of dispelling any active ability effect it comes into contact with such as a fireball or a barrier, but does not work on basic energy applications and magic.
-23. Cornucopia, 5.4
-#A horn that contains an unlimited amount of delicious and fresh ingredients that can be taken out at any time.
+#JJK - The inverted spear of heaven is capable of dispelling any active ability effect it comes into contact with such as a fireball or a barrier, but does not work on basic energy applications and magic. Cannot dispell effects beyond its rank.
+23. Cornucopia, 3.9
+#A horn that contains an unlimited amount of delicious and fresh mundane vegetables, fruits and fruits etc. that can be taken out at any time, the user has to think of the ingredient they want before pulling it out.
 24. Tome of the Erdtree, 4.7
 #Elden Ring - Allows you to learn the incantations of the Erdtree such as healing and blessings. https://eldenring.wiki.fextralife.com/Erdtree+Incantations
 25. Tome of the Grand Rizzard, 4.0
@@ -211,7 +211,7 @@
 107. Magical Beans,3.5 
 #A pouch containing a bunch of magical bean seeds that when planted grow over the course of 24 hours to create a steam that is 50 meters thick and extends into space.
 108. Special Tattoo Kit,3.5 
-#A tattoo kit that allows the user to create and inscribe special magical tattoos onto people and imbue them with a variety of effects according to their abilities.
+#A tattoo kit that allows the user to create and inscribe special magical tattoos onto people and imbue them with a variety of effects according to their abilities. Only one tattoo may be applied to one individual at a time. Effects applied by the tattoos can only be equal to a Common Rarity Trait in potency or lower.
 109. The Collar of Obedience,2.7
 #A collar that when placed around someone's neck, compels them to obey the owner of the collar, cannot be placed around the neck of someone capable of resisting. 
 110. Unbreakable Shield,4.1
@@ -424,7 +424,7 @@
 #Naruto - A pair of Sharingan plucked freshly from a Sasuke Uchiha who just unlocked them, stored in a special fluid that makes sure they don't degrade. If you find a skilled enough doctor you can have them implanted.
 214. Byakugan,4.4
 #Naruto - A pair of byakugan plucked freshly from a Neji Hyuga who just unlocked them, stored in a special fluid that makes sure they don't degrade. If you find a skilled enough doctor you can have them implanted.
-215. Iron Man Armor Mark 3,3.7
+215. Iron Man Armor Mark III,3.7
 #(Tech)Marvel - The iconic armored suit of the Iron Man, while useful is not particularly powerful, and if it breaks, good luck repairing it.
 216. Infinity Gauntlet,2.6
 #Marvel - You have the gauntlet, it's pretty damn durable, but the stones are not included.
@@ -482,7 +482,7 @@
 #Skyrim - A blade belonging to the Daedric prince Mehrunes Dagon, this dagger is capable of cutting anything the user can interact with, space, time, soul, connections, etc. The only limit to what it can cut is the user, not the dagger.
 243. Skeleton Key,8.2
 #Skyrim - A magical key belonging to the Daedric prince Nocturnal, it is capable of unlocking anything the user can perceive. Ranging from locks to unlocking the structural integrity of a wall to make it collapse to unlocking someone's inner potential and even opening portals to other worlds. The only limit to what it can unlock is the user, not the key.
-244. Cloak of Invisibility,2.9
+244. Cloak of Invisibility,2.4
 #Harry Potter - One of the deathly hallows, this cloak is capable of rendering anyone covered by it invisible and resistant to clairvoyance.
 245. Annihilation Maker,7.6
 #DxD - One of the strongest Longinus crafted by god. Annihilation Maker is capable of creating shadow monsters that emerge from the user's shadow by expending their own mana. The abilities of the monsters depend on the user's imagination and abilities.  When taken out of the inventory, it resembles a small marble that fuses with the person who swallows it.
@@ -643,7 +643,7 @@
 322. Marika's Hammer,3.2
 #Elden Ring - A partially broken stone hammer that is still supernaturally durable, it has the property of boosting the power of holy abilities and spells. 
 323. Sacrificial Doll,3.7
-#A simple doll made of straw and twine, this doll can be substituted for any kind of sacrifice, after which it vanishes. Works for human sacrifice, wealth sacrifice, sacrificing a part of yourself or even a part of your soul. Restock Timer: 10 Days
+#A simple doll made of straw and twine that vaguely resembles the user, this doll can be substituted for any kind of sacrifice, after which it vanishes. Works for human sacrifice, vitality sacrifice, sacrificing a part of yourself or even a part of your soul. Can only be used by the one who rolled it.
 324. Relic Gold,2.1
 #A gold coin that is perceived as something of incredible value in the eyes of anyone who sees it while not having any real use. You could trade it for a real artifact and the one you gave it to would still find it a fair deal.
 325. Stack of Gold Bars,1.5
@@ -771,7 +771,7 @@
 386. Kamish's Wrath,4.7
 #Solo Levelling - A pair of daggers made of the dragon Kamish, they are nigh unbreakable and sharper than any manmade blade. In addition, these blades synchronize with the user's mana and adjust their strength accordingly. The user can also increase their weight at will.
 386. Costume Wardrobe,1.8
-#A regular-looking closet containing an infinite amount of clothes ranging from lingerie, formal wear, cosplay etc. As long as the clothes are completely mundane you can pull any clothing weighing less than 5kg from it, and the clothes that will come out will be according to the desires of whoever reaches inside. Only 50 outfits can be taken out per day.
+#A regular-looking closet containing an infinite amount of clothes ranging from lingerie, formal wear, cosplay etc. As long as the clothes are completely mundane you can pull any clothing weighing less than 5kg and costs less than a standard gold coin from it, and the clothes that will come out will be according to the desires of whoever reaches inside. Only 50 outfits can be taken out per day.
 387. Teleportation Amulet,4.4
 #An ornate platinum amulet that allows its wearer to teleport anywhere they can see with a 1-minute cooldown.
 388. Divine Crucifix,3.8
@@ -901,7 +901,7 @@
 450.Archenemy,5.7
 #Fairy Tail - A sealed sword imbued with extremely uncontrollable amounts of magical power. The moment the sword is unsheathed it will produce a slash that can cut through several city blocks like butter at minimum. It is advised to keep it inside the sheath.
 451.Magic Ticket,4.7
-#Fairy Tail - A magical ticket that when you rip allows you to choose a grimoire that contains a branch of magic from the world of Fairy Tale. Chosen magic cannot be a Lost Magic, Ancient Magic, Time Magic, Space Magic, Dragonslayer Magic or otherwise any magic above Elite tier. The Chosen Magic category is transformed into a Grimoire you can study to learn from.
+#Fairy Tail - A magical ticket that when you rip allows you to choose a grimoire that contains a branch of magic from the world of Fairy Tale. Chosen magic cannot be a Lost Magic, Ancient Magic, Time Magic, Space Magic, Dragonslayer Magic, Archive Magic or otherwise any magic above Elite tier. The Chosen Magic category is transformed into a Grimoire you can study to learn from.
 452.Fev Vat,4.0
 #(Tech)Fallout - An industrial vat filled with Forced Evolutionary Virus. Turning any human dropped inside into a Super Mutant. In addition, it can also affect animals dropped inside too, usually granting them increased abilities or killing them.
 453.Null Void Projector,6.8
@@ -970,7 +970,7 @@
 #(Tech)Halo - An advanced Power Armor designed for Superhumans. This high-tech suit is incredibly flexible, not hindering the user's mobility while enhancing their physical capabilities, providing excellent protection against harm and terrain. It is also equipped with basic AI to manage the suits features as well as HUD.
 485.Ultimate Nullifier,9.8
 #(Tech)Marvel - The Ultimate Weapon, the Ultimate Nullifier is capable of destroying anything, from universes to small targets to even timelines, granted the user is capable of wielding its power without perishing.
-486.Infinity Gauntlet,9.9
+486.The Infinity Gauntlet,9.9
 #Marvel - The Infinity Gauntlet of the Mad Titan containing all of the Infinity Stones inside, allowing the user to wield their power as long as they can handle its nigh-unlimited power. The gauntlet is perfected and will be able to withstand the power of all of the stones without problem.
 486.Space Stone,7.8
 #Marvel - One of the infinity stones possessing the power to change the very universe. The Space Stone allows the user to manipulate space, open portals, siphon energy from space itself and many other abilities one can utilise with the ability to control space. But a strong user is needed to bring out its power without devastating consequences.
@@ -1182,3 +1182,107 @@
 #"Is it worth the price?" A seemingly ordinary worn piece of paper stained in blood. By offering up 3 sacrifices(Abilities, Items, Familiars etc. Skills do not count) of equal level, you can sign this paper with your blood to gain the Summon Demon ability of equal rank that does not consume an ability slot. For example, sacrificing a Rare Ability and 2 Rare Items, you can get the ability Summon Demon(Rare). The moment this paper is signed, it can never be used again. This item can be refunded for free, giving back the ticket it was rolled with.
 581.Covenant from Above,5.5
 #"Devotion at a price." A seemingly ordinary scroll made of gold and trimmed in silver. By offering up 3 sacrifices(Abilities, Items, etc. Skills and Familiars do not count) of equal level, you can sign this paper with your blood to gain the Summon Angel ability of equal rank that does not consume an ability slot. For example, sacrificing an Elite Ability and 2 Elite Items, you can get the ability Summon Angel(Elite). The moment this scroll is signed, it can never be used again. This item can be refunded for free, giving back the ticket it was rolled with.
+582.Dimensional Courier,2.3
+#A phone with a singular phone number dialled into it. By dialling the number and calling, you can contact the Dimensional Courier. The Courier can buy anything in your stead from anywhere you have been to, and it is something that can be bought by a civilian with money, even across realities and dimensions. The courier will come with you to deliver your delivery within 8 hours at most. But they will take 10% commission for whatever you buy.
+583.Vial of Everflowing Blood,2.5
+#An ornate red vial that, when turned, keeps pouring out fresh, healthy blood from it endlessly. The blood is O- and does not belong to an existing person but is manifested into existence.
+584.Ring of Sustenance,3.2
+#A ring that, when worn, constantly and steadily provides sustenance for the wearer. No matter what dietary needs they have.
+585.Morgue,4.0
+#This key allows you to use it on any door to unlock a door that leads to The Morgue. Inside the morgue is an endless supply of fresh, indistinct human corpses stored in a seemingly infinitely vast morgue. Any biological matter placed inside will cease to decay and will be kept fresh and preserved.
+586.Grow Your Own Darkroot Garden Kit,3.4
+#Darksouls - A box that contains everything one needs to have to grow the flora of the Darkroot gardens, including special fertilisers, seeds and spores for growing stuff like Ents, Mushroom People, Red and Purple moss, green blossoms, glowing plants, etc., but you will need additional fertilisers such as corpses of powerful beings to grow them quicker.
+587.Lifeblood Seeds,4.3
+#Hollow Knight - A bunch of seed packets containing clusters of Lifeblood, or Plasmium, a sentient sort of Blue Fluid that can grow into plants that produce more of it in practically any fertile environment. Ingesting Lifeblood temporarily grants increased vitality to whoever consumes it and can be used as a very potent medicine. But beware, Lifeblood can be addicting and ingesting too much over a period of time may lead to it taking control over the body like a parasite, but if one has the proper constitution, it may turn into a symbiotic relationship with the lifeblood granting the host regeneration and sustenance. And if not carefully cultivated, it can spread rapidly.
+588.The Casino,4.3
+#Allows you to manifest a door that leads to the Casino, the Casino is a large structure inside of a 1 km x 1 km pocket dimension, including everything a Casino needs like slot machines, poker tables, a fully stocked bar, private rooms etc., that all are manned by Schrodinger workers that always do work but can never be observed or acknowledged. If the Casino is damaged, it will slowly be repaired. Anyone can leave at any time through the main doors.
+589.Emperor's New Clothes,3.1
+#The Emperor wasn't actually naked. These invisible yet comfortable clothes automatically conform to the shape of the wearer and has incredible defensive abilities. By default, the wearer is immune to low-calibre gunfire; these defensive abilities scale with the natural defences of the user. It also increases other physical abilities to a lesser extent. No other clothes can be worn alongside these clothes, or else they lose all effectiveness.
+590.Cookie Jar,1.0
+#Cookie Clicker - One of the flagship products of "The Bakery", a glass jar that contains a practically limitless supply of perfectly warm and fresh chocolate chip cookies, endlessly produced by the compressed universe contained inside the jar, optimised solely for cookie production. Note: DO NOT BREAK THE JAR. Note2: DO NOT BREAK THE JAR; THE BAKERY IS NOT RESPONSIBLE FOR THE CONSEQUENCES OF BREAKING THE JAR.
+591.Yuuka Fumo,3.4
+#Touhou - A Fumo of Kazami Yuuka, whenever placed down, this doll continuously enriches the soil around it and increases the speed of crop growth as well as their quality in a 2 km x 2 km range. If carried around, it increases the potency of the Chlorokinetic abilities of the user.
+592.Flintslate,2.0
+#Silksong - A slate made of refined Flintgem. Whenever a bladed weapon is sharpened by this slate, it becomes temporarily red-hot without damaging the blade for 5 minutes. It can be used up to 3 times every 24 hours. 
+593.Mimic Ore,3.8
+#A blank featureless ore that by itself has the exact same properties as iron. But when this ore has been in direct contact with another metal weighing at least 5kg for 1 hour, it will transmute its subatomic structure and magical composition to become that ore and lose its mimicing properties as long as said ore is Epic rarity or lower. You get 3 5kg bars. Restock Timer: 240 hours   
+594.Idiot's Guide to Einzbern Homunculi,3.8
+#Fate - A guide to creating homunculi simplified enough that even a regular person can understand it without compromising its effectiveness, written personally by Justeaze Lizrich von Einzbern herself. It details the process of creating Einzbern Homunculi, and more advanced Homunculi modelled after Justeaze herself, also includes the methods to build Homunculi vats and other related items concerning Homunculi production inside.
+595.Idiot's Guide to Amestris Alchemy,4.2
+#Fullmetal Alchemist - A guide to performing the Alchemy developed by the State Military as taught by the Amestris. It details how to draw Transmutation Circles of all basic elements(Water, Earth, Wind, Fire, etc.) and how to activate them, and more advanced guides on how to use them effectively. In order to use Alchemy, one must have read the guide to using them.(Note: Does not include human transmutation, Scar's disintegration, Philosopher Stone creation, only transmutation circles that have been used before by State Alchemists)
+596.Idiot's Guide to Father's Philosophy,5.2
+#Fullmetal Alchemist - A simple guide written by Father, otherwise known as the Dwarf in the Flask, to performing specialised Alchemy to create Philosopher Stones and advanced Homunculi. By studying this book, you can create Human Transmutation circles to convert living Human or Humanoid souls to Philosophers Stones, very potent energy stones that serve as excellent fuel by draining the souls inside. You can also create advanced superhuman homunculi with special abilities by using Philosopher's Stones as a base. You can grant a homunculus you made a copy of any ONE ability in your possession, Elite rank or below. While creating them, they will draw on the power of the Philosopher's Stone to use said ability, and if the stone runs out of energy, it will need to be replaced. The more powerful an ability, the more energy they will need to use it.
+597.Chekov's Gun,1.8
+#An otherwise ordinary M1 Garand. But whenever you are in a situation where this gun would come in useful, you will be able to quickly find it, no matter, whether that is by reaching under a couch, or under a rug, etc. No matter where the gun was or its condition was, when you find it, it will be in pristine condition and fully loaded. The gun can be modified without losing these properties.
+598.Icon of Geed,5.8
+#"They would do anything for it." A simple gold coin that embodies the concept of greed. Whoever sees will feel the need for it, an incredible compulsion to get possession of the coin, no matter the cost, whether that is selling their family, swearing fealty, or killing their kin. The stronger an entity is, the more resistance they have towards the compulsion. Once willingly given to someone, the coin loses this property and returns to being a normal coin. Despite that, whatever they traded for the coin will still be yours, and they will feel no need to get them back, being satisfied with the deal.
+599.Heal Juice,6.0
+#A green juice in a glass vial, drinking this vial restores the consumer to perfect health with all health complications and negative status effects resolved without complications. To take effect, one must consume the full dose; dilution will ruin the dose. It will heal literally anything that is not death, as long as the target can consume it.
+600.Universal Rations,2.3
+#A bottle of small white pills, consuming a pill will completely satiate you and give you all of the nutrients and dietary needs you require regardless of your race or peculiarities, the pills do not have flavor. Each pill is roughly equal to a regular meal and will satiate you for at least 8 hours. Each bottle contains 100 pills. Restock Timer: 120 Hours
+601.Pocket Universe,6.1
+#No hyperbole, it is a pocket-sized gate that leads to an entire universe that is a replicate of the base mundane universe, except without any cognizant creatures or civilizations inside of it. You can freely move the gate and even safely carry it in your pocket; it can expand to 50 meters in circumference and shrink down to 5cm. The portal always leads to the coordinates 0.0.
+602.High Roller Suite,4.3
+# Congratulations, you have been given a key to the high rollers' suite. Gambler, take some time off and enjoy yourself. Using this key on any door will make it a gate for the High Roller Suite temporarily. The suite is a luxury hotel room with 3 beds, 2 bathrooms, running water, electricity, heat, and is connected to the local internet alongside other amenities. The room automatically cleans itself perfectly every 24 hours. The Suite exists in the middle of nowhere and cannot be exited without the key; exiting will bring the user back to where they left from. The key cannot be lost or destroyed.
+603.Fairy Boots,4.6
+#Terraria - These boots made of living material enhance the user's running speeds greatly, and wherever the wearer steps, 1 1-meter radius around their step will grow lush flora, their steps will leave behind flowers in their wake, and it does not create plants but instead instantly grows whatever mundane plant that was stepped on to maturity. In addition, when standing in nature while wearing these boots, the user's energy regeneration and nature affinity are increased.
+604.Garden of Eden Seed,3.9
+#These rather unassuming looking grass seeds, when planted in any kind of soil, or even sand, will quickly grow into a lush garden without any nutrients or such needed, enriching the ground around them, the plants from the soil increase the quality of energy in the air, the garden will continously expand in a non-invasive way which can easily be stopped by setting up fences, crops grown on the soil of this garden grow up much faster and are notably healtier. Cattle raised there will be much healthier and vigorous. Restock Timer: 720 Hours
+605.Uber Fertilizer,3.8
+#Fertilizers made by a mad scientist using the waste of an eldrich being. Using this fertilizer on a crop will make it grow 30x faster for 24 hours and provide incredible nutrients to the crop, regardless of what the crop needs. Each bag contains enough fertilizer to use on exactly 1 acre of soil. Restock Timer: 240 Hours
+606.Staff of Regrowth,3.5
+#Terraria - A staff created out of a solidified flower that has absorbed incredible amounts of nature energy. This staff allows the user to expend their energy to nourish plants in their range and grant them vitality to grow them faster. Even if it's used on an arid land with a half-dead seed, the staff will turn that patch of ground into a lush patch of fertile land with the seed turned to a mature plant. Plants that are more powerful or need more conditions to mature require the user to expend more energy to grow. Amplifies the power of nature-based abilities channeled through.
+607.Reroll Chip,3.8
+#A simple golden poker chip, when used, allows you to reroll your latest gacha ticket, losing its result in exchange for rerolling the same ticket to get a different result. Upon use, the chip vanishes from existence.
+608.Vibranium Weave Patch,4.2
+#MCU - An ordinary-looking sticker that, when applied to a piece of clothing, perfectly suffuses it with Vibranium weaving, adding threads of vibranium perfectly integrated. Making the clothing incredibly durable and capable of dispersing kinetic energy to the point where even a baseline human can withstand a tank shell without dying. The patch only contains enough vibranium threads to be used on at most 5kg of clothing.
+609.The Rock,1.5
+#King Arthur pulled a sword out of this bad boy. And you got the rock in exchange. This rock is magically enchanted to be utterly indestructible to all effects below Mythical level.
+610.One Million Buzzaws,2.5
+#Hollow Knight - All sourced unethically from the White Palace, each buzzaw is 3 meters in length and permanently spinning with steel blades that cannot be stopped without being destroyed. Each buzzsaw has to be taken out of storage manually and can hurt the user if not careful. 
+611.Instant Death Soup,2.7
+#A pot full of very hot and spicy soup, if someone were to drink it willingly while knowing its effects, they will instantly die, no matter their constitution or abilities. They must consume the whole soup for it to take effect.
+612.Very Hot Soup,3.1
+#A pot full of incredibly hot and spicy soup, consuming the entire pot of soup will cover their body in [(Rare)Cursed Flames], [(Elite)Blood Flames], [(Elite)Holy Flames], and [(Elite)Godslayer Apostle Flames].
+613.Morphing Blade,1.4
+#An iron sword weighing 3kg with a blade made of pure iron that can change shape while conserving its mass, the parts of the blade that are destroyed or separated lose this property. Reforging the sword or modifying it will also get rid of this property.
+614.Escape Ticket,1.6
+#A ticket that, when torn, teleports the user into a bunker in another dimension for 8 hours. The bunker is stocked with clean drinking water and MRE's with a space of 4x4x4m inside resembling a prison cell. Those with spatial abilities may be able to track the user. Once 8 hours are up, the user will be released; otherwise exit is not possible without spatial manipulation.
+615.Gun Voucher,1.6
+#(Tech)A simple ticket can be redeemed for any commercially available gun sold in the United States of America in the year 2016. Simply tear the ticket and think of the gun you want to redeem, you will also receive a magazine for your chosen weapon every 24 hours.
+616.Earring of Hearing,1.7
+#A pair of clip-on earrings that boost the hearing levels and acuity of the wearer to the level of a Barn Owl.
+617.Hawk Glasses,1.8
+#A pair of ordinary-looking glasses that grant the wearer the farsight and visual acuity of a Bald Eagle
+618.Hound Collar,1.8
+#A red dog collar that, when worn, grants the user the smelling and olfactory abilities of a Gray Wolf.
+619.Horseshoe Necklace,1.9
+#A horseshoe fashioned into a necklace that grants the wearer the stamina and leg strength of a Mustang Horse.
+620.Ghost Blade,1.2
+#Dark Souls - A sharp and long dagger wielded by the ghosts of New Londo, the curse on this blade allows it to wound spiritual beings(does not inflict soul damage on living beings).
+621.Black Knight Set,1.4
+#Dark Souls - A set of armor and weapons wielded by the Black Knights of Lordran. The armor is perfectly fitted to your body and will keep conforming to your body as long as your body shape does not change too drastically. The set contains a Greatsword, Battle Axe, Halberd, Sword, and Shield.
+622.Perfume Pouch,2.1
+#Elden Ring - A pouch of spraymists and aromatics created by the Perfumers of the Lands Between, this pouch contains one each of Acid Spraymist, Poison Spraymist, Bloodboil Aromatic, Ironjar Aromatic, and Uplifting Aromatic. Another set is added inside the pouch every 24 hours.
+623.Explosive Tag Deck,1.8
+#Naruto - A leather deck that contains a set of standard Explosive Tags produced in the Hidden Leaf village. When imbued with energy, these tags will explode with decent power behind them. The user can set the amount of time the tags will take to explode, and with practice and imbuing with energy beforehand, can remotely explode the tags. One set contains 5 tags that restock every 24 hours.
+624.Eochaid's Dancing Blade,2.2
+#Elden Ring - The famed blade of a family of executioners, this sword is greatly sharp and durable, in addition, the user can imbue their energy into the blade to make it fly according to the users will with the same power and strength it would have as if it were swung normally. Making the sword fly consumes energy.
+625.Sword of St Trina,3.1
+#Elden Ring - A sword carried by the clerics of St. Trina, while the blade itself is not too powerful, it has the ability to convert the user's energy into magical purple mist that puts those who inhale it into deep sleep. The stronger the target, the longer they have to be exposed to the mist.
+626.Velvet Sword,5.1
+#Elden Ring - The sword of Saint Trina, forever dyed velvet. The sword is supernaturally sharp and durable, but its true ability is to expend the user's energy to unleash the Mist of Eternal Sleep. When exposed to the Mist of Eternal Sleep, the target will be put into a slumber that is impossible to wake up from, even if hurt or damaged. The stronger a target is, the longer they have to be exposed to the mist to get affected, and the easier they can wake up.
+627.Ferryman's Favor,3.7
+#Chiron, the Ferryman, owes you a favor, and this IOU cheque proves it. By tearing the cheque, you can ask Chiron to bring you any one dead soul that belongs to the world you tore the ticket in, alongside the biggest part of their corpse. Chiron will give you the soul and body in separate sealed containers.
+628.Sentry Turrets,1.1
+#Portal - A shipment of Aperture Science Brand Sentry Turrets, equipped with twin machine guns and is a very cost effective way to keep out intruders, but are not built with quality in mind but rather with cheapness and reliability in mind. This box contains 9 turrets whose bullet reserves refill every 24 hours(bullets cannot be taken out of turret). Restock Timer: 168 Hours  
+629.Barrel of Everflowing Oil,1.9
+#A standard black barrel that contains infinite amounts of quality medium crude oil, when this barrel is tipped, oil flows out of the bung at a steady rate of 10 gallons per minute. If the barrel is damaged or forcefully modified, it will lose this attribute.
+630.Job Application Form,1.5
+#"Does this scare you?" An otherwise ordinary looking job application form, that when filled with the correct information and handed to an employer will guarentee that the applicant is hired no matter the job or their qualifications, altough not guarenteed that they will keep the job. The form loses this effect after being used once.
+631.Ancient Fruit Wine,1.0
+#Stardew Valley - A bottle of the finest Iridium Quality Wine made from a very rare Ancient fruit with excellent taste personally handcrafted and aged by a farmer with too much time, skill and money. Altough it does not have any supernatural effects, it's refined and refreshing taste is superb and has incredible artisan value. Restock Timer: 12 Hours
+632.Satchel of Seeds,2.2
+#An otherwise ordinary looking satchel that contains virtually unlimited amounts of seeds and saplings that can be found on the surface of planet earth in the year 2020. Only 10kg of material can be taken be out of the bag every 24 hours. To take out a seed or sapling, simply reach in while thinking of your target. One of the satchel pockets contains a notepad containing information on every item inside.
+633.Dunce Cap,0.2
+#A simple white cap with the words "dunce" written on top, usually used to shame someone.
