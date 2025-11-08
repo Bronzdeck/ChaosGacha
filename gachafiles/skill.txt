@@ -2,8 +2,8 @@
 #One Punch Man - You are an apprentice in the legendary martial art created by the S-Rank Hero Silverfang, this martial art focuses on defence and redirection of the enemy's attacks by flowing like water and striking like a raging river. With enough training, you can completely counter an enemy's blow with double their power.
 2. Intermediate Cooking, 2.3
 #You are as skilled as a seasoned chef, your cooking is better than most people with you being able to make complex dishes without much problem and most of the food you cook tastes pretty good.
-3. Intermediate Drawing, 2.0
-#You are as skilled as an experienced artist and painter, most people would appreciate your skills and you could probably find a job as an illustrator without problems.
+3.Iaijutsu,3.4
+#A refined blade art that takes advantage of the motion of drawing the blade from its sheath to unleashing blitzingly fast, precise slashes. With experience, the user can imbue their scabbard with energy to propel the sword even faster and increase the potency of their attacks.
 4. Intermediate Acting, 2.4
 #You are a skilled actor, being able to properly portray yourself in the way you want to be seen and concealing your real emotions. But people familiar with you or people who have good intuition like detectives can probably see through your acting.
 5. Intermediate Shooting, 2.2
@@ -96,8 +96,8 @@
 #You are skilled at intimidating people, making them feel fear and shake in their boots with your mere presence, you instinctively know how to present yourself in ways that invoke terror.
 49. Novice Cooking, 1.3
 #You are a novice in the culinary arts, you can cook most basic meals and they will taste good. But don't expect to get a job as a chef. You will however improve much faster than other people if you choose to train yourself.
-50. Novice Drawing, 1.0
-#You are a novice at drawing about as skilled as an art student, while you are noticeably better than people who don't know how to draw, you aren't good enough to become a professional. You will however improve much faster than other people if you choose to train yourself.
+50.Wilderness Survival,2.4
+#You are very skilled at surviving in the wilderness, whether that is making temporary shelter out of materials you can find, identifying safe sources of food, knowing how to track animals, how to secure your stuff, and generally everything needed to know to survive in the wilderness effectively.
 51. Novice Acting, 1.4
 #You are a novice actor, you know how to portray yourself in the ways you want to be seen and hide your real emotions but it is not difficult for experienced people to see through your acting. You will however improve much faster than other people if you choose to train yourself.
 52. Novice Shooting, 1.6
@@ -144,8 +144,8 @@
 #You are about as skilled as a doctor in training, you know how to perform first aid, how to apply medicine, what most medicines do, and in a pinch improvise medical tools to perform basic surgery.
 73. Adept Cooking, 3.3
 #You are great at cooking, at the level of a veteran chef, you can cook most meals with great flavour, there aren't many who would be disappointed with your cooking. You could easily get a job as a private chef.
-74. Adept Drawing, 3.0
-#You are great at drawing at the level of a seasoned illustrator, you can make very realistic paintings and very stylized ones too. In addition, you draw extremely fast, far faster than someone of your skill level should without suffering from a decrease in quality.
+74.Literacy,2.2
+#You know how to read effectively, you'd be shocked at how little people possess this skill. You know all common languages and mundane languages of the world you are in, and are very skilled at reading books and grimoires, allowing you to read them much faster and digest the information inside of them better.
 75. Adept Acting, 3.4
 #You are as skilled as a veteran actor, being able to effectively present yourself in the ways you want to be seen to invoke the emotions you want to invoke while hiding your real thoughts and feelings. It would take a seasoned detective to suss you out.
 76. Adept Shooting, 3.5
@@ -192,8 +192,8 @@
 #You are very skilled in all areas of medicine, you can do surgery, diagnose conditions, create medicine etc. You are fully qualified as a veteran in all areas of medicine. You can also make your own medicine given the ingredients, even magical ones such as potions depending on the world you are in.
 97. Expert Cooking, 4.4
 #You are an expert in the culinary arts, you are better than most chefs will ever be. You can cook almost any meal if given ingredients and it will almost certainly taste great. At the very least, no one leaves your dining table unsatisfied. Still not quite at foodgasm levels but you are close.
-98. Expert Drawing, 3.7
-#You are an expert at illustration of all kinds whether it be drawing or painting. You are able to almost perfectly illustrate what you imagine in your head or what you see in front of you.
+98.Grooming,1.9
+#NOT THAT KIND- You are very skilled at grooming, taking care of your hair, your hygiene, your cleanliness, etc., basically, you are skilled at making yourself and others look presentable.
 99. Expert Acting, 4.4
 #You are an expert actor, being able to skillfully portray yourself in the way you want to be perceived in order to invoke the emotions you want to invoke and hide the emotions you want to hide. It would take a real expert to see through your mask.
 100. Expert Shooting, 4.6
@@ -240,8 +240,8 @@
 #You are an expert in all fields of medicine that regular humans can seldom match. You know how to perform surgery, make your own supernatural medicine, and diagnose ailments with ease and finesse.
 121. Master Cooking, 5.6
 #You are a real master of cooking, you can cook almost any dish to incredible levels of taste to the point where they might even gain supernatural traits depending on the ingredients you used. You can induce actual foodgasms with your cooking.
-122. Master Drawing, 4.1
-#You are a master at illustration, you can perfectly convey your thoughts or reality through your art. If you put in the effort you can even create moving pieces of art that invoke the emotions you want on the people who witness them.
+122.Makeup,1.2
+#You are very skilled at applying makeup and enhancing natural beauty with products. 
 123. Master Acting, 5.2
 #You are a master actor, maybe at this point, you can't even tell where the mask is and where you are. You are able to present yourself in any way you would want to be seen and perfectly mask your emotions when you need to. It would take nothing less than the eyes of a truth seer to see beyond your mask.
 124. Master Shooting, 5.3
@@ -478,3 +478,57 @@ Persuasion is your skill in convincing people. At novice rank you are slightly b
 #You are an expert in the art of Persuasion, having a great feel for what words are more effective on what types of people, being able to far more easily sway them with your words and actions. You are skilled enough to persuade people to do things they would otherwise not be willing to do.
 240.Master Persuasion,6.2
 #You have mastered the art of Persuasion, the ability to convince people and make them see what you see. You are among the best talkers in history, you have an almost supernatural awareness of what words and actions work best on which people. But beware, no matter how skilled you are, some people just cannot be made to listen.
+241.Novice Ninjutsu,2.0
+#You have passed very basic Ninja Training, although you cannot be considered an actual ninja by any means, you have the basic training. You know how to handle most knives and swords enough to not cut yourself, have a basic grasp on acrobatics, moving around sneakily and using tools in battle.
+242.Intermediate Ninjutsu,3.8
+#You are a Ninja, although more around the rank of a Ninja grunt. You are able to handle throwing weapons, knives and swords with relative skill. And you are also decent at sneaking around and performing feats of acrobatics and espionage. Your training allows you to use tools in combat with more finesse.
+243.Adept Ninjutsu,4.5
+#You are a real ninja, not just a footman, but a fully fledged Ninja. You are able to skillfully handle thrown weapons, bladed weapons and engage in hand-to-hand combat. You are also a skilled acrobat and can mask your sounds and presence fairly effectively. You have great proficiency in using tools in the midst of combat. Although not a match against another Adept in any one of those fields, your skills make you a formidable Ninja.
+244.Expert Ninjutsu,5.2
+#You are a true Expert Ninja, with skills that have been polished to a honed edge. You can handle thrown weapons, bladed weapons with great efficiency and engage in unarmed combat with the same level of skill, focusing on quick and brutal decisive strikes. Your real skill in combat shines when using tools to supplement your fighting style. Your Agility and Acrobatics are incredible, being able to aim dodge bullets even with base human stats and parkour as naturally as if you were walking, and your stealth makes you a shadow in the night, suppressing your presence, blending into the background and leaving no tracks are like second nature to you. Most would be hard-pressed to spot you. Although not a match against another Expert in any one of those fields, your skills make you a formidable Ninja. The influx of skills may take some time and training to digest.
+245.Master Ninjutsu,6.4
+#You are a Master Ninja, having achieved mastery over several crafts to have honed your skills to incredible levels. You are able to expertly utilise Thrown Weapons, Tools, Bladed Weapons, and Unarmed Combat to achieve a very lethal style of combat that only other masters can match. You are an expert at acrobatics and stealth, being able to hide your presence from all but the most vigilant eyes and blend in with your environment. You move with utmost efficiency and grace. Although not a match against another Master in any one of those fields, your skills make you a formidable Ninja. The influx of skills may take some time and training to digest.
+246.Mixology,1.8
+#You have the skills of a well-trained mixologist and bartender. You know how to mix most drinks and come up with your own alcohol combinations that taste great, as well as managing a bar and dealing with drunk people.
+247.Begging,2.4
+#You are very skilled at throwing your dignity away and begging people for things. Get on the ground on all fours and start crying, and you could get most people to think you are pitiful enough to grant your request. Who needs dignity when you can beg people for free things? People are more receptive to your begging, and it is easier to get people to accept your requests this way. Warning: Effects are heavily dependent on the type of individual; works especially well against soft-hearted people.
+248.Architecture,1.8
+#You are very skilled at the craft of Architecture, designing buildings and structures that both look good and hold up well. You could design entire cities, well, minus the infrastructure. But you could still easily get a job as an architect.
+249.Litigation,2.5
+#You have the skills of an experienced lawyer, having a great grasp on the laws of the world, country and city you are in, to the point where you can easily defend yourself or a client in their local court of law. If someone has a problem, they'd better call you.
+250.Gooning,2.3
+#You are skilled at the art of gooning, that is, being a low-rank thug for a boss. You know how to shake people down for money, intimidate someone for their wallet, and have novice-level skill in wielding knives, pistols and fighting unarmed. You can also use a Brooklyn accent at will. You could easily score a low-ranking job in any organised crime organisation.
+251.Cosplayer,2.3
+#You are very skilled in cosplaying and dressing up. You can also sew well enough to create convincing cosplay outfits and outfits in general, but you are better at making clothes you have seen before. People may even mistake you for someone else if you cosplay as a real person. 
+252.Servitude,2.8
+#You are one hell of a Maid/Butler, having great skill in housekeeping, manners and many manners of servitude. You can clean, keep track of schedules, remember people's preferences, you know how to present yourself in a professional yet approachable manner and overall are experienced in all skills that would be needed by someone in the profession.
+253.Aura Farming,2.1
+#You are skilled at presenting yourself in ways that are ""cool"" and ""badass"". You have a unique for spotting instances and timings to ""farm aura"", interjecting at just the perfect moment, making a dramatic entrance, standing on top of a ledge with your back turned as your cape flutters majestically, producing a crisp dap. You are also skilled at not seeming ""uncool"" such as avoiding tripping, stuttering, if you mess up you will have a better time at recovering to not lose your ""Aura"". 
+254.Fishman Karate,5.0
+#One Piece - You have the knowledge of Fishman Karate, the unique martial art invented by Fishmen that allows them to manipulate water offensively alongside martial arts. You can use preexisting water to enhance the power of your blows, disrupt the fluids inside your opponent with your hits or transmit the power of your fists through the moisture in the air. You begin as a White Belt in the air and can train yourself to reach higher mastery.
+255.Clowning Around,1.1
+#You are a graduate from Clown College, you know how to tell lame jokes, entertain kids, make balloon animals, fit in comically small cars, apply humorous makeup, and other such skills needed by a professional clown.
+256.Novice Spycraft,2.1
+#You are trained to be a Spy, not good enough to be considered a proper one, but enough to benefit from the training. You know how to better eavesdrop on people, how to mask your feelings better, deceive people, use disguises and deduce what people are thinking. You can also use guns and knives without killing yourself. You are no match for anyone actually trained in those fields, but the experience makes you better than the average man.
+257.Intermediate Spycraft,3.4
+#You are properly trained to be a fully fledged spy, not the best among them or even great, but enough to qualify. You can eavesdrop on conversations better, know how to snoop for information far better, how to interrogate someone, how to deceive people, how to use a disguise and how to engage in combat if the need arises using Knives and Guns. You are not a match for a fellow intermediate in any one of those skills, but they make you a decent spy nonetheless.
+258.Adept Spycraft,4.6
+#You are a real spy, the kind that would infiltrate other countries and make Bonds James proud. You are skilled at gathering information, infiltrating places, acting, masking your real emotions, effectively using disguises, reading people, and if need be, you can handle yourself well in combat using Knives, Guns and Hand-to-Hand Combat. While not a match for a fellow adepts in any one of those skills, but they make you an effective spy.
+259.Expert Spycraft,5.3
+#You are an Expert Spy, the kind that would make Loid Forger proud. You are greatly skilled at gathering information, infiltration, acting, maintaining your calm, enduring stress, disguising, cold reading people and if the need arises, you are plenty skilled in combat using Unarmed, Knives and Guns. While not a match for a fellow adept in any one of those skills, they make you a great spy nonetheless.
+260.Master Spycraft,6.2
+#You are a Master Spy, among the best there is. You are an expert in gathering information,  infiltration, deception, acting, maintaining your cool, disguising, acting, cold reading people, and in the need for it, you are an expert combatant in using Unarmed, Knives and Guns. While not a match for a fellow master in any single one of those skills, they make you a master spy nonetheless.
+261.Stylist,1.7
+#You have the skill of a skilled hair stylist, enough to get employed by celebrities and nobles, you know how to style hair and make it look good like it's second nature to you.
+262.Cheer,3.1
+#You have a natural knack for giving motivation and cheering people up. You have a feel for what words someone wants to hear right now and what to do to cheer them up or get them out of a slump. You'd also be one hell of a cheerleader.
+263.Novice Fine Arts,1.4
+#You are a novice artist, someone who pursues fine arts, having a beginner level of skill in most arts such as Painting, Engraving, Sketching, Sculpting, etc., and in general have some skill in making things more aesthetically pleasing. But it would be a stretch to call you a real artist.
+264.Intermediate Fine Arts,2.4
+#You have the skills of a professional Fine Artist, having a good level of skill in most fine arts such as Drawing, Painting, Sketching, Sculpting, Engraving, etc., and in general the art of making things more aesthetically pleasing. You could probably get a job like a painter, illustrator, sculptor without much hassle, but you wouldn't exactly stand out.
+265.Adept Fine Arts,3.2
+#You have the skills of an experienced Senior Artist, having a great deal of skill in most fine arts such as Drawing, Painting, Sketching, Sculpting, Engraving, etc., and in general, the art of making things more aesthetically pleasing comes naturally to you. You could easily get a job in the arts; if these were the medieval times, most nobles would hire your services.
+266.Expert Fine Arts,4.5
+#You have the skills of an Expert Renowned Artist, having impressive skill in most fine arts such as Drawing, Painting, Sketching, Sculpting, Engraving, etc., and in general, the art of making things more aesthetically pleasing comes naturally to you. Your works of art would be put in a museum and sell for great amounts of money at auctions, you have the skills to make paintings that evoke great emotion and sculptures that almost look alive. If these were the medieval times, Nobles would line up for your services, and your name would go down in history.
+267.Master Fine Arts,5.4
+#You have the skills of a true Master Artist. Having incredible, almost supernatural skill in most fine arts, Drawing, Painting, Sketching, Sculpting, Engraving, etc., and in general, the art of making things more aesthetically pleasing comes naturally to you. Given some time and inspiration, you can produce masterpieces; you instinctively know what kind of aesthetics appeals to what kinds of people, how to pour your thoughts and emotions into your works, and create art that can shake the hearts of even the sternest art critics. You would most likely be renowned as one of the greatest in art history. And you are the exact kind of person they speak in legends of gods being pissy about mortals beating them in a game of skill and cursing them.
