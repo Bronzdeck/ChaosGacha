@@ -344,8 +344,8 @@
 #Allows the user to change their vision to be able to see electromagnetism and electricity even through walls as well as being able to instinctively distinguish between and understand them.
 173. Electricity,4.0
 #Unordinary - Allows the user to create and control electricity(not kinesis) as well as use it to slightly enhance their own stats, they can also sense and see nearby currents even through walls, and they can also ground opponent lightning with their own body.
-174. Lightning Conduit,5.5
-#Infamous - Allows the user to absorb lightning to harness its powers, does not consume mana but instead absorbed electricity reserves, and allows the user to turn into, manipulate and generate electricity by expending their reserves.
+174. Attention,1.5
+#You are able to manifest a very eye catching and distracting aura centered on yourself, making you incredibly noticeable whatever you do.
 175. Lightning Claws,2.6
 #Create claws of violent lightning on top of your regular hands to sever and electrocute enemies at the same time.
 176. Pebble Sling,0.3
@@ -441,7 +441,7 @@
 221.Crystal Creation,3.7
 #Allows you to create crystals on your body or on surfaces you are touching, you can control the shape and size of the crystal while creating but after that, you cannot alter it any further.
 222.Crystals,2.1
-#Allows you to create and sprout crystals from your body, either making them erupt from your body like spikes, covering your skin with them as armour or just selling them for cash.
+#Allows you to create and sprout crystals from your body, either making them erupt from your body like spikes, covering your skin with them as armour or just selling them for cash.(AUTHOR NOTE: Crystal refers to a nebulous crystaline structure that is durable, not allowing you to make ANY type of crystaline structure.)
 223.Gem Creation,3.8
 #Allows you to create precious gems that can hold a lot of energy or mana, the larger and more valuable the gem, the more energy you need to consume to create them.
 224.Pure Gem Creation,4.9
@@ -496,7 +496,7 @@
 #Allows you to call forth death's instrument, a pitch-black scythe that completely ignores all durability, magical or physical. Wounds inflicted affect souls as well as bodies, making them impossible to heal by mundane means.
 249.Bottomless Swamp,2.8
 #Allows you to transform the ground around you into a bottomless swamp that traps any targets that step on it, making them sink further into the swamp, if they fully submerge they are fully incapacitated and enter a stasis-like state.,
-250.Dark Lance,2.7
+250.Dark Spear,2.7
 #Allows you to conjure and launch spears made of dark energy that deals additional damage to holy and divine beings.
 251.Shadow Storage,4.2
 #Your shadow can move and extend across 2d surfaces, allowing you to sink objects into it that are put into a stasis, does not have a weight limit and object inside can be ejected out at any time.
@@ -574,7 +574,7 @@
 #Allows you to conjure and emit an exorcising light, while utterly useless against any normal beings it is incredibly useful against any dark or unholy beings.
 288.Invisibility,2.5
 #Allows the user to bend light around themself or other object they are touching to render them invisible.
-289.Flash Grenade,2.4
+289.Flash Grenade,1.8
 #Allows you to conjure a ball of light that explodes into a blinding flash and noise, disorientating enemies and hurting dark enemies greatly.
 290.Light of Glory,3.3
 #The light of victory and glory shines down from the heavens and bolsters your allies. Bright light shines down from above, slightly increasing all physical stats,  increased mental resistance, vigor and courage to everyone touched by its rays.
@@ -800,16 +800,16 @@
 #SUPER HOT - Time moves relative to you, the slower you go the slower time moves and the faster you go, the faster time moves, if you stand still, so will the world. Strong enough targets may be able to resist or ignore the effect.
 401.Doppelganger,3.7
 #Allows you to produce a seamless doppelganger of yourself that you can control with your thoughts but does not possess any of your abilities, the amount of Doppelgangers you can have is equal to your ability slot count.
-402.Clone,4.4
-#Allows you to clone yourself into several bodies, the clones cannot use your abilities but they share physical stats and can act autonomously even though they share a mind with you.
+402.Clone Split,4.2
+#Allows you to clone yourself into several bodies, every clone you make your stats are split in half and to be able to use an ability, you must give one of your ability slots to your clone(Excluding Clone Split). If a clone dies, the stats you used to create them returns to you over the course of 8 hours.
 403.Divergent Avatars,5.2
-#Allows you to split yourself into multiple bodies under your direct control, all of your bodies are your real body and you can freely distribute your ability slots and energy between bodies.
+#Allows you to split yourself into multiple bodies under your direct control and you can freely distribute your ability slots and energy between bodies. To make an avatar you must at least give it 5% of your stats or more. If an Avatar dies, the portion of stats split into them will take 24 hours to return.
 404.King Crimson,6.6
 #JoJo - Allows you to skip time, during skipped time you are absolutely intangible as you are separated from causality, any actions that would have happened to you during that timeframe are nil but your actions aren't for example, if during the 10-second time skip you were to trade blows with an opponent and you both get injured, at the end of the time skip, you will end up back in real-time with no consequence of anything that has happened to you during those 10 seconds but your opponent will still suffer from their wounds, you can also use time skip to phase through objects and reposition yourself.
 405.Gold Experience,5.7
 #JoJo - Allows you to imbue objects with life energy, turning them into autonomous living beings or constructs of your choosing, the created being must be of roughly similar mass. 
 406.Anti Gravity,4.3
-#Allows you to remove the influence of gravity on a target or an area in your field of vision, making them act as if they were placed in a zero-gravity environment.
+#Allows you to remove the influence of gravity on a target or an area in your field of vision, making them act as if they were placed in a zero-gravity environment. Or invert Gravity entirely and amplify it to send targets hurling into the sky.
 407.Zero Gravity,2.2
 #Your body moves as if it is in a zero-gravity environment, allowing you to freely float, although without much control.
 408.Low Gravity,2.1
@@ -864,8 +864,8 @@
 #Allows you to induce rust in metals through physical contact.
 433.Gold Manipulation,3.2
 #Allows you to telekinetically control gold and gold-based constructs inside your sensory range.
-434. Usurper,7.5
-#When you have defeated an opponent, instead of getting a ticket you can choose to take one of their abilities. Only works once per target. 
+434.Overclock,3.2
+#(Tech)Allows you to overclock Technology with your own energy, making them perform beyond their limits at the cost of expending their durability faster and potentially damaging them. The more energy you use, the more you push it beyond its limits and the more damage you potentially do. 
 435.Mystic Eyes of Enchantment,4.2
 Allows you to hypnotise and mind-control those who make eye contact with you. This can be broken out by high willpower targets or targets stronger than the user.
 436.Conjure Vines,3.6
@@ -978,10 +978,10 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #When this ability is active, you are able to view commentary of those who were, could have been or would have been. The commentary can be helpful or even deceitful. You might find text written on the ground in front of a treasure informing you it's trapped, or text showing you the location of a hidden wall, or a text telling you to stand in front of a trap. Basically the messages from Eldensoulsborne Games.
 490.Immune,5.5
 #You are immune, simple as, while Immune is in an active slot you cannot be poisoned, become ill, get cursed, or receive debuffs. You are immune to all negative status effects.
-491.Animate Undead,4.3
-#You are able to animate corpses into a variety of undead such as skeletons, zombies, ghouls etc. but you cannot transform them into higher forms of undead such as vampires, dullahans, ghosts etc. Undead possess basic intelligence below human level but can understand orders. You can control up to 100 undead at once, this can be increased through training.
-492.Greater Animate Undead,5.5
-#You are able to animate corpses into a variety of undead such as skeletons, zombies, ghouls and even higher forms of undead depending on the quality of the corpses. The higher the quality of the corpse, the higher the intelligence the undead will possess, all undead under your command are naturally loyal and obedient and you can dominate natural undead weaker than you. You can control up to 1000 undead at once, this can be increased through training.
+491.Gunpowder Manipulation,3.8
+#Allows you to conjure and manipulate Gunpowder and control it telekinetically, shaping it into constructs or detonating it on command. The higher volume of Gunpowder you control, the more energy you expend.
+492.Vita Telum,4.4
+#Allows you to convert your very life into weapons made of blood. The weapons emerge from an open wound and are made out of your blood solidified into a supernaturally durable form. The more of your vitality you put into the weapon, the stronger it is, and if you choose to sacrifice lifespan to the weapon, you massively increase its power and grant it powerful effects depending on your own abilities and traits. The more you sacrifice, the more powerful the weapon. Created weapon fades in power over time until returning to normal blood.
 493.Authority of Lust,6.6
 #When activated, everyone capable of seeing you treats you as an object of affection, whether that be platonic or romantic, the larger the power difference between you and the target the stronger the effect. You can ask a mundane for their life savings or wife and they will happily give it over to you, but for someone of equal level, they might just treat you like an ordinary friend.
 494. Steal,3.3
@@ -1008,8 +1008,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Allows you to transform into an Oni, either partially or fully. As an Oni, you possess enhanced physical stats and a minor healing factor but are vulnerable to holy.
 505.Pheonix Form,6.7
 #Allows you to transform into a Phoenix, either partially or fully. As a divine bird of flame, you can gain enhanced physical stats, a major boost to fire affinity, and incredible regeneration as well as being able to return from the dead once every 30 days.
-506.Mirror World,5.7
-#Allows you to appear in a mirrored version of the world with no living beings inside, you can also pull other living creatures into the mirror world.
+506.Tinker - Redundancy,3.2
+#(Tech) Allows you to make whatever technology you create or modify to have a lot of redundancies. Meaning breaking or making them nonfunctional is going to be very frustrating. You can turn a hyper-sensitive, fragile phone into one that works even with its screen shattered, its wires exposed, dunked underwater, and its chassis half melted without losing any performance.
 507.Mirror Force,5.0
 #Yugioh - Allows you to reflect magical attacks back with a large forcefield.
 508.Disguise,3.1
@@ -1061,7 +1061,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 531.Hunter,4.9
 #Unordinary - Greatly augments your physical stats but more importantly your sensory abilities, your hearing and focus get heightened to a level where you can hear and lock onto a specific heartbeats a street away. Scales with basic stats.
 532.Mute,3.8
-#Allows you to remove the sound of a target or one of your abilities, making them silent. Abilities that are muted cost double the energy.
+#Allows you to create a zone that silences that silences all sound inside or prevents all sound from leaving it. You can also mute specific targets without zones by touching then or make your abilities silent at an increased energy cost.
 533.Widen,3.9
 #Allows you to extend the area of effect of an ability without decreasing its power, like doubling or tripling the area of effect but making the ability consume more energy.
 534.Penetrate,4.6
@@ -1098,8 +1098,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #MHA - Allows you to destroy any object you touch by spreading decay to it, breaking down its structure until its dust, you can spread decay further from the initial area more and more with training. Strong targets can resist decay to an extent.
 550.Wither,5.4
 #Allows you to emit and spread an aura that withers living beings, making them lose vitality and start breaking down from the inside. This also disables regeneration and persists for some time after being exposed to it like poison. With training, you can make this even more potent and harness it as an actual tangible attack with power behind it.
-551.Overgrowth,5.8
-#Allows you to supercharge any plantlife you touch, making them grow incredibly under your control, as long as you control them the plants are reinforced with your energy and you can shape the plants to attack or form constructs, once you stop touching the plants they will revert to their previous form but with training, you can make the effect permanent.
+551.Vanish,6.0
+#Allows you to temporarily utterly vanish from reality, effectively temporarily erasing your existence so thoroughly that nothing in reality can interfere. Nothing can track you, nothing can land, nothing can affect, nothing can predict you when you vanish. While vanished, you end up in a plane of white nothingness without a physical body and are only able to think until you decide to end the ability, reappearing on the same spot. This ability consumes energy, and when you run out of energy, it will be automatically dispelled.
 552.Mark,2.7
 #Allows you to mark targets by touching them, as long as the mark is active you are perfectly aware of how far and where a placed mark is.
 553.Future Sight,5.9
@@ -1182,8 +1182,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #JJK - Allows you to create binding vows, basically promises with reality itself. If a binding vow between two parties is broken, the breaker will suffer the penalty no matter how strong they are. You can also make self-binding vows, sacrificing things to make your energy output stronger such as being weaker at night in exchange for being stronger at day.
 592.Chop Chop,3.7
 #One piece Buggy - Allows you to chop your body apart and make your body parts telekinetically float around with your feet as the anchor they move around. You are also immune to slashing attacks while this ability is active, if your limbs move too far away from your feet they become inactive.
-593.Lord of Shades,6.0
-#From Hollow Knight - You become the embodiment of shades and shadow, allowing you to freely mold them to your will and absorb energy into yourself, but not wield it for your own
+593.Lord of Shades,7.0
+#Hollow Knight - You are the embodiment of the Void, a vast, devouring, abyssal fluid-like substance that seeks to consume. You can shape this Void into tendrils, barbs, razors, blades, fangs, mouths and much more, but it seems to default to barbed, sharpened tendrils. You are freely able to turn into void and shapeshift, and can corrupt living creatures with Void, granting them further strength and control over them. This influence can be fought. You are also capable of subsuming any living being or creature, to store them inside you or drain them of energy(Does not give you the energy drained).
 594.Almighty Push,4.8
 #Naruto - Allows you to exert an incredible repulsion force under your control that can even wipe out entire streets as a normal human but has a 5-second cooldown.
 595.Universal Pull,4.1
@@ -1221,13 +1221,13 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 611.Finger Gun,3.9
 #"Bang" Allows you to point with your index finger and say the words bang to blast a target with telekinetic energy.
 612.Telekinesis,4.5
-#Allows you to grab and manipulate objects afar with your energy, telekinesis acts like an invisible forcefield that you can shape and move to your liking. Your telekinetic strength starts off as equal to Fubuki from One Punch
+#Allows you to grab and manipulate objects in your sensory range with your energy, telekinesis acts like an invisible forcefield that you can shape and move to your liking. The greater the force you apply with telekinesis the more energy you expend.
 613.Greater Telekinesis,6.7
 #Allows you to directly manipulate objects, acting as if you exert your willpower over the object itself rather than an outside force, allowing you to manipulate the object itself as well. Your telekinetic might is strong enough to throw around skyscrapers and tear out entire streets at base level and can be improved with training.
 614.True Telekinesis,8.8
 #Your telekinesis is second to none, you can wield it as a forcefield, as an invisible force, manipulating objects directly, the only limit to what you can do with your telekinesis is your training. Your telekinetic talent is equal to or even beyond that of Tatsumaki from One Punch Man.
 615.Daily Grind,4.3
-#When this ability has been in an active ability slot for a total of 24 hours, the physical stats of a regular grown human man get permanently added to your own physical stats. This can be repeated as many times as needed.
+#When this ability has been in an active ability slot for a total of 24 hours, the strength and endurance of a regular grown human man get permanently added to your own physical stats. This can be repeated as many times as needed.
 616.Training Booster,4.8
 #While this ability is active, all forms of training are twice as effective, and if Training Booster is placed in an ability slot, for every empty ability slot its effectiveness is doubled. 1 empty slot = 2x, 2 empty slots = 4x, 3 empty slot = 8x etc.
 617.Scouter,3.4
@@ -1246,8 +1246,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Allows you to transform into an angel or an angel hybrid, boosting your physical stats and energy and also allowing you to infuse your abilities and items with holy energy, you can also fly with your wings
 624.Archangel Form,7.4
 #Allows you to transform into an archangel or an archangel hybrid, massively boosting your physical stats and also allowing you to infuse your abilities and items with pure holy energy, as an archangel you can intuitively use abilities such as blessings, healing, and protection, allowing you to use all Holy Abilities below Elite Rank
-625.New Order,8.5
-#MHA - Allows you to place or decide a RULE on the world on an object, the rule is only as strong as you are, so you cannot put in absolute commands. You can put commands such as strength to make an object stronger or "Can grab lightning" to yourself to make yourself be able to grab lightning, for the ability to work you must know the name of the target that they associate with themselves, no need for it against inanimate object. Can only place 2 orders at a time which can be increased with training.
+625.New Order,7.4
+#MHA - Allows you to place or decide a RULE on the world on an object, the rule is only as strong as you are, so you cannot put in absolute commands. You can put commands such as strength to make an object stronger or "Can grab lightning" to yourself to make yourself be able to grab lightning, for the ability to work you must know the name of the target that they associate with themselves, no need for it against inanimate object. Can only place 2 orders at a time which can be increased with training. The stronger an order, the more energy you need to expend.
 626.Word Magic,6.4
 #Allows you to actualize words to invoke their power by writing them in the air. For example, FREEZE will freeze an object, IMMOVABLE will make an object get stuck mid-air, and BURN will cause it to burst into flames. If the word you are trying to use is too strong for your level it cannot be used.
 627.Life Fiber Creation,5.8
@@ -1385,7 +1385,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 693. Tinker - Games,2.3
 #(Tech)Allows you to build technological constructs or contraptions related to games or entertainment programs. You are over 100 times more efficient than the average experienced full development team when it comes to making games and entertainment programs.
 694. Tinker - Dreadon,8.3
-#(Tech)Allows you to build technological constructs or contraptions emulating the technology of Dreadon from Calamity Mod
+#(Tech)Allows you to build technological constructs or contraptions emulating the technology of Dreadon from Calamity Mod, allowing you harness practically any energy in existence for your means, hyper light chainsaws, black hole bombs, create godslaying mechs running off of cosmic energies, a godslaying sword made of the souls of the dammned, a sniper that can hit a target across the universe instantly, the limits are your creativity, rescources and time.
 695. Tinker - Sensors,4.8
 #(Tech)Allows you to build technological constructs or contraptions related to sensors, sensing, and tracking like radars, sonars, magic sensors, trackers, etc.
 696. Tinker - Star Wars,6.0
@@ -1417,7 +1417,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 709.Harden,3.5
 #Allows you to harden objects you are touching while still keeping their properties, like hardening fire to turn it into a hot barrier or hardening water to turn it into a platform. Once you release your power the objects will slowly gain consistency.
 710.Clone,5.3
-#Allows you to clone yourself and operate your bodies as a hivemind, you can use your abilities from anybody you control but maintaining clones costs energy, not too much but enough to be noticeable and will really add up if you use more than a few for long periods of time.
+#Allows you to clone yourself and operate your bodies as a hivemind, you can use your abilities from anybody you control but creating and maintaining clones costs energy, with this energy cost rising exponentially with each clone. Everytime a clone is killed, a portion of the damage they took is reflected back on you.
 711. Multiply,6.8
 #Invincible - Allows you to create clones of your physical body, these clones cannot use your abilities but will carry on your physical traits at the moment of forming, forming them while an ability is active is more taxing, you and your clones work as a hivemind and share one mind. These clones do not require energy to maintain, you can have 10 clones at a time but this number can be increased with training.
 712. Avatar Creation,5.8
@@ -1460,8 +1460,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #While this ability is in an active slot your comprehension is massively boosted, you only need to read a book once to learn it completely, and you could imitate someone's martial art by watching a video. You could learn someone's martial art while you are exchanging blows. You learn and master skills at supernatural rates. 
 731. Divinity Fire, 8.5
 #You are a God of Fire and hold domain over all fire, allowing you to create and control any type of fire and hold power over its shape, temperature and effect.
-732. Fire Conduit, 5.5
-#Conduit Ability from Infamous - Allows the user to absorb fire to harness its powers, does not consume mana but instead absorbs fire. Allows the user to turn into, manipulate, and generate flames.
+732. Rabbit Form,2.7
+#Allows you to partially or fully transform into a rabbit or a rabbit hybrid. Giving you enhanced physical abilities, mostly centered around the jumping and kicking power of the legs as well as a substantial boost to your libido.
 733. Ifrit, 5.2
 #You can transform into an Ifrit, a spirit born from fire, while you are an Ifrit you cannot use water or water-based abilities but all of your fire abilities are much stronger and you have natural flame generation.
 734. Ifrit Sultan, 6.6
@@ -1560,8 +1560,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Your body absorbs kinetic energy like a sponge, reducing the effectiveness of physical attacks against you.
 781. Hydrogen Manipulation,6.8
 #Allows you to sense and telekinetically control Hydrogen with perfect precision, the most abundant element in the universe. With it, you can manipulate air, and water, create explosions, freeze using liquid hydrogen
-782. Oxygen Manipulation,7.8
-#Allows you to sense and telekinetically control Oxygen with perfect precision, allowing you to control air, create and control fire with combustion, oxidize objects to corrode them, or poison with pure oxygen clouds.
+782. Oxygen Manipulation,7.1
+#Allows you to sense and telekinetically control Oxygen atoms with perfect precision, allowing you to control air, create and control fire with combustion, oxidize objects to corrode them, rip the oxygen out of objects, or poison with pure oxygen clouds.
 783. Sharpen,3.2
 #Allows you to sharpen objects you care touching, you can sharpen a blade until its blade is monomolecular or you can swing air and sharpen it to create razor sharp winds.
 784. Dragon Projection,4.3
@@ -1580,7 +1580,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Allows you to change anything about yourself that is purely cosmetic, like the color of your abilities, the color of your hair, the shape of your pupils, the color of your skin, etc.
 791. Power to Reject Death,6.5
 #Legendary Moonlight Sculptor - Upon your death you will resurrect and change your race into an undead, the strength of the undead you revive as is equal to your ability slot count. After 24 hours pass you resurrect again as your original self. 1 = Skeleton 2 = Skeleton Warrior or Skeleton Mage 3 = Dullahan or Necromancer 4 = Death Knight or Lich 5+ = Dread Knight or Elder Lich. This ability has a 10-day cooldown.
-792. Dead Apostle Ancestor,8.3
+792. Dead Apostle Ancestor,7.9
 #Fate/Tsukihime - You are a Dead Apostle Ancestor, the strongest rank of Vampire, as a Dead Apostle Ancestor you have incredible physical and magical prowess, mist transformation, and unlike normal regeneration, instead of repairing your body, your body turns back its own time whenever you are injured to return you back to your peak state by consuming your own blood. As long as there is blood in your body and your heart is still inside your body you are immortal. In addition, you form your own Idea Blood, an authority belonging to you that is ranked Legendary, the idea blood is based on your experiences and life. You can also turn others into fully fledged undead apostles.
 793. Crush,5.8
 #You are able to remotely crush any object in your line of sight, you can increase the pressure you are putting on them by increasing your energy output. The stronger the target the harder it is to crush them.
@@ -1897,7 +1897,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 950.Obito's Mangekyo Sharingan,7.0
 #Naruto - You possess the Eternal Mangekyo Sharingan of Obito Uchiha in addition to all of the benefits of the regular Sharingan you have full access to the Kamui technique. Granting you access to an endless pocket dimension called the Kamuki. With it, you can create barriers that pull people into your dimension, freely teleport inside it, teleport by leaving it in a different location, use it to become temporarily intangible, and even open portals in space and breach other dimensions with your own ability.
 951.Physical Therapy,4.1
-#Allows you to convert the physical force you exert into positive energy, allowing you to heal people by hitting them with your body. The larger amounts of strength you exert the higher the healing. Punch them in the gut, full force to bring them from near death to full health.
+#Allows you to convert the physical force you exert into positive energy, allowing you to heal people by hitting them with your body. The larger amounts of strength you exert the higher the healing. The amount of health you heal is equal to the amount of damage you would have managed to inflict with that attack otherwise.
 952.Tiamat,6.8
 #"Mother of All Dragons" You are able to transform yourself and any other biological structure you are touching into a dragon as well as spawn temporary dragon projections from your own body. The power and shape of the dragon depends on your own skill and the amount of energy you expend, the more you violate the conservation of mass, the more energy this ability costs. Sentient beings can resist conversion depending on how strong they are.
 953.Hands of Time,5.5
@@ -1908,7 +1908,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #"You are enjoying this far too much" Your lust for violence is insatiable, whenever you are hurt you recover your energy proportional to how much you got hurt by. At the same time, you also recover your health proportionally to how damage you deal to a target. You an eternal engine of battle.
 956.Infernal Engine,4.6
 #Your heart is an Infernal Engine, when activated your regeneration speeds increase and you gain the ability to wield Hellflames. But when using the Infernal Engine, your body starts heating up, and the longer you use it the more it heats up. The hotter your body the more effective the Infernal Engine is, but be wary of going over the edge and burning yourself with your own Hellflames. 
-957.Blacklight,7.0
+957.Blacklight,7.4
 #Your body is entirely made up of the Blacklight Virus, allowing you to freely shapeshift down to the cellular level, you can also absorb any biological matter to get stronger and analyse its composition and replicate it, and consuming brains grants you access to all memories the target had.
 958.Rule Breaker,6.4
 #The rules don't matter to you anymore. You can expend energy to remove rules that apply to you or a target you are touching, remove gravity affecting you, magic affecting a target, remove being able to be targeted by magic etc. The more vague and more impactful a rule you remove the more energy you expend, a rule broken will slowly restore itself but its effects won't.
@@ -1928,8 +1928,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Allows you to freely change and augment your attributes in the form of forms you have access to, Offensive Form increases and decreases your defence for more Energy Output and Speed, Defensive Form increases your Defense and Resilience while decreasing your speed. Recovery Form decreases your strength to increase your regeneration and recovery. Speed Form increases your speed drastically while sacrificing your attack and defence. The user can also create their own forms.
 965.Murder Swarm,3.6
 #Allows you to transform into a murder of 100 crows at will. You can perfectly control each crow and you are equally each crow, whenever a crow gets killed you take 1% damage, you can also partially turn into crows and use them to deliver messages, spy on people etc. You will return to 100 crows even if you lose 30 as long you recover all of your health.
-966.Hero Time,3.8
-#"Time to be a hero" For 10 minutes all parameters are greatly increased, all regenerations are massively amplified. 5 Day cooldown.
+966.Blood Overdrive,3.8
+#"Go beyond you" For 10 minutes all parameters are greatly increased, all regenerations are amplified. After the 10 minutes are up, all parameters and regenerations are greatly decreased for 24 hours. 5 Day cooldown.
 967. Limit Break,5.3
 #"Time to go all out" Upon activating Limit Break, for 4 minutes and 11 seconds all parameters and energy regeneration are increased, in addition, your ability Slots are removed, allowing you to use all Abilities at once. This ability places immense strain on your body and can kill you. 7 Day cooldown.
 968. Phosphorus,5.3
@@ -1999,7 +1999,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 999. Reroll,3.6
 #"Lucky" When you roll this ability, whatever ticket you got it with is rolled twice and this ability is removed.
 1000. Disillusioned,2.5
-#You can see through any kind of deception and physical concealment. You can see right through a pitfall as it is a deception etc. 
+#You can see through any kind of physical deception and concealment. Such as pitalls, physical disguises, bending of light, one way mirrors etc. as long as its a physical illusion meant to deceive your senses you can see through it.
 1001. Piercing Eyes,2.1
 #Your eyes can see far and see through objects, and you can adjust the level perfectly according to your needs.
 1002.Dead Bone Pulse,4.9
@@ -2260,8 +2260,8 @@ You are able to weaken effects and abilities by being in contact with them. The 
 #You are able to amplify the physical impacts of your attacks by expending energy, making your punches and kicks, etc. deal more damage, but this does not amplify your stats, only the impact of your hits.
 1130.False Data,2.0
 #You are able to falsify your statistics and abilities to show scrying and analysing abilities what you want them to see instead of what you actually have.
-1131.Multiplicity,2.8
-#Multiplicity allows you to duplicate your limbs and organs. Conjure multiple sets of arms, multiple sets of eyes, or another heart if you can fit another one in there. Adding more limbs and organs to your body will cause strain.
+1131.Internal Duplication,2.8
+#Allows you to duplicate your limbs and organs. Conjure multiple sets of arms, multiple sets of eyes, or another heart if you can fit another one in there. Adding more limbs and organs to your body will cause strain.
 1132.Tunnel Effect,5.5
 #You are able to temporarily enforce Quantum Tunnelling on yourself. Altering probability on yourself to make the stars align and have attacks appear past you harmlessly, or allowing you to quantum tunnel through objects or obstacles. This ability is quite draining to use. And the longer you use the ability, the more the energy consumption increases exponentially.
 1133.Unseen Hand,4.9
@@ -2400,3 +2400,115 @@ You are able to weaken effects and abilities by being in contact with them. The 
 #(Tech)"The End of Machine" Allows you to enforce the "Kill Process" onto any piece of technology that eclipses that of Mundane Earth. Forcing the concept of ruin on them, computers will have their chips and wires torn apart, their processors melted, their chassis shredded, their code mangled, and their non-souls sent straight to oblivion. Taken down entire Star Destroyers without even lifting your fingers. The potency of Kill Process depends on how divergent the target is from Mundane Earth technology, and the power difference between you and the target determines how much effect they will take. But even a normal person could take down a spaceship with a glare. Can only affect technology and tech-based targets.
 1200.Elemental Sight,2.1
 #Allows attunement to Elemental Forces and energy. Feel the air, see the heat, hear the lightning, taste the earth. You can see all Fire, Water, Air, Earth and Water in your line of sight by peeking through everything else in the world. Even extends to the electricity in someone's brain, the particles of water flowing through their blood, the electricity in cable etc. magically charged elements appear more vibrant in your vision.
+1201.Corpus Weapon,2.6
+#Allows you to imbue whatever weapon you are holding or your limbs with necrotic energy. This necrotic energy amplifies the power behind your attacks and makes them harder to heal while hurting the vitality of the enemy directly. Against living targets, it deals extra damage by exhausting their vitality. You can also channel the necrotic energy around your weapon or fist and throw it out as a projectile.
+1202.Necrotic Weapon,3.7
+#Allows you to imbue whatever weapon you are holding or your limbs with withering necrotic energy. This necrotic energy amplifies the power behind your attacks, and whenever it inflicts a wound on a living being, it starts affecting them with necrosis and even rigor mortis when stabbed into them long enough. If stabbed into an inanimate target, it will start corroding and decaying it with necrotic energies. You can also channel the necrotic energy around your weapon or fist and throw it out as a projectile or temporarily extend the weapon beyond its usual range.
+1203.Dread Blade,4.6
+#Allows you to suffuse your weapons or your limbs with potent Necrotic and Darkness energies. These energies amplify the destructive power of the target depending on the amount of energy you expend. When inflicting a wound on a living being, the wound left behind is cursed, heavily hindering healing and spreading necrotic energies throughout, slowly worsening the wound, spreading necrosis and weakening the target according to their level of resistance against such effects. When attacking inanimate objects, the necrotic and dark energies in the attack start corroding, withering and degrading the objects, weakening them. You can also channel the necrotic energy around your weapon or fist to send out projectiles like flying slashes or temporarily extend the weapon beyond its usual range.
+1204.Gravelords Blade,5.4
+#You are able to channel the Gravelords' Blade into any weapon under your command or your own body, suffusing them with the essence of Death and Curses. These energies greatly amplify the destructive power of the channelled weapon, depending on the amount of energy you expend. When inflicting a wound on a living target, it inflicts Gravelord's Curse on the wound, making it incredibly difficult to heal and constantly spreading death essence throughout their body, weakening them and dealing them damage over time as it wreaks havoc on their body. On weaker targets, this ability has the chance to instantly kill them. Maintaining the curse costs energy. When attacking inanimate objects, the necrotic and dark energies in the attack start corroding, withering and degrading the objects, weakening them. You can also channel the Death Essence around your weapon or fist to send out projectiles like flying slashes or temporarily extend the weapon beyond its usual range. You can manifest this ability as a weapon by itself made purely out of energy for more energy cost.
+1205.Ruin Edge,6.8
+#Allows you to suffuse any armament you have or your own body in cursed ruinous energies. These energies massively amplify the destructive power of your attacks and has the ability to decay whatever they strike, whether that is magic, physical defences, space, or other nebulous targets. When striking a living target, whatever wound you inflict gets inflicted with Ruin Curse, making it impossible to heal unless the curse is lifted and continuously weakening the target and causing them pain, the user can always track where a Ruin Curse is, on a weaker target the Ruin Curse has a chance to instantly kill the target, the curse needs energy to maintain. Whenever striking an inanimate target they will become ruined, being corroded, disintegrated, turned to dust, only the toughest of materials can resist being turned to ash. You can also channel the Ruinous Energies around your weapon or fist to send out projectiles like flying slashes or temporarily extend the weapon beyond its usual range. You can manifest this ability as a weapon by itself made purely out of energy for more energy cost.
+1206.Lesser Animate Undead,3.4
+#Allows you to imbue a corpse with Necrotic energy to reanimate it as a lesser undead under your command, such as skeletons, zombies, wights, etc., but you can only raise an undead at most as strong as an uncommon familiar. The quality and power of the undead you raise depend on the quality of the corpse, how powerful the corpse is, and how powerful you are. The stronger an undead, the more energy they cost to raise. The amount of undead you can control at once scales with your energy reserves.
+1207.Animate Undead,4.3
+#You are able to animate corpses into a variety of undead such as Death Knights, Death Warriors, Undead Mages, Lesser Vampires, Wraiths, Bone Wyverns or an undead version of the target corpse but the undead you animate can only be equal to or lesser in power than a Rare Familiar. The tier of undead you can create depends on the quality of the corpse you use and your own power level. The stronger an undead the more energy they take to raise. The amount of undead you can have under your command at once scales with your energy levels, but at minimum you can have at least 100 undead at once. 
+1208.Greater Animate Undead,5.5
+#You are able to animate corpses into a variety of undead such as Dread Knights, Liches, Vampires, Wraiths, Soul Eaters, Bone Dragons, or an undead version of the target corpse but the undead you animate can only be equal to or lesser in power than an Elite Familiar. The tier of undead you can create depends on the quality of the corpse you use and your own power level. The stronger an undead the more energy they take to raise. The amount of undead you can have under your command at once scales with your energy levels, but at minimum, you can have at least 500 undead at once. 
+1209.True Necromancy,6.8
+#You have the ability to enact true necromancy as sanctioned by Death itself. Allowing to raise corpses into a variety of undead such as Gravelords, Night Liches, Vampire Lords, Nightmare Kings, Undead Dragons, Corpse Titans, or an undead version of the target corpse but the undead you animate can only be equal to or lesser in power than an Epic Familiar. The tier of undead you can create depends on the quality of the corpse you use and your own power level. The stronger an undead the more energy they take to raise. The amount of undead you can have under your command at once scales with your energy levels, but at minimum, you can have at least 2500 undead at once. 
+1210.Exalted Necromancy,7.8
+#You have the ability to perform Exalted Necromancy, an ability that goes beyond the realm of simply raising the Dead. You can raise corpses into a variety of undead, such as Necro Kaisers, Overlords, Vampire Kings, Undead Dragon Lords, Reapers, etc. or an undead version of the target corpse, but the undead you animate can only be equal to or lesser in power than a Legendary Familiar. The tier of undead you can create depends on the quality of the corpse you use and your own power level. The stronger an undead, the more energy they take to raise. The amount of undead you can have under your command at once scales with your energy levels, but at minimum, you can have at least 10000 undead at once. 
+1211.Divinity Necromancy,8.5
+#You posess the divinity, the ability to use the dead as your own army and servants, you can turn the corpse of the even the average man into an Undead Dragon or a Gravelord, you can animate any corpse into a True Undead that keeps all of their abilities and memories from when they were alive and further empower them with your divinity, as long as it is dead, you can command them. Although the power of the undead you can raise and the amount you can control at once scales with your own power levels, even as a base human, you can control up to 100000 undead at once.
+1212.Authority of Death,9.4
+#You wield the Authority of Death, the End. You need only point to a target to claim their life; claiming lives and resurrecting the dead is less difficult than taking a breath. You can even kill targets that cannot be killed by granting the concept of death. The stronger a target is, the more energy you need to expend to affect them.
+1213.Divinity Earth,8.4
+#You are a god of earth, wave your hand to move continents, snap your fingers to bring down life-wiping meteors, raise your arm to bring up mountains, with one glare send out sandstorms that devastate civilisations. As long as it's Earth and you have enough energy, you can do it. 
+1214.Divinity Sky,8.6
+#You possess divinity over the Sky; the atmosphere is your bitch. Bring down pillars of lightning kilometers wide, alter the composition of the atmosphere at will, create tornadoes that fling around cities and countries, create an entire atmosphere for a planet at will, and create clouds tougher than adamantite to float on. As long as it is the sky and you have enough energy, you can do it.
+1215.Tinker - Arcology,4.5
+#(Tech) Allows you to design, build, modify and construct technology related to the creation and maintenance of Arcologies, self-sufficient megastructures made to house people that can act as self-contained cities even. Such as construction drones, self-recycling fertile soil, maintenance robots, surveillance systems, farming systems, recyclers, etc., practically everything needed to make an Arcology functional. But technology made with this specialisation only works when creating an Arcology or inside of an Arcology.
+1216.Summon Lesser Nature Spirit,3.5
+#Allows you to summon a lesser spirit of nature. This ability requires a sufficient amount of fertile ground nearby to summon the Nature Spirit, such as Junimo, Lesser Dryads, maneater plants, Ents, etc. You can only manifest Spirits that are equal to or lesser in power than an uncommon familiar. The strength of the spirit you can manage to summon depends on your own level of power. The manifested spirit will draw on your own energy reserve to keep itself manifested and to use its unique abilities. The stronger a spirit, the higher the energy costs to maintain them. If you cannot supply them energy, they will be unsummoned. If you have the proper skills, by spending enough time and energy, you can turn the summoned nature spirits permanent.
+1217.Summon Nature Spirit,4.5
+#Allows you to summon a lesser spirit of nature. This ability requires a sufficient amount of fertile ground nearby to summon the Nature Spirit, such as Nature Spirits, Dryads, Giant Animated Plants, Treants, Dendroid Soldiers, etc. You can only manifest Spirits that are equal to or lesser in power than a rare familiar. The strength of the spirit you can manage to summon depends on your own level of power. The manifested spirit will draw on your own energy reserve to keep itself manifested and to use its unique abilities. The stronger a spirit, the higher the energy costs to maintain them. If you cannot supply them energy, they will be unsummoned. If you have the proper skills, by spending enough time and energy, you can turn the summoned nature spirits permanent.
+1218.Summon Greater Nature Spirit,5.5
+#Allows you to summon a lesser spirit of nature. This ability requires a sufficient amount of fertile ground nearby to summon the Nature Spirit, such as Nature Spirits, Noble Dryads, Haunted Trees, Treant Lords, Dendroid Warriors, etc. You can only manifest Spirits that are equal to or lesser in power than an elite familiar. The strength of the spirit you can manage to summon depends on your own level of power. The manifested spirit will draw on your own energy reserve to keep itself manifested and to use its unique abilities. The stronger a spirit, the higher the energy costs to maintain them. If you cannot supply them energy, they will be unsummoned. If you have the proper skills, by spending enough time and energy, you can turn the summoned nature spirits permanent.
+1219.Mirror World,5.8
+#Allows you to access a Mirror Dimension at will. You can enter the mirror dimension from any sufficiently reflective surface you apply your power to to turn it into a portal. Inside the mirror dimension, there are no living beings, just an empty reflection of the real world. Objects native to the mirror world cannot be taken out, do not possess energy or provide sustenance. You can also throw objects and people into the mirror realm; the only way to get in and out of the realm is through you turning a mirror into a portal. 
+1220.Foxfire,3.2
+#Allows you to wield Foxfire, the signature of the Kitsune race. Although Foxfire is lower in power than other flames of the same tier, it is capable of being maintained for long periods of time and is capable of changing its shape and texture to create disguises, illusions, and to deceive targets.
+1221.Nine Tailed Foxfire,4.8
+#Allow you to wield the flames of a Nine-Tailed, these pale blue flames, although not as potent as a flame of the same tier, cost less energy to create and maintain. You can freely shape these flames to your will, changing their shape, texture, color, sound, and such to the point where you can even convincingly mimic a person with your flames. 
+1222.Sunlight,2.7
+#Allows you to conjure a ball of pure sunlight that can hover around you and that you can move around at will. The ball perfectly mimics the properties of the regular sun and consumes little energy to stay active. You can create semi-permanent sunlight spheres by loading them up with energy beforehand that they will slowly deplete.
+1223.Bamboo Sprout,2.8
+#Allows you to sprout culms from anywhere in your line of vision. These Bamboo are supernaturally durable due to being imbued with your energy,  and you can choose to sprout with sharpened ends. Using them to create walls, erect bamboo spikes, or making them impale your enemies. Created bamboo is permanent but loses its supernatural durability over time, returning to normal bamboo.
+1224.Vinelash,2.4
+#Allows you to create supernaturally strong vines out of your body under your control. The durability, strength, and size of the vines scale with your own energy levels. You can manipulate these vines like second lips to use as whips, grapples, binds, etc. You can also make them sprout thorns using additional energy. Once you stop supplying energy, the vines vanish.
+1225.Leaf Blade,1.6
+#Allows you to conjure a long leaf blade that has supernatural durability and is incredibly sharp, though even then, its durability is not great. You can also conjure smaller leaves and use them as throwing projectiles, etc. Created leaves are permanent but lose their supernatural properties over time.
+1226.Razor Leaves,3.4
+#Allows you to conjure and telekinetically control supernaturally durable and sharp leaves. Throwing out sweeping waves of them like a storm of knives, using them to pin someone down, conjuring larger leaves to use as weapons, creating whirlwinds of razor-sharp leaves, etc. The more energy you expend, the sharper and more durable the leaves and the larger amount you can control at a time.
+1227.Stun Spore,3.1
+#Allows you to conjure spores that, when breathed in, cause a paralysing and immobilising effect. The stronger an opponent is in relation to you, the less they will be affected by the spores; the effect can range from knocking them out for a day to mild stiffness in limbs. The spores look like pale green clouds. If not ingested, spore clouds dissipate in 5 minutes.
+1228.Overclock,3.2
+#(Tech)Allows you to overclock Technology with your own energy, making them perform beyond their limits at the cost of expending their durability faster and potentially damaging them. The more energy you use, the more you push it beyond its limits and the more damage you potentially do. 
+1229.Tinker - Redundancy,3.2
+#(Tech) Allows you to make whatever technology you create or modify to have a lot of redundancies. Meaning breaking or making them nonfunctional is going to be very frustrating. You can turn a hyper-sensitive, fragile phone into one that works even with its screen shattered, its wires exposed, dunked underwater, and its chassis half melted without losing any performance.
+1230.Vanish,6.0
+#Allows you to temporarily utterly vanish from reality, effectively temporarily erasing your existence so thoroughly that nothing in reality can interfere. Nothing can track you, nothing can land, nothing can affect, nothing can predict you when you vanish. While vanished, you end up in a plane of white nothingness without a physical body and are only able to think until you decide to end the ability, reappearing on the same spot. This ability consumes energy, and when you run out of energy, it will be automatically dispelled.
+1231.Thermal Vision,0.8
+#Allows you to switch your vision to a perfect accurate thermal vision, allowing you to see heat signatures while not impairing your regular vision.
+1232.Varied Vision,1.2
+#Allows you to switch between Thermal, Infared, Night, vision at will without impairing your regular vision.
+1233.Bubbling,1.6
+#Allows you to encase targets in bubbles that can float into the air slowly or stay midair, the bubbles by are about as durable as 1cm of glass and scale with your power level. When damaged the bubbles pop and disintegrate. If you encase yourself in a bubble, you are able to direct its direction to slowly float to your liking.
+1234.Lube Dispension,1.4
+#Allows you to dispense water-based lube safe for personal use from your body, either making your body slick at will, releasing it from any point in your body like a dispenser or shooting it out like a low-power hose.
+1235.Rough Knuckle,1.6
+#Allows you to slightly augment your fists with energy, allowing the average man to shatter bricks with their fists. The more energy you expend, the greater the augmentation, but it is not very efficient.
+1235.Highlight,1.8
+#Allows you to mark objects to be highlighted by making physical contact. Once an object is highlighted you can see their outline no matter what even if your eyes are closed or they are behind walls. To be able to see a highlight they must be within 1km of you, this range increases with your power level.
+1236.Light Waltz,1.4
+#Allows you to cover parts of your body in a light-like aura that decreases the pressure you apply on surfaces to almost nothing, allowing you to walk on cobwebs or water, but does not reduce the damage or effects you take. Falls will still hurt, but where you land will not take damage.
+1237.Camera Mark,1.2
+#Allows you to place glowing red runes on stable physical surfaces that act like cameras that you can view with your mind any time. The number of marks you can have at once depends on your maximum energy; the minimum is 5.
+1238.Project Image,1.4
+#Allows you to conjure 2d planes that show images or play a video that you can remember or imagine accurately. The 2d planes created are stationary and are as durable as 1cm of untempered glass.
+1239.Truth Assertion,1.8
+#Allows you to make others believe the truth of your words, but at the same time, for as long as the ability is active, you cannot speak or communicate with the intent to deceive. Whenever this ability is active, there is a glowing white choker around the user's neck.
+1240.Sweat,0.5
+#Allows you to sweat on command, either stopping sweating or sweating to supernatural levels to cool your body down.
+1241.Black Trial,5.4
+#Black Souls - Allows you to wield the power of the Black Trial, one who hunts sinned blackened souls. You are able to see people's souls, the whiter their soul, the purer of heart they are, the blacker the soul the larger their sins. After observing a Black Soul, you are able to mark that soul and track it anywhere, you can also teleport to the location of that soul at any time.
+1242.Smoke Conduit Physiology,5.2
+#Infamous - Allows you to wield the powers of a Smoke Conduit, alongside giving a mild increase to your physical attributes. Being a conduit allows you to absorb, generate, manipulate, emit, and briefly transform into Smoke. Whenever you are absorbing smoke, you can use it to augment your own regeneration. Conduit abilities do not use the user's energy but instead require them to absorb outside sources of the element to fuel their reserves. You only start with the very basic uses of the ability and have to train to achieve more complex techniques.
+1243.Neon Conduit Physiology,5.8
+#(Tech)Infamous - Allows you to wield the powers of a Neon Conduit, alongside giving a mild increase to your physical attributes. Being a conduit allows you to absorb, generate, manipulate, emit, and briefly transform into Neon, as well as being able to use it to greatly augment your speed. Whenever you are absorbing Neon Light, you can use it to augment your own regeneration. Conduit abilities do not use the user's energy but instead require them to absorb outside sources of the element to fuel their reserves. Note: You do not move at or anywhere near light speed. You only start with the very basic uses of the ability and have to train to achieve more complex techniques.
+1244.Oil/Napalm Conduit Physiology,4.7
+#Infamous - Allows you to wield the powers of an Oil/Napalm Conduit, alongside giving a mild increase to your physical attributes. Being a conduit allows you to absorb, generate, manipulate, emit, and briefly transform into Napalm/Oil, using it to send blasts of fire, dousing enemies in flame, or restraining them. Whenever you are absorbing Oil/Napalm, you can use it to augment your own regeneration. Conduit abilities do not use the user's energy but instead require them to absorb outside sources of the element to fuel their reserves. You only start with the very basic uses of the ability and have to train to achieve more complex techniques.(Lowered rating due to scarcity of element)
+1245.Ice Conduit Physiology,6.3
+#Infamous - Allows you to wield the powers of an Ice Conduit, alongside giving a mild increase to your physical attributes. Being a conduit allows you to absorb, generate, manipulate, and emit Ice, briefly transform into Icy Vapor at will, and perform cryokinesis to send blasts of icy vapor, icicles, making ice constructs burst out of the ground, and much more. Whenever you are absorbing Ice, you can use it to augment your own regeneration. Conduit abilities do not use the user's energy but instead require them to absorb outside sources of the element to fuel their reserves. You only start with the very basic uses of the ability and have to train to achieve more complex techniques.
+1246.Concrete Conduit Physiology,5.1
+#Infamous - Allows you to wield the powers of a Concrete Conduit, alongside giving a mild increase to your physical attributes. Being a conduit allows you to absorb, generate, manipulate, emit, and encase your body in armor of concrete that boosts your physical abilities, shoot spikes of concrete, etc. Whenever you are absorbing Concrete, you can use it to augment your own regeneration. Conduit abilities do not use the user's energy but instead require them to absorb outside sources of the element to fuel their reserves. You only start with the very basic uses of the ability and have to train to achieve more complex techniques.(In the absence of concrete, Sedimentary rocks can be used as a substitute)
+1247.Lightning Conduit Physiology,6.7
+#Infamous - Allows you to wield the powers of a Lightning Conduit, alongside giving a mild increase to your physical attributes. Being a conduit allows you to absorb and manipulate Electricity and Magnetism, allowing you to launch bolts of lightning, create EMPs, create polarity fields, electromagnetic walls, etc. Whenever you are absorbing electricity, you can use it to augment your own regeneration, and with intensive training, you can use it to tweak people's bioelectricity to send their regeneration into overdrive. Conduit abilities do not use the user's energy but instead require them to absorb outside sources of the element to fuel their reserves. You only start with the very basic uses of the ability and have to train to achieve more complex techniques. Note: No, you cannot time-travel or travel at lightning speed.
+1248.Video Conduit Physiology,5.7
+#Infamous - #Infamous - Allows you to wield the powers of a Video Conduit, alongside giving a mild increase to your physical attributes. You are capable of absorbing the energy of artificial light from video displays and use your own reserves to create Hard Light Constructs such as weapons, armors, and even temporary autonomous creations that can fight for you like hardlight minions, angels, and demons. With practice you can even create a field of hardlight that bends light around you to render you invisible. Whenever you are absorbing Video, you can use it to augment your own regeneration. Conduit abilities do not use the user's energy but instead require them to absorb outside sources of the element to fuel their reserves. You only start with the very basic uses of the ability and have to train to achieve more complex techniques. Note: You can't pull people into Video worlds.
+1249.Fight mode,1.3 
+Get your head in the game and start fighting. Using this ability fills your body with incredible amounts of adrenaline, Norepinephrine, cortisol, endorphins, testosterone and dopamine to make your body go into an enhanced fight mode without suffering the negative consequences of overdosing on those chemicals and hormones.
+1250.Induce Lactation,1.5
+#(Nsfw)Allows you to induce lactation on targets in your line of sight, provided they have the biological capability to produce it.
+1251.Anchor Back,1.8
+#Allows you to put down a mark on where you are standing. For as long as this ability is active, you can teleport back to that mark. The longer the distance between you and the mark, the more energy it will consume. Only one mark may be active at a time.
+1252.Adventure Line,2.4
+#Stanley Parable - Manifests a yellow line on the ground that will lead you to an adventure if you follow. And by adventure, I mean an interesting event happening in a distance you can reach comfortably. What is an interesting event? Maybe it's a good food place you haven't visited yet, or a dangerous murderer on a spree very capable of killing you. The guarantee is that whatever you encounter will be interesting.
+1253.Hormone Regulation,1.6
+#Allows you to control the hormones in your body, being able to secrete more of them at will, lowering certain ones, increasing the concentration of certain ones to achieve a variety of effects like forced concentration, depression etc. But exercise caution when using it to not hurt your own body or mess up your biochemistry too badly.
+1254.Tanuki's Leaves,3.6
+#You to wield the leaves used by Tanuki Yokai, allowing you to conjure leaves that you can shapeshift into any object you desire, changing their size, texture etc. the durability and longevity of your shapeshifted leaves is proportional to the amount of energy you supply to them, once the energy runs out the leaf turns back to normal. You can also place leaves on top of people to disguise them, with the duration lasting as long as you keep supplying it energy.
+1255.Tonguelash,1.5
+#Allows you to reinforce and elongate your tongue to several to dozens of meters, to use as a whip, another limb, or the other obvious use cases. 
