@@ -293,7 +293,7 @@
 148. Book of VIP Passes,3.5
 #Hunter x Hunter - A book which contains 1000 V.I.P Passes. You are able to use each pass to act as a 'Very Important Person'. As such, you are able to go anywhere and access any area for the price of a single pass. Each pass transforms to match the required specifications for an event. The pass is destroyed after use. The book is destroyed when no more V.I.P. passes are left.
 149. Hormone Cookies,1.6
-#Hunter x Hunter - These cookies when ingested, temporarily change the user's gender to the opposite sex. These effects last for 24 hours. The card gives you 10 boxes, with each box containing 20 cookies. Eating 20 in one day makes the change permanent.
+#Hunter x Hunter - These cookies when ingested, temporarily change the user's gender to the opposite sex. These effects last for 24 hours. The card gives you 10 boxes, with each box containing 20 cookies. Eating 20 in one day makes the change permanent. Restock Timer: 48 Hours
 150. Recycling Can,4.5
 #A large metal can the size of a person, whatever item you put inside of it will be perfectly broken down to its basic physical materials. 
 151. Hideout Realtor,2.1
@@ -559,7 +559,7 @@
 281. Admirals Hat,4.9
 #Hota - The hat of a legendary admiral. Allows you to conjure and summon any mundane seabound vessel manned by a crew of spirits. It can be a destroyer-class warship or a cruise ship. You can summon a vessel every 720 Hours, in addition, when wearing the hat you gain Master rank Riding when riding any seasbound vessel.
 282. Cloak of Silence,3.6
-#Hota - When worn, the cloak prevents the user from using any magic below Epci Rank but at the same time, prevents any magic below Epic rank from being used on them.
+#Hota - When worn, the cloak prevents the user from using any magic below Epic Rank but at the same time, prevents any magic below Epic rank from being used on them.
 283. Cape of Velocity,3.8
 #Hota - A cape that makes the wearer faster when worn.
 284. Cloak of the Undead King,5.3
@@ -764,7 +764,7 @@
 #Solo Levelling - A large dagger made for dealing with heavily armoured opponents, the stronger the armour an opponent is wearing, the more damage the dagger deals.
 383. Baruka's Dagger,2.9
 #Solo Levelling - A large dagger wielded by a frost elf chieftain. In addition to being extremely durable and sharp, this dagger increases the potency of ice and cold abilities that use it as a focus.
-384. Demon King's Daggers,3,1
+384. Demon King's Daggers,3.1
 #Solo Levelling - A pair of daggers forged from the corpse of the demon king. These daggers are able to synchronize themselves with the user's strength, getting stronger proportional to their physical strength. these daggers increase the potency of unholy abilities that use it as a focus.
 385. Demon King's Longsword,4.2
 #Solo Levelling - A giant sword wielded by the demon king that has the ability to summon devastating thunderstorms from its blade with each swing. The stronger its user the stronger the lightning storms are.
@@ -858,19 +858,19 @@
 #One Piece - A great-grade katana crafted by a master blacksmith in Wano. This sword is extremely sharp and absurdly durable, the perfect pick for any swordsman. In addition, this sword is great at channelling energy after years of use, making abilities using it as a channel cost slightly less energy.
 429.Tozama,1.7
 #JJK - A basic cursed tool in the form of a short sword. The sword sword is sharp and durable while also being able to interact with and harm spiritual beings.
-430.Split Soul Katana,5.6
+430.Split Soul Katana,5.2
 #JJK - A powerful cursed tool in the form of a large Japanese Broadsword. This sword is capable of cutting through all physical matter by ignoring durability to strike at the soul directly, inflicting wounds that cannot be healed by normal means.
 431.Repair Powder,2.5
 #Darksouls - An enchanted golden powder, when the entire bag is spread across a weapon its durability is restored and its damages repaired as long as the item is in one piece. The stronger or more magical an item is, the more powder is required. Restock Timer: 12 Hours
-432.Threaded Cane,2.2
+432.Threaded Cane,1.7
 #Bloodborne - One of the weapons of the workshop hunters used to face off against the beasts. In its cane form, the threaded cane still has a sharp edge enough to hurt beasts, but when its trick form is revealed the cane splits into numerous blades arranged into a whip that can be used to rend and shred flesh from a distance. 
-433.Chikage,3.0
+433.Chikage,2.4
 #Bloodborne - A blade wielded by the royal guards of Annalise, Queen of the Vilebloods. Chikage is an exceptional katana with incredible durability. But its power comes from the runes engraved onto it, allowing its user to sink the blade into their own flesh and imbue it with their vital essence to amplify its power. In addition, while wielding the Chikage all Necromancy and Blood-based abilities are amplified.
 434.Holy Moonlight Sword,4.0
 #Bloodborne - An ancient sword uncovered and wielded by Ludwig. By expending the user's energy the blade channels the endless abyssal cosmos and wreathes itself in moonlight to amplify its power. The user can expel the moonlight to amplify the power of the blade, release energy bursts or channel their own powers through the blade alongside the moonlight to boost the power. 
-435.Reiterpallasch,2.5
+435.Reiterpallasch,2.0
 #Bloodborne - A refined weapon wielded by the knight of Cainhurst Castle. This weapon combines a rapier and a gun without compromising either. This weapon can be transformed into a bayonet to amplify the aspects of the gun part. You can let your own blood and turn it into quicksilver bullets to feed into the gun.
-436.Saw Cleaver,2.0
+436.Saw Cleaver,1.6
 #Bloodborne - Iconic weapons of the hunters. This saw can transform into a long cleaver or a serrated saw depending on your needs. In addition, this weapon is stronger the most beastlike your opponent is. 
 437.Bottle of infinite lotion,1.4
 #A simple bottle of slimy lotion that contains an infinite amount of lotion inside. Lotion must be squeezed out manually and trying to tamper with the bottle will simply break it.
@@ -1273,7 +1273,7 @@
 626.Velvet Sword,5.1
 #Elden Ring - The sword of Saint Trina, forever dyed velvet. The sword is supernaturally sharp and durable, but its true ability is to expend the user's energy to unleash the Mist of Eternal Sleep. When exposed to the Mist of Eternal Sleep, the target will be put into a slumber that is impossible to wake up from, even if hurt or damaged. The stronger a target is, the longer they have to be exposed to the mist to get affected, and the easier they can wake up.
 627.Ferryman's Favor,3.7
-#Chiron, the Ferryman, owes you a favor, and this IOU cheque proves it. By tearing the cheque, you can ask Chiron to bring you any one dead soul that belongs to the world you tore the ticket in, alongside the biggest part of their corpse. Chiron will give you the soul and body in separate sealed containers.
+#Charon, the Ferryman, owes you a favor, and this IOU cheque proves it. By tearing the cheque, you can ask Chiron to bring you any one dead soul that belongs to the world you tore the ticket in, alongside the biggest part of their corpse. Chiron will give you the soul and body in separate sealed containers.
 628.Sentry Turrets,1.1
 #Portal - A shipment of Aperture Science Brand Sentry Turrets, equipped with twin machine guns and is a very cost effective way to keep out intruders, but are not built with quality in mind but rather with cheapness and reliability in mind. This box contains 9 turrets whose bullet reserves refill every 24 hours(bullets cannot be taken out of turret). Restock Timer: 168 Hours  
 629.Barrel of Everflowing Oil,1.9
@@ -1286,3 +1286,115 @@
 #An otherwise ordinary looking satchel that contains virtually unlimited amounts of seeds and saplings that can be found on the surface of planet earth in the year 2020. Only 10kg of material can be taken be out of the bag every 24 hours. To take out a seed or sapling, simply reach in while thinking of your target. One of the satchel pockets contains a notepad containing information on every item inside.
 633.Dunce Cap,0.2
 #A simple white cap with the words "dunce" written on top, usually used to shame someone.
+634.Hera's Breastmilk,4.2
+#"Hey, it worked for Hercules" A bottle filled to the brim with the Goddess Hera's freshly squeezed breastmilk, when someone consumes the entire bottle, the potential of their body will vastly increase, allowing even a regular human to train to reach superhuman levels of strength and durability. This does not, however, increase your talent or the speed at which you will reach that strength. Restock Timer: 168
+635.Mystic Eye Killers,1.6
+#Type Moon - An otherwise ordinary-looking pair of stylish glasses that, when worn, forcefully suppresses eye-based abilities and magic and also makes the owner resistant to other ocular/eye-based abilities. Too strong abilities can overpower this effect. 
+636.Nichirin Ingots,1.7
+#Demon Slayer - Ingots made of Scarlet Ore that have absorbed a lot of natural sunlight and changed in composition. Nichirin is a very durable metal that has anti-demon properties and amplifies the power of Fire-based abilities, and is capable of reaching extreme temperatures without deforming. You get 3 5kg ingots. Restock timer: 120 Hours
+637.Relic of Knowledge,4.7
+#RWBY - A divine relic created by the Brother gods, this relic allows one to summon the spirit within called Jinn. Jinn is capable of granting the user a single question that they can ask the spirit, as long as a non-divine being in your current world knows the answer to your current question, she can give you the answer to it. You can also use the artifact to converse with Jinn without expending questions, but she won't be able to use her power without it, although without combat power, she is quite smart and wise. You get another question every 720 hours.
+638.Desert Key,3.2
+#An ornate key that, when turned in a sufficiently large space, creates a portal leading into a pocket dimension that is 5 km x 5 km x 5 km in size that contains a desert inside. The sunlight is harsh, the wind is strong, the night is cold, and few creatures can survive. The gate that leads outside the dimension is always open and leads to where the entrance was last opened.
+639.Forest Key,4.2
+#An ornate key that, when turned in a sufficiently large space, creates a portal leading into a pocket dimension that is 5 km x 5 km x 5 km in size that contains a temperate forest inside. Full of life and resources to support an ecosystem, it also contains some of Earth's native lifeforms inside, like wolves. The gate that leads outside the dimension is always open and leads to where the entrance was last opened.
+640.Beach Key,4.4
+#An ornate key that, when turned in a sufficiently large space, creates a portal leading into a pocket dimension that is 10 km x 10 km x 10 km in size that contains a beach that leads into a sea filled with sea life. Perfect for fishing or taking a relaxing vacation. The gate that leads outside the dimension is always open and leads to where the entrance was last opened.
+641.Tundra Key,3.4
+#An ornate key that, when turned in a sufficiently large space, creates a portal leading into a pocket dimension that is 5 km x 5 km x 5 km in size that contains a frozen tundra inside. It is perpetually cold and often has snowstorms and blizzards, though it does contain some earth life inside, and the northern lights can be observed. The gate that leads outside the dimension is always open and leads to where the entrance was last opened.
+642.Dust Mines Key,5.2
+#An ornate key that, when turned in a sufficiently large space, creates a portal leading into a pocket dimension that is 500 km x 500 km x 500 km in size which contains an expanse of caves that contain Raw Dust Crystals from Remnant. There are no living organisms in the caves, only minerals and all types of dust crystals and their rarer varieties in lesser amounts, may require special equipment and caution to excavate safely. The gate that leads outside the dimension is always open and leads to where the entrance was last opened.
+643.Magic Lake Key,4.6
+#Rwby - An ornate key that, when turned in a sufficiently large space, creates a portal leading into a pocket dimension that is 5 km x 5 km x 5 km in size which contains a large spacious cave with a giant crystal blue lake in the middle. The water of the lake contains unusually high amounts of magical energy, and resting inside of it can help one recover their energy quicker or use the water as an excellent alchemical ingredient. The gate that leads outside the dimension is always open and leads to where the entrance was last opened.
+644.Hot Springs Key,4.1
+#An ornate key that, when turned in a sufficiently large space, creates a portal leading into a pocket dimension that is 5 km x 5 km x 5km in size, which contains a small mountain inside that has natural hot springs, a small bamboo forest, and overall a great view. The mountain itself cannot be descended from due to the isolated space; the hot springs contain properties that slightly accelerate natural healing and automatically replenish themselves. The gate that leads outside the dimension is always open and leads to where the entrance was last opened.
+645.Apartments Key,5.1
+#An ornate key that, when turned in a sufficiently large space, creates a portal leading into a pocket dimension that is 1 googol kilometers cubed in size, which is a circular wall of apartment rooms filled with standard stuff that can be found in Earth apartments, yet not a single living entity dwells inside, even if the powers are on. The entire pocket space is a wall of apartments that wrap around the entire inside of the walls of the dimension, facing inwards with empty space in the middle. The gate that leads outside the dimension is always open and leads to where the entrance was last opened.
+646.Silver Samurai Armor,5.1
+#The Wolverine/MCU - A specially designed adamantium-plated powered exoskeleton paired with a superheated Adamantium blade. The armor itself has over 100 tons of lifting strength; in addition, it has life support systems inside for its user that can allow even a sick old man to use it to its full potential. The armor has been modified in such a way that it will conform to the shape of the user as long as they are vaguely humanoid in shape and size. The power supply will charge itself to maximum within an hour as long as its not in active use.(Mutagen manipulation device not included)
+647.Psycho,1.1
+#Fallout - Psycho is an addictive combat drug made for soldiers, it works by flooding the body with chemicals and hormones specially designed to suppress the sensation of pain, induce a bloodthirsty haze, speed up reflexes, increase metabolism, and enhance concentration. But it is also incredibly addictive with a host of side effects, although a skilled enough Chemist may be able to improve upon the design. You get 8 doses in a bandoleer. Restock Timer: 24 hours.
+648.Mentats,2.0
+#Fallout - Mentats, often described as a miracle drug that temporarily heightens the mental functions of the consumer, granting them increased mental clarity, faster thought processing speeds, and greater memory retention. But it is also highly addictive; overuse of it can cause permanent memory degeneration and mental disorders. Perhaps a highly skilled chemist can improve upon the design. You get a single box containing 8 doses. Restock Timer: 76 Hours
+649.Buffout,1.9
+#Fallout - Buffout is a pre-war chem created as a very potent and temporary physical effort enhancer and steroid, capable of allowing the string bean joe punch through wood and take a baseball bat to the face thanks to the increased endurance, strength, and reflexes it provides.  
+650.Super Rod,1.5
+#Pokemon - For when you really want to catch big game, the Super Rod is a fishing rod that requires no bait to fish, as it has the properties of luring in fish who feel compelled to it. In addition, it's more likely to attract quality or powerful sea-dwelling creatures than not. A fisherman's wet dream.
+651.Dragonslayer Spear,2.6
+#Darksouls - The spear of Ornstein, the Dragon Slayer, this large spear is imbued with his essence and allows the user to channel their energy through it to wreathe it in lightning, in addition, this spear is more lethal towards draconic enemies.
+652.Cipher Pata,1.7
+#Elden Ring - A holy blade worn on the hands, formed out of shapeless ciphers, making it almost impossible to clash with. The power of the ciphers scale with the users maximum energy levels.
+653.Crystal Spear,1.5
+#Elden Ring - A spear fashioned out of pure crystals that is tougher than steel, thanks to its unique material. This spear can also be used as a catalyst from which to cast magic with, like a wand.
+654.Pharis' Bow,1.8
+#Dark Souls - A finely crafted bow once wielded by the legendary archer Pharis. This bow is quite powerful and can sharpshoot at longer ranges. Some of Phari's essence still seems to remain, slightly aiding the user's aim. Comes with a quiver of 30 standard arrows that restock every 24 hours.
+655.Glock,0.7
+#A gun, the old reliable Glock 19, simple, easy to use, easy to handle, and will work for most situations where you will simply need a basic handgun. You get a magazine for it every 24 hours.
+656.Darkmoon Bow,2.6
+#Darksouls - A bow wielded by the god of the Darkmoon, Gwyndolin. Wielding the bow empowers the arrows shot with your magical energy and grants them a slight sliver of moon energy. It comes paired with special moonlight arrows that receive further benefits from these effects. You get 24 in a quiver that restocks every 48 hours.
+657.Silver Spoon,1.3
+#A spoon made of pure silver, directly personally blessed by the heavenly god, is extremely lethal against vampires, ghouls, werewolves, and similar beings. Also doubles as cutlery.
+658.Irithyll Knight Set,2.8
+#Dark Souls - A set of armor and weapons granted to the Outrider knights of Pontiff Sulyvahn, they are enchanted to forever be cloaked in freezing temperatures and mist. This set includes an Irithyll Straightsword, Irithyll Rapier, Pontiff Knight Curved Sword, and Pontiff Knight Great Scythe alongside Outrider Knight Armor that perfectly conforms to the body of the user, providing the user with great defense and protection against cold. Infusing the blades of these weapons with energy can further plunge their temperatures and cause them to emit freezing mist.
+659.Vordt's Great Hammer,2.4
+#Dark Souls - A great hammer made of titanite that belonged to Vordt of the Boreal Valley. The weapon is incredibly heavy and requires inhuman strength to swing properly. The head of the mace is imbued with frost, forever below freezing temperatures. It also increases the power of ice-based abilities channeled through it.
+660.Sunlight Sword,2.7
+#Dark Souls - An expertly crafted blade from the kingdom of Anor Londo, although simple looking, this straight blade contains the power of Sunlight. Raising the blade high and praising the sun while imbuing energy into the blade will strengthen you and your nearby allies with sunlight, increasing their physical abilities for 3 minutes with a 30-minute cooldown. Boosts the power of lightning and fire-based abilities channeled through it.
+661.Reduvia,2.0
+#Elden Ring - Reduvia is a jagged, dagged, forever-stained, and dripping with blood, carried by the servants of the Lord of Blood. You can infuse this weapon with energy to transform its never-drying blood into a flying slash to hit enemies from afar. Slightly decreases the drain of Vitality costing abilities and effects when held.
+662.Dragonslayer Swordspear,3.8
+#Dark Souls - The armament the mighty god, Nameless King, the heir of lightning, used to slay countless dragons. The blade is forever infused with lightning, and expending energy into the weapon allows one to call down a bolt of lightning from the skies and strengthen the lightning cloaking the blade. Increases the potency of lightning-based abilities when used as a focus.
+663.Holy Hand Grenade of Antioch,1.8
+#Monty Python - The Holy Hand Grenade is a powerful grenade personally blessed by a saint. The grenade contains 1 kiloton of power and deals extra damage against unholy enemies. Restock Timer: 24 hours.
+664.Arc Reactor,4.1
+#(Tech)MCU - The Arc reactor is a revolutionary technology created by one of the greatest minds of the universe, Tony Stark. Even a tinker would find it difficult to replicate the technology due to the new element. The Reactor is so efficient that it can run indefinitely without replacement and provide more than 5 gigajoules of energy per second.
+665.Vorpan,1.6
+#Dead Cells - An unbreakable frying pan that can double as a very useful and practical cooking utensil. Strikes done with the Vorpan are slightly stronger than usual.
+#666.Erdtree Seed,4.2
+Elden Ring - A seed that, when planted, will sprout a small ineffectual Erdtree. This tree, when nourished with energy supplied or fed through burying corpses under it as a ritual, grows larger and more powerful. When powerful enough, the Erdtree will shine down its blessings, warding off diseases and curses, nourishing the land, and increasing recovery and healing of those under its light.
+667.Golden Apple Tree,4.8
+Minecraft - A seed that, when planted, will sprout a tree capable of growing Golden Apples(uncommon item), but to flourish and grow, the tree needs very nutrient-dense soil and an energy-rich environment.
+668.Gag of Silence,1.8
+A simple red ball gag that, when worn in the mouth, suppresses all noise emanating from the user. Useful for spies and ninjas.
+669.Veil of Invisibility,1.2
+A cloak that turns the wearer invisible as long as they are not wearing any piece of clothing other than the veil.
+670.Feline Attachment,1.6
+#(Nsfw)A buttplug with a cat tail attached, often used to imitate felines. Wearing this accessory in the appropriate place increases the reflexes, agility, balance, and acrobatic abilities of the user, and reduces the fall damage they take.
+671.Bondage of Enduring,1.1
+#(Nsfw)A set of bondage ropes, that, when worn in an appropriate position in place of one's clothes, increases the wearer's durability, stamina regeneration, and converts pain into pleasure.
+672.Bunny's Blessings,1.5
+#(Nsfw)A pair of rather raunchy bunny ears headband and bunny tail buttplug pair. This pair of items slightly increases the charm of the wearer and makes them more appealing to other people. 
+673.Prayer Beads,1.6
+#(Nsfw)A sign of true devotion and faith, these silver beads on a string increase the power of Holy abilities and spells as well as faith-based abilities and one's connection to holy beings, so long as all beads are inside the anal cavity.
+674.Whip of Ecstasy,2.3
+#(Nsfw)A supernaturally durable whip that, when striking an opponent, does not deal any harm beyond superficial levels; instead, it converts all of the damage it would have done to the target otherwise if it were a normal whip into sexual pleasure.
+675.Helltaker's Apron,1.4
+Helltaker - A black apron with the words Satan embroidered in white, owned by the Helltaker himself. Wearing this apron increases the rate at which one improves their cooking proficiency. Especially when it comes to pancakes.
+676.Second Skin,2.1
+A skintight, ultra-lightweight, and thin black bodysuit that adheres to the body of the wearer perfectly. The suit stimulates their body and muscles to bring out more of their latent power and improve their physical performance, though it also amplifies the sensations felt by the user. When worn with other clothing, it may suffer decreased efficiency. The material itself is incredibly durable, being tougher than steel, and if torn, it will slowly mend itself.
+677.Bucket of Milk,3.8
+Minecraft - A bucket filled with 1 liter of milk. If the milk inside the bucket is drunk in one continuous motion, it will dispel all unnatural afflictions ailing the user such as curses, sicknesses, magical effects, everything unnatural to them affecting at the moment, good or bad. Does not work on wounds and injuries as it does not have restorative properties. And cannot affect effects that have become a part of the drinker.
+678.Shikai - Ryujin Jakka,4.7
+#Bleach - A zanpakuto, a spiritual katana bound to the soul that can manifest as a raging inferno capable of manipulating flames. The output and control over the flames, as well as the strength of the blade, scale with the user, by default being capable of shattering large boulders and burning down a house. Amplifies the power of fire-based abilities of the user. (A/N:Does not give spiritual energy, cannot be evolved)
+679.Bankai - Ryujin Jakka,7.3
+#Bleach - Ryujin Jakka, the Blade of Ember is a Zanpakuto, a spiritual armament in the shape of a burnt blade bound to the user. The strength of this armament scales with the power of its user. With its Bankai unlocked, it has reached its most powerful state. It allows the use of 4 abilities based in cardinal directions, East allows all of the flames of the user to be concentrated only in the blade to achieve maximum destructive power. West allows the user to cloak their body in exteme heat as defense. South allows them to call upon the corpses of those they have slain to use as puppets. North is the maximum power of the ability that concentrates all of their power into a superheated slash. The potency and heat of the flames wielded by the sword scale with the user.  (A/N:Does not give spiritual energy, cannot be evolved)
+680.Shikai - Shinso,3.2
+#Bleach - Shinso is a Zanpakuto, a spiritual armament bound to the soul in the shape of a wakizashi. The strength of this armament scales with the power of its user. When activating its shikai with the command phrase, Shinso's length can be extended beyond its regular limits; the maximum size of the expansion and how fast it can expand scales with the power of its user. By default, it can extend to 10x its base length.(A/N: Does not give spiritual energy, cannot be evolved)
+681.Bankai - Shinso,5.6
+#Bleach - Shinso is a Zanpakuto, a spiritual armament bound to the soul in the shape of a wakizashi. The strength of this armament scales with the power of its user. With its Bankai unlocked, it has reached its most powerful state. When activating its Bankai with the command phrase, the weapon can extend to insane lengths with blinding speeds, capable of reaching several kilometers in length fast enough to be nigh impossible to react to, given the user is strong enough to reach those levels. Does not contain the poison ability. (A/N: Does not give spiritual energy, cannot be evolved)
+682.Shikai - Kyokai Suigetsu,7.0
+#Bleach - Kyokai Suigetsu is a Zanpakuto, a spiritual armament in the form of a Katana. The strength of this armament scales with the power of its user. By chanting the name of the shikai and unleashing its name, you can place targets under "Absolute Hypnosis." allowing you to manipulate their 5 senses. These effects last even after the Shkai has ended as long as they saw the effect being used. The effectiveness of the Hypnosis scales with the power difference between the user and the target.(A/N: Does not give spiritual energy, cannot be evolved)
+683.Shikai - Minazuki,4.3
+#Bleach - Minazuki is a Zanpakuto, a spiritual armament in the form of a Katana. The strength of this armament scales with the power of its user. By chanting its command, the blade can be transformed into a giant flying creature familiar that is capable of swallowing people into its stomach to help them recuperate and heal. The power of the healing scales with the user. (A/N: Does not give spiritual energy, cannot be evolved)
+684.Bankai - Minazuki,6.5
+#Bleach - Minazuki is a Zanpakuto, a spiritual armament bound to the soul in the shape of a katana. The strength of this armament scales with the power of its user. With its Bankai unlocked, it has reached its most powerful state. When chanting its Bankai, it allows the user to cover the battlefield in a blood-like substance under their control that they can use to either enhance their attacks or to heal themselves and others. The potency of destruction and healing of the attack scales with the power level of the user. (A/N: Does not give spiritual energy, cannot be evolved)
+685.Shikai - Tachikaze,3.6
+#Bleach - Tachikaze is a Zanpakuto, a spiritual armament in the form of a wakizashi. The strength of this armament scales with the power of its user. The Shikai form of this blade allows the user to manipulate the winds around them to send out empowered slashes of wind that they can detonate at will. It also increases the potency of wind based abilities channeled through it. (A/N: Does not give spiritual energy, cannot be evolved)
+686.Bankai - Tachikaze,5.4
+#Bleach - Tachikaze is a Zanpakuto, a spiritual armament bound to the soul in the shape of knuckle dusters fused with upper body armor in the shape of wrappings. The strength of this armament scales with the power of its user. With its Bankai unlocked, it has reached its most powerful state. The Bankai of this Zanpakuto allows it to release powerful explosions of wind with every punch landed. It also increases the potency of wind-based abilities channeled through it. (A/N: Does not give spiritual energy, cannot be evolved)
+687.Shikai - Gonryomaru,4.6
+#Bleach - Gonryomaru is a Zanpakuto, a spiritual armament in the form of a Rapier. The strength of this armament scales with the power of its user. The Shikai ability allows the user to wrap the blade in lightning in order to enhance its powers and send out slashes of lightning. It also increases the potency of electricity-based abilities channeled through it. (A/N: Does not give spiritual energy, cannot be evolved)
+688.Bankai - Gonryomaru,6.2
+#Bleach - Gonryomaru is a Zanpakuto, a spiritual armament in the form of a Rapier. The strength of this armament scales with the power of its user. With its Bankai unlocked, it has reached its most powerful state. The Bankai of this Zanpakuto allows it to control the weather and call down powerful strikes of lightning as well as wreath their sword with violent lightning. It also greatly increases the potency of electricity-based abilities channeled through it. (A/N: Does not give spiritual energy, cannot be evolved)
+689.Asauchi,2.8
+#Bleach - Asauchi is a Zanpakuto, a spiritual armament in the form of a weapon that befits its user. The strength of this armament scales with the power of its user. Asauchi is a dormant, unnamed Zanpakuto that grows along with the user. If the user is able to unlock the Shikai of the blade, it will attain its own unique ability according to the nature of its user, equal to or weaker in power than a rare rank ability. And if they are able to unlock its Bankai, that ability will be upgraded to equal an Epic rank ability.

@@ -63,7 +63,7 @@
 32. Kamino,3.9
 #Jujutsu Kaisen - By chanting "Kamino" you can manifest a fire arrow with immense power behind it, although the wind-up is slow, its sheer destructive power and heat more than makeup for it.
 33. Blazing Courage,3.6
-#From JJK coats object in flames that imitate the aspects of the object like sharp flames or blunt flames
+#Jujutsu Kaisen - Coats object in flames that imitate the aspects of the object like sharp flames or blunt flames
 34. Dark Flames,3.6
 #Allows you to emit and control the Black Flames of humanity, these flames do not burn or exude heat but instead possess mass greater than most metals, shredding whatever they touch instead of burning them.
 35. Extinguish Flames,2.2
@@ -352,7 +352,7 @@
 #Conjure pebbles and small rocks and sling them toward enemies to minorly inconvenience them or hurt them if they hit their eyes.
 177. Rock Throw,1.4
 #Conjure rocks and small stones and launch them as projectiles, not very powerful but a rock thrown at your head always hurts.
-178. Stone Bullet,2,3
+178. Stone Bullet,2.3
 #Conjure rocks and small stones and shoot them like bullets with lethal power, you are basically a living stone gun.
 179. Boulder Hurl,2.8
 #Conjure a large boulder and hurl it at your enemies, regardless of your existing strength, the weight of the boulder does not affect your throwing ability regardless if it is a person or a house-sized boulder.
@@ -783,7 +783,7 @@
 392.Stillness,6.8
 #Re:Zero - Allows you to freeze an object's time, rendering them inviolable and forcing them to maintain their current speed and state no matter what. Even a pebble thrown with stillness is an unstoppable and immovable force. Can be used on yourself to render yourself invulnerable but places immense strain on your heart and can only be used for a few seconds at a time.
 393.Infinity,5.0
-#JJK - Allows you to infinitely divide the space between you and a target, resulting in you manifesting a mathematical impossibility that makes it impossible for them to fully reach you. Places immense strain on the brain and needs manual mental calculation to operate, can liquify your brain with overuse.
+#Jujutsu Kaisen - Allows you to infinitely divide the space between you and a target, resulting in you manifesting a mathematical impossibility that makes it impossible for them to fully reach you. Places immense strain on the brain and needs manual mental calculation to operate, can liquify your brain with overuse.
 394.Limitlessness,6.0
 #JuJutsu Kaisen - Allows the user to manipulate distortions in three different applications. First, the neutral form of this ability forms a barrier that infinitely divides space between the opponent and a target, making them unable to reach the user due to mathematical impossibility. Blue allows the user to create distortions in space that pull objects in while Red allows the user to create distortions that repel objects. 
 395.Distortion,4.9
@@ -897,7 +897,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 449.Density Manipulation,4.8
 #Allows you to increase and decrease your own density or the density of objects you are wielding, the more you decrease or increase a target's density the more energy you need to expend to keep it that way.
 450.Star Rage,6.6
-#JJK - Allows the user to increase their mass without incurring any penalties such as lowered speed or change in stature, allowing them to make their physical attacks unimaginably stronger, if the user continues to increase their own mass they can collapse into a black hole. Higher the mass the more energy is required to maintain the state.
+#Jujutsu Kaisen - Allows the user to increase their mass without incurring any penalties such as lowered speed or change in stature, allowing them to make their physical attacks unimaginably stronger, if the user continues to increase their own mass they can collapse into a black hole. Higher the mass the more energy is required to maintain the state.
 451. Lock On,4.2
 #Allows you to lock onto targets, when throwing projectiles toward the locked-on target, they start homing in on the target and become nigh impossible to dodge unless you get out of range.
 452.Absolute Accuracy,5.2
@@ -1029,7 +1029,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 515.Lunarian,5.7
 #One Piece - "No, it doesn't give you the pass" Allows you to transform into a Lunarian from One Piece, as a Lunarian you can freely fly with your wings and manipulate the fire generated in your body in the form of attacks and otherwise. As long as your flame is intact you gain an extreme durability boost, but if you lose it you lose your extra durability but gain a slight speed increase in exchange.
 516.Six Eyes,5.6
-#JJK - Grants exceptional visual prowess that can even penetrate through solid matter, incredible calculation ability, and energy efficiency, but overuse will strain your eyes heavily.
+#Jujutsu Kaisen - Grants exceptional visual prowess that can even penetrate through solid matter, incredible calculation ability, and energy efficiency, but overuse will strain your eyes heavily.
 517.Sharingan,4.0
 #Naruto - Grants you exceptional visual prowess and allows you to copy and imitate moves and skills you see. With training, you can reach other levels of the sharingan.
 518.Byakugan,4.4
@@ -1077,7 +1077,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 539.Multiplicity,4.7
 #Allows you to use multiple instances of an ability at once, like triplet fireball that shoots three fireballs or tenfold lightning strike that strikes a location with 10 lightning strikes, every instance of multiplicity consumes appropriate amounts of energy.
 540.Deduction,4.2
-#Worm Tattletale - Allows you to deduct information from a target through enhanced observations, the information you get from this ability is similar to what a genius detective like Sherlock Holmes would be able to infer from a detailed observation of the target.
+#Worm - Allows you to deduct information from a target through enhanced observations, the information you get from this ability is similar to what a genius detective like Sherlock Holmes would be able to infer from a detailed observation of the target.
 541.Condemnation,7.1
 #"Let there be judgment" Allows you to cast judgment on a target, depending on their karma level they will receive a sentence when used against irredeemable evil by a user with positive karma the victim's power will be reduced by 10x and the users' power will be increased 10x against the target. 8-hour cooldown.
 542.Salt King,6.7
@@ -1093,7 +1093,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 547.Life Share,3.7
 #You can share your own life force to heal others, this is initiated through touch but further mastery can allow this to be done remotely.
 548.Wheel of Mahoraga,8.2
-#JJK - Manifests a wheel behind, whenever you encounter any phenomenon that you can't overcome the wheel will spin and adapt you and your abilities to make you either resistant against what damaged you or give you the ability to hurt what you previously couldn't, adaptation fades after the ability is canceled but the knowledge and expertise gained such as new ways to utilize your ability stay.
+#Jujutsu Kaisen - Manifests a wheel behind, whenever you encounter any phenomenon that you can't overcome the wheel will spin and adapt you and your abilities to make you either resistant against what damaged you or give you the ability to hurt what you previously couldn't, adaptation fades after the ability is canceled but the knowledge and expertise gained such as new ways to utilize your ability stay.
 549.Decay,5.3
 #MHA - Allows you to destroy any object you touch by spreading decay to it, breaking down its structure until its dust, you can spread decay further from the initial area more and more with training. Strong targets can resist decay to an extent.
 550.Wither,5.4
@@ -1141,13 +1141,13 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 571.Arbor,4.6
 #MHA - You can create and extend wood constructs out of your body that you can control and reinforce.
 572.Contractual Rectreation,4.0 
-#JJK Reggie - You can invoke any legally binding receipt you have ownership of to take advantage of its effect. You can invoke a receipt for a hot spring trip to make yourself refreshed or a receipt for a house to summon a copy of it that you can control etc.
+#Jujutsu Kaisen - You can invoke any legally binding receipt you have ownership of to take advantage of its effect. You can invoke a receipt for a hot spring trip to make yourself refreshed or a receipt for a house to summon a copy of it that you can control etc.
 573.Trajectory Manipulation,6.8
 #You are able to manipulate the trajectory of any projectile in your perception, make bullets curve around you, make the spear you threw take a sharp turn without losing momentum, and reverse the direction of a fireball. The more powerful the projectile the harder it is to control the trajectory of.
 574.Hermit Purple,4.6
-#JJK Joseph - Allows you to call upon Hermit Purple, manifesting as translucent purple vines you can manipulate that can also allow you to divine the future you can increase the accuracy of the divination through training
+#JoJo - Allows you to call upon Hermit Purple, manifesting as translucent purple vines you can manipulate that can also allow you to divine the future you can increase the accuracy of the divination through training
 575.Somnabulist,4.2
-#MHA Midnight - Allows you to emit a very powerful sleeping from your skin that takes the form of a purple mist
+#MHA - Allows you to emit a very powerful sleeping from your skin that takes the form of a purple mist
 576.Phantom Touch,2.3
 #Allows you to touch a target from range, making them feel your hands or mouth on their body on a spot of your choosing, but these are only phantom sensations that cannot physically affect a target.
 577.Collaring,3.8
@@ -1179,7 +1179,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 590.Contract Creation,3.7
 #Allows you to enforce the clauses and conditions of any contract you make. The conditions of the contract must be set while Contract Enforcement is active, with contract enforcement you can forcefully activate the clauses of a contract on your contract and force your target to comply, this however goes both ways.
 591.Binding Vow,4.5
-#JJK - Allows you to create binding vows, basically promises with reality itself. If a binding vow between two parties is broken, the breaker will suffer the penalty no matter how strong they are. You can also make self-binding vows, sacrificing things to make your energy output stronger such as being weaker at night in exchange for being stronger at day.
+#Jujutsu Kaisen - Allows you to create binding vows, basically promises with reality itself. If a binding vow between two parties is broken, the breaker will suffer the penalty no matter how strong they are. You can also make self-binding vows, sacrificing things to make your energy output stronger such as being weaker at night in exchange for being stronger at day.
 592.Chop Chop,3.7
 #One piece Buggy - Allows you to chop your body apart and make your body parts telekinetically float around with your feet as the anchor they move around. You are also immune to slashing attacks while this ability is active, if your limbs move too far away from your feet they become inactive.
 593.Lord of Shades,7.0
@@ -1259,13 +1259,13 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 630.Angel Style,2.7
 #One Punch Man, Puri Puri Prisoner - For every % of skin you have uncovered, your energy output and physical abilities are increased by the same percentage, reaching 2x when fully naked.
 631.Heavenly Restriction,5.2
-#JJK - While this ability is active, you cannot use energy or mana in any way, in exchange your physical abilities are increased by how much energy you have and you are immune to spells being directly cast on your life buffs, curses, etc. you are also unable to be detected by any magical means or targeted directly by abilities as your body lacks energy/mana.
+#Jujutsu Kaisen - While this ability is active, you cannot use energy or mana in any way, in exchange your physical abilities are increased by how much energy you have and you are immune to spells being directly cast on your life buffs, curses, etc. you are also unable to be detected by any magical means or targeted directly by abilities as your body lacks energy/mana.
 632.White Tiger Form,3.1
 #You are able to transform into a snow tiger or a hybrid, giving you enhanced senses, predatory instincts, natural weapons, and increased physical stats as well as the traits a white tiger might otherwise have
 633.Swamp Logia,6.2
 #One Piece Caribou - You are able to generate, control, create, and turn into mud or a bottomless swamp. You are to drag objects or people into your swamp and store them inside of you as if they are in stasis.
 634.Idle Death Gamble,5.5
-#JJK Hakari - I am not writing all of this down https://jujutsu-kaisen.fandom.com/wiki/Idle_Death_Gamble
+#Jujutsu Kaisen - I am not writing all of this down https://jujutsu-kaisen.fandom.com/wiki/Idle_Death_Gamble
 635.Susanoo,4.6
 #Naruto - Allows you to form a humanoid energy construct around your body that possesses exceptional defense. You can use this construct to both attack and defend for you while still being able to use abilities inside of it as it possesses selective intangibility, allowing you to let inside whatever you want. At first, this manifests as a skeletal humanoid but through training, you can make it stronger and more whole.
 636.Perfect Mangekyo Sharingan - Sasuke,6.1
@@ -1589,7 +1589,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 795. Catch the Rainbow,2.1
 #JoJo - When under rainfall you can stand on raindrops, teleport through them, or grab them and use them as knives. Does not work on falling water but only under actual rain instead.
 796. Ratio Technique,2.8
-#JJK - Allows you to split your target into imaginary lines that forcibly create a weak spot for them at the ratio point of seven to three, hitting a target on that spot will deal critical damage.
+#Jujutsu Kaisen - Allows you to split your target into imaginary lines that forcibly create a weak spot for them at the ratio point of seven to three, hitting a target on that spot will deal critical damage.
 797. Killer Queen,6.1
 #JoJo - Allows you to turn anything you touch into a bomb, you can explode this bomb at any time, either choosing to explode the object along with the explosion or make it unscathed by the explosion. Anything that touches a Killer Queen bomb can be exploded along with the target to bypass durability. You can also touch things Killer Queen to explode them with weak power but still disintegrate them. Powerful targets can resist this effect to a degree.
 798. Diver Down,4.8
@@ -1667,7 +1667,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 835. Majin Physique,7.6
 #Dragon Ball - You are kin to Majin Buu, your body is compromised of amorphous pink blob like flesh with no bones or organs, you can freely morph your body and you are immortal and possess super regeneration as long a part of your body larger than a walnut remains and you have energy left. In addition, you possess greatly enhanced physical stats and the ability to absorb other people to gain a portion of their strength.
 836. Disaster Nature,7.3
-#JJK Hanami - Allows you to control and create plants of your own energy as well as plant related abilities equal to that of Hanami. Such as cursed buds that drain energy/mana, creating roots to bind, or you can draw energy/mana from existing nature to charge your own energy/mana.
+#Jujutsu Kaisen - Allows you to control and create plants of your own energy as well as plant related abilities equal to that of Hanami. Such as cursed buds that drain energy/mana, creating roots to bind, or you can draw energy/mana from existing nature to charge your own energy/mana.
 837.Shark Physique,2.8
 #You are able to turn into a shark or a shark hybrid at will. As a shark, you have enhanced physical stats that are further boosted underwater. You also possess incredibly sharp razor teeth and bite force enough to tear apart metal with ease. In shark form, you also have increased water affinity. As well as any other abilities the average Shark would otherwise possess.
 838.Octopus Physique,3.2
@@ -1726,7 +1726,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #You are able to produce and control silk that you produce from your body, you can use it to grapple around, restrain targets, fasten objects etc. The durability of the silk and the amount you can produce scales with your physical stats. 
 867. Space Ripper Stingy Eyes,3.5
 #JoJo - No, you cannot change the name. Allows you to shoot out pressurized energy from your eyes that can cut steel and stone like it's made of foam even at base human level.
-868. Slip In,2.9
+868. Slip In,1.4
 #You were always a slippery one, you can pass your body through any opening wider than 5 centimeters in length. 
 867. Superhuman,2.5
 #You are superhuman, or whatever race you are. Even as a base human, you are able to lift cars overhead, punch through metal, survive small caliber bullets, and run as fast as a tiger, all of these enhancements scale with your base stats.
@@ -1781,7 +1781,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 892. Wolf Form,2.8
 #"Lycantrophy was too expensive" You are able to turn into a wolf or a wolf hybrid at will. Gaining enhanced stats, claws, fangs, night vision, and enhanced senses as well as any other characteristics the average Wolf would possess.
 893. Idle Transfiguration,7.3 
-#JJK - You are able to able to shape and alter souls by touching targets with souls, and by shaping their souls you can also shape and alter their bodies by proxy. The stronger a target is in relation to you the more effort you have to exert to shape their soul. You can also freely shape your own soul to shapeshift, but the more mass you add or decrease, the less energy energy output you have.
+#Jujutsu Kaisen - You are able to able to shape and alter souls by touching targets with souls, and by shaping their souls you can also shape and alter their bodies by proxy. The stronger a target is in relation to you the more effort you have to exert to shape their soul. You can also freely shape your own soul to shapeshift, but the more mass you add or decrease, the less energy energy output you have.
 894. Fist Projection,3.7
 #Allows you to launch projections of your fist by punching, the more energy you use the stronger and larger the launched projection, you can use this close range to amplify the power of your physical attacks or launch projections to take enemies down from afar while still using your physical strength. The base power of the projections is equal to your physical strength.  
 895. Combo,3.5
@@ -1854,7 +1854,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Fairy Tail - Allows the user to transform into and wield the powers of a sky dragon. Allowing them to generate, control and even devour wind. They also have great control over their winds, being able to alter their properties such as making them blunt or sharp. They are also immune to all wind-based attacks below their level and can breathe in air to recover their vitality and energy, but if the air is polluted it will instead harm them. By consuming other sources of magic they can temporarily incorporate it into their own wind attacks instead. They can also use their winds to heal people.
 935. Poison Dragon Slayer,6.7
 #Fairy Tail - Allows the user to transform into and wield the powers of a poison dragon. Allowing them to generate, control and even devour potent poison They also have great control over poison, being able to alter its properties such as making it corrosive, sickening, boiling etc. They are also immune to all poison below their level and can even consume to recover their vitality and energy. By consuming other sources of magic they can temporarily incorporate it into their own poison.
-930. Lightning Dragon Slayer,6,8
+930. Lightning Dragon Slayer,6.8
 #Fairy Tail - Allows the user to transform into and wield the powers of a lightning dragon. Allowing them to generate lightning from their body that they can control and even devour lightning. They also have great control over their lightning, being able to alter their properties such as making them blunt or sharp. They are also immune to all lightning below their level and can eat lightning to recover their vitality and energy. By consuming other sources of magic they can temporarily incorporate it into their own lightning.
 931. Shadow Dragon Slayer,6.7
 #Fairy Tail - Allows the user to transform into and wield the powers of a dark dragon. Allowing them to generate shadows from their body that they can control and even turn into a shadow and merge with them. They also have great control over their shadows and darkness, being able to alter their properties such as making them blunt or sharp. They are also immune to all dark attributes below their level and can eat shadows to recover their vitality and energy. By consuming other sources of magic they can temporarily incorporate it into their own shadows.
@@ -2150,7 +2150,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #(Tech)Fallout - This tinker allows you to build the technologies of the Big Mountain built by the Think Tank. Including teleporters, genetically modified monsters, pacification fields, sonic weaponry, lobotomites and much more.
 1075.Tinker - Kuseno,7.2
 #(Tech)One Punch Man - You are able to build technology based on the knowledge base of the Genius Dr. Kuseno. Allowing you to build immensely powerful cyborg bodies, ranging from destroying city blocks to continent busters with enough time, testing and resources.
-1076.Armageddon Blade,7,2
+1076.Armageddon Blade,7.2
 #The All Incinerating Armageddon Blade, the Blade that Embodies Wrath Against All Creation. Allows you to conjure the Armageddon Blade, a blade of pure destructive flame and heat that massively amplifies Pyro attribute effects. The blade can cut through almost anything and constantly burns with the Flames of Armageddon that it can unleash. The Flames of Armageddon are beyond mere flames; they embody oblivion, they don't simply burn, they burn away existence itself. Instead of reducing to ash, they erase the remains of the object. The stronger you are, the more potent the flames are. By expending enough energy, you can unleash them like a sword beam.
 1077.Frozen Dawn,7.1
 #The Frozen Dawn, or the Frigid Spear of Sun's End. Allows you to conjure a Frozen Spear that massively amplifies the power of all Cryo attributes when held. The spear is capable of unleashing hellish frigid energy that can even freeze energy like mana and kinetic energy. Anything stabbed by it is doomed to freeze, even including their mana and life; the weaker they are compared to the user, the faster they freeze. You can also create additional boomer spears to launch as projectiles.
@@ -2177,19 +2177,19 @@ You are able to weaken effects and abilities by being in contact with them. The 
 1088.Power Opression,5.2
 #You are able to release an aura of power-dampening around yourself. The effectiveness of the power dampening depends on the power difference between you and the target; weak enough targets will be completely suppressed, while strong enough targets can resist the effects.
 1089.Tinker - Vehicles(I),1.7
-#This tinker ability makes you supernaturally good at designing, modifying and building Vehicles. The vehicles you build are certainly marvels of engineering and maybe beyond, but they cannot go beyond the levels of your current world.
+#(Tech)This tinker ability makes you supernaturally good at designing, modifying and building Vehicles. The vehicles you build are certainly marvels of engineering and maybe beyond, but they cannot go beyond the levels of your current world.
 1090.Tinker - Vehicles(II),2.6
-#This tinker ability allows you to build, design and build technology and technological constructs related to Vehicles. Such as a sports car that is better armoured than a tank, an all-terrain motorcycle including air, a train that projects train tracks below it using hard light, etc. But you won't be building Killdozers anytime soon.
+#(Tech)This tinker ability allows you to build, design and build technology and technological constructs related to Vehicles. Such as a sports car that is better armoured than a tank, an all-terrain motorcycle including air, a train that projects train tracks below it using hard light, etc. But you won't be building Killdozers anytime soon.
 1091.Tinker - Vehicles(IV),6.7
-#This tinker ability allows you to build, design and build technology and technological constructs related to Vehicles. Allowing you to build things such as proper space vessels, supersonic flying cars, adding things such as weapons, hard light shield emitters and being able to borrow ideas from weak minor tinker abilities to improve your vehicle designs.
+#(Tech)This tinker ability allows you to build, design and build technology and technological constructs related to Vehicles. Allowing you to build things such as proper space vessels, supersonic flying cars, adding things such as weapons, hard light shield emitters and being able to borrow ideas from weak minor tinker abilities to improve your vehicle designs.
 1092.Tinker Vehicles(V),8.3
-#No such thing as a vehicle overkill enough. This tinker ability allows you to build, design and build technology and technological constructs related to Vehicles. Whether that is FTL drive starships, a warp drive motorcycle, or a goliath doomship, or a spacecraft that can survive landing on a star. Or just a really dapper car. As long as it's a vehicle, you can build it.
+#(Tech)No such thing as a vehicle overkill enough. This tinker ability allows you to build, design and build technology and technological constructs related to Vehicles. Whether that is FTL drive starships, a warp drive motorcycle, or a goliath doomship, or a spacecraft that can survive landing on a star. Or just a really dapper car. As long as it's a vehicle, you can build it.
 1093.Tinker - Bio(I),3.4
-#This tinker ability makes you supernaturally good at designing, modifying and building biological constructs. At this level, you can probably crossbreed and genetically modify plants and create items related to biology, like simple biomonitors, etc.
+#(Tech)This tinker ability makes you supernaturally good at designing, modifying and building biological constructs. At this level, you can probably crossbreed and genetically modify plants and create items related to biology, like simple biomonitors, etc.
 1094.Tinker - Bio(II),5.1
-#This Tinker ability allows you to build technology and technological constructs related to biology and altering biology. Such as operating tables and tools to modify biology, modifying bones to be super shock absorbent and dense, creating an artificial heart that gives someone an increased regeneration factor, and seamless biological replacement limbs. Creating homunculi, etc.
+#(Tech)This Tinker ability allows you to build technology and technological constructs related to biology and altering biology. Such as operating tables and tools to modify biology, modifying bones to be super shock absorbent and dense, creating an artificial heart that gives someone an increased regeneration factor, and seamless biological replacement limbs. Creating homunculi, etc.
 1095.Tinker - Bio(III),6.4
-#This Tinker ability allows you to build technological constructs or contraptions related to biology and living organisms. Such as homunculi vats, completely overhauling biology, genetic alteration, creating and designing living beings from scratch. You can even create incredibly potent viruses.
+#(Tech)This Tinker ability allows you to build technological constructs or contraptions related to biology and living organisms. Such as homunculi vats, completely overhauling biology, genetic alteration, creating and designing living beings from scratch. You can even create incredibly potent viruses.
 1096.Tinker - Bio(IV),7.8
 #(Tech)Allows you to build technological constructs or contraptions related to biology and living organisms. Such as Cloning Vats, granting biological powers, cracking the codes of genetically passed down powers, complete genetic overhauling, sentient viruses that assimilate into people's bodies and eat them inside out, and much more.
 1097.Tinker - Bio(V),8.3
@@ -2204,7 +2204,7 @@ You are able to weaken effects and abilities by being in contact with them. The 
 #(Tech)Allows you to design, modify and build technology and technological constructs related to alchemical reagents, potions and production of those items. You can craft incredibly potent potions such as healing potions that restore limbs perfectly, mana boosting potions, ultra steroids, and permanent buff potions that grant physical traits up to Epic Tier and many more alchemical reagents.
 1102.Tinker - Alchemy(V),7.8
 #(Tech)Allows you to design, modify and build technology and technological constructs related to alchemical reagents, potions and production of those items. You can create miracles with alchemy if you have enough resources, Panaceas, Elixirs, Ichor, whatever can be crafted from alchemy, you can create it, even make Elixirs that can grant physical traits up to Legendary rank.
-1103.Tinker - Augments(I),1,8
+1103.Tinker - Augments(I),1.8
 #(Tech)Allows you to design, modify and build technology and technological constructs related to Augments and Implants. At such a low level, you can only do augmentations such as replacement limbs, metal bone plating, camera eyes, and functional metal teeth. You are also skilled at performing surgeries to install said augments.
 1104.Tinker - Augments(II),2.9
 #(Tech)Allows you to design, modify and build technology and technological constructs related to Augments and Implants. Such as simple enhanced camera eyes, subdermal armour, reinforced tendons, hormone regulators, hidden blades and guns, etc. You are also skilled at performing surgeries to install said augments.
@@ -2235,23 +2235,23 @@ You are able to weaken effects and abilities by being in contact with them. The 
 1117.Tinker - Ranged Weapon(V),8.5
 #(Tech)Allows you to design, modify and build technology and technological constructs related to ranged weapons. The weapons you build rival the weapons of the gods. Make a sniper rifle that rips a hole through space to instantly land the bullet between an enemy's head. Make a pistol that shoots a compressed nuclear explosion. Make a giant canon that makes the Death Star look like a sad, wet fart. The only limit is the resources you have and the time you are willing to invest into it.
 1118.Tinker - Fortification,4.9
-#This Tinker specialisation allows you to build, design, modify and create technology and technology related to fortifications. Never worry about being invaded again, creating technology such as self-repairing walls, hidden turrets, proximity sensors, missile batteries, laser traps, spatial locks, etc. Tech made with this specialisation only works when attached to a sufficiently large building or area. 
+#(Tech)This Tinker specialisation allows you to build, design, modify and create technology and technology related to fortifications. Never worry about being invaded again, creating technology such as self-repairing walls, hidden turrets, proximity sensors, missile batteries, laser traps, spatial locks, etc. Tech made with this specialisation only works when attached to a sufficiently large building or area. 
 1119.Tinker - Resident Evil,6.0
-#Resident Evil - This Tinker ability allows you to build technology and constructs from the Resident Evil Universe. More specifically, you can design and cultivate the viruses, such as the Tyrant Virus, the Uroboros Virus, the Progenitor Virus, parasites, etc. This Tinker ability is rather time-intensive due to the amount of time needed to cultivate Viruses. With time, you could even modify the viruses to get rid of side effects, eventually. ...It will take a lot of trial and error.
+#(Tech)Resident Evil - This Tinker ability allows you to build technology and constructs from the Resident Evil Universe. More specifically, you can design and cultivate the viruses, such as the Tyrant Virus, the Uroboros Virus, the Progenitor Virus, parasites, etc. This Tinker ability is rather time-intensive due to the amount of time needed to cultivate Viruses. With time, you could even modify the viruses to get rid of side effects, eventually. ...It will take a lot of trial and error.
 1120.Tinker - Aperture Science,5.7
-#Portal - This Tinker ability allows you to build technology of the Aperture Science Labs. Including turrets, portal guns, speed and jump gel, anti-fall boots, rudimentary non-combat robots, strong AI and much more. What it lacks in raw power, it makes up for in breadth of utility.
+#(Tech)Portal - This Tinker ability allows you to build technology of the Aperture Science Labs. Including turrets, portal guns, speed and jump gel, anti-fall boots, rudimentary non-combat robots, strong AI and much more. What it lacks in raw power, it makes up for in breadth of utility.
 1121.Budding,5.8
 #You are capable of granting people abilities by giving them buds of your own abilities that manifest as sidegrades. The buds cannot be stronger than Elite rank, and the maximum level of ability a target can hold depends on their own innate talents. The ability you budded is made weaker until they can fully assimilate the ability as their own, at which point you can retrieve the bud from them and restore your strength. You can retrieve buds anytime.
 1122.Tinker - Taimanin,7.0
-#(Tech)(Lewd) Taimanin - Allows you to learn, research and build technology from the Taimanin universe. Granting you access to technology such as advanced prosthetics, genetic modification, basic cloning, augments, brainwashing, demonization and a whole lot of other... lewd technology in addition to the basic sci-fi package.
+#(Tech)(Nsfw) Taimanin - Allows you to learn, research and build technology from the Taimanin universe. Granting you access to technology such as advanced prosthetics, genetic modification, basic cloning, augments, brainwashing, demonization and a whole lot of other... lewd technology in addition to the basic sci-fi package.
 1123.Tinker - Cosmetics,2.0
-#Tinker - This Tinker ability allows you to modify, create and design technological constructs related to cosmetics and appearances. Hyper-realistic masks, making an existing machine look good, holograms, beauty cream, perfumes, etc.
+#(Tech)Tinker - This Tinker ability allows you to modify, create and design technological constructs related to cosmetics and appearances. Hyper-realistic masks, making an existing machine look good, holograms, beauty cream, perfumes, etc.
 1124.Tinker - Electricity,6.7
-#Tinker - This Tinker speciality allows you to build, modify, and design technological constructs relating to electricity. Ultra Tesla coils, harnessing thunder from above, and just about anything that harnesses the power of electricity(separate from magnetism).
+#(Tech)Tinker - This Tinker speciality allows you to build, modify, and design technological constructs relating to electricity. Ultra Tesla coils, harnessing thunder from above, and just about anything that harnesses the power of electricity(separate from magnetism).
 1125.Tinker - Dungeonmaster,6.5
-#Tinker - This Tinker speciality allows you to build constructs, magical or technological, relating to the creation of dungeons and dungeon-related contraptions. You are able to create dungeon rooms that are larger on the inside than outside, nigh indescrutable walls, numerous traps that only work inside the dungeon, several utility dungeon rooms, etc. But your Dungeon must have at least one accessible entrance and a plausible way to reach the core for an invader. Tech from this specialisation only works inside the dungeon, and all tech inside the dungeon is boosted.
+#(Tech)Tinker - This Tinker speciality allows you to build constructs, magical or technological, relating to the creation of dungeons and dungeon-related contraptions. You are able to create dungeon rooms that are larger on the inside than outside, nigh indescrutable walls, numerous traps that only work inside the dungeon, several utility dungeon rooms, etc. But your Dungeon must have at least one accessible entrance and a plausible way to reach the core for an invader. Tech from this specialisation only works inside the dungeon, and all tech inside the dungeon is boosted.
 1126.Tinker - Sustenance,2.8
-#This tinker speciality allows you to build, modify and design constructs related to sustenance. You can create things such as efficient farms, incredibly efficient water purifiers and water condensers, blood alternatives for vampires, hyper-efficient food bars, life force alternatives made specifically for consumption, greater light projectors for plants, etc. The more different kinds of sustenance requirements you encounter, the more varied tech you can make.
+#(Tech)This tinker speciality allows you to build, modify and design constructs related to sustenance. You can create things such as efficient farms, incredibly efficient water purifiers and water condensers, blood alternatives for vampires, hyper-efficient food bars, life force alternatives made specifically for consumption, greater light projectors for plants, etc. The more different kinds of sustenance requirements you encounter, the more varied tech you can make.
 1127.Mystic Eyes of Depth Perception,0.2
 #These mystical eyes allow you to supernaturally gain awareness of the depth of an object or location in relation to something else.
 1128.Swiftness,2.4
@@ -2511,4 +2511,18 @@ Get your head in the game and start fighting. Using this ability fills your body
 1254.Tanuki's Leaves,3.6
 #You to wield the leaves used by Tanuki Yokai, allowing you to conjure leaves that you can shapeshift into any object you desire, changing their size, texture etc. the durability and longevity of your shapeshifted leaves is proportional to the amount of energy you supply to them, once the energy runs out the leaf turns back to normal. You can also place leaves on top of people to disguise them, with the duration lasting as long as you keep supplying it energy.
 1255.Tonguelash,1.5
-#Allows you to reinforce and elongate your tongue to several to dozens of meters, to use as a whip, another limb, or the other obvious use cases. 
+#Allows you to reinforce and elongate your tongue to several to dozens of meters, to use as a whip, another limb, or the other obvious use cases. 1256.Meal,2.6
+1256.Meal,2.6
+#Allows you to enhance the properties of the food you cook, making them more nutritious and amplifying the properties the ingredients already had while enhancing their taste proportional to how well you cooked the dish.
+1257.Mental Out,6.4
+#Toaru - Mental Out allows you to control the minds of humans and human adjacent creatures with incredible precision, being able to control them, change their minds, personalities, and even subtly manipulate them, but using your ability on a target creates a marking in their eye, so beware. This ability works by hyper-specialized ultra-micro hydrokinesis. If the target is not close enough to human biology, you will have to study their biology extensively to adapt your ability to it. The effectiveness of Mental Out scales with the power difference between you and the target.
+1258.Rebake,2.2
+#You can expend your energy to recreate any food you have cooked with your very own hands. The created food is an exact replica that is a permanent matter. The energy cost depends on the complexity of the food, how expensive its ingredients are, and the volume of the food you are creating. Cannot create food with supernatural effects.
+1259.Rasengan,3.8
+#Naruto - Allows you to weave your energy into an energy sphere rotating in multiple directions that can inflict incredible damage on hit. But to make it properly, one needs time and concentration to build up the force. With enough training, you can increase the size of the Rasengan and even use it as a projectile. Rasengan can also be combined with abilities that have elemental properties to use elemental variants of the ability.
+1260.Thought Acceleration,2.6
+#Fate - By concentrating, you can increase the speed at which your brain processes information to think faster in less time. With enough practice and combat skills, it can also be used in combat. Beware that overusing it can have negative consequences.
+1261.Eros Hide,1.1
+#(Nsfw)Allows you to erect an aura around yourself and your partner, making it so that people do not perceive your actions done in that aura as sexual or indecent. You could have sex in public and no one would bat an eye.
+1562.Caladrious Form,5.1
+#Allows you to turn into, or a hybrid of, the Caladrious, the white bird of healing. In Caladrious form, you possess slightly enhanced physical abilities, but your real ability is the ability to discern sickness with your eyes, and by making contact with a disease or cursed target, you can absorb their ailment into yourself. In this form, you possess great resistance against curses and illnesses, and by bathing under sunlight, you can slowly purge these effects from yourself; the speed at which you purge scales with your energy reserves. While in this form, unholy and dark abilities cannot be used, but holy and recovery abilities are enhanced.

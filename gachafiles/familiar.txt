@@ -70,8 +70,8 @@
 #Pokemon - A legendary bird of flame that is said to bring spring with its flaming wings. Moltres has potent prokinetic abilities, being able to rain down fire, control fire and breathe intense flames that can melt steel. But its physical abilities are not on par with its pyrokinetic abilities.
 36. Zapdos, 4.0
 #Pokemon - A legendary bird of lightning that often heralds the arrival of storms. Zapdos has potent electrokinetic abilities, being able to call down thunder from the skies, absorb lightning into itself and release lightning breath attacks.
-37. Thunderbird, 4.3
-#Hota - A thunderbird of legend, existing as the counterpart to the mythical Pheonix. It is capable of moving extremely quickly and controlling the weather, summoning rain and thunder down at will as well as being able to release it itself. She is a female and is capable of laying eggs, do not ask who the father is.
+37. Thunderbirds, 4.5
+#Hota - A pair of thunderbirds, fierce predators of the sky with powers over weather and lightning. They are capable of moving extremely quickly and controlling the weather, summoning rain and thunder down at will as well as being able to release it itself. You get a breeding pair.
 38. Wooper, 1.0
 #Pokemon - A derpy-looking water creature. It can spray water from its mouth and is stronger than a human but otherwise, its greatest strength is its charming derpy look.
 39. Gardevoir, 6.0
@@ -715,6 +715,20 @@
 368.Toriel,4.2
 #Undertale - Toriel is the former queen of the underground and a goat monster. As a boss monster, she posesses greatly superhuman physical abilities strong enough to lift dozens of tons and can utilize fire magic to create walls of flame, explosive fireballs, or to simply cook with in tandem with somewhat potent healing magic. But she is not a skilled combatant due to her kind disposition. And she is also an excellent cook.
 369.Undyne,3.9
-#Undertale - Undyne is a fish monster and the leader of the underground royal guard. As a boss monster, she has notable physical abilities strong enough to suplex large boulders with ease, and her signature magic allow her to conjure magical spears that either burst out of the ground or manifest in the air and rain down and projectiles. She is also a very skilled combatant who can also function as a 
+#Undertale - Undyne is a fish monster and the leader of the underground royal guard. As a boss monster, she has notable physical abilities strong enough to suplex large boulders with ease, and her signature magic allow her to conjure magical spears that either burst out of the ground or manifest in the air and rain down and projectiles. She is also a very skilled combatant who can also function as a drill instructor in physical development and polearm mastery.
 370.Junimo,1.8
 #Stardew Valley - Junimos are lesser forest spirits and are called the keepers of the forest. They are supernaturally good at maintaining forests, wildlands, and farms, as well as farming effectively, but lack any offensive abilities. You get 50 Junimos, and that number increases as you get stronger.
+371.Evil and Intimidating Horse,0.9
+#An otherwise regular, incredibly healthy thoroughbred horse with great genetics but is very intimidating and evil.
+372.Penny Polendina,4.3
+#(Character)(Tech)Rwby - "I'm combat ready!" Penny is an android, an artificial lifeform with a soul of her own, granting her the ability to use her own aura. In addition, thanks to her robotic physique, she has great physical abilities boosted by her aura, a flight module, as well as cores that prevent her from dying unless all of them are destroyed. She also has computational abilities expected from a machine. She also has multiple blades she can control remotely, called the Floating Array. Due to her artificial soul, she cannot unlock the Auras of others, and she also comes with some extra equipment to facilitate copulation.(Not Winter Maiden)
+373.Beowolf Pack,2.2
+#Rwby - A pack of Beowolves, the basic type of Grimm made of black evil fluid, the size of a large bear with the characteristics of a wolf. A single Beowolf alone is strong enough to flip over cars and bisect a grown man, and as a Grimm, it is capable of using strong negative emotions as a compass. You start with 10 Beowolves and gain more of them as you become stronger.
+374.Centorea Shianus,2.5
+#(Character)Monster Musume - Centorea is a Centaur who has been trained in the ways of knighthood. Thanks to her physiology and her skills, she is a rather powerful combatant, being able to practise swordsmanship, archery, and jousting with formidable skill. She is also quite skilled in housework and can run faster than most horses.
+375.Yellow Chocobo,1.0
+#Final Fantasy - Chocobo's are fiercely intelligent birds who are excellent riders that serve as great mounts. They can run for quite a while without getting tired and are generally as fast as horses. If the need arises, they can also use their powerful legs to kick attackers. You get a breeding pair.
+376.Holy Cow,1.5
+#"Holy Cow!" Is a Holy Cow, quite literally, a large, healthy female cow that always lactates and can be milked for 10 and up to 50 liters of milk per day, depending on how well fed she is. Thanks to her holy origins, the milk she produces is truly extraordinary, having great health benefits, nutrient-dense, and of incredible quality compared to mundane milk. It can also function as low-quality holy water against unholy. Any children she has will mostly inherit her incredible genes and holy blessing.
+377.Cathyl,1.7
+#(Character)Monster Musume - Cathyl is a minotaur, a species of Liminals known for robust physiques and their milk. She towers over the average human and is 10x stronger than a grown man and has exceptional stamina, making her well-suited to labour, especially with her experience farming and ranching. In addition, she naturally lactates and produces very nutritious, rich, and tasty milk, a trait that Minotaurs are prized for.

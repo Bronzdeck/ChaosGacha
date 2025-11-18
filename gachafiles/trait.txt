@@ -398,8 +398,8 @@
 #Every time you return from near death all of your stats are increased permanently.
 200. Black Heart,6.3
 #Solo Levelling - You have a second metaphysical heart that massively increases your mana capacity and regeneration while also boosting all necromancy abilities significantly.
-201. Mana Heart,5.8
-#Your heart pumps mana instead of blood, and your energy capacity and regeneration are massively increased.
+201. Energy Heart,5.8
+#Your heart is replaced with a more metaphysical alternative that pumps raw energy through your veins instead, massively increasing your maximum energy reserves and adding your natural regeneration speeds to your energy regeneration speed alongside your regular energy recovery.
 202. Mana Substitution,4.0
 #Whoever said you needed paltry things such as blood, food, water, or air to breathe were liars. You can substitute any of those things with your own mana but don't depend on it for too long, or else you may instantly die when you run out of mana.
 203. Iron Mind,3.3
@@ -682,7 +682,7 @@
 #Race(Invincible) - You are a viltrumite, one of the fiercest warrior races of the galaxy. As a vitrumite, you possess an incredibly powerful body and the ability to freely fly. You are almost invulnerable to most things but are vulnerable to a specific sound frequency.
 342.Kryptonian,8.8
 #Race(DC) - You are a Kryptonian, enough said. Your physical and energy reserves increase the more sunlight you take, in addition, you have heat vision, ice breath, high-speed flight, no need to breathe, tactile telekinesis, X-ray vision, and probably more. Under the yellow sun you are basically a living god. 
-343.Saiyan,6.4
+343.Saiyan,7.0
 #Race(Dragon Ball) - You are a Saiyan warrior, having a great natural physique and a monkey tail as a weakness. When exposed to a full moon you turn into a rampaging giant monkey with massively increased stats. Don't expect to be too strong too soon, even Goku needed decades of training from the greatest martial artists.
 344. Child of Man,8.4
 #Warhammer 40 - You are the child of the God Emperor of Mankind himself, sharing most of his attributes like his gifted physique, charisma, martial prowess, scientific gift and the talent to be possibly the strongest Psyker. You are capable of mastering all Psyker Disciplines(Not related to Chaos) and reaching levels where you may eventually be able to tear apart a planet with your Psyker power alone, as long as you train enough. Your psyker power is not connected to the Warp but emulates its power 
@@ -904,7 +904,7 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 #(Nsfw)"Not the one you are thinking of" Your cum refills almost instantly, and the volume of your ejaculations is substantially increased.
 453.Scarousing,3.3
 #For some reason, the scarier you act, instead of being rightfully terrified, people that you consider potential partners are also equal parts aroused by you. The mind works in mysterious ways.
-454.Larger than Life,1,4
+454.Larger than Life,1.4
 #People feel like your presence is larger than it should be. Even if you are a head shorter than them, it will still feel like you are towering over them.
 455.Speak of the Devil,4.8
 #-And they shall appear. You become instantly aware of the location of someone in relation to you whenever they say your name while intending you. You are able to sense their location for around 5 minutes when they speak your name like a GPS, and can use them for anchors for stuff like teleportation abilities or Curses.
@@ -1108,3 +1108,21 @@ You are a psionic, someone who specialises in the Mind and Mental world. Grantin
 #Your stomach is 1000x larger on the inside than the outside, don't ask how it works. You can keep eating and you will digest the food inside of you on a need to basis without feeling discomfort, allowing you to eat months worth of food ahead of time and not worry for a month, same for water. Thankfully, the stomach is very efficient so you also only produce 1/1000th of the waste.
 555.Tanuki,4.6
 #Race Change - You are a Tanuki, a racoon-dog(?) yokai, a semi spiritual being who excells in trickery. As a tanuki you can shift between your tanuki form and humanoid form and in between. You also posess increased energy reserves and increased affinity towards Stranger abilities and traits, allowing you to use and master them easier as well as use them more efficiently. You can naturally use the ability [Tanuki's Leaves(Rare)] without needing an ability slot.
+556.Throat,0.4
+#You no longer have a gag reflex, and your throat is always perfectly moist... and lubricated? At least you won't get a sore throat?
+557.Hagmaxxing,2.5
+#Your preferred partners at least twice your age are more attracted towards you, and it is easier to earn their favor. In addition, your romantic partners and your looks never age beyond their peak. Does not stop physical aging.
+558.Violence of Heaven,5.4
+#You wield a body blessed by the Heavenly realm to carry out violence in their stead. All your physical abilities are augmented, and these boosts are further amplified in blessed grounds. You possess an increased resistance against curses, necromancy, and darkness-based attacks. Even a regular joe would be able to flip cars and break the bones of demons.
+559.Harphy,3.7
+#Race Change - You are a half avian creature, possessing the characteristics of a hawk creature mixed with your own race. You have slightly enhanced physical abilities and senses, alongside heightened predatory instincts. In addition, you have retractable talons and wings either fused into your arms, shoulder blades, or back. With training, you can learn to suppress your more avian characteristics. You possess increased wind affinity but decreased water affinity.
+560.Roc,4.8
+#Race Change - You are a Roc hybrid, a creature that possesses the characteristics of a Roc, mixed with your own race, a giant elephant-eating hawk. You possess increased strength and durability, incredible but sensitive eyesight, and hearing alongside fearsome predatory instincts. You possess large, powerful wings either fused to your arms or back, at least as strong as your arms, and allow you to fly and dive with great speed, as well as retractable talons that are tougher than steel. You possess increased wind affinity but decreased water affinity.
+561.Thunderbird,5.8
+#Race Change - You are a Thunderbird hybrid, possessing the characteristics of the legendary change of the skies. As Thunderbird, you possess enhanced physical abilities with further enhanced agility and reflexes; your eyesight and hearing are also greatly enhanced. You possess wings that allow you to easily fly at great speeds and can flap to release electricity from, and incredibly tough and sharp talons that crackle with lightning. As a Thunderbird, you also naturally have the ability to change the weather, making it sunny, making it rain, making it hail etc but it will consume a lot of energy. You possess increased Wind and Lightning affinity, but are rendered vulnerable to Water and Earth.  
+562.Grand Thunderbird,6.5
+#Race Change - You are the descendant of a Grand Thunderbird, an ancient, legendary Thunderbird with power over weather and lightning. As a Grand Thunderbird, you possess a great physique with incredible enhanced agility and reflexes; your eyesight and hearing are unmatched. You possess wings that allow you to easily fly at supersonic speeds and incredibly tough and sharp talons. You can also cloak yourself in and discharge electricity from your body. As a Grand Thunderbird, you can naturally manipulate the weather of the area you are in, bringing rain, open sky, clouds, and can even rain down lightning. You possess increased Wind and Lightning affinity, but are rendered vulnerable to 
+563.Ziz,7.8
+#Race Change - You are a Child of Ziz, one of the Primordial beasts, rival to Behemoth and Leviathan, ruler of the skies. As a kin of Ziz, you possess greatly enhanced physical and magical abilities, as well as the ability to reveal and hide your true form at will, partially or fully transforming into a titanic avian beast. You naturally possess the ability to manipulate the weather, calling down storms, blizzards, rain, hurricanes, tornadoes, etc., at will, as well as raining down greater lightning. All Weather-based abilities and spells are greatly enhanced; you greatly resist all Wind, Ice, and Electricity-based abilities. Your energy and health recovery are enhanced when under the open skies. You possess decreased Water and Earth affinity.
+564.Allowance,2.2
+Whichever city you are currently living in, you get the equivalent of 2x the daily minimum wage for that city/country either deposited into your account or transported into your wallet every single day.

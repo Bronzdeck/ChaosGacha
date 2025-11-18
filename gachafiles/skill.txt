@@ -35,7 +35,7 @@
 18. Intermediate Item Construction, 3.3
 #You know how to make decent magical and enchanted items, if you know fire magic, you can turn a regular sword into a sword that can light itself on fire on command. If you have the ability Invisibility, you can probably make a cloak that suppresses your presence.
 19. Polar Channel flow - Celluar Overdrive, 3.5
-#You have mastered the Pugilist skill of pushing every?single?cell in your body to their absolute limits drawing up every ounce of energy they have to augment all of your stats to their limits.?Using this skill places immense strain on the body and repeated use may cause permanent damage.
+#You have mastered the Pugilist skill of pushing every single cell in your body to their absolute limits drawing up every ounce of energy they have to augment all of your stats to their limits.Using this skill places immense strain on the body and repeated use may cause permanent damage.
 20. All Life Eradication Fist, 8.4
 #One punch Man - The pinnacle of all martial arts, the fusion of the mastery of dozens of supernatural martial arts and the knowledge granted by god, you are able to manipulate the flow of cosmic and all forms of energy with your martial arts and are able to replicate almost any known phenomenon. You must be sufficiently physically strong to be able to utilize this skill in any meaningful capacity.
 21. Spear of Untraceable Trajectory, 6.7
@@ -532,3 +532,11 @@ Persuasion is your skill in convincing people. At novice rank you are slightly b
 #You have the skills of an Expert Renowned Artist, having impressive skill in most fine arts such as Drawing, Painting, Sketching, Sculpting, Engraving, etc., and in general, the art of making things more aesthetically pleasing comes naturally to you. Your works of art would be put in a museum and sell for great amounts of money at auctions, you have the skills to make paintings that evoke great emotion and sculptures that almost look alive. If these were the medieval times, Nobles would line up for your services, and your name would go down in history.
 267.Master Fine Arts,5.4
 #You have the skills of a true Master Artist. Having incredible, almost supernatural skill in most fine arts, Drawing, Painting, Sketching, Sculpting, Engraving, etc., and in general, the art of making things more aesthetically pleasing comes naturally to you. Given some time and inspiration, you can produce masterpieces; you instinctively know what kind of aesthetics appeals to what kinds of people, how to pour your thoughts and emotions into your works, and create art that can shake the hearts of even the sternest art critics. You would most likely be renowned as one of the greatest in art history. And you are the exact kind of person they speak in legends of gods being pissy about mortals beating them in a game of skill and cursing them.
+268.Farming,1.9
+#You have extensive farming knowledge and skills that can compete with the most experienced of farmers, including how to maintain a farm, care for livestock, know how to maintain soil, etc.
+269.Sign Language,0.8
+#You know how to use the basic sign language of this world as well as you can speak your native language. 
+270.Mental Image Blocking,1.9
+#Batman - You have learned a technique to block out mind readers and telepaths by masking your real thoughts with conjured mental images, taught to you by the ever-elusive Tibetan Monks
+271.Mind Control Resistance,3.1
+#Batman - Thanks to the teachings of the Tibetan Monks you have learned how to resist Mind Control and Mind Reading. The amount of resistance you can put up is proportional to your mental strength and overall power level.
