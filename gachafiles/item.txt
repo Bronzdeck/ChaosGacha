@@ -21,7 +21,7 @@
 11. Spear of Longinus X, 5.5
 #Evangelion - A large red spear that adjusts size according to its user and changes its shape according to their needs, this spear can tear through even the strongest of barriers. When stabbed into the body of a god it will lock down their soul and render them paralyzed until it is removed.
 12. Invisible Air, 4.0
-#Fate Artoria - Barrier of the wind king is a barrier made of several layers of extremely compressed air that the user can control at will
+#Fate Artoria - Barrier of the wind king is a barrier made of several layers of extremely compressed air that the user can control at will, to either release in destructive bursts, cover an object in to render them invisible or to reinforce an existing weapon in incredibly powerful winds.
 13. Gae Buidhe, 4.2
 #Fate Diarmuid - A legendary spear carried by the hero Diarmuid. This spear is cursed to make the wounds inflicted never close whether it is by traditional healing or through magic that is below Legendary Level. The curse is also dispelled when the owner dies or the spear is broken. If the spear is broken, a skilled enough blacksmith or crafter may still be capable of mending it back together.
 14. Gae Dearg, 4.8
