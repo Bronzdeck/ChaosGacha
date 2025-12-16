@@ -1302,8 +1302,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Worm Victor - Allows you to drain the skills of people through touch, for example, you can drain the swordsmanship skill of a swordsman to worsen their skill and improve yours, but your skill cannot exceed the one you are stealing so you can't become a sword god by absorbing the skills of 1000 basic swordsmen.
 652.Velocity,3.6
 #Worm - You move 10x faster but your influence on the world is 10x less. While you are 10x faster, you will also punch 10x times weaker and air resistance will be 10x stronger, etc.
-653.God Hand,7.8
-#Fate - Grants you nine lives, every time you die with Nine Lives active you will be resurrected at full health and you will gain a high level of resistance towards what killed you previously.
+653.Chameleon Hide,1.1
+#As long as you stand still, you become invisible by bending light around yourself.
 654.Rinnegan,8.6
 #Naruto - The ultimate eyes that grant you the ability to utilize six abilities collectively known as the Six Paths Technique: controlling attractive and repulsive forces with the Deva Path; mechanically altering one's body with the Asura Path; extracting souls through the Human Path; summoning various creatures through the Animal Path; absorbing chakra through the Preta Path; and access to the King of Hell through the Naraka Path. A seventh ability, called the Outer Path, is said to allow the user to preside over life and death, granting them the ability to revive the dead. In addition, you can clearly see the flow of energy and have unparalleled sensory abilities.
 655.Object Attraction,0.8
@@ -1791,7 +1791,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 897. Mystic Eyes of Flaw Perception,6.2
 #{Mystic Eyes} When MEFP is activated, you are able to deduce and see the weaknesses in objects and creatures highlighted in red. A weak spot in armor, an Achilles heel, a structural flaw, you can see it all. With training, you can even understand the flaws and you can access break points, by destroying a break point you can deal severe damage to creatures, collapse entire buildings, and hitting the small break points in spells dispel them.
 898. Enhanced Senses,4.1
-#You are able to freely enhance all 5 of your senses with energy, enhance your sigh to the point where you can see country to country, smell to the point where you can track people from scent marks left months ago, hearing to the point where you can hear a pin drop a city away, etc. as long as you have enough energy.
+#You are able to freely enhance all 5 of your senses with energy, enhance your sight to the point where you can see country to country, smell to the point where you can track people from scent marks left months ago, hearing to the point where you can hear a pin drop a city away, etc. as long as you have enough energy.
 899. Sixth Sense,4.6
 #Allows you to sense intent directed at you like hostility, malintent, or killer intent. You can accurately tell where it is coming from too but trained killers may be harder to tell apart due to their training.
 900. Dangersense,3.8
@@ -1845,7 +1845,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 924. Open Frenzy,5.5
 #"Shed all worldly concerns and embrace slaughter." When open frenzy is activated you lose all inhibitions, pain turns into pleasure, and all of your stats get massively enhanced. But the amount of energy inside you will slowly tear apart your body as you fight and with the sense of limitless power, you might be inclined to not turn the power off.
 925. Karmic Enforcement,6.6
-#"Tit for Tat" Allows you to enforce Karma.
+#"Tit for Tat" Allows you to enforce Karma. Any exchange done adds up karma, and you can enforce that karma if it is unfullfilled, if you have saved someone's life and they have not repaid you, you can enforce garma and force them to do any action or any number of actions that equate to the karmic value of their life.
 926. Fire Dragon Slayer,6.9
 #Fairy Tail - Allows the user to transform into and wield the powers of a fire dragon. Allowing them to generate fire from their body that they can control and even devour flames. They also have great control over their flames, being able to alter their properties such as making them blunt or sharp. They are also immune to all fire below their level and can eat flames to recover their vitality and energy. By consuming other sources of magic they can temporarily incorporate it into their own flames.
 927. Water Dragon Slayer,6.5
@@ -1890,9 +1890,9 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #"Power for Pain" For every 1% of health you lose with Blood Escalation active, all of your stats increase by 1%, as soon as you leave combat this increase resets.
 947.D4C,8.8
 #JoJo - Allows you to open doors to parallel worlds, by trapping yourself between two objects you can travel the infinite parallel world. You can also pull people out of parallel worlds and into your own, including yourself who is fully aware you are the original and has no qualms with it. If you ever die, all of your abilities and the gacha are transferred to a random you across the multiverse.
-948.Obito's Mangekyo Sharingan Left ,6.0
-#Naruto - You possess the Left eye of Obito Uchiha, granting you access to half of the Kamui technique and all the benefits of the Sharingan such as incredible visual prowess and instant memorization. With the left eye, you get access to a short version of the Kamui at any time, granting you access to an endless pocket dimension in your Left eye. You can transport yourself into the Kamui to move across the real world by moving through it and leaving in a different location. You can also semi-transport yourself into the Kamui to render yourself intangible at the cost of stamina. Lastly, you can also send objects you are touching into the Kamui realm.
-949.Obito's Mangekyo Sharingan Right,5.8
+948.Obito's Mangekyo Sharingan Right ,6.0
+#Naruto - You possess the Right eye of Obito Uchiha, granting you access to half of the Kamui technique and all the benefits of the Sharingan such as incredible visual prowess and instant memorization. With the left eye, you get access to a short version of the Kamui at any time, granting you access to an endless pocket dimension in your Left eye. You can transport yourself into the Kamui to move across the real world by moving through it and leaving in a different location. You can also semi-transport yourself into the Kamui to render yourself intangible at the cost of stamina. Lastly, you can also send objects you are touching into the Kamui realm.
+949.Obito's Mangekyo Sharingan Left,5.8
 #Naruto - You possess the Left eye of Obito Uchiha, granting you access to half of the Kamui technique and all the benefits of the Sharingan such as incredible visual prowess and instant memorization. With the right eye, you get access to the long-ranged version of the Kamui granting you access to an endless pocket dimension in your Left eye. Also allowing you to create ranged barrier spaces that you can use to suck objects and people into the Kamui, or you can essentially shut the door on them halfway into the dimension to kill them. You can also create this barrier around yourself in practice to access the dimension. The larger the barrier you create, the more energy it consumes.
 950.Obito's Mangekyo Sharingan,7.0
 #Naruto - You possess the Eternal Mangekyo Sharingan of Obito Uchiha in addition to all of the benefits of the regular Sharingan you have full access to the Kamui technique. Granting you access to an endless pocket dimension called the Kamuki. With it, you can create barriers that pull people into your dimension, freely teleport inside it, teleport by leaving it in a different location, use it to become temporarily intangible, and even open portals in space and breach other dimensions with your own ability.
@@ -2511,7 +2511,7 @@ Get your head in the game and start fighting. Using this ability fills your body
 1254.Tanuki's Leaves,3.6
 #You to wield the leaves used by Tanuki Yokai, allowing you to conjure leaves that you can shapeshift into any object you desire, changing their size, texture etc. the durability and longevity of your shapeshifted leaves is proportional to the amount of energy you supply to them, once the energy runs out the leaf turns back to normal. You can also place leaves on top of people to disguise them, with the duration lasting as long as you keep supplying it energy.
 1255.Tonguelash,1.5
-#Allows you to reinforce and elongate your tongue to several to dozens of meters, to use as a whip, another limb, or the other obvious use cases. 1256.Meal,2.6
+#Allows you to reinforce and elongate your tongue to several to dozens of meters, to use as a whip, another limb, or the other obvious use cases. 
 1256.Meal,2.6
 #Allows you to enhance the properties of the food you cook, making them more nutritious and amplifying the properties the ingredients already had while enhancing their taste proportional to how well you cooked the dish.
 1257.Mental Out,6.4
@@ -2524,5 +2524,17 @@ Get your head in the game and start fighting. Using this ability fills your body
 #Fate - By concentrating, you can increase the speed at which your brain processes information to think faster in less time. With enough practice and combat skills, it can also be used in combat. Beware that overusing it can have negative consequences.
 1261.Eros Hide,1.1
 #(Nsfw)Allows you to erect an aura around yourself and your partner, making it so that people do not perceive your actions done in that aura as sexual or indecent. You could have sex in public and no one would bat an eye.
-1562.Caladrious Form,5.1
+1262.Caladrious Form,5.1
 #Allows you to turn into, or a hybrid of, the Caladrious, the white bird of healing. In Caladrious form, you possess slightly enhanced physical abilities, but your real ability is the ability to discern sickness with your eyes, and by making contact with a disease or cursed target, you can absorb their ailment into yourself. In this form, you possess great resistance against curses and illnesses, and by bathing under sunlight, you can slowly purge these effects from yourself; the speed at which you purge scales with your energy reserves. While in this form, unholy and dark abilities cannot be used, but holy and recovery abilities are enhanced.
+1263.Envemon,3.2
+#Allows you to imbibe poison within your own body and use to increase your own performance, greatly increasing physical performance, awareness, alertness, and pain resistance but damages your body with posion.
+1264.Sightline,2.5
+#When activated, creates a red line that connects to everyone that can sense you visually and highlights them through lines.
+1265.Soul Arrow,1.6
+#Darksouls - Draw energy from your life and soul and shape it as a weapon, taking the shape of a simple arrow projectile that can curve in the air towards targets. As the origin of the arrow is linked to the soul, it's power scales with the might of one's soul in addition to their energy levels.
+1266.Great Soul Arrow,2.3
+#Darksouls - Draw energy from your life and soul and shape it as a weapon. This is a more refined and potent version of the Soul Arrow, which forms an arrow-like projectile that can curve in the air towards targets. As the origin of the arrow is linked to the soul, its power scales with the might of one's soul in addition to their energy levels.
+1267.Soul Spear,3.6
+#Darksouls - Draw energy from your life and soul and shape it as a weapon, the power of the soul condensed, refined, and sharpened into a powerful spear that can curve mid-air to home in on enemies and pierce through defences. As the origin of the spear is linked to the soul, its power scales with the might of one's soul in addition to their energy levels.
+1268.Crystal Soul Spear,4.2
+#Darksouls - Draw energy from your life and soul and shape it as a weapon, the power of the soul condensed, refined, and sharpened, and then even further empowered through crystallization takes the form of a crystalline spear that can curve mid-air and pierce with incredible power. As the origin of the spear is linked to the soul, its power scales with the might of one's soul in addition to their energy levels.

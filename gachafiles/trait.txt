@@ -91,7 +91,7 @@
 46. Thermal Balance,3.9
 #You are always thermally balanced to be at a comfortable temperature, as long as the temperature isn't hotter than 1000°C or colder than -100°C your body will always keep an optimal body temprature.
 47. Disney Princess,4.0
-#All animals naturally adore you and are friendly toward you, even supernatural animals quickly take a liking to you.
+#All animals naturally adore you and are friendly toward you, in addition, all Animal or Animal aligned entities take a liking to you easier and it is easier to earn their affection and bond with them. In addition, you are naturally incredibly good at singing even without training.
 48. Sartorial Savant,1.2
 #Your clothes are, for some reason, always clean and tidy, even your wardrobe, and small damages seem to even mend themselves.
 49. Quantum Disentanglement,4.6
@@ -228,8 +228,8 @@
 #Your senses cannot be hindered, you can't be blinded even when sand is thrown at your eyes, and you won't become deaf even if someone sonic blasts your ear. The only way to hinder your senses is by physically ripping out the organ.
 115. Aware,3.2
 #You have an enhanced sense of awareness, far beyond the average. You can easily tell when there is something wrong with your body, it is hard to catch you by surprise and you can more easily tell what is going on around you.
-116. Avian Friend,2.6 
-#Birds and other avian-like creatures that mainly occupy the skies are more friendly toward you and it is easier to earn their affection. In addition, flying is more natural to you.
+116. Avian Ally,2.5
+#You have great affinity with birds, avians, and creatures that are aligned with them. Making it easier to earn their affection and favor, and form relationships with them. In addition, all flight feels more natural to use, and flight effects require less energy to maintain.
 117. Thick Skin,2.1
 #Your skin is way denser and tougher than the average person's, and it is very smooth and nice to touch. This toughness scales with your physical stats, being able to serve as natural armor at higher levels.
 118. Strong Legs,2.4
@@ -256,8 +256,8 @@
 #During tense and dramatic moments like a standoff, a stray tumbleweed will pass by you and your opponent in a dramatic manner. The tumbleweed fades out of existence the moment it stops being observed.
 129. Herbalist,2.1
 #You have a vast knowledge base related to plants, you can easily understand the function and origin of a plant just by looking at it. You can also make basic medicines.
-130. Feline Friend,2.2
-#You are a friend to all cats kind. All felines and feline-related beings are more favorable towards you and it is easier to earn their affection. In addition, you are inordinarily flexible.
+130. Feline Friend,2.9
+#You have great affinity with cats, tigers, felines, and creatures that are aligned with them. Making it easier to earn their affection and favor, and form relationships with them. Thanks to your affinity with felines, you are unusually flexible and possess a heightened sense of balance and slightly improved reflexes.
 131. Sexual Calibration,2.3
 #(Nsfw)All of the minor inconveniences sex once had are now gone, forget about STDs, hygiene precautions, or unwanted pregnancies because you can adjust how all of those interact with you. In addition, you are very talented in the tantric arts.
 132. Golden Shot,1.3
@@ -294,8 +294,8 @@
 #Your entire nervous system is overhauled, and your reflexes are so fast they almost seem like precognition.
 148. Surging Magic Power,4.9
 #Your connection to the mystical is far more potent, any magic you use is far stronger than it normally would be and you can overload spells without breaking them.
-149. Nine Lives,7.4
-#Fate - You have nine lives, every time you die, one of these lives is exhausted and you are returned to full health with a permanent resistance against the attack that took your life. 
+149. Nine Lives,7.0
+#Curiosity killed the cat, but it had 8 lives. You have nine lives, every time you die, one of these lives is exhausted and you are returned to full health.
 150. Scholar,2.1
 #You are an expert at reading, learning, and retaining information, you could read 50 books in a day and still be able to retain all of the information from the individual books. 
 151. Winterman,2.6
@@ -818,8 +818,8 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 #Warhammer 40k - You are a Psyker, a being who draws power from the Immaterium, only you don't, you emulate their powers through the infinite Chaos instead. As a Psyker specialising in Telepathy, you are able to train yourself in the ways of binding the wills and minds of those around you (You can only train in the specialised disciplines capabilities) Spell List: https://warhammer40k.fandom.com/wiki/Psyker#Telepathy_Discipline
 410.Psyker(Divination),5.3
 #Warhammer 40k - You are a Psyker, a being who draws power from the Immaterium, only you don't, you emulate their powers through the infinite Chaos instead. As a Psyker specialising in Divination, you are able to train yourself in the ways of uncovering the past, present and future of the world around you (You can only train in the specialised disciplines capabilities) Spell List: https://warhammer40k.fandom.com/wiki/Psyker#Divination_Discipline
-411.Old Blood,6.1
-#Bloodborne - You have the blood of the Great Ones running through your veins. You have greater vitality and energy thanks to the old blood, empowering your existence. Your energy is also more potent, making it so that you need to spend less energy to invoke abilities or spells. The concentrated mystery in your blood also gives you greater insight into magical and esoteric arts. Finally, your blood has healing properties that scale with your vitality, but those who ingest too much may be affected by your corruptive presence. If you want, you can exert greater influence over those who consume your blood.(You are not an actual Great One)
+411.Old Blood,6.3
+#Bloodborne - You have the blood of the Great Ones running through your veins. You have greater vitality and energy thanks to the Old Blood which also grants you resistance against Esoteric effects. The concentration of mystery in your blood increases your energy reserves and makes it easier for you to learn, understand and train Magic and Estoric Arts. Finally, your blood has healing properties that scale with your vitality, but those who ingest too much may be affected by your corruptive presence. If you want, you can exert greater influence over those who consume your blood.(You are not an actual Great One)
 412.Salty Tears,0.1
 #Your tears are now twice as salty.
 413.Lucky Romantic,2.5
@@ -958,11 +958,11 @@ When you roll a ticket, you have the option to reroll it, but with its rarity lo
 #You are perfectly ambidexterous, you can use both of your arms and hands as if they were both dominant hands. The same applies to all of your limbs, perfectly balanced, as all things should be.
 480,Tune Up,3.3
 #You have received a body tune-up, an upgrade to every aspect of your body, slightly increasing all of your physical stats, your energy reserves, and most importantly, fixing all of the physical or genetic problems ailing in your body at the moment of you rolling this trait.
-481.Greater Beastkin,3.4
+481.Greater Beastkin,4.4
 #Race Change - You are a greater beastkin, a creature that is half beast and half whatever you are. As a Greater Beastkin, you possess superhuman physical abilities and enhanced natural senses and instincts. You possess more affinity towards nature-based abilities and spells, allowing you to utilise them more effectively. Your Beast side is powerful too; even simple cat claws are tough as iron. (Chosen beast is decided by the writer, not an in-story choice)
-482.Noble Beastkin,4.7
+482.Noble Beastkin,5.7
 #Race Change - You are a Noble Beastkin, a beast hybrid that has mystical blood running through their veins. You possess potent physical abilities and greatly enhanced senses depending on your race; your natural instincts are very potent. You possess a greater affinity towards Changer and Nature-based abilities, allowing you to utilise them to greater effect with more finesse. You also possess control over your beast side, being able to completely suppress your traits or completely transform into your beast side. It is easier to command respect from beast-aligned beings.
-483.Royal Beastkin,5.1
+483.Royal Beastkin,6.1
 #Race Change - You are a Royal Beastkin, a powerful beast hybrid that has potent royal blood running through their veins. You possess great physical strength and incredibly honed enhanced senses with slight differences according to the race of your beast side. Your natural fighting instincts are strong enough to compete with trained fighters without having training beforehand. You possess a great affinity toward changer abilities, making them more efficient and easier to control. You possess incredible control over your beast side, being able to completely suppress your beast side or completely transform into it and anything in between. Your royal blood also grants you increased charisma and an authoritative presence, which is far more effective against beast-aligned beings.
 484.Nephalem,8.7
 #Race Change - You are a Nephalem, an impossible union of a Daemon and Seraphim. You possess immense power, both magical and physical. All Holy, Light, Darkness and Infernal abilities are increased by one tier and cost significantly less energy. You can naturally convert your energy into either Darkness or Holy mana bursts. 
@@ -1051,7 +1051,7 @@ You are a psionic, someone who specialises in the Mind and Mental world. Grantin
 526.Great Ass,1.3
 #You have a great ass, with incredible cushioning abilities, you can sit upon practically any surface without discomfort. It also looks and feels very good.
 527.Cuddle Emperor,3.6
-#Your existence is one that "Cuddles Greatly." Your hugs and snuggles are incredible, being able to comfort even broken souls. Being cuddled by your cıddles feel like being wrapped by the softest, warmest blanket, and they are even therapeutic, helping stabilise the mental state and comfort whoever you are targeting. 
+#Your existence is one that "Cuddles Greatly." Your hugs and snuggles are incredible, being able to comfort even broken souls. Being cuddled by your cuddles feel like being wrapped by the softest, warmest blanket, and they are even therapeutic, helping stabilise the mental state and comfort whoever you are targeting. 
 528.Chompers,1.4
 #You've got a big ol' pair of chompers on you. Your teeth are spectacularly durable and strong, you are even able to take bites out of rocks and chew them without any damage to your teeth. In addition, you will never have to worry about dental health ever again. If your teeth break, they will regrow like one might regrow fingernails.
 529.Nakiri,2.9
@@ -1126,3 +1126,23 @@ You are a psionic, someone who specialises in the Mind and Mental world. Grantin
 #Race Change - You are a Child of Ziz, one of the Primordial beasts, rival to Behemoth and Leviathan, ruler of the skies. As a kin of Ziz, you possess greatly enhanced physical and magical abilities, as well as the ability to reveal and hide your true form at will, partially or fully transforming into a titanic avian beast. You naturally possess the ability to manipulate the weather, calling down storms, blizzards, rain, hurricanes, tornadoes, etc., at will, as well as raining down greater lightning. All Weather-based abilities and spells are greatly enhanced; you greatly resist all Wind, Ice, and Electricity-based abilities. Your energy and health recovery are enhanced when under the open skies. You possess decreased Water and Earth affinity.
 564.Allowance,2.2
 Whichever city you are currently living in, you get the equivalent of 2x the daily minimum wage for that city/country either deposited into your account or transported into your wallet every single day.
+565.Kyoi no Hado,5.7
+#Street Fighter - You have awakened the Kyoi no Hado, the Surge of Mindless Intent, otherwise known as the Sacred Hado, allowing you to tap your own Ki reserves thanks to it. This Hado requires the practitioner to practice calmness, balance, resoluteness, and focus to properly tap into one's inner energy and soul to draw power from it. Skilled practitioners can reinforce their strikes with it, protect their body from foreign influences, and turn it into wave-like energy surges to use offensively and defensively. Skilled enough users may even be able to interact with souls. Practising the Hado increases one's mental and spiritual defences.
+566.Satsui no Hado,5.8
+#Street Fighter - You have awakened the Satsui no Hado, the Surge of Killing Intent, otherwise known as the Dark Hado, allowing you to tap into your inner Ki reserves thanks to it. This Hado requires the pracitioner to tap into their inner animalistic bloodlust, rage, and murderous intent to physically manifest your killing intent and tap into your inner energy through it. Using the Hado will slightly transform the user, enhancing their physical strength, allowing them to imbue energy into their strikes, and turn their Ki into dark flame-like energy. Skilled enough users may even be able to use it to telekinetically control objects. The more someone practices the Hado, the stronger they will become, and so will their desire for conflict and conquest. If one cannot control their Hado properly, they may even transform into an Oni. But it is possible to tame this power no matter how difficult.
+567.Reptilian Rapport,2.7
+#You have great affinity with lizards, reptiles, and creatures that are aligned with them. Making it easier to earn their affection and favor, and form relationships with them. Thanks to your affinity with Reptilians, regeneration-based effects, abilities, and spells applied to you are more potent.
+567.Canis Companion,2.6
+#You have great affinity with dogs, canines, wolves, and creatures that are aligned with them. Making it easier to earn their affection and favor, and form relationships with them. Thanks to your affinity with the Canis, your sense-based abilities and traits are more potent, and it is easier to control your own senses.
+568.Arthropod Affiliate,2.4
+#You have great affinity with insects, arachnids, crustations, and creatures that are aligned with them. Making it easier to earn their affection and favor, and form relationships with them. Thanks to your affinity with the Arthropods, you possess slightly increased durability and armor-based abilities, and effects cost slightly less energy to use.
+569.Warrior of Sunlight,4.1
+#Dark Souls - You are a Warrior of Sunlight, a Warrior that praises the sun and devotes their faith in it, receiving powers in return. As a Warrior of Sunlight, you possess increased vitality. In addition, all Lightning and Fire-based abilities are slightly more potent and carry traces of sunlight within them, further increasing their potency against Undead and Dragons. Beings aligned with the Sun and Light may favor you more.
+570.Gravelord Servant,3.4
+#Dark Souls - You are a Gravelord Servant, a servant of Nito, the first of the dead. As a Gravelord Servant, you possess increased energy reserves, and the power of your Necromancy and Soul-based abilities is increased. You possess a greater affinity towards undead, and wild undead without minds do not consider you enemies unless provoked.
+571.Darkwraith,3.1
+#Dark Souls - You are a Darkwraith, one who seeks to wield the powers of darkness and end light. As Darkwraith, your physical abilities are slightly enhanced when in darkness. In addition, all Dark-based abilities and spells are more potent and inflict additional damage when used against Light-aligned beings.
+572.Path of Dragon,4.2
+#Dark Souls - You are a follower of the Path of the Dragon, one who seeks to transcend life through the flesh of Dragons. As a follower, you can offer the flesh of Dragons to the Everlasting Dragons and imbue it into your very flesh, enhancing all of your physical stats relative to how strong the owner of the flesh was compared to you and gaining minor draconic aspects in the process. The more flesh you offer, the more draconic you get, potentially even becoming an Everlasting Dragon(Legendary) yourself at the end.
+573.Covenant Leader,5.4
+#You are now capable of establishing your own covenant. Those who pledge themselves to your service and join your covenant can acquire boons from you, depending on how much they have contributed to your covenant. The boons you grant are based on your traits and abilities; the larger their contribution, the more karma you accumulate to bestow them a lesser copy of an ability or trait. The Rarity of the offshoot depends on the recipents contribution level, but it can never reach the same rarity as the original. If they break the laws of your covenant, their boons are instantly revoked.

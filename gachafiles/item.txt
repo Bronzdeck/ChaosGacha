@@ -172,6 +172,8 @@
 #Dark Souls - A shield of magical stone wielded by Havel the Rock. Wielding this shield grants enhanced durability and the user can expend energy to cover their body in stone to further reinforce their body.
 87. Sanctus - Dark souls,2.9
 #Dark Souls - A legendary weapon of the Way of White, granted to an Undead paladin long ago. Once blessed with the protection of a white flame, but its power has all but faded, so now all that remains of it is providing its wielder slight regeneration. 
+88. Altar of Earth,3.9
+#HOTA - An altar of fire that collects mana from nature to give birth to spirits of earth, as the owner of the altar these elementals are naturally loyal to you.
 89. Ring of Favor and Protection,3.6
 #Dark Souls - A ring symbolizing the favor and protection of the goddess Fina, known in legend to possess "fateful beauty". This ring boosts its wearer's Health, Stamina, and Endurane, but breaks if ever removed.
 90. Covetous Gold Serpent Ring,4.5 
@@ -245,7 +247,7 @@
 124. Pocket Armory,2.2
 #A large grey duffel bag containing a copy of every cold weapon made from high-quality steel, you can take any one weapon out at a time from this bag, if you put the weapon back, the next time you take it out, it will be back in perfect condition.
 125. Servant Voucher,5.3
-#A coupon that allows you to summon your own Heroic Spirit for free, the summoned heroic spirit depends on you as a person. The servant is bound to you in standard Grail War style, with them receiving mana through you via coitus and you possessing 3 command seals to give absolute commands to them. Cannot summon Divine Servants(Divinity above C or Explicitly a god) or Servants that qualify for a Grand position.
+#A coupon that allows you to summon your own Heroic Spirit for free, the summoned heroic spirit depends on you as a person. The servant is bound to you in standard Grail War style, with them receiving mana through you via coitus and you possessing 3 command seals to give absolute commands to them. Cannot summon Divine Servants(Divinity above C or Explicitly a god) or Servants that qualify for a Grand position. Servant summoned cannot exceed the performance of an Elite Rank familiar.
 126. Stimpack,2.3
 #(Tech)Fallout - A potent medical tool from a post-apocalypse world. A stim pack is a syringe pack filled with modified stem cells and healing agents that boost the human body's natural regenerative properties into overdrive. WARNING: Usage of the stimpack without enough nutrients or minerals in the body can cause more harm than good. Restock Timer: 24 hours
 127. Staff of the Pheonix,5.9
@@ -323,7 +325,7 @@
 163. Star Fluid,5.3
 #Blacksouls - A drug created by harvesting it from star pests from beyond the unfathomable cosmos, drinking this fluid causes one to become an immortal ghoul but lose all sanity and still continue decomposing. This more refined version only grants a brief immortality for 30 seconds, allowing the drinker to avoid death for the duration. But taking more than 2 in a week will result in one becoming a Ghould. Restock Timer: 480 Hours
 164. Phantom Thief's Mantle,3.2
-#Blacksouls - A crimson worn by a famous thief death-defying thief who tempted fate one too many times and got executed by the tyrant. Wearing this mantle grants you basic danger sense and enhanced reflexes.
+#Blacksouls - A crimson worn by a famous death-defying thief who tempted fate one too many times and got executed by the tyrant. Wearing this mantle grants you basic danger sense and enhanced reflexes.
 165. Evil Eye Ring,2.2
 #Blacksouls - "Did the eye just move?" A gold ring topped with a ruby in the shape of an eye, wearing this ring grants the user minor regeneration.
 166. Hydrogen Bomb,3.8
@@ -606,8 +608,6 @@
 #HOTA - An altar of fire that collects mana from nature to give birth to spirits of air and lightning, as the owner of the altar these elementals are naturally loyal to you.
 305. Altar of Water,3.5
 #HOTA - An altar of fire that collects mana from nature to give birth to spirits of water and ice, as the owner of the altar these elementals are naturally loyal to you.
-305. Altar of Earth,3.9
-#HOTA - An altar of fire that collects mana from nature to give birth to spirits of earth, as the owner of the altar these elementals are naturally loyal to you.
 306. Elemental Conflux,5.0
 #HOTA - An altar that converges natural elements and collects mana from nature to give birth to spirits of all kinds of elements, as the owner of the altar these elementals are naturally loyal to you.
 307. Pyre,5.3
@@ -754,7 +754,7 @@
 #One Piece - A masterpiece sword once wielded by the mythical samurai Ryuma, this sword's blade has permanently blackened from absorbing Ryuma's hardening over time. This sword is nigh unbreakable, sharper than a razor and is an excellent conductor of energy.
 378.Pip-Boy 3000,2.4
 #(Tech)Fallout - The Pip-Boy, otherwise known as the Personal Information processor, is a more versatile and robust computer that is worn on the wrist and powered by an internal fission battery. Pip Boy is capable of autonomously monitoring the health of its wearer, connecting to networks, map areas, shining light etc. An all-around solid multitool.
-379.Power Fist,2.9
+379.Power Fist,1.1
 #(Tech)Fallout - A pneumatic standard power fist that can help the average Joe put a crater on the wall with their fist. The power fist adds a static power boost to your punches to the level of a superhuman. But in the hands of someone who is already a superhuman, it is not too helpful.
 380. Rasaka's Fang,3.5
 #Solo Levelling - A dagger carved from the venomous fang of Rasaka, this dagger is perpetually imbued with venom that afflicts whoever it cuts with paralysis and makes the wounds harder to heal.
@@ -972,8 +972,6 @@
 #(Tech)Marvel - The Ultimate Weapon, the Ultimate Nullifier is capable of destroying anything, from universes to small targets to even timelines, granted the user is capable of wielding its power without perishing.
 486.The Infinity Gauntlet,9.9
 #Marvel - The Infinity Gauntlet of the Mad Titan containing all of the Infinity Stones inside, allowing the user to wield their power as long as they can handle its nigh-unlimited power. The gauntlet is perfected and will be able to withstand the power of all of the stones without problem.
-486.Space Stone,7.8
-#Marvel - One of the infinity stones possessing the power to change the very universe. The Space Stone allows the user to manipulate space, open portals, siphon energy from space itself and many other abilities one can utilise with the ability to control space. But a strong user is needed to bring out its power without devastating consequences.
 487.Chaos Card,7.0
 #Binding of Isaac - A simple-looking card that coins unknowable power. Throw this card at a target, and that target will perish instantly unless they are immortal as long as the card makes contact. Once the card kills a target, it is rendered completely inert and unusable.
 488.Ring of the Shooting Star,7.3
@@ -1398,3 +1396,19 @@ Minecraft - A bucket filled with 1 liter of milk. If the milk inside the bucket 
 #Bleach - Gonryomaru is a Zanpakuto, a spiritual armament in the form of a Rapier. The strength of this armament scales with the power of its user. With its Bankai unlocked, it has reached its most powerful state. The Bankai of this Zanpakuto allows it to control the weather and call down powerful strikes of lightning as well as wreath their sword with violent lightning. It also greatly increases the potency of electricity-based abilities channeled through it. (A/N: Does not give spiritual energy, cannot be evolved)
 689.Asauchi,2.8
 #Bleach - Asauchi is a Zanpakuto, a spiritual armament in the form of a weapon that befits its user. The strength of this armament scales with the power of its user. Asauchi is a dormant, unnamed Zanpakuto that grows along with the user. If the user is able to unlock the Shikai of the blade, it will attain its own unique ability according to the nature of its user, equal to or weaker in power than a rare rank ability. And if they are able to unlock its Bankai, that ability will be upgraded to equal an Epic rank ability.
+670.Space Stone,7.8
+#Marvel - One of the infinity stones possessing the power to change the very universe. The Space Stone allows the user to manipulate space, open portals, siphon energy from space itself and many other abilities one can utilise with the ability to control space. But a strong user is needed to bring out its power without devastating consequences.
+670.Dojo Key,3.4
+An ornate key that, when turned in a sufficiently large space, creates a portal leading into a pocket dimension that is 1 km x 1 km x 1 km in size that contains a large dojo building inside with a moderate garden area. The inside of the Dojo contains all the expected amenities, training dummies, sparring weapons, running water, training uniforms, towels, etc., Everything that originally belonged to the Dojo will be restocked within 24 hours, with the broken parts disposed of, and any destruction that happened inside the Dojo will be repaired at the same time. Nothing that originates from the dojo can be taken out of it. The gate that leads outside the dimension is always open and leads to where the entrance was last opened.
+671.Flynn's Ring,2.2
+#Dark Souls - Ring of the Fabled Thief, Flynn. When worn, this ring slightly increases the wearer's physical strength proportional to how little they are carrying. 
+672.Witch Ring,3.7
+#Dark Souls - Rings bestowed by the Witch of Izalith and her daughter to the successors of the art of pyromancy, the ring thrums with a strange warmth. Increases the potency of fire-based abilities and spells while decreasing their costs when equipped.
+673.Father Garcia's Trenchcoat,1.2
+#Faith the Unholy Trinity - "True faith looks forward, not back." An iconic black trench coat worn by Father Garcia, it is fairly durable and has the property of warding off curses and negative energy from the wearer.
+674.Father Garcia's Shotgun,1.4
+#Faith the Unholy Trinity - "You shall drink the wrath of the Almighty." A shotgun wielded by Father Garcia to fight off against demons and evil spirits. The bullets fired from this gun can affect intangible entities and is more effective against Unholy entities.
+675.Big Hat Logan's Big Hat,1.2
+#Dark Souls - The titular big hat of Big Hat Logan, a legendary sorcerer, wearing this uncomfortably large hat on your head makes it slightly easier to study magic.
+676.Bold & Brash,0.3
+#Spongebob - A masterpiece of art created by the acclaimed artist from Bikini Bottom, Squidward Quincy Tentacles. To ensure the safety of the canvas, it is refreshed to perfect condition every 24 hours.
