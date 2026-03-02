@@ -75,7 +75,7 @@
 38. Voice,3.1
 #You have a very powerful and versatile voice, you can make it loud, quiet, smooth, rugged, feminine, masculine, etc. Boosts the power of voice-based abilities.
 39. Tough Skin,2.2
-#YOu have abnormally tough skin, enhancing your durability beyond the norm. 
+#You have abnormally tough skin, enhancing your durability beyond the norm. 
 40. Fire Resistance,3.5
 #You are naturally resistant to fire and fire-based effects and attacks, such as being set on fire, high temperature environments, or being hit by fireballs. This resistance scales with your basic stats. 
 41. Water Resistance,3.2
@@ -113,7 +113,7 @@
 57. Prophecy,6.7
 #You are able to see the future in your dreams, with or without your consent.
 58. Winner Takes All,5.0
-#When you win against someone, you can extract a reward from them forcefully. The reward you extract must be proportional to the victory you have achieved. Minor victories equal minor rewards while winning a fight to the death would be a reward equal in value to their life. The reward must be something they are capable of granting you.
+#When you win against someone, you can force them to grant you a reward. The reward you extract must be proportional to the victory you have achieved. Minor victories equal minor rewards while winning a fight to the death would be a reward equal in value to their life. The reward must be something they are capable of granting you.
 59. Natural Scent,2.4
 #Upgrade of Perfumer - You smell really good, even your sweat does, and your natural body odor is like perfume that most people like. You never have to worry about smelling bad ever again.
 60. Poisonous,0.2
@@ -173,7 +173,7 @@
 87. Tinker,3.5
 #(Tech)You are a natural at building technology. All tinker abilities are more potent, in addition, it's far easier to innovate new tech and build tech. You can also push your specializations far more. (A/N: If you pulled this perk without having a tinker ability, reroll the ticket) 4/28288. 
 88.Hacker,2.1
-#(Tech)You are great at interfacing with technology and leveraging your skills to get into networks.  (A/N: Reroll if you are in a medieval world) 
+#(Tech)You have an increased intuition towards interfacing with technology and getting around technological and code based defenses as well infiltrating networks and abusing the faults of technology.
 89. Empath,3.4
 #You really are an empath. You can easily tell what people are feeling, understand emotions better, and how to control your own far better.
 90. Grand Mage,7.7
@@ -430,8 +430,8 @@
 #You have some... unique ancestry, your parentage and lineage have changed from mundane or regular to you being the secret child of a great figure, which figure? Who knows, maybe they were a great swordsman or a legendary magician. Once you unlock your lineage ability or talent this trait gets replaced with it.
 216. Chutzpah,3.3
 #You don't give a shit, panic and apprehension can get you when they have earned you. If you choose to, you can shrug off that panic and fear and show your audacity in the face of even god itself.
-217. Stylist,2.7
-#You are an excellent stylist, you can style hair like an experienced hairdresser and know what to wear and how to wear it with style. 
+217. Sisyphean,6.0
+#"A lifetime defined by futile struggle." Your mind is inhumanely durable, even if you get bored, even if you get tortured, even if you have to push a boulder up a mountain for hundreds of years, your mind may bend, but it will never break. You are rendered MASSIVELY resistant to any external mental interference. 
 218. Magic Well,4.2
 #You have an abnormally large pool of energy you can access, allowing you to use abilities and spells for far longer.
 219. Big Battery,3.5
@@ -603,9 +603,9 @@
 302. Dealmaker,4.5
 #"A Deal's a Deal." Whenever people make a deal with you, they feel compelled to fulfil their end of the deal that they agreed on, so long as the deal was explicit in its conditions(No clever wording or Fae deals). In addition, it's far easier to goad people into making outrageous bets. 
 303. Hentai Logic,4.8
-#Apparently this world runs on Hentai Logic, objects revolving around you are far more perverted and people's logic is slightly skewed.
+#(Nsfw)Apparently this world runs on Hentai Logic, objects revolving around you are far more perverted and people's logic is slightly skewed.
 304. Ecchi Logic,3.5
-#Apparently this world runs on Ecchi Logic, objects revolving around you are far more perverted and people's logic is slightly skewed.
+#(Nsfw)Apparently this world runs on Ecchi Logic, objects revolving around you are far more perverted and people's logic is slightly skewed.
 305. Honesty,2.2
 #You have an aura around yourself that seems to garner honesty from people. People are worse at lying around you and feel worse and more remorseful about trying to deceive you. 
 306. Truthspeaker,4.2
@@ -1146,3 +1146,41 @@ Whichever city you are currently living in, you get the equivalent of 2x the dai
 #Dark Souls - You are a follower of the Path of the Dragon, one who seeks to transcend life through the flesh of Dragons. As a follower, you can offer the flesh of Dragons to the Everlasting Dragons and imbue it into your very flesh, enhancing all of your physical stats relative to how strong the owner of the flesh was compared to you and gaining minor draconic aspects in the process. The more flesh you offer, the more draconic you get, potentially even becoming an Everlasting Dragon(Legendary) yourself at the end.
 573.Covenant Leader,5.4
 #You are now capable of establishing your own covenant. Those who pledge themselves to your service and join your covenant can acquire boons from you, depending on how much they have contributed to your covenant. The boons you grant are based on your traits and abilities; the larger their contribution, the more karma you accumulate to bestow them a lesser copy of an ability or trait. The Rarity of the offshoot depends on the recipents contribution level, but it can never reach the same rarity as the original. If they break the laws of your covenant, their boons are instantly revoked.
+574.Pendragon,5.3
+#You are the child of Pendragon, the destined, rightful King and Dragon. Sovereignty is in your blood; you are more resistant to negative mental conditions and are an incredible talent when it comes to anything related to ruling, such as litigation, management, military, economics, etc, as well as an increase to your natural charisma. In addition, as the child of the one recognized as a "Dragon", you have increased physical abilities as well as larger energy reserves and faster energy recovery. You also have incredible talent with blades due to carrying the blood of Excalibur's wielder, especially with magical swords.
+575.Dullahan's Deception,2.2
+#"Don't lose your head!" No, but seriously, don't. Your head is now capable of freely detaching from your neck/torso but still remaining connected in a higher dimension, meaning you can still eat, speak, and breathe. This also has the effect of making decapitation useless against you.
+576.Chaos Duplication,4.8
+#Allows you to grant copies of your own abilities and traits to others by burning a ticket that is equal in value to the ability or trait you are granting. A bronze ticket allows you to duplicate a common trait, a silver allows uncommon, a gold allows rare, etc. Higher tickets can be burnt to grant double the replicants of a previous rarity: Silver = 2x Common, Gold = 4 Common, etc.
+577.Fair Use,5.2
+#No cheating, anything you create, people cannot use without your permission, acting as a Blacklist and Whitelist. Even if you were to leave your spaceship with the keys in, no one would be able to pilot it. If you leave potions you created, they will act like water if someone else uses them.
+578.Crushing Daunt,5.6
+#"Fear grips your heart." The more fear someone feels towards you, the weaker they become and the lower their energy output. If someone feels completely helpless towards you and their will to fight is completely crushed, their abilities are decreased to negligible levels.
+.Garlic Infused Blood,0.2
+#The next Vampire that bites you is really going to regret it.
+579.Blood Fuel,1.5
+#"Hell is not full." Your blood functions as fuel, high-quality fuel that can be substituted for basically any kind of fuel that any machine would otherwise take, such as gasoline, diesel, electricity, etc.
+580.Literary Devouring,1.2
+#You are able to eat books and written text, which will imprint all knowledge contained within that text into your mind, making you perfectly memorize the information inside. 
+581.Made of Fire,4.1
+#"Not to be confused by a maid of fire." You are able to use flames to temper your body, increasing your physical abilities proportional to the intensity and potency of the flames you are burned by. To temper your body properly, you must be exposed to the flame for extended periods of time. This trait does not give resistance to fire or immunity to it, and the higher your flame resistance, the less effective this trait is.
+582.Vessel,4.5
+#Your body and soul are incredible vessels, perfectly suited for sealing things inside and containing them. Whatever is sealed inside you or is absorbed into you will find it far harder to rebel and break out. In addition, you can fit much more into your vessel.
+583.Prime Soul,7.6
+#Ultrakill - Your soul has ascended to the level of a Prime Soul, a soul that has grown so powerful that it does not need a body to keep existing. Your soul affinity is massively enhanced, and you possess massive resistance towards all soul, mind, and "existence" targeting abilities. In addition, if you die, you will be able to shed your Husk and continue existing in Prime Soul form.
+584.Mythril Fist,4.8
+#Your fists are like Mythril, considerably augmenting the power behind all unarmed strikes you use and enhancing the power of all fist-based abilities.
+585.Adamantine Fist,5.5
+#Your fists are like Adamantine, unbreakable and incredibly powerful. Your fists are incredibly durable, and the power behind all unarmed strikes is greatly enhanced. All fist-based abilities are easier to use and are more powerful.
+586.Regenerator,5.9
+#Hellsing - You are a Regenerator, a race of Advanced Human that is a Bioengineering marvel, granting you superhuman physical performance and incredible natural regenerative abilities enough to heal from bullet wounds in seconds without changing anything fundamentally from humanity. 
+587.The Santa Clause,1.9
+#You are under the same Clause as Santa himself, meaning that people do not mind you entering places you shouldn't be, or lingering in places you are not meant to. But they can still get offended and angry if you cause a disturbance or do something that would offend them.
+588.Sexercise,1.5
+#(Nsfw)Sexual activity now works as a full body workout for you, a very efficient and comprehensive effect. The effects of this workout will only apply after the sexual activity has ended and scales with the effectiveness of your sexual activity.
+589.Blessing of Atlas,5.5
+#"The weight of the world on your shoulders." You are blessed by Atlas, the one who holds the world on his shoulders. You are extremely resilient towards all hardships, even when under extreme agony, even when poisoned, even when bleeding out, even when tired beyond comprehension, you can still perform at your maximum.
+590.Sadist,3.6
+#"Pain in their eyes" You are a sadist, you enjoy pain and the suffering of others. Whenever you inflict damage on a target, your Health and Energy recovery speeds are increased for a short amount of time.
+591.Starman,8.5
+#"There is a Starman waiting in the sky." Your hope fuels you, literally, the more hope and determination you have, the faster your energy and vitality regenerate, and in addition, as long as you hold out hope, you cannot be killed. Whenever someone places their hopes into you, that hope is converted into energy and vitality to fuel you.

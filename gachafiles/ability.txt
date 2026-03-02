@@ -215,7 +215,7 @@
 108.Black Ice,4.3
 #Allows you to create and control black ice, black ice is a special type of incredibly durable ice that is very resistant against heat and fire.
 109.Ice Formation,5.0
-#Jujustsu Kaisen - Allows the user to manifest extreme levels of cold and ice at will that they can exert telekinetic control over.,
+#Jujutsu Kaisen - Allows the user to manifest extreme levels of cold and ice at will that they can exert telekinetic control over.,
 110.Absolute Zero,7.0
 #Allows you to drop temperatures down to absolute zero on either a target you are touching or in an area, the temperature drop is not instant. The more energy you can expend, the faster you can reach Absolute Zero.
 111.Divinity Water & Ice,8.0
@@ -395,11 +395,11 @@
 198. Extinction Meteors,5.2
 #Allows you to bring down giant meteors that can cause massive devastation and damage. The mass, power and speed of these meteors are dependent on the amount of energy expended. This ability is quite expensive to use.
 199. Pocket Sand,0.4
-#Conjure and launch a handful of sand from your hands, shouting pocket sand as you do so might make it stronger.
+#Conjure and launch a handful of sand from your hands. Shouting "pocket sand!" as you do so might make it stronger.
 200. Sandshot,1.1
 #Conjure and launch sand from your fingers at non-lethal speeds but enough to harm people.
 201. Sandstream,2.2
-#Launch powerful steams of sand from your body to hinder enemy vision and injure them, equivalent to sandblasting them.
+#Launch powerful streams of sand from your body to hinder enemy vision and injure them, equivalent to sandblasting them.
 202. Sandblast,2.6
 #Allows you to launch blasts of high-velocity sand clouds, capable of rending and shredding metals and especially flesh 
 203. Death Valley Duster,3.8
@@ -459,7 +459,7 @@
 230.Dowsing,1.6
 #Allows you to detect metals around you like a mental radar, the more valuable a metal is, the more distinct its presence in your radar.
 231. View Earth,3.2
-#Allows you to share your vision with the earth, feeling everything the earth feels and seeing all it can see, the default range is 5km which can be increased with training.
+#Allows you to share your vision with the earth, feeling everything the earth feels and knowing the location everything inside of the earth, the default range is 5km which can be increased with training.
 232.Wire,3.0
 #Allows you to create and control metal wires, once a wire has separated from your body you no longer have control over it. You can also reinforce your wires with energy to make them more durable.
 233.Pika,5.2
@@ -490,9 +490,9 @@
 #Allows you to conjure a blade of shadows that you can use as a weapon, you can adjust the size and shape of the weapon, despite being lightweight it is very sharp and can ignore around 10% of the target's durability, always dealing at least some damage.
 246.Shadow Scythe,4.2
 #Allows you to conjure a scythe made of shadows that you can alter the size and shape of, the scythe can select what it does and doesn't cut according to your will and it can also ignore a portion of the target durability.
-247.Reaper's Scythe,5.0
-#Allows you to conjure a scythe made of pure darkness that you can alter the size and shape of, the scythe completely ignores the durability of physical objects and barriers while also preventing regeneration and resurrection from the wounds it causes.
-248.Death's Instrument,6.0
+247.Reaper's Scythe,5.8
+#Allows you to conjure a scythe made of pure darkness that you can alter the size and shape of, the scythe completely ignores the durability of physical objects and barriers while also preventing regeneration and resurrection from the wounds it causes. But the scythe expends energy from you in proportional to the durability of whatever you cut.
+248.Death's Instrument,6.9
 #Allows you to call forth death's instrument, a pitch-black scythe that completely ignores all durability, magical or physical. Wounds inflicted affect souls as well as bodies, making them impossible to heal by mundane means.
 249.Bottomless Swamp,2.8
 #Allows you to transform the ground around you into a bottomless swamp that traps any targets that step on it, making them sink further into the swamp, if they fully submerge they are fully incapacitated and enter a stasis-like state.,
@@ -582,12 +582,12 @@
 #DBZ - Allows you to conjure and launch a grenade of light energy that explodes, it is rather fast and powerful.
 292.Beam,3.4
 #You can shoot a beam of concentrated light and heat from your fingers that travels almost instantaneously.
-293.Blessing,3.0
-#Allows you to bless yourself with holy energy, bolstering all attributes for one hour. Also increases resistance to curses and all ailments when active.
-294.Minor Blessing,2.6
-#Allows you or a target to receive a minor blessing that augments a chosen physical attribute for one hour. The stronger you are the stronger your blessing.
-295.Greater Blessing,4.4
-#Allows you or a target to receive a greater blessing that augments any chosen physical attribute and minor regeneration and recovery factor for one hour. While greater blessing is active the target is immune to curses and negative status effects below elite rank.
+293.Lesser Blessing,2.6
+#Allows you to grant a minor blessing to a target by suffusing them with Holy Energy, this blessing increases a chosen physical stat out of 5: Vitality, Strength, Resiliance, Agility, Stamina. The chosen attribute is slightly augmented for one hour. Only one blessing may be applied to a target at a time.
+294.Blessing,3.5
+#Allows you to grant a blessing to a target by suffusing them with Holy Energy. You can apply one of three blessings. Blessing of Augmentation, which augments a chosen stat of a target, such as strength, resiliance, vitality, etc. Blessing of Might, which slightly augments all attributes of a target, or Blessing of Mind, which slightly augments the Energy Regeneration and Output of a target. Blessing can last one to three hours, depending on how much energy you expend, and only one blessing may be applied to a target at a time.
+295.Greater Blessing,4.7
+#Allows you to grant a greater blessing to a target by suffusing them with Holy Energy. You can apply one of three blessings. Blessing of Augmentation, which significantly augments a chosen stat of a target, such as strength, resiliency, vitality, regeneration, etc. Blessing of Boost, which augments all attributes of a target but costs more energy. Or Blessing of Mind, which slightly augments the Energy Regeneration and Output of a target. Blessing can last one to three hours, depending on how much energy you expend, and only one blessing may be applied to a target at a time.
 296.Divine Blessing,5.7
 #Allows you to bestow a variety of blessings once an hour, Blessing of Recovery gives a target Rare Rank Regeneration and cures all ailments they have that are not inborn, Blessing of Might increases all attributes, Blessing of Warding cleanses all curses and raises all resistances of a target, blessings can also be style after abilities. For example, using Divine Blessing with Ignite would give fire resistance and affinity. The duration of blessings is one hour.
 297.Law of Regression,6.3
@@ -1658,6 +1658,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Ajin - You are an Ajin, a race of creatures that resembles humans with the exception of their complete biological immortality, whenever you die as an Ajin, your body is completely healed to its peak by Invisible Black Matter that reconstructs it after you die from the biggest piece of flesh you have left, this does not consume energy/mana to activate. You can also summon shadows made of Invisible Black Matter under your command to either fight, defend, or scout for you as they can follow your orders and intentions.
 830. Measure King,1.3
 #Measure once, cut twice. Allows you to know the exact dimensions and measurements of anything you come across just by taking a look at them.
+831.Slip In,1.0
+#You were always a slippery one; you can pass your body through any opening wider than 5 centimeters in length.
 832. Normal World,7.1
 #Normality Field allows you to erect a field with yourself in the middle, in this field, no one can invoke any supernatural effect with the exception of you removing the field. Even the greatest mage or god will be left with just their physical body to fend for themselves.
 833. Nice Guy,7.2
@@ -1724,16 +1726,10 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #You are able to mark up to 10 items weighing less than your lifting strength that you can summon to your location at will and send back to where you last summoned them from.
 866.Silk Weaver,3.5
 #You are able to produce and control silk that you produce from your body, you can use it to grapple around, restrain targets, fasten objects etc. The durability of the silk and the amount you can produce scales with your physical stats. 
-867. Space Ripper Stingy Eyes,3.5
-#JoJo - No, you cannot change the name. Allows you to shoot out pressurized energy from your eyes that can cut steel and stone like it's made of foam even at base human level.
-868. Slip In,1.4
-#You were always a slippery one, you can pass your body through any opening wider than 5 centimeters in length. 
-867. Superhuman,2.5
-#You are superhuman, or whatever race you are. Even as a base human, you are able to lift cars overhead, punch through metal, survive small caliber bullets, and run as fast as a tiger, all of these enhancements scale with your base stats.
+867. Lesser Superhuman,2.5
+#You are lesser superhuman, or whatever race you are. Even as a base human, you are able to lift cars overhead, punch through metal, survive small caliber bullets, and run as fast as a tiger, all of these enhancements scale with your base stats.
 868. Superhuman,3.5
 #You are superhuman, or whatever race you are. Even as a base human you are able to lift trucks and are unharmed by small caliber bullets. Basically, you are about as strong as Captain America is. All of these enhancements scale with your base stats.
-868. Bulk Up,2.6
-#You are able to bulk up, reinforcing and strengthening all of your muscles to superhuman levels, allowing you to exert superhuman strength. Even as a base human you can easily tear apart and throw around cars. Overuse can lead to extreme soreness and muscle tears.
 869. Iron Skin,2.4
 #You are able to reinforce your skin and body to the level where it resembles metal more than flesh and increases your mass, giving you superhuman durability. Even as a base human, baseball bats would break on impact, small caliber bullets are ineffective. Even a car crash, while it would hurt, you can walk away. But maintaining iron skin can make you slower to move. 
 870. Aura,5.9
@@ -1852,7 +1848,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Fairy Tail - Allows the user to transform into and wield the powers of a water dragon. Allowing them to generate, control and even devour water. They also have great control over water, being able to alter its properties such as making it blunt or sharp. They are also immune to all water-based attacks below their level and can drink water to recover their vitality and energy, but depending on the pollution of the water it can harm them instead. By consuming other sources of magic they can temporarily incorporate it into their own water.
 928.Sky Dragon Slayer,7.3
 #Fairy Tail - Allows the user to transform into and wield the powers of a sky dragon. Allowing them to generate, control and even devour wind. They also have great control over their winds, being able to alter their properties such as making them blunt or sharp. They are also immune to all wind-based attacks below their level and can breathe in air to recover their vitality and energy, but if the air is polluted it will instead harm them. By consuming other sources of magic they can temporarily incorporate it into their own wind attacks instead. They can also use their winds to heal people.
-935. Poison Dragon Slayer,6.7
+929. Poison Dragon Slayer,6.7
 #Fairy Tail - Allows the user to transform into and wield the powers of a poison dragon. Allowing them to generate, control and even devour potent poison They also have great control over poison, being able to alter its properties such as making it corrosive, sickening, boiling etc. They are also immune to all poison below their level and can even consume to recover their vitality and energy. By consuming other sources of magic they can temporarily incorporate it into their own poison.
 930. Lightning Dragon Slayer,6.8
 #Fairy Tail - Allows the user to transform into and wield the powers of a lightning dragon. Allowing them to generate lightning from their body that they can control and even devour lightning. They also have great control over their lightning, being able to alter their properties such as making them blunt or sharp. They are also immune to all lightning below their level and can eat lightning to recover their vitality and energy. By consuming other sources of magic they can temporarily incorporate it into their own lightning.
@@ -1912,8 +1908,6 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Your body is entirely made up of the Blacklight Virus, allowing you to freely shapeshift down to the cellular level, you can also absorb any biological matter to get stronger and analyse its composition and replicate it, and consuming brains grants you access to all memories the target had.
 958.Rule Breaker,6.4
 #The rules don't matter to you anymore. You can expend energy to remove rules that apply to you or a target you are touching, remove gravity affecting you, magic affecting a target, remove being able to be targeted by magic etc. The more vague and more impactful a rule you remove the more energy you expend, a rule broken will slowly restore itself but its effects won't.
-958.Creation,6.2
-#You can create objects and matter through your magical energy as long you remember how to make them, this can range from creating a phone, creating a bar of gold, or even creating a magical sword provided you know how to make one. The higher the mass and the more magical an object you create, the more energy you need to expend.
 959.Diamond Draw,5.5
 #Allows you to temporarily summon an item from the Diamond Item Gacha that lasts for 1 hour before disappearing(You roll the gacha). The item given is random as the user is given a temporary ticket to roll. This ability starts its 8-hour cooldown the moment it is used. If the item pulled is an elixir, the effects of the Elixir are made temporary. 2 hour cooldown.
 960.Chainsaw Man,6.8
@@ -1965,7 +1959,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 983.Stone Free,4.0
 #JoJo - Stone Free allows you to convert any part of your body into translucent string you can control and move at will. The strong has the exact same physical abilities as you and can be instinctively woven into complex patterns etc.
 984.Petal Burst,3.4
-#RWBY - Allows you to temporarily shift into the form of a mass of rose petals to move at superspeeds for a short duration, in rose form you are more resistant toward physical attack and anything you are in contact with is also in this form, but the larger tge nass the higher the energy consumption. In addition, your control over your direction is lessened.
+#RWBY - Allows you to temporarily shift into the form of a mass of rose petals to move at superspeeds for a short duration, in rose form you are more resistant toward physical attack but the larger the mass the higher the energy consumption. In addition, your control over your direction is lessened.
 985. Grant,4.9
 #You are able to grant people lesser versions of your abilities, when you grant someone an ability Elite rank or below it is dropped down by one rank. Epic and Legendary abilities are dropped by two ranks. Only one ability can be granted to one person at a time.
 986. Man in the Mirror,4.8
@@ -1986,8 +1980,6 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #You are able to turn into a hentai tentacles creature or a manifest the tentacles of one at will. You are like a ball with numerous tentacles that can act as both regular limbs or reproductive organs.
 994.Madness Wavelength,5.2
 #You emit a wavelength from your body that alters the minds and perceptions of those it interacts with. You can drive an entire town to madness while passing by, you can also tweak the madness this ability exerts. 
-994.Inner Gate,5.3
-#Re:Zero - You have a gate inside of you that allows you to convert your energy to elemental mana that you can use to cast a variety of elemental magic depending on your aptitude.
 995.Time Accel,4.0
 #Fate - You are able to speed up the time of your own body by increments of 2x, 3x, 4x... the more you accelerate however the more strain is put on your body and mind.
 996.Divine Blade,5.9
@@ -2470,8 +2462,6 @@ You are able to weaken effects and abilities by being in contact with them. The 
 #Allows you to dispense water-based lube safe for personal use from your body, either making your body slick at will, releasing it from any point in your body like a dispenser or shooting it out like a low-power hose.
 1235.Rough Knuckle,1.6
 #Allows you to slightly augment your fists with energy, allowing the average man to shatter bricks with their fists. The more energy you expend, the greater the augmentation, but it is not very efficient.
-1235.Highlight,1.8
-#Allows you to mark objects to be highlighted by making physical contact. Once an object is highlighted you can see their outline no matter what even if your eyes are closed or they are behind walls. To be able to see a highlight they must be within 1km of you, this range increases with your power level.
 1236.Light Waltz,1.4
 #Allows you to cover parts of your body in a light-like aura that decreases the pressure you apply on surfaces to almost nothing, allowing you to walk on cobwebs or water, but does not reduce the damage or effects you take. Falls will still hurt, but where you land will not take damage.
 1237.Camera Mark,1.2
@@ -2538,3 +2528,83 @@ Get your head in the game and start fighting. Using this ability fills your body
 #Darksouls - Draw energy from your life and soul and shape it as a weapon, the power of the soul condensed, refined, and sharpened into a powerful spear that can curve mid-air to home in on enemies and pierce through defences. As the origin of the spear is linked to the soul, its power scales with the might of one's soul in addition to their energy levels.
 1268.Crystal Soul Spear,4.2
 #Darksouls - Draw energy from your life and soul and shape it as a weapon, the power of the soul condensed, refined, and sharpened, and then even further empowered through crystallization takes the form of a crystalline spear that can curve mid-air and pierce with incredible power. As the origin of the spear is linked to the soul, its power scales with the might of one's soul in addition to their energy levels.
+1269.Bulk Up,2.6
+#You are able to bulk up, reinforcing and strengthening all of your muscles to superhuman levels, allowing you to exert superhuman strength. Even as a base human, you can easily tear apart and throw around cars. Overuse can lead to extreme soreness and muscle tears.
+1270.Creation,6.2
+#You can create objects and matter through your magical energy as long as you remember how to make them. This can range from creating a phone, creating a bar of gold, or even creating a magical sword, provided you know exactly how to make one. The higher the mass and the more magical an object you create, the more energy you need to expend.
+1271.Inner Gate,5.3
+#Re:Zero - You have a gate inside of you that allows you to convert your energy to elemental mana that you can use to cast a variety of elemental magic depending on your aptitude.
+1272.Highlight,1.9
+#Allows you to mark a target with a Highlight by touching them. All highlighted targets have a colored outline that you can see as long as they are within a distance you'd be able to see with your eyes. You can see these colored outlines even if you are vision-impaired or there are blockades between you and the target.
+1273.Bequeth,4.8
+#Allows you to grant your physical abilities to others, granting them percentages of your own physical statistics, such as giving someone 10% of your strength or 20% of your agility. Only consumes your current physical abilities and grants them exactly. Physicals granted are permanently decreased but can be retrained. Only works with unaltered base physical abilities.
+1274.Rescale,3.6
+#Allows you to adjust your physical abilities in terms of a percentage allocation. By default, you have 500.0% allocated 100.0% each to Vitality, Strength, Toughness, Agility, and Stamina. As long as this ability is active, you can freely redistribute that 500.0% among your stats as long as you leave enough percentage to not die. Such as lowering Agility down to 10.0% and increasing Toughness to 190.0%.
+1275.Liason,3.9
+#Allows you to select up to an amount of Liasons equal to the number of ability slots you have. These Liasons can freely use all of the abilities you currently have slotted in through you, expending your energy as if you were using them while they wield the effects. For this effect to be active, Liason must be slotted in.
+1276.Absolute Terror Field,6.1
+#Evangelion - You are able to harness your very own AT Field, a field that covers your soul and separates it from the world around you. This field is invisible and manifests centered on you, only being visible when being impacted sufficiently. With mastery, you can change the shape of your field to use it more precisely. The power of this field scales with your energy reserves and the strength of your soul.
+1277.Challenge,4.6
+#"Come at me!" When Challenge is activated, you can designate targets in your line of sight to be affected by this ability, and as a result, these targets will have an immense and hard-to-resist urge to main or kill you. For the ability to work, targets must be in your sensory range and vice versa.
+1278.Dying Will Flame,5.5
+#Katekyo Hitman Reborn - Upon receiving this ability, it automatically takes the form of a Sky Dying Will Flame that best matches your temperament and replaces itself with it.
+1279.Sky Flames,5.2
+#Katekyo Hitman Reborn - Dying Will Flames that represent Harmonization, in addition to granting the ability to control the flames, its property allows it to temporarily fuse itself with another ability to create a flame-based ability greater than the sum of both their parts.
+1280.Storm Flames,5.1
+#Katekyo Hitman Reborn - Dying Will Flames that represent Disintegration, the flames produced by this ability do not act like normal flames, and instead of burning, they disintegrate and tear apart their targets in a violent manner.
+1281.Rain Flames,6.2
+#Katekyo Hitman Reborn - Dying Will Flames that represent Tranquility, the water-like flames produced by these flames have the special property of weakening whatever they touch, decreasing the intensity of their effects.
+1282.Sun Flames,6.4
+#Katekyo Hitman Reborn - Dying Will Flames that represent Activation,  the light-like flames produced by this ability have the special property of increasing the performance of whatever it affects, increasing the natural healing of someone, the output of an ability, or increasing physical performance. But using this ability can tax the target affected by it.
+1283.Lightning Flames,4.8
+#Katekyo Hitman Reborn - Dying Will Flames that represent Hardening, the lightning-like flames produced by this flame have the special property of solidifying and hardening objects, such as turning air into a wall or making a barrier out of the lightning, or even using the lightning itself as sharp blades.
+1284.Mist Flames,5.0
+#Katekyo Hitman Reborn - Dying Will Flames that represent Construction, the mist-like flames produced by this flame have the special property of being able to alter their looks, texture, smell, etc., to fool the five senses, and even being able to condense enough to pass off as real objects, but have comparatively weak firepower.
+1285.Cloud Flames,7.0
+#Katekyo Hitman Reborn - Dying Will Flames that represent Propagation, the cloud-like flames produced by this flame have the special property of being able to increase, replicate, and duplicate targets, such as creating a temporary copy of a sword, increasing one's muscle mass, and creating mirror images of oneself, but the stronger the target effect, the higher the energy consumption. In addition, this makes the Cloud Flames very good at creating large-scale effects and attacks despite their relatively weak firepower.
+1286.Drillmaker,3.7
+#Make, not break. Allows you to create Drills out of energy that you can control telekinetically to either launch as projectiles or wield like weapons.  The strength and rotational power of drills scale with the amount of energy expended.
+1287.Bloody Loan,2.8
+#"Future for the Present." Allows you to freely recover your energy, but the moment you stop using this ability to siphon energy, you will suffer damage proportional to the amount of energy you gained. Ranging from mild cuts to devastating wounds that are nigh impossible to heal, to straight-up death.
+1288.Bloody Savings,5.5
+#"Present for the Future." Allows you to expend your health and energy to store it in this ability at a 5 to 1 ratio to be reclaimed at anytime as long as this ability is not taken off the active ability slot.
+1289.Barbs,2.1
+#While this ability is active, all strikes and blunt attacks consume more energy; in exchange, all strikes and blunt attacks act like they are covered in razor or barbed wire, leaving lacerations and cuts on hit proportional to the power of the attack.
+1290.Equal Blood,2.9
+#"This will hurt both of us." Increases the damage all targets take from your attacks, but forces you to take a portion of the damage you inflict on targets.
+1291.Trial,1.8
+#Allows you to see people in grayscale according to your sense of Morality; the more immoral they are according to your sense of morals, the darker shade they appear in.
+1292.Inversion,5.6
+#Allows you to invert the effect of any Ability you currently have slotted in, such as Pyrokinesis becoming Cryokinesis, Curse becoming Bless, etc., but you also double the energy consumption of the ability while inverting its effect.
+1293.Lesser Curse,2.9
+#Allows you to put a curse on a target through physical contact; this curse decreases a chosen physical attribute of a target, such as Strength, Resiliance, Stamina, Vitality, and Agility. The potency of the curse applied and its duration are relative to the difference in strength between you and the target, as well as the amount of energy you expend. Only one curse may be applied to a target at a time.
+1294.Curse,3.7
+#Allows you to apply one of three curses on a target through physical contact; the Curse of Weakness that decreases the target's Strength, Resilience, and Stamina. Curse of Ruination that hinders a target's Energy and Vitality regeneration, and the Curse of Obsufication that weakens a target's all fire senses. The potency of the curse applied and its duration are relative to the difference in strength between you and the target, as well as the amount of energy you expend. Only one curse may be applied to a target at a time.
+1295.Watcher's Curse,3.0
+#Allows you to apply the Watcher's Curse on a target. The target affected by this curse will have an ethereal watcher's eye floating over them and watching them. This eye will constantly transmit the target's location and what it sees to you. The Curse can also be used as an anchor to cast abilities and spells from.
+1296.Root,1.6
+#Allows you to grow ethereal roots that dig into the ground, rooting you in place but allowing you to drain the energy and nutrients from the ground to accelerate your vitality and energy regeneration.
+1297.Kamikaze,3.8
+#Allows you to expend your own Vitality to produce a powerful and violent explosion from your body. The more Vitality you expend, the more powerful the explosion is, and at a bare minimum, the vitality you expend must be enough to considerably hurt you.
+1298.Tower Down,5.7
+#"Fractured Language" Allows you to bring down the Tower of Babel temporarily, making all forms of communication impossible in a 1km radius. No matter what, people cannot understand what other people try to communicate, whether written, spoken, or gestured. The range of this ability expands as you get stronger; energy consumption scales with the number of people affected.
+1299.Physical Trauma Response,4.1
+#Your flesh, it hardens in response to physical trauma. When experiencing sudden impacts and or strikes above a certain threshold, your muscles, fat, skin, and every layer of your body on the point of impact compacts and locks together briefly to form an armored layer to defend yourself against physical trauma without impeding movement.
+1300.Tinker - Mech(I),2.5
+#(Tech) Allows you to design, modify, and build technology and technological constructs related to Mechs and large piloted mechanical armors and their construction. At this level, you can create basic mechs, Such as large exosuits made to help with construction or basic clunky mechs with standard armors and machine guns.
+1301.Tinker - Mech(II),4.4
+#(Tech) Allows you to design, modify, and build technology and technological constructs related to Mechs and large piloted mechanical armors and their construction. At this level, you can create proper combat-ready mechs, such as sleek and agile mechs that can briefly fly, or ones that are less mobile and more armored. Modular ones that can be easily repaired. You can also design and build weaponry and modules that only work for your mechs and nothing else, based on your other abilities and traits.
+1302.Tinker - Mech(III),5.8
+#(Tech) Allows you to design, modify, and build technology and technological constructs related to Mechs and large piloted mechanical armors and their construction. At this level, you can create powerful and versatile mechs that can contend with the likes of Knightmares and other such Mechs. Such as creating large mechs that can withstand missile onslaughts and have power canons and guns that can demolish streets equipped onto them. You can also design and build weaponry and modules that only work for your mechs and nothing else, based on your other abilities and traits.
+1303.Tinker - Mech(IV),7.0
+#(Tech)Allows you to design, modify, and build technology and technological constructs related to Mechs and large piloted mechanical armors and their construction. At this level, your mechs can be called proper mechs. As long as you have enough resources and time, you can create the skyscraper-sized, esoteric energy-harnessing forcefield-protected Mecha with dozens of different modules that can withstand nuclear warfare and annihilate entire city blocks and cities with its canons. 
+1304.Tinker - Mech(V),8.5
+#(Tech)Allows you to design, modify, and build technology and technological constructs related to Mechs and large piloted mechanical armors and their construction. You can create the Mecha of your dreams that would make Gundams proud. Mechs that are powered by antimatter with Hadron canons, planet-sized Mechs that can travel through space with Death Star canons, as long as you have the Resources, Knowledge, and Time, you can use them to design a badass mech. You can also design and build weaponry and modules that only work for your mechs and nothing else, based on your other abilities and traits.
+1305.Tinker - Hydro,6.1
+#(Tech)Allows you to design, modify, and build technology and technological constructs related to Water and water-based constructs. Such as a dehydration gun, a sprinkler system, hydro canons, very efficient irrigation systems, all the way up to bombs that rip all water molecules from a 100-meter radius, and engines that run on nothing but water, depending on your skills, experience, and materials available.
+1306.Tinker - Aero,6.5
+#(Tech)Allows you to design, modify, and build technology and technological constructs related to Air and atmospheres. Such as a blow dryer, a hyper-efficient wind turbine, wind bombs, flying machines, super-efficient blimps, all the way up to weather alteration devices, tornado grenades, and vacuum bombs, depending on your skills, experience, and materials available.
+1307.Tinker - Henshin,5.9
+#(Tech)Allows you to design, modify, and build technology and technological constructs related to transformation and transformable technology. Such a belt that allows you to don a suit of stylish armor, a car that transforms into a jet, and those jets come together to form a mech, a pen that transforms into little mechanical lion, a band that inhibits transformations, and even stylish(mandatory) themed armors that harness the power of exotic materials to empower the wearer, depending on your skills, experience, and materials available.
+1308.Tinker - Ultrakill,5.8
+#(Tech)Allows you to design, modify, and build technology and technological constructs from the world of Ultrakill. Specializing in the production of a variety of robots ranging from hyper mobile ones to moving artileries and all the way up to ones larger than skyscrapers with overwhelmingly powerful weapons and defensive systems. This tinker ability has the unique caveat of requiring technology built through it to be fueled by Blood primarily.

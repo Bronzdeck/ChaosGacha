@@ -45,11 +45,11 @@
 23. Cornucopia, 3.9
 #A horn that contains an unlimited amount of delicious and fresh mundane vegetables, fruits and fruits etc. that can be taken out at any time, the user has to think of the ingredient they want before pulling it out.
 24. Tome of the Erdtree, 4.7
-#Elden Ring - Allows you to learn the incantations of the Erdtree such as healing and blessings. https://eldenring.wiki.fextralife.com/Erdtree+Incantations
+#(Tome)Elden Ring - Allows you to learn the incantations of the Erdtree such as healing and blessings. https://eldenring.wiki.fextralife.com/Erdtree+Incantations
 25. Tome of the Grand Rizzard, 4.0
-#A tome containing vast knowledge in erotic magical arts allowing you to learn Eromancy.
+#(Tome)A tome containing vast knowledge in erotic magical arts allowing you to learn Eromancy.
 26. Tricksters Book of Illusions, 4.3
-#A tome containing a variety of spells about illusions and tricks allowing you to learn DnD illusion spells from it. https://dnd5e.wikidot.com/spells:illusion
+#(Tome)A tome containing a variety of spells about illusions and tricks allowing you to learn DnD illusion spells from it. https://dnd5e.wikidot.com/spells:illusion
 27. Dragon Ball, 2.3
 #Dragon Ball - A singular Dragon ball, if you gather all 7 you can summon Shenron to grant you a wish that is within his power or give yourself any ability below a 6.9 rating.
 28. Stone Mask, 4.7
@@ -87,7 +87,7 @@
 44. Character Card Destinys Child, 5.6
 #Legendary Mechanic - Predict an 'opportunity' in the future. Can indicate a mission, an item, an action of a certain person… etc. The vision is accurate and detailed. This item has 5 uses and after 5 uses it will fade away.
 45. HF Murasama, 4.7
-#(Tech)Metal Gear Rising Revengence - A crimson mechanical blade that vibrates at unreal frequencies, making it capable of slicing through almost anything.
+#(Tech)Metal Gear Rising Revengence - A crimson expertly crafted High Frequency blade, the best of it's kind, capable of cutting through practically any physical material, in addition, this blade comes with a gunslash in order to better facilitate Iai moves. The sheath has infinite charge to supply the blade.
 46. Playful Cloud, 4.1
 #JJK - A cursed three-sectioned staff that amplifies in destructive power the higher the strength of its user.
 47. Pokedex,4.3
@@ -101,10 +101,10 @@
 51. Triactis True Paladinian Mage-Hammer of Might,7.1
 #Calamity Mod - A hammer once wielded by the greatest Paladin. Using this hammer amplifies the user's magical and physical abilities considerably as well as augmenting all spells that use the hammer as a focus. This hammer possesses tremendous might capable of flattening mountains, and when thrown, this hammer will find its way back to its user like the Mjolnir.
 52. Ticket to the ITOPOD,3.0
-#When used it sends you to the ITOPOD otherwise known as the Infinite Tower of Pissed Off Dudes. Every floor contains an enemy with an ability as strong as the corresponding floor. According to the floor you manage to finish your climb at, you will get an item of equal level.
+#When used it sends you to the ITOPOD otherwise known as the Infinite Tower of Pissed Off Dudes. Every floor contains an enemy with an ability as strong as the corresponding floor. According to the floor you manage to finish your climb at, you will get an item of equal level. The tickets dissappears upon being torn.
 53. Tome of Hands,3.7
 #Love Advice From the Great Duke of hell - While holding this tome you are capable of transforming and creating hands out of any surface that you can control like your own limbs, with practice and study you can learn to do it without relying on the tome.
-54. Furniture Catalog,3.5
+54. Furniture Catalog,2.5
 #Allows you to instantly buy and get delivered any mundane furniture in your current world to your location via teleportation, all pieces of furniture cost their manufacturing cost. Cannot be accessed while in combat or in hostile territory.
 55. Abyssal Diving Suit,4.2
 #(Tech)Calamity Mod - An extremely tough power armor suit designed for deep sea exploration, and deep sea as in 3,000km under the sea deep, this suit is capable of easily adapting to any underwater condition whether its poison, corrosion, sea pressure, this suit will perform perfectly, allowing you to move and live in any underwater condition with ease. 
@@ -131,11 +131,11 @@
 66. Evasion Scarf,3.7 
 #Calamity Mod - A scarf held by an evasive rogue swift as a shadow. When worn you can activate the effect of the scarf to gain a large speed boost and become intangible as you move in a straight line for 1 second, allowing you to move through your enemy's attack or slip through a wall when you need to dodge. 30 second cooldown.
 67. Grimoire of Hemomancy,4.6
-#Black Clover - A book containing the secrets of Blood Magic from the Clover Kingdom, allowing its users to learn and utilize Hemomancy. Spell List: https://blackclover.fandom.com/wiki/Blood_Magic
+#(Tome)Black Clover - A book containing the secrets of Blood Magic from the Clover Kingdom, allowing its users to learn and utilize Hemomancy. Spell List: https://blackclover.fandom.com/wiki/Blood_Magic
 68. Grimoire of Pyromancy,4.8
-#Black Clover - A book containing the secrets of Fire Magic from the Clover Kingdom, allowing its users to learn and utilize Pyromancy. Spell List: https://blackclover.fandom.com/wiki/Fire_Magic
+#(Tome)Black Clover - A book containing the secrets of Fire Magic from the Clover Kingdom, allowing its users to learn and utilize Pyromancy. Spell List: https://blackclover.fandom.com/wiki/Fire_Magic
 69. Tome of Vector Magic,3.6
-#Soul Eater - A tome belonging to one Medusa Gorgon, this book allows its user to learn and utilize her signature Vector Magic. Spell List: https://souleater.fandom.com/wiki/Vector_Magic
+#(Tome)Soul Eater - A tome belonging to one Medusa Gorgon, this book allows its user to learn and utilize her signature Vector Magic. Spell List: https://souleater.fandom.com/wiki/Vector_Magic
 70. Boar Vessel 600-500 BC Etruscan ceramic,0.1
 #It is a Boar Vessel 600-500 BC Etruscan ceramic, no further explanation needed.
 71. Shitty Copper,1.6
@@ -184,7 +184,7 @@
 #Dark Souls -  his ring was secretly worn by a certain surreptitious sorcerer at Vinheim Dragon School. The ring is engraved with an everlasting dragon in silent slumber, and masks all sound emitting from its wearer.
 93. Cloranthy Ring,2.4
 #Dark Souls - This ancient ring, engraved with a large green flower, is of unknown origin. Hastens the regeneration of stamina and recovery from exhaustion.
-94. Ring of fire resistance,2.5
+94. Red Stoneplate Ring,2.5
 #Dark Souls - Stoneplates, the symbol of a true knight, grant the strength to face various hardships. The red stoneplate symbolizes fire and boosts defense against flame and heat.
 95. Blue Stoneplate Ring,2.4
 #Dark Souls - Stoneplates, the symbol of a true knight, grant the strength to face various hardships. The cyan stoneplate symbolizes ice and boosts defense against ice and cold.
@@ -196,8 +196,8 @@
 #Dark Souls - This ring belonged to the Knight King Rendal. It grants its wearer protection by boosting defense against physical attacks.
 99. Energy Drink,2.6
 #A can of drink that contains 330ml of green juice inside, drinking all of the liquid recovers your energy/mana by 30%, drinking more than 3 cans a day will instantly cause a stroke and a heart attack. Restock Timer: 24 Hours
-100. Cloak of Bellowing,0.8
-#DnD - A fancy embroidered red cloak that can bellow majestically even in the absence of wind.
+100. Cloak of Billowing,0.8
+#DnD - A fancy embroidered red cloak that can billow majestically even in the absence of wind.
 101. Wardrobe of Mending,1.8
 #A wardrobe of fancy clothes that suit your tastes, when not worn for more than 24 hours these clothes instantly mend themselves into mind condition.
 102. Sakuya Fumo,2.5
@@ -231,15 +231,15 @@
 116. Exorcists Gloves,1.1
 #A pair of magical white gloves that allows you to interact with spiritual beings like they are solid.
 117. Tome of Rennala,4.0
-#Elden Ring - A tome containing the research and magic of the Carian Royal family, allowing those who study it to learn and wield the Carian Sorceries. Spell List: https://eldenring.wiki.fextralife.com/Carian+Sorceries
+#(Tome)Elden Ring - A tome containing the research and magic of the Carian Royal family, allowing those who study it to learn and wield the Carian Sorceries. Spell List: https://eldenring.wiki.fextralife.com/Carian+Sorceries
 118. Tome of Deathblight,4.1
-#Elden Ring - A tome contains the research and records of Those Who Live in Death that worship Godwyn, the Prince of Death, allowing those who study it to learn and wield the Death Sorceries. Spell List: https://eldenring.wiki.fextralife.com/Death+Sorceries
+#(Tome)Elden Ring - A tome contains the research and records of Those Who Live in Death that worship Godwyn, the Prince of Death, allowing those who study it to learn and wield the Death Sorceries. Spell List: https://eldenring.wiki.fextralife.com/Death+Sorceries
 119. Perfect Decoy,1.6
 #An exact replica of your body down to the most minute detail but damaging it reveals that even though it looks like you, it has no DNA or genetics, more like a flesh puppet made to look like you. 
 120. Tome of Raya Lucaria,3.8
-#Elden Ring - A magical tome containing the teachings of the Raya Lucaria Academy, allowing its reader to learn and harness Glintstone magic. Spell List: https://eldenring.wiki.fextralife.com/Glintstone+Sorceries
+#(Tome)Elden Ring - A magical tome containing the teachings of the Raya Lucaria Academy, allowing its reader to learn and harness Glintstone magic. Spell List: https://eldenring.wiki.fextralife.com/Glintstone+Sorceries
 121. Tome of the Starscourge,4.7
-#Elden Ring - A magical tome containing the studies and records of Radahn the Starscourge, allowing its reader to study it to learn and harness his gravity magic. Spell List: https://eldenring.wiki.fextralife.com/Gravity+Sorceries
+#(Tome)Elden Ring - A magical tome containing the studies and records of Radahn the Starscourge, allowing its reader to study it to learn and harness his gravity magic. Spell List: https://eldenring.wiki.fextralife.com/Gravity+Sorceries
 122. Cruise Ship,3.0
 #(Tech)A large luxury cruise ship that is 350 meters long and 80 meters wide, the cruise ship is manned by automatons that cannot perform any duty other than the ones they are assigned to in the ship. In addition, this ship has infinite fuel in its engine.
 123. Tank,1.2
@@ -263,7 +263,7 @@
 132. Enchanted Golden Apple,3.4
 #Minecraft - A magical apple with skin resembling gold that has been enchanted with magic, eating it gives the eater rare level regeneration for one hour and also bolsters their vitality. Restock Timer: 210 Hours 
 133. Grimoire of Wind Magic,4.7
-#Black Clover - A book containing the secrets of Wind Magic from the Clover Kingdom, allowing its users to learn and utilize Aeromancy. Spell List: https://blackclover.fandom.com/wiki/Wind_Magic
+#(Tome)Black Clover - A book containing the secrets of Wind Magic from the Clover Kingdom, allowing its users to learn and utilize Aeromancy. Spell List: https://blackclover.fandom.com/wiki/Wind_Magic
 134. Lightsaber,3.1
 #Star Wars - A classic textbook lightsaber made from a Kyber Crystal that projects a blade of energy, no, you do not need force powers to use this one. 
 135. Wand of the Ice Fairy,4.7
@@ -577,15 +577,15 @@
 289. Orb of Driving Rain,3.8
 #Hota - An orb containing raw ancient magical power that boosts the power of water and ice-based abilities and magic of those who hold it.
 290. Orb of Tempenstous Fire,3.6
-#Hota - An orb containing raw ancient magical power that boosts the power of fire-based abilities and magic of those who hold it.
+#(Tome)Hota - An orb containing raw ancient magical power that boosts the power of fire-based abilities and magic of those who hold it.
 291. Tome of Air,6.2
-#Hota - A legendary tome from an ancient kingdom that is imbued with magic, allowing whoever holds it to cast the spells it contains within even without training. You can also learn the spells yourself through study to cast them without the assistance of the book. Spell List: https://heroes.thelazy.net/index.php/School_of_Air_Magic
+#(Tome)Hota - A legendary tome from an ancient kingdom that is imbued with magic, allowing whoever holds it to cast the spells it contains within even without training. You can also learn the spells yourself through study to cast them without the assistance of the book. Spell List: https://heroes.thelazy.net/index.php/School_of_Air_Magic
 292. Tome of Earth,5.8
-#Hota - A legendary tome from an ancient kingdom that is imbued with magic, allowing whoever holds it to cast the spells it contains within even without training. You can also learn the spells yourself through study to cast them without the assistance of the book. Spell List: https://heroes.thelazy.net/index.php/School_of_Earth_Magic
+#(Tome)Hota - A legendary tome from an ancient kingdom that is imbued with magic, allowing whoever holds it to cast the spells it contains within even without training. You can also learn the spells yourself through study to cast them without the assistance of the book. Spell List: https://heroes.thelazy.net/index.php/School_of_Earth_Magic
 293. Tome of Water,5.6
-#Hota - A legendary tome from an ancient kingdom that is imbued with magic, allowing whoever holds it to cast the spells it contains within even without training. You can also learn the spells yourself through study to cast them without the assistance of the book. Spell List: https://heroes.thelazy.net/index.php/School_of_Water_Magic
+#(Tome)Hota - A legendary tome from an ancient kingdom that is imbued with magic, allowing whoever holds it to cast the spells it contains within even without training. You can also learn the spells yourself through study to cast them without the assistance of the book. Spell List: https://heroes.thelazy.net/index.php/School_of_Water_Magic
 294. Tome of Fire,4.9
-#Hota - A legendary tome from an ancient kingdom that is imbued with magic, allowing whoever holds it to cast the spells it contains within even without training. You can also learn the spells yourself through study to cast them without the assistance of the book. Spell List: https://heroes.thelazy.net/index.php/School_of_Fire_Magic
+#(Tome)Hota - A legendary tome from an ancient kingdom that is imbued with magic, allowing whoever holds it to cast the spells it contains within even without training. You can also learn the spells yourself through study to cast them without the assistance of the book. Spell List: https://heroes.thelazy.net/index.php/School_of_Fire_Magic
 295. Sphere of Permanence,3.9
 #Hota - A magical orb that prevents the removal of magic on a target, you are immune to spells or abilities that dispel.
 296. Orb of Vulnerability,5.2
@@ -681,31 +681,31 @@
 341.Flowing Water Crushing Rock Fist Manual,6.8
 #One Punch Man - A book containing detailed instructions on how to train in the art of Flowing Water Crushing Rock Fist created by Bang. Those without the manual cannot replicate the martial arts.
 342.Grimoire of Izalith,4.6
-#Dark Souls - A Grimoire that allows its reader to learn the Pyromancies of the Great Swamp and Izalith. Spell List: https://darksouls.fandom.com/wiki/Pyromancy_(Dark_Souls)
+#(Tome)Dark Souls - A Grimoire that allows its reader to learn the Pyromancies of the Great Swamp and Izalith. Spell List: https://darksouls.fandom.com/wiki/Pyromancy_(Dark_Souls)
 343.Tome of the Way of the White,3.6
-#Dark Souls - A tome that allows its reader to learn the miracles of the Way of the White, this Tome was written by Rhea of Thorulund, allowing you to learn all of her miracles. | Spell List: https://darksouls.fandom.com/wiki/Reah_of_Thorolund#Miracles
+#(Tome)Dark Souls - A tome that allows its reader to learn the miracles of the Way of the White, this Tome was written by Rhea of Thorulund, allowing you to learn all of her miracles. | Spell List: https://darksouls.fandom.com/wiki/Reah_of_Thorolund#Miracles
 344.Tome of Orbeck,4.7
-#Dark Souls - A magical tome containing research and anecdotes written by Orbeck of Vinheim allowing you to learn all of his spells. | Spell List: https://darksouls.fandom.com/wiki/Orbeck_of_Vinheim#Wares
+#(Tome)Dark Souls - A magical tome containing research and anecdotes written by Orbeck of Vinheim allowing you to learn all of his spells. | Spell List: https://darksouls.fandom.com/wiki/Orbeck_of_Vinheim#Wares
 345. Rites of the Dragon Communion,5.4
-#Elden Ring - Church Rites detailing how one can commune with the great dragons, studying the rites allows communion with dragons, allowing the user to borrow their powers to conjure miracles. Spell List: https://eldenring.wiki.fextralife.com/Dragon+Communion+Incantations
+#(Tome)Elden Ring - Church Rites detailing how one can commune with the great dragons, studying the rites allows communion with dragons, allowing the user to borrow their powers to conjure miracles. Spell List: https://eldenring.wiki.fextralife.com/Dragon+Communion+Incantations
 346. Rites of the Dragon Cult,4.9
-#Elden Ring - Rites of the Dragon Cult, studying these allows one to learn of the miracles performed by the dragon cult by imitating the power of the great dragons. Spell List: https://eldenring.wiki.fextralife.com/Dragon+Cult+Incantations
+#(Tome)Elden Ring - Rites of the Dragon Cult, studying these allows one to learn of the miracles performed by the dragon cult by imitating the power of the great dragons. Spell List: https://eldenring.wiki.fextralife.com/Dragon+Cult+Incantations
 347. Capsule Case,4.7
 #(Tech)Dragon Ball - A case containing 20 capsules made by Capsule Corp. The capsules contain a House, fridge, oven, large quantities of preserved foods, a boat, a high tech motorcycle, etc. Any slightly upgraded mundane appliance or vehicle is a capsule in this case. Restock timer 48 hours.
 348. Rites of the Edtree,5.2
-#Elden Ring - Rites of the old ones who used to worship the ancient Erdtree. Studying these rites allows learning of the miracles of the Erdtree. Spell List: https://eldenring.wiki.fextralife.com/Erdtree+Incantations
+#(Tome)Elden Ring - Rites of the old ones who used to worship the ancient Erdtree. Studying these rites allows learning of the miracles of the Erdtree. Spell List: https://eldenring.wiki.fextralife.com/Erdtree+Incantations
 349. Grimoire of Spatial Magic,6.8
-#Black Clover - A book containing the secrets of Spatial Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Spatial_Magic
+#(Tome)Black Clover - A book containing the secrets of Spatial Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Spatial_Magic
 350. Grimoire of Lightning Magic,5.0
-#Black Clover - A book containing the secrets of Lightning Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Lightning_Magic
+#(Tome)Black Clover - A book containing the secrets of Lightning Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Lightning_Magic
 351. Grimoire of Water Magic,4.7
-#Black Clover - A book containing the secrets of Water Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Water_Magic
+#(Tome)Black Clover - A book containing the secrets of Water Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Water_Magic
 352. Grimoire of Ice Magic,4.5
-#Black Clover - A book containing the secrets of Ice Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Ice_Magic
+#(Tome)Black Clover - A book containing the secrets of Ice Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Ice_Magic
 353.Grimoire of Darkness Magic,6.5
-#Black Clover - A book containing the secrets of Darkness Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Dark_Magic
+#(Tome)Black Clover - A book containing the secrets of Darkness Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Dark_Magic
 354.Grimoire of Light Magic,6.4
-#Black Clover - A book containing the secrets of Light Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Light_Magic
+#(Tome)Black Clover - A book containing the secrets of Light Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Light_Magic
 355. Familiar Contract,3.3
 #A contract that allows those who sign it to become registered in your gacha as a familiar that you can treat like any other familiar. They must sign the contract while knowing what it does otherwise it does not work.
 356. Master Blacksmith Commision,4.0
@@ -725,7 +725,7 @@
 363. Sage's Ring,3.1
 #Dark Souls - A ring given to Farron's Undead Legion by one of the preacher twins, known more commonly as the Crystal Sages. It makes it easier to learn and cast spells while wearing the ring, reducing the energy costs of spells.
 364. Sahelanthropus,5.1 
-#Metal Gear - A nuclear armed bipedal humanoid tank designed for warfare containing a variety of weaponry for combat, this one has been modified to make space for a human operator. This metal gear possesses a high power railgun, guided missile launchers, retractable flexible nanofiber high frequency blades, and independently operating high tech sensory drones that can deploy explosives, flamethrowers, and high caliber machine guns. In addition, its armor is made of depleted uranium that can be enriched by its internal reactor and detonated to cause a nuclear explosion. All ammo and missiles etc. restock every 24 hours. This machine also self repairs itself via Nanomachines.
+#(Tech)Metal Gear - A nuclear armed bipedal humanoid tank designed for warfare containing a variety of weaponry for combat, this one has been modified to make space for a human operator. This metal gear possesses a high power railgun, guided missile launchers, retractable flexible nanofiber high frequency blades, and independently operating high tech sensory drones that can deploy explosives, flamethrowers, and high caliber machine guns. In addition, its armor is made of depleted uranium that can be enriched by its internal reactor and detonated to cause a nuclear explosion. All ammo and missiles etc. restock every 24 hours. This machine also self repairs itself via Nanomachines.
 365. Twilight Healing,4.8
 #DxD - A sacred gear created by god. Twilight Healing manifests as a pair of ornate rings that allows its user to convert their own energy into neutral healing energy that can heal others or yourself, potency depends on how much energy you expend.
 366. Gravity Jail,3.8
@@ -835,15 +835,15 @@
 417.Rinnegan,7.2
 #Naruto - A pair of Rinnegan plucked fresh off of Nagato's body contained in preserving fluid. These eyes can be surgically implanted in yourself or others to gain access to their abilities. Beware, you will need a lot of energy to handle them.
 418.Fire Release Jutsu Scroll,5.2
-#Naruto - A large scroll containing information on all Fire Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Fire Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll. 
+#(Tome)Naruto - A large scroll containing information on all Fire Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Fire Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll. 
 419.Water Release Jutsu Scroll,5.6
-#Naruto - A large scroll containing information on all Water Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Water Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll. 
+#(Tome)Naruto - A large scroll containing information on all Water Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Water Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll. 
 420.Wind Release Jutsu Scroll,6.0
-#Naruto - A large scroll containing information on all Wind Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Wind Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll. 
+#(Tome)Naruto - A large scroll containing information on all Wind Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Wind Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll. 
 421.Earth Release Jutsu Scroll,5.5
-#Naruto - A large scroll containing information on all Earth Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Earth Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll. 
+#(Tome)Naruto - A large scroll containing information on all Earth Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Earth Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll. 
 422.Lightning Release Jutsu Scroll,5.7
-#Naruto - A large scroll containing information on all Lightning Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Lightning Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll. 
+#(Tome)Naruto - A large scroll containing information on all Lightning Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Lightning Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll. 
 423.T-51b Power Armor,2.6
 #(Tech)Fallout - A set of power armour developed before the Great War and mass-produced for soldiers to wear. This power armour is strong enough to shrug off low-calibre bullets and allow the average man to lift a car overhead. The power armour is powered by a fusion core that gets replaced by a new one every 24 hours.
 424.Gene Seed Ticket,4.2
@@ -907,17 +907,17 @@
 453.Null Void Projector,6.8
 #(Tech)Ben 10 - A handheld projection gun that allows the user to open portals to the Null Void or send whatever they hit into the Null Void. It requires recharging between shots but hey, whatever you sent there is no longer your problem. Incapacitating someone with the Null Void does not grant a feat.
 454.Tome of Destruction,3.7
-#Skyrim - A tome that compiles the various destruction spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Destruction_(Skyrim)
+#(Tome)Skyrim - A tome that compiles the various destruction spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Destruction_(Skyrim)
 455.Tome of Restoration,4.6
-#Skyrim - A tome that compiles the various restoration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Restoration_(Skyrim)
+#(Tome)Skyrim - A tome that compiles the various restoration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Restoration_(Skyrim)
 456.Tome of Conjuration,5.7
-#Skyrim - A tome that compiles the various conjuration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Conjuration_(Skyrim)
+#(Tome)Skyrim - A tome that compiles the various conjuration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Conjuration_(Skyrim)
 457.Tome of Alteration,4.9
-#Skyrim - A tome that compiles the various alteration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Alteration_(Skyrim)
+#(Tome)Skyrim - A tome that compiles the various alteration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Alteration_(Skyrim)
 458.Tome of Illusion,4.2
-#Skyrim - A tome that compiles the various illusions spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Illusion_(Skyrim)
+#(Tome)Skyrim - A tome that compiles the various illusions spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Illusion_(Skyrim)
 459.Potarra Earrings,5.5
-#Dragon Ball - A pair of magical earrings that when worn one each by two different beings, permanently fuses them into one entity that possesses the sum of their powers and abilities.
+#(Tome)Dragon Ball - A pair of magical earrings that when worn one each by two different beings, permanently fuses them into one entity that possesses the sum of their powers and abilities.
 460.Celestial Bronze,2.6
 #Percy Jackson - A mythical metal native to Mount Olympus. Celestial Bronze possesses the property of being deadly to any magical or mythical being while being completely harmless to anything mundane, passing through them like it's not even there. You get 3 10kg bars. Restock Timer: 24 Hours
 461.Stygian Iron,3.4
@@ -943,7 +943,7 @@
 471.Nail of Helena,7.0
 #Hellsing - A true divine artefact used to nail the saint to the cross. When nailed to someone's heart it transforms them into a being known as a Monster of God(See trait: Monster of God).
 472.Dragon Dictionary,6.1
-#Skyrim - A dictionary on Thu'um written by Parthuunax, written to be able to teach anyone the Thu'um. Inside it is all of the Shouts from Tamriel that those who study the book can learn. Your ability to learn the shouts depends on your talent in magic and vocals. The more powerful and esoteric a shout the harder it is to learn it and its stages. Spell List: https://elderscrolls.fandom.com/wiki/Dragon_Shouts
+#(Tome)Skyrim - A dictionary on Thu'um written by Parthuunax, written to be able to teach anyone the Thu'um. Inside it is all of the Shouts from Tamriel that those who study the book can learn. Your ability to learn the shouts depends on your talent in magic and vocals. The more powerful and esoteric a shout the harder it is to learn it and its stages. Spell List: https://elderscrolls.fandom.com/wiki/Dragon_Shouts
 473.Cupids Arrow,6.8
 #An arrow that makes two people it pierces fall in love. Just stab each target once. The moment you stab the first, they will fall in love with the second person you pierce. To make it reciprocal just repeat the process by stabbing the other person first. Targets Legendary Rank or Stronger can resist the effects.
 474.Hand of Midas,5.8
@@ -1072,7 +1072,7 @@
 #Ben 10 - A sword created by the Thinker Azmuth, one of the greatest weapons of the Universe in the form of a sword. The blade Ascalon channels the fundamental forces of reality and creates an armour created out of Cosmic energy, granting them an incredible physical boost, and defence and immunity to mental effects. By channelling the fundamental powers of the universe, the blade can cleave anything, even realms and reality itself, or the fabric of spacetime to teleport. It allows the user to project energy slashes. It can deflect, reflect and cut energy itself. It can also drain the powers of opponents it stabs into the blade.
 527.Duffel of Hardware,3.6
 #(Tech)A simple backpack that contains anything you could reasonably find in the average hardware store in unlimited quantities, but you need to physically reach in and pull the item out. To retrieve an item, you have to at least know what you are pulling out.
-528.The Market Catalogue,2.8
+528.The Market Catalogue,3.8
 #(Tech)A simple catalogue that allows you to order anything from any regularly accessible store from Base Earth that will be instantly delivered to your location. Everything in the catalogue costs double the regular cost of the items, adjusted to the economy of the world you are currently in.
 529.Stockpile,2.9
 #(Tech)A Simple cardboard box that contains a seemingly infinite amount of mundane raw materials like wood, stone, ore, rope and other such materials that the average person could get their hands on. Only 50kg of materials may be taken out every 24 hours. If the box is somehow lost or destroyed, you will be able to stumble upon it in perfect condition if you go searching for it.
@@ -1273,7 +1273,7 @@
 627.Ferryman's Favor,3.7
 #Charon, the Ferryman, owes you a favor, and this IOU cheque proves it. By tearing the cheque, you can ask Chiron to bring you any one dead soul that belongs to the world you tore the ticket in, alongside the biggest part of their corpse. Chiron will give you the soul and body in separate sealed containers.
 628.Sentry Turrets,1.1
-#Portal - A shipment of Aperture Science Brand Sentry Turrets, equipped with twin machine guns and is a very cost effective way to keep out intruders, but are not built with quality in mind but rather with cheapness and reliability in mind. This box contains 9 turrets whose bullet reserves refill every 24 hours(bullets cannot be taken out of turret). Restock Timer: 168 Hours  
+#(Tech)Portal - A shipment of Aperture Science Brand Sentry Turrets, equipped with twin machine guns and is a very cost effective way to keep out intruders, but are not built with quality in mind but rather with cheapness and reliability in mind. This box contains 9 turrets whose bullet reserves refill every 24 hours(bullets cannot be taken out of turret). Restock Timer: 168 Hours  
 629.Barrel of Everflowing Oil,1.9
 #A standard black barrel that contains infinite amounts of quality medium crude oil, when this barrel is tipped, oil flows out of the bung at a steady rate of 10 gallons per minute. If the barrel is damaged or forcefully modified, it will lose this attribute.
 630.Job Application Form,1.5
@@ -1315,7 +1315,7 @@
 648.Mentats,2.0
 #Fallout - Mentats, often described as a miracle drug that temporarily heightens the mental functions of the consumer, granting them increased mental clarity, faster thought processing speeds, and greater memory retention. But it is also highly addictive; overuse of it can cause permanent memory degeneration and mental disorders. Perhaps a highly skilled chemist can improve upon the design. You get a single box containing 8 doses. Restock Timer: 76 Hours
 649.Buffout,1.9
-#Fallout - Buffout is a pre-war chem created as a very potent and temporary physical effort enhancer and steroid, capable of allowing the string bean joe punch through wood and take a baseball bat to the face thanks to the increased endurance, strength, and reflexes it provides.  
+#Fallout - Buffout is a pre-war chem created as a very potent and temporary physical effort enhancer and steroid, capable of allowing the string bean joe punch through wood and take a baseball bat to the face thanks to the increased endurance, strength, and reflexes it provides. Restock Timer: 76 Hours
 650.Super Rod,1.5
 #Pokemon - For when you really want to catch big game, the Super Rod is a fishing rod that requires no bait to fish, as it has the properties of luring in fish who feel compelled to it. In addition, it's more likely to attract quality or powerful sea-dwelling creatures than not. A fisherman's wet dream.
 651.Dragonslayer Spear,2.6
@@ -1327,7 +1327,7 @@
 654.Pharis' Bow,1.8
 #Dark Souls - A finely crafted bow once wielded by the legendary archer Pharis. This bow is quite powerful and can sharpshoot at longer ranges. Some of Phari's essence still seems to remain, slightly aiding the user's aim. Comes with a quiver of 30 standard arrows that restock every 24 hours.
 655.Glock,0.7
-#A gun, the old reliable Glock 19, simple, easy to use, easy to handle, and will work for most situations where you will simply need a basic handgun. You get a magazine for it every 24 hours.
+#(Tech)A gun, the old reliable Glock 19, simple, easy to use, easy to handle, and will work for most situations where you will simply need a basic handgun. You get a magazine for it every 24 hours.
 656.Darkmoon Bow,2.6
 #Darksouls - A bow wielded by the god of the Darkmoon, Gwyndolin. Wielding the bow empowers the arrows shot with your magical energy and grants them a slight sliver of moon energy. It comes paired with special moonlight arrows that receive further benefits from these effects. You get 24 in a quiver that restocks every 48 hours.
 657.Silver Spoon,1.3
@@ -1412,3 +1412,73 @@ An ornate key that, when turned in a sufficiently large space, creates a portal 
 #Dark Souls - The titular big hat of Big Hat Logan, a legendary sorcerer, wearing this uncomfortably large hat on your head makes it slightly easier to study magic.
 676.Bold & Brash,0.3
 #Spongebob - A masterpiece of art created by the acclaimed artist from Bikini Bottom, Squidward Quincy Tentacles. To ensure the safety of the canvas, it is refreshed to perfect condition every 24 hours.
+677.Monster Fucker Permit,4.2
+#"Officially Sanctioned by the Goat herself." This permit, whenever pointed at a monster or a creature, will turn them into a more humanoid form of an attractive member of the gender the user is attracted to and grant them baseline intelligence if they do not possess it. In addition, authority figures will acknowledge the permit as a legitimate sanctioned permit that shows you are qualified to deal with monster girls and cases involving them.
+678.Berserker Armor,2.2
+#Berserk - A magical armor created by a Dwarven Blacksmith. This armor is exceptionally durable and shapes itself to fit the wearer perfectly. The berserker armor has the ability to enhance its users' performance by suppressing their pain aversion or mental limiters, allowing them to push their bodies to the utmost limit. The armor will also actively impale the wearer's body in the case that they suffer damage to pin their body back together. The armor will also magically repair itself over time. But it has the drawback of amplifying the user's negative emotions as well, requiring careful moderation of one's emotions to use effectively.
+679.The Cursed Ticket,2.0
+#"Fancy your chances?" A ticket that, when torn, spins the Curse Roulette for the user, and automatically applies the result and the ticket they would have gotten to the recipient.
+680.Metal Gear,0.3
+#A rather ordinary, if not extraordinarily solid, gear made of iron.
+681.Taimanin Changing Booth,2.2
+#Taimanin - A changing booth that allows anyone to enter and receive their very own Taimanin Suit tailored specifically for them and their repertoire of abilities. These suits are always skintight but incredibly lightweight and easy to move around in while still being bulletproof and exceptionally durable, and also very receptive to reinforcement-type abilities and spells. Only one outfit can be created per person, and going inside the booth again will repair it.
+682.Claidheamh Mor,1.9
+#Team Fortess 2 - "Don't even try to pronounce it" This sword is a very durable and sharp zweihander with a unique enchantment on it, allowing it to take a portion of whoever it has beheaded's energy and use it to refuel the user's energy.
+683.One Thousand Bottles of Baby Oil,1.1
+#Confiscated from a certain mansion. One thousand unbranded bottles of standard baby oil.
+684.Soylent Green,0.5
+#Soylent Green - A tin of Soylent Green, it is not appetizing, but it is nutritious enough to not let you starve; the taste generally varies from person to person. Restock Timer: 1 Hour
+685.Prismatic Cloak,4.0
+#A white cloak that, when exposed to natural sunlight, renders the user invisible by bending light around them. This cloak also has the property of reflecting all light-based attacks below Epic rank.
+686.Truants Stopwatch,4.7
+#A silver stopwatch that, when started, speeds up the perception of the person who started it. The longer the stopwatch stays active, the more the energy it drains from the user exponentially increases.
+687.Heavenly Tribulation Ticket,3.8
+#"Pissing off the Heavens has never been easier." When this ticket is ripped, it will summon a Heavenly Tribulation, where energized lightning with power equal to an Epic rank attack will strike down on you from the sky, aiming to kill you. But if you manage to withstand the lightning and use it to temper your body, your physical abilities will improve considerably.
+688.Gravitational Beam Emitter,5.9
+#(Tech)Blame - A super high-tech handheld pistol-shaped device that has the ability to shoot Condensed Graviton Energy Beams that rip apart anything in their way, with several levels of output ranging from anti-personnel to anti-spacecraft. But instead of having conventional ammunition, this weapon draws energy from its user to function. Beware of the intense recoil.
+689.The City,9.6
+#(Tech)Blame - The city is a fairly large megastructure that started as a regular Dyson sphere that kept expanding. The City is made up of several segments, such as hyper-compressed dense layers that act as defense and computational devices, factories, cities, and terminals. The City contains millions of impossibly advanced technologies, and their blueprints contained within itself. You get a key that can open a portal to any part of the City, and you can freely command the City with absolute authority. Due to size constraints, the City itself is contained in its pocket universe but can open portals into your current plane of reality.
+690.Hell Hammer,4.1
+#An infernal hammer created out of steel tempered with hellflames. In addition to being incredibly durable and strong, this hammer creates explosions of hellflame whenever it impacts a target in proportion to the physical force of the impact itself.
+691.Exorcists Mace,3.4
+#A blessed mace made of sanctified steel. In addition to being made of incredibly durable materials and being a very formidable bludgeon, this mace is suffused with Holy Light. It is exceptionally effective against Unholy entities.
+692.Clergy Ring,2.5
+#A ring blessed by angels, this ring gains one charge every 8 hours and can store up to 3 Charges. Allowing its wearer to activate one of 3 effects.  1: Smite - Charges the user's fists or held weapon with holy energy, empowering their next strike. 2: Blessing - Increases one chosen physical stat of the target for 5 minutes. 3: Purify - Purifies a target, curing them of afflictions with the strength of the purification scaling with the user's energy levels.
+693.Thalasin,2.0
+#Thalasin - A box of prescription Thalasin. One pack of Thalasin contains 8 of each pill that chemically induces the associated emotion regardless of the ingester's biology. Commonly included emotions include: Anger, Sadness, Happiness, Fear, Relief, Hope, Frustration, Pride, Lust, etc. Restock Timer: 24 Hours
+694.Evil Ring,0.2
+#A rather mundane iron ring that is exceptionally evil and malicious. But as it is only an iron without any ability to affect anything or communicate, it is without any means to conduct its malice.
+695.Heavy Rock,0.5
+#An otherwise ordinary and unremarkable head-sized rock that is always ever so slightly heavier than the maximum weight of whoever tries to lift it can lift.
+696.Farmland Key,5.2
+#An ornate key that, when turned in a sufficiently large space, creates a portal leading into a pocket dimension that is 10 km x 10 km x 10 km in size, that consists entirely of already tilled farmland and a refilling pond of water alongside a small farmhouse in the middle. The dirt inside the dimension is always fertile and nutritious and is capable of growing any crop, magical or mundane, that is planted. The farm is managed by Scarecrow golems with the capacity to look after whatever you plant without tiring. The water and dirt that came with the dimension cannot be taken out of it. The gate that leads outside the dimension is always open and leads to where the entrance was last opened.
+697.Element Zero,4.8
+#Mass Effect - A sealed, insulated crate containing 5 Tons of Element Zero, otherwise referred to as "Eezo", a special kind of super-rare material that, when electrically stimulated, creates a field that alters the virtual mass of objects nearby, either decreasing or increasing it through what is called the "Mass Effect". Restock Timer: 48 Hours
+698.Ahzidial,4.2
+#Skyrim - A dragon priest mask, crafted out of Ebony and enchanted with great power. This mask, when worn, grants the user resistance towards Fire and heat while increasing their Fire affinity, increasing the potency of their Fire-based abilities and spells.
+699.Zahkriisos,4.1
+#Skyrim - A dragon priest mask, crafted out of Ebony and enchanted with great power. This mask, when worn, grants the user resistance towards Lightning and Wind while increasing their Lightning affinity, increasing the potency of their Lightning-based abilities and spells.
+700.Dukaan,4.0
+#Skyrim - A dragon priest mask, crafted out of Ebony and enchanted with great power. This mask, when worn, grants the user resistance towards Ice and Cold while increasing their Ice affinity, increasing the potency of their Ice-based abilities and spells.
+701.Otar,4.1
+#Skyrim - A dragon priest mask, crafted out of Malachite and enchanted with great power. This mask, when worn, grants the user considerably resistance towards Ice, Cold, Heat, Fire and Lightning elements. 
+702.Stormbreaker,7.2
+#MCU - A mastercraft weapon made of Uru, made to complement Thor's powers. This axe-hammer. This weapon has the ability to be commanded by the user telekinetically and grants them flight alongside immense physical abilities and regeneration. The main power of Stormbreaker is to command lightning and storms, either unleashing lightning in incredible waves or calling down lightning from the sky. Also massively enhances all Sky and Lightning-based abilities when used as a focus.(Not connected to Bitfrost) 
+703.The Trumpet of Apocalypse,7.7
+#"Judgement" The Trumpet of the Apocalypse, when blown, summons a [Heavenly Gate(Mythical)] that fuels itself and unleashes a massive army of angels, such as Dominions, Principalities, Thrones, and 4 Seraphim before disappearing. The army summoned by this item will last indefinitely and count as independent entities while still staying under your command.
+704.Can of Whoopass,3.0
+#A regular-looking tin can with a label stating explicitly what it does. When this can is opened, 6 familiars from the Gold Familiar Gacha will be summoned to beat the person who opened the can to death. The familiars will never stop trying to beat the target to death with intense focus until the target dies, at which point they will disappear.
+705.Hepheastus' Forge Key,4.7
+#An ornate key that, when turned in a sufficiently large space, creates a portal leading into a pocket dimension that is 100mx100m in size. Inside this dimension is a fully stocked forge with unbreakable tools and a furnace that can heat up higher than the sun's core without turning the room into a deathtrap. It is a forge that is worthy of a god. Nothing that was originally inside the forge can be taken out of it. The gate that leads outside the dimension is always open and leads to where the entrance was last opened.
+706.Shrimp Fried Rice,0.2
+#A plate of excellently fried rice cooked by the greatest Shrimp chef in his native universe. He did not graduate from culinary school for people to doubt his ability to cook rice.
+707.Safeguard Ring,3.6
+#"Safety is paramount." This ring, when worn by a person, will protect them; if it detects considerable danger to the person, it will cover them in a Rare Rank Barrier and will teleport them to the safest location within a 25000-meter radius. This ring breaks after use. Restock Timer: 168 hours
+708.Kitchen Gun,0.8
+#It's the kitchen gun! Just aim it at dirty appliances, countertops, and even furniture, and pull the trigger. The gun will shoot and clean the target. Who cares about how it works? It's a kitchen gun. 
+709.Loud Ring of Invisibility,0.5
+#A wooden ring that, when worn, renders the wearer invisible by bending light around them, but the ring will continuously scream and yell things such as "THEY ARE HERE!" and "LOOK OVER HERE!" in order to get the wearer noticed.
+710.Clergy Robes,1.4
+#The white and black robes belonging to clergy, a sign of faith and devotion, when this garb is worn, it grants a minor resistance to darkness, curses, and negative energy. The fabric itself is also very tough.
+711.One Day Blinding Stew,0.5
+#A good and reasonable punishment for those who misbehave. This is an unusually hot and spicy but still nutritious stew that renders whoever drinks it blind for 24 hours. Restock Timer: 12 Hours
