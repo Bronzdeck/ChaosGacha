@@ -1,0 +1,2990 @@
+[
+  {
+    "name": "ORT",
+    "description": "Fate - \"Giant Enemy Spider\" the Ultimate of the Oort Cloud, as a TYPE ORT is completely foreign to the concept of death and cannot be killed in any way, it is capable of rewriting reality with its own to transform anything to crystals with its crystal valley and subsume it.",
+    "number": 1,
+    "rarity": 9.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Blair",
+    "description": "Soul Eater - A magical black cat witch who can transform herself into a human form, Blair is very skilled in magic and specializes in conjuring pumpkin-shaped attacks and explosives. In addition, as a monster cat, she possesses nine lives, being able to survive death 8 times before finally perishing.",
+    "number": 2,
+    "rarity": 4.3,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Overgrown Rover",
+    "description": "One Punch Man - Just a little overgrown puppy with a nigh impenetrable defence capable of unleashing blasts from its mouth that dwarf the strongest nuclear bombs humanity has seen.",
+    "number": 3,
+    "rarity": 5.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Black Sperm",
+    "description": "One Punch Man - \"You looking down on me?\" Black Sperm is a little man-like creature that can infinitely multiply itself and its strength by proxy over time by consuming protein. All of Black Sperm's cells share his consciousness and he can create infinite clones of himself as long as he has enough cells or combine all of them to gather all of their strength into one body.",
+    "number": 4,
+    "rarity": 5.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "A rat",
+    "description": "An ordinary rat picked up from the New York subway system.",
+    "number": 5,
+    "rarity": 0.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Trash Eater",
+    "description": "A grey 1-meter-tall slime that can consume and digest objects endlessly like an infinite trashcan and obey simple orders. It can only consume beings that aren't alive.",
+    "number": 6,
+    "rarity": 1.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Samson",
+    "description": "Skullgirls - A parasite that fuses itself to their host's hair and manifests as a maw filled with sharp teeth and yellow eyes. Samson is capable of growing, strengthening and manipulating his host's hair, forming, tentacles, whips, blades etc. he can also use it to manifest himself and fight. He is rather foul-mouthed and gruff.",
+    "number": 7,
+    "rarity": 3.4,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Parasite Leviathan",
+    "description": "Skullgirls - A parasite that enters its host's body and bonds with them, Leviathan is capable of growing in size and length and using its long bone-like serpentine body as a weapon, he can also breathe purple flames that are incredibly hot, and he can also use full power to manifest as a full muscular upper torso and breathe even hotter flames. He usually acts like a Victorian-era refined gentleman unless provoked.",
+    "number": 8,
+    "rarity": 4.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Death Claws",
+    "description": "Fallout - A bioengineered creature made to be the optimal melee combatant with sharp and durable horns, claws and fangs. A single death claw can tear apart even a tank and get stronger by absorbing radiation. You get an Alpha Male Deathclaw and a Deathclaw Female that can breed with each other.",
+    "number": 9,
+    "rarity": 1.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Fafnir - Fate",
+    "description": "Fate - The Ultimate Dragon, as the strongest dragon in the world of Fate, Fafnir has exceptional physical abilities and extreme levels of magical power in addition to being able to draw power from the atmosphere to power his attacks. His breath is strong enough to annihilate entire cities with ease.",
+    "number": 10,
+    "rarity": 6.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Moonless",
+    "description": "Fear and Hunger - A normal cave wolf that was transformed by the influence of the god of the depths, after tens of years of brutal survival this wolf towers over even tanks and can swallow a fully grown man in one gulp.",
+    "number": 11,
+    "rarity": 1.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "A big rat",
+    "description": "This rat is especially large, like, the size of an entire forearm. I wouldn't want to find that one around my house.",
+    "number": 12,
+    "rarity": 0.3,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Paisley Park",
+    "description": "JoJo - An intangible pink ghost in the shape of a female with map markers all over her body, you can temporarily merge Paisley Park with any electronic to take full control over it. In addition, Paisley can automatically find any place on a map and direct you to it and possesses clairvoyance, allowing it to direct you to any location you desire even on vague wording like somewhere safe.",
+    "number": 13,
+    "rarity": 4.0,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "Giffany",
+    "description": "Gravity Falls - \"Just... Giffany?\" A Yandere Ai girlfriend that can possess and manipulate electronics for you, it may take her some time to get through stronger firewalls though, and she is also limited by the CPU of the electronics she possesses. Beware, she may get a little possessive.",
+    "number": 14,
+    "rarity": 2.8,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "Dimple",
+    "description": "Mob Psycho - A green evil spirit with pronounced red dimples obsessed with becoming god, as an evil Dimple possesses incredibly powerful psychic powers like Telekinesis, Hypnosis, laser blasts etc. He is also very experienced with using his powers.",
+    "number": 15,
+    "rarity": 5.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Observer",
+    "description": "A group of disembodied floating eyeballs that can transmit their sight to yours and follow complex commands, they possess no combat power and are as vulnerable as human eyeballs. If an eye gets perished, you can resummon it in 24 hours.",
+    "number": 16,
+    "rarity": 2.4,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Plague Bringer Goliath",
+    "description": "Calamity Mod - An abomination created from bio-nanotechnology gone rogue. A giant mutated bee queen mutated with incredibly viral and potent bio-nano machines called plague that completely overhauled her body, turning it into a massive flying armoured bio-nuclear weapon armoury armed with enough nukes containing the plague bio-mechanical virus to glass several countries and doom the world.",
+    "number": 17,
+    "rarity": 6.5,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "Immortal Snail",
+    "description": "An immortal snail, who knows what it wants or how it came to be. But one thing is for sure, it is immortal, even if you eradicated every quark of its beings it would reform back to perfection in just a minute. It is biologically immortal too, immune to all sickness and ageing. But in the end, it is limited to the vessel of a snail.",
+    "number": 18,
+    "rarity": 1.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Manticore",
+    "description": "A chimeric creature with the body and head of a lion, tail of a scorpion and the wings of a bat. In addition to their large size and powerful physical abilities, they possess a powerful paralytic venom that can put a white whale into a coma. This one is capable of laying eggs to reproduce asexually.",
+    "number": 19,
+    "rarity": 3.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Praetorian",
+    "description": "Epic Battle Fantasy - An agile knight-like robotic warrior made of cutting-edge technology, possessing reinforced titanium armour, uranium shells, high-frequency blades, forcefield technology, plasma emission, fusion reactor, high-speed capability and hacking capability. It is the perfect small-size battle robot/mech. The only flaw is that it cannot perform in cold environments for extended periods of time.",
+    "number": 20,
+    "rarity": 5.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Dark Eater Midir",
+    "description": "Dark Souls - A descendant everlasting dragon that was raised by the gods and was tasked by Gwyn, the lord of sunlight to forever fight against the Abyss with its immortality, but eventually, it was corrupted by the Abyss in its eternal duty. While having lost his immortality, Midir is still very powerful and is capable of unleashing breaths of flame and beams of dark magic in addition to his giant and powerful body.",
+    "number": 21,
+    "rarity": 4.9,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Red Eyes Black Dragon",
+    "description": "Yugioh - A powerful and ferocious dragon whose entire body is covered in black with the exception of its red eyes. This dragon stands bipedally and is very strong, it can also unleash a breath of crimson flames. While it has quite the temper it is also rather intelligent.",
+    "number": 22,
+    "rarity": 3.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Blue Eyes White Dragon",
+    "description": "Yugioh - A dragon of the legends known as an engine of destruction. This dragon, while being very physically powerful with exceptional toughness, is also capable of unleashing a devastating lightning breath and capable of flying at fast speeds.",
+    "number": 23,
+    "rarity": 4.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Cosmic Monolith",
+    "description": "Epic Battle Fantasy - A floating black monolith with pulsing red circuitry-like engravings descending from the outer cosmos, it possesses potent space and reality-warping abilities. It can freely teleport and warp by expending energy and shooting giant beams of cosmic energy, warp space to tear apart enemies, dispel magic and create gigantic defensive barriers out of cosmic energy.",
+    "number": 24,
+    "rarity": 7.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Slifer the Sky Dragon",
+    "description": "Yugioh - Slifer the Sky Dragon, the Heavenly Dragon, is an Egyptian God who stands at titanic proportions in the form of a serpentine dragon with two mouths. Alongside his incredible might, Slifer can manipulate the weather and unleash blasts of divine fire and lightning from his mouths. Slifer can also exert divine pressure to weaken those who are summoned in his presence, to weaken them, or if they are weak enough, outright cull them. As an Egyptian God, no magic or ability below Legendary rank can directly affect him.",
+    "number": 25,
+    "rarity": 6.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Evil Natural Water",
+    "description": "One Punch Man - An amorphous blob of water that has a pair of eyes sitting around inside of it but the eyes are also just water and aren't weak points. This sentient puddle is very evil and is capable of sensing emotions. I can freely manipulate its body and any water it assimilates. I can freely assimilate all water it is in contact with. Including the world's oceans and its strength increase proportionally to how much water it absorbs. The only way to kill it is by scattering a majority of its body with one overwhelming blow or vaporising all of its water.",
+    "number": 26,
+    "rarity": 6.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Sif",
+    "description": "Dark Souls - The loyal companion of Artorias, Sif is a giant dog who also possesses immense experience in battle and is far more intelligent than the average dog.",
+    "number": 27,
+    "rarity": 2.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Capra Demons",
+    "description": "Dark Souls - A Capra Demon formed from Chaos, these demons are far larger and stronger than average humans and possess resistance to fire and unholy abilities. Depending on the amount of energy expended multiple Capra's can be summoned at once.",
+    "number": 28,
+    "rarity": 2.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Taurus Demons",
+    "description": "Dark Souls - a large truck-sized bull demon with super strength and durability formed by Chaos. Ordinary gunfire is almost useless against it and it can take down even military companies by itself. The more energy you have the more demons you can summon at once.",
+    "number": 29,
+    "rarity": 3.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Sanctuary Guardian",
+    "description": "Dark Souls - A chimeric beast with the enlarged body of a lion, four wings, horns like a ram, and a spiked scorpion tail that has deadly venom. It can also release lightning breaths and reproduce asexually by laying eggs.",
+    "number": 30,
+    "rarity": 2.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Kalameet",
+    "description": "Dark Souls - A descendant of the immortal Archdragons, Kalameet is the Black Dragon of Calamity that even the city of gods Anor Londo did not dare provoke. With obsidian scales tougher than metal, a breath of incinerating dark flames and a glowing orange crest on his forehead that can weaken and bring even the toughest of warriors to their knees.",
+    "number": 31,
+    "rarity": 5.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Charizard",
+    "description": "Pokemon - An oddly small bipedal salamander with wings(Not a dragon despite appearances), Charizard has considerable physical strength and is capable of unleashing breaths of incredibly hot flames as well as flying at fast speeds. This Charizard is female and capable of laying eggs, do not ask who the father is.",
+    "number": 32,
+    "rarity": 2.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Aerodactyl",
+    "description": "Pokemon - An ancient cross between a pterodactyl and a mountain, this giant lizard used to dominate the skies with its immense strength and geokinetic abilities.",
+    "number": 33,
+    "rarity": 2.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Articuno",
+    "description": "Pokemon - A legendary bird of ice that lives in the frozen tundra with icy blue feathers. Articuno has potent cryokinetic abilities, being able to call blizzards, unleash ice beams, and freeze objects directly. But its durability is not as great as its cryokinetic abilities.",
+    "number": 34,
+    "rarity": 4.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Moltres",
+    "description": "Pokemon - A legendary bird of flame that is said to bring spring with its flaming wings. Moltres has potent prokinetic abilities, being able to rain down fire, control fire and breathe intense flames that can melt steel. But its physical abilities are not on par with its pyrokinetic abilities.",
+    "number": 35,
+    "rarity": 4.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Zapdos",
+    "description": "Pokemon - A legendary bird of lightning that often heralds the arrival of storms. Zapdos has potent electrokinetic abilities, being able to call down thunder from the skies, absorb lightning into itself and release lightning breath attacks.",
+    "number": 36,
+    "rarity": 4.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Thunderbird",
+    "description": "Hota - A thunderbird of legend, existing as the counterpart to the mythical Pheonix. It is capable of moving extremely quickly and controlling the weather, summoning rain and thunder down at will as well as being able to release it itself. She is a female and is capable of laying eggs, do not ask who the father is.",
+    "number": 37,
+    "rarity": 4.3,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Wooper",
+    "description": "Pokemon - A derpy-looking water creature. It can spray water from its mouth and is stronger than a human but otherwise, its greatest strength is its charming derpy look.",
+    "number": 38,
+    "rarity": 1.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Gardevoir",
+    "description": "Pokemon - A creature of unknown origin known for its embrace and it's empathy, Gardevoir possesses immense psychokinetic power, being able to distort dimensions, create miniature black holes, telepathy, telekinesis, and even read the future with enough training. Her power is at its utmost when she is protecting her owner.",
+    "number": 39,
+    "rarity": 6.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Kyogre",
+    "description": "Pokemon - A primordial god of the seas capable of unrivalled hydrokinetic abilities. Kyogre, in its base form alone, is strong enough to sink entire cities, and entire countries underwater over time. In her primal form, they can sink the entire landmass under in the span of an afternoon.",
+    "number": 40,
+    "rarity": 6.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Groudon",
+    "description": "Pokemon - A primordial god of the earth capable of unrivalled geokinetic abilities. Groudon in their base form alone, is strong enough to create entire islands beneath their feet and create kilometre-long precipe blades.  In their primal form, they can turn the entire planet into a desolate wasteland in a day.",
+    "number": 41,
+    "rarity": 6.3,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Rayquaza",
+    "description": "Pokemon - A primordial dragon god of the skies, with unrivalled speed, power and aerokinetic ability. Rayquaza, even in their base form can move at extreme speeds, change the weather, manipulate mighty winds to ravage the land and release blasts of pure draconic power. In their Mega form, they can destroy asteroids that can destroy the entire surface of the earth.",
+    "number": 42,
+    "rarity": 6.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Garchomp",
+    "description": "Pokemon - A large intimidating ground dragon with immense physical power, Garchomp can also manipulate the earth to cause earthquakes, fissures and blades of earth to erupt. And they can also somehow fly at Mach speeds.",
+    "number": 43,
+    "rarity": 3.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Zoroark",
+    "description": "Pokemon - A bipedal fox-like dark creature that is capable of manipulating dark energy to attack but its true ability lies in its mastery of illusions. Zoroark is capable of creating incredibly realistic illusions and transforming itself to indistinguishable degrees.  It can either make hundreds of people hallucinate or cast illusions with a very large range",
+    "number": 44,
+    "rarity": 3.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Haspid",
+    "description": "Hota - A giant venomous sea serpent larger than trade ships and poison breath strong enough to melt metals and bring gods to their knees. Haspids can also reproduce",
+    "number": 45,
+    "rarity": 4.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Griffon",
+    "description": "Hota - A mighty beast with the lower body of a lion and the upper body of a hawk and the size of an elephant. This mighty beast is incredibly ferocious but also very loyal. You get a pair of female and male that can mate and produce offspring.",
+    "number": 46,
+    "rarity": 2.4,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Tohru",
+    "description": "Kobayashi - A mighty female dragon that controls fire and can assume the form of a female humanoid, Tohru possess exceptional physical and magical abilities, being able to destroy the military of the base earth with ease. In addition to regeneration, she can also open portals, and use clairvoyance and invisibility. She also has the propensity to dress up as a maid.",
+    "number": 47,
+    "rarity": 7.4,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Quetzalcoatl",
+    "description": "Kobayashi - A former dragon god, now just a dragon of incomparable power, she prefers to go by the name of Lucoa and likes to tease people now instead of causing the end of humanity. She has incredible physical and magical power, being able to unleash breath attacks that annihilate entire islands, create portals and use magic.",
+    "number": 48,
+    "rarity": 7.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "The Golem Core",
+    "description": "A sentient golem core the size of a basketball that can pull material from the surroundings to transform itself into a full golem, it can freely abandon and assimilate non-organic material into itself to make itself stronger and change its own shape depending on what is needed. The golem is intelligent and is capable of understanding speech and nuance. The maximum amount of material it can assimilate at once scales with the users maximum energy reserves.",
+    "number": 49,
+    "rarity": 3.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Obsidian Gargoyles",
+    "description": "Hota - Obsidian statues of Gargoyle's given life, these flying animated statues are deceptively fast, durable and strong. Being able to tear a grown man in half like they are paper and ignore small arms. You get a small army of these creatures, their numbers increase as you get stronger, starting at 5.",
+    "number": 50,
+    "rarity": 2.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Unicorn",
+    "description": "A unicorn of the myths, a creature that represents purity and clarity. This creature is capable of healing others and purifying objects with their horn, in addition, they are incredibly strong physically to the point where a modern military would be rendered ineffective. But only someone who retains their purity can ride a Unicorn. Otherwise, you're gonna have to attach a sled.",
+    "number": 51,
+    "rarity": 4.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Leaf",
+    "description": "Black Souls - \"It's me~\" The leader fairy from the Fairy Forest who specializes in wind and light magic as well as being able to heal and buff others. Totally not a sadomasochistic Outer God wearing the guise of a fairy, you don't have to worry about that. Thankfully she is kept somewhat in check by chaos.",
+    "number": 52,
+    "rarity": 5.0,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Sacabambaspis",
+    "description": "A stupid-looking ancient fish with no jaw and a permanent stupid-looking grin. It's also shaped like a stupid doorstop.",
+    "number": 53,
+    "rarity": 0.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Dark Magician Girl",
+    "description": "Yugioh - A spiritual magical girl who is the successor to the aptly named Dark Magician, she is capable of utilizing a variety of spells such as short-range portals, dark magic, basic attack and defensive magic etc.",
+    "number": 54,
+    "rarity": 4.3,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Xenomorph",
+    "description": "An apex predator from outer space that is much mightier than humans and known for their incredibly adaptive and reproductive ability. A single Xenomorph can create xenomorph hybrids by impregnating other races with face huggers. With just a single one you can create your own colony and army.",
+    "number": 55,
+    "rarity": 4.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Sebas Tian",
+    "description": "Overlord - He is one hell of a butler, oh wait, wrong Sebastian. Sebas is a Dragonoid Martial Artist/Monk with incredible physical stats and the ability to expertly use Ki and transform into his Dragonoid form. But before all of that, he is an incredibly competent and loyal Butler.",
+    "number": 56,
+    "rarity": 5.5,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Soul Eater",
+    "description": "Overlord - A legendary undead skeletal horse that strikes fear into those who know about it. The miasma around the Soul Eater can kill those who are weaker than it, anyone who dies near a Soul Eater have their souls claimed by it, Soul Eater can devour souls to replenish its stats and become stronger or offer them to their master. They also have formidable physical abilities and know how to use instinctive death magic. Death miasma and soul claiming can be toggled",
+    "number": 57,
+    "rarity": 4.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Mosquito",
+    "description": "One Punch Man - A bioengineered creature that resembles a humanoid female mosquito, she has formidable physical stats and exceptional speed to use with her claws. In addition, she can control all mosquitos in a massive range, she can also absorb blood to improve her physical abilities.",
+    "number": 58,
+    "rarity": 4.7,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Jubjub",
+    "description": "Black Souls - One of the Four Nightmares overseeing Wonderland, the garden of the Crawling Ones. Jub Jub has mighty physical abilities, she is also able to use basic magic but her main ability is being able to spread insanity and madness, being able to drive entire cities and countries to madness with her abilities, her madness inducement abilities are incredibly potent. Only those stronger than her or who have exceptional mental fortitude can resist.",
+    "number": 59,
+    "rarity": 4.2,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Basilisk",
+    "description": "Hota - A large reptile with 6 limbs and supernatural strength, being immune to conventional weapons and possessing the strength of 10 men. Basilisks have gazes and venom that can turn targets to stone, stronger a target is, the harder they are to petrify. Basilisks can reproduce asexually, at least this one can.",
+    "number": 60,
+    "rarity": 2.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Mimic",
+    "description": "A curious shapeshifting bloodthirsty creature, the Mimic can turn into the shape of any creature or object as well as being able to manipulate its texture and density. Being able to turn into a chest, or a woman with a large chest, or maybe even a mount. They also get larger and stronger the more you feed them flesh, especially human flesh, they may even get smarter if you feed them brains.",
+    "number": 61,
+    "rarity": 2.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Dog",
+    "description": "Any dog of your liking, once you summon the familiar for the first time, they take on the form of a canine that is compatible with you. The default is a golden retreiver with very soft fur.",
+    "number": 62,
+    "rarity": 0.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Cat",
+    "description": "Any cat of your liking, once you summon the familiar for the first time, they take on the form of a small feline that is compatible with you. The default is an orange cat with very soft fur.",
+    "number": 63,
+    "rarity": 0.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Lion",
+    "description": "A majestic lion companion, as a familiar they are a lion who has excellent genetics and near human intellect, and they are also large enough to ride. By default they are female.",
+    "number": 64,
+    "rarity": 1.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Tiger",
+    "description": "A ferocious tiger companion, as a familiar they are a tiger who has excellent genetics and near human intellect, and they are also large enough to ride. By default they are female.",
+    "number": 65,
+    "rarity": 1.3,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Snow Tiger",
+    "description": "A ferocious snow tiger companion, as a familiar they are a snow tiger who has excellent genetics and near human intellect, and as rare snow tigers they are considerably larger than normal lions and can be ridden. By default they are female.",
+    "number": 66,
+    "rarity": 1.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Brown Bear",
+    "description": "A regular big old brown bear companion, as a familiar they are a bear who has excellent genetics and near human intellect, they are strong enough to shrug off most small firearms and crush a human being like an apple. By default they are female.",
+    "number": 67,
+    "rarity": 1.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Undead Army",
+    "description": "Your very own Undead Army at your command, the army gets larger as you get stronger and whenever a troop perishes they come back to life as long as you expend your magical power. The army starts with 30 skeleton warriors, 20 skeleton archers, 5 Skeleton Horse Riders and 5 Skeleton Mages, the number and quality of undead increase as you get stronger.",
+    "number": 68,
+    "rarity": 4.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Cottonmouth",
+    "description": "A smart cottonmouth snake companion, there is not much else about it, they are at the peak of what a cottonmouth snake could be and are smarter than average but that's about it.",
+    "number": 69,
+    "rarity": 0.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Goblin",
+    "description": "Loathsome little green humanoid creatures the size of children, they are very vicious and cruel in nature, being able to use weapons and basic tactics. At least this goblin is smarter and more self-aware, they can also breed with any humanoid race. The default gender is female.",
+    "number": 70,
+    "rarity": 1.2,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Wyvern",
+    "description": "A large sky-dwelling reptile with fire breath, they are often referred to as lesser dragons, a wyvern can easily swallow a man whole and roast an entire battalion with its fire breath. This Wyvern is female and can produce eggs to reproduce.",
+    "number": 71,
+    "rarity": 2.3,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Dire Wolf",
+    "description": "A large vicious pre-historic wolf the size of a man, they are very strong with tough and sharp teeth and claws, they are also big enough to be used as a mount. By default, they are female and can reproduce.",
+    "number": 72,
+    "rarity": 1.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Hellhound",
+    "description": "A large vicious hound hailing from the underworld, they are around the size of humans with maws filled with fire that they can breathe out, they are also strong enough to tear a grown man in half with ease. By default, they are female and can reproduce.",
+    "number": 73,
+    "rarity": 2.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Cerberus",
+    "description": "Helltaker - Definitely not the kind of hellhound you expected. Cerberus, known as the triple demon is a singular demon girl with hellhound characteristics possessing three bodies and one soul, she is physically strong enough to tear a grown man in half and she is surprisingly competent at office work and menial tasks.",
+    "number": 74,
+    "rarity": 3.2,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Crow",
+    "description": "A very smart and loyal crow companion with intelligence on the level of a human, she can spy on people and relay the information to her master.",
+    "number": 75,
+    "rarity": 0.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Ditto",
+    "description": "Pokemon - An amorphous purple blob with a dopey face, Ditto has the ability to transform into any creature they can see and adopt their abilities scaled to their own level except their durability. They also do not take on the memories and intelligence of what they transform into. They are also genderless and can breed with any race.",
+    "number": 76,
+    "rarity": 3.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Desert Elemental",
+    "description": "Calamity Mod - A pair of sister elementals of from born from the shifting sands of the desert. One sister can create and manipulate sand to attack and defend while the other can cast healing magic.",
+    "number": 77,
+    "rarity": 3.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Storm Elemental",
+    "description": "Calamity Mod - A solitary elemental formed in the rainy skies. As an elemental born of the sky, she can conjure and exert control over wind, clouds and lightning.",
+    "number": 78,
+    "rarity": 3.3,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Cavern Elemental",
+    "description": "Calamity Mod - An elemental born in the harsh and desolate caverns, he is physically mighty, being able to exert control over rock and ground. He can split the ground in two with his axe. He is great at defence.",
+    "number": 79,
+    "rarity": 3.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Brimstone Elemental",
+    "description": "Calamity Mod - A solitary elemental born in the Brimstone Crag, made out of burnt tortured souls she can conjure and control Brimstone Flames that can turn even souls into ash.",
+    "number": 80,
+    "rarity": 4.4,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Anahita",
+    "description": "Calamity Mod - Anahita is an elemental born of the clear oceans, she can sing like a siren to enthral people, conjure mists and spears of water and ice and wield her glaive as a weapon.",
+    "number": 81,
+    "rarity": 4.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Clothes Melting Slime",
+    "description": "A grey amorphous ever-shifting slime that is capable of quickly melting all clothing, strangely enough, it doesn't seem to melt common clothes materials but instead, its acid seems to just conceptually melt anything classified as clothing. The more clothing it melts, the larger and stronger this slime gets.",
+    "number": 82,
+    "rarity": 1.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Shark",
+    "description": "A regular old shark, only useful in water but it is a pretty healthy and strong shark with above average intelligence.",
+    "number": 83,
+    "rarity": 0.4,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Schrodinger's cat",
+    "description": "A regular-looking cat, but in reality it is the Schrodinger's cat, being able to teleport freely as long as it is not being observed and being immortal as it comes back to whenever its corpse is not observed.",
+    "number": 84,
+    "rarity": 1.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Aegislash",
+    "description": "Pokemon - A flying ancient sentient sword and shield combo, Aegilash is remarkably fast and strong, being able to cleave an armoured knight in half with ease, they are also capable of blocking incredibly strong attacks, as well as being able to use dark magic. Their master can wield Aegislash without incurring any problems.",
+    "number": 85,
+    "rarity": 3.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Poltergeist",
+    "description": "A ghost that is capable of intervening in the material world with their psychic powers, they can throw around furniture and weapons to cause harm and are immune to attacks that cannot harm souls. You can feed them your energy to make them stronger.",
+    "number": 86,
+    "rarity": 2.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Wraith",
+    "description": "A lesser spirit, while a wraith has little in the form of combat ability they are very hard to detect, so they are able to serve as effective surveillance and scouting as they will reform even if killed.",
+    "number": 87,
+    "rarity": 2.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Lupus Regina Beta",
+    "description": "Overlord - A werewolf cleric maid who has a very willful and cheery yet sadistic personality. As a werewolf she has considerable physical ability and thanks to their specialization as a cleric she is capable of casting healing and recovery magic as well as lesser forms of other magic. She is also a very skilled maid.",
+    "number": 88,
+    "rarity": 3.7,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Solution Epsilon",
+    "description": "Overlord - A slime assassin maid who has a gentle caring sister personality covering for a sinister and sadistic demeanor. Solution is a greater slime who is greatly resistant to physical attacks and has vast amounts of space contained in her acidic body, being able to use it as storage or stomach as she is capable of controlling what she melts. She can also emit poison from her body. In addition, she is a very skilled maid and assassin.",
+    "number": 89,
+    "rarity": 4.1,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Entoma Zeta",
+    "description": "Overlord - A arachnid ninja bug user maid who while acting childish and cute has a ravenous appetite for flesh. She is capable of summoning a variety of supernatural insects to aid her in combat alongside her weapon mastery and supernaturally strong body. In addition, she is a... skilled maid.",
+    "number": 90,
+    "rarity": 3.2,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Ramiel",
+    "description": "Evangelion - A gigantic flying blue octahedron that is capable of freely shapeshifting its body in impossible ways. Ramiel has an incredibly durable E.T Barrier around itself that it can shape at will, it can also unleash particle beams of incredible power that can melt city blocks in seconds with incredible accuracy.  They can also shrink in size to not be so unwieldy, though doing so also decreases their power.",
+    "number": 91,
+    "rarity": 5.9,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Yasaka",
+    "description": "DxD - A nine-tailed Kyuubi Yokai on par with gods, Yasaka possesses incredible mastery over Senjutsu and magic, allowing her to draw magical power from the very earth to fuel herself and her immense might, in her true form she is more than a match for most lesser gods.",
+    "number": 92,
+    "rarity": 7.0,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Pandora's Actor",
+    "description": "Overlord - A greater doppelganger of great power and intelligence, Pandora's actor is capable of taking on the form of anyone he is familiar with and using their abilities to great effect although to a lesser extent than that of the original. He also possesses genius levels of intellect and acting skills that allow him to perfectly imitate people.",
+    "number": 93,
+    "rarity": 5.6,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "The thing",
+    "description": "John Carpenter's The Thing - An extremely versatile extraterrestrial creature that assimilates itself with other organisms to hide and reproduce. It is capable of shapeshifting the host's body without seemingly causing any damage to it. The thing is only as smart as the creatures it assimilates.",
+    "number": 94,
+    "rarity": 4.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Black Nomu",
+    "description": "MHA - A near mindless bird-like mutant who was genetically engineered and designed as an incredibly powerful punching bag. Nomu possesses incredible physical prowess and durability alongside being able to absorb physical attacks and regenerate at incredible speeds. But it is also dumb as a brick, making it difficult to rely on it acting independently without direct orders.",
+    "number": 95,
+    "rarity": 5.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Slime",
+    "description": "A classic RPG slime, amorphous large blue blob that is immune to physical damage, can spit out globs of acid and corrode things with its body. The more you feed this slime biological matter, the larger and stronger it will grow. It can even evolve if fed special foods.",
+    "number": 96,
+    "rarity": 2.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Divine Dogs",
+    "description": "Jujutsu Kaisen - A pair of twin wolves capable of tearing apart targets with their claws and fangs. Each of the dogs can detect hostility and negative emotions and notify their master when they feel hostility directed toward them. Their tracking abilities allow them to find lost allies and locations as well. The power of shikigami with your own energy levels.",
+    "number": 97,
+    "rarity": 1.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Nue",
+    "description": "Jujutsu Kaisen - A winged shikigami armed with great speed and the ability to produce electricity. It can support its master by carrying them while flying to increase their mobility, and can attack with its heavy wings charged with electricity, shocking anyone it hits and leaving them temporarily paralyzed. The power of shikigami with your own energy levels.",
+    "number": 98,
+    "rarity": 2.4,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Gama",
+    "description": "Jujutsu Kaisen - A large frog shikigami that can support its master using its long tongue. Its tongue can be used to ensnare its master's target and is strong enough to throw and slam them into objects. The speed of the Toad's tongue is useful for helping its master or an ally out of harm's way. Its large size allows it to carry targets in its mouth for transportation or restraint.",
+    "number": 99,
+    "rarity": 2.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Orochi",
+    "description": "Jujutsu Kaisen - A giant snake shikigami that can quickly attack and ensnare its master's targets. It can burrow into and travel through shadows allowing it to engage in surprise attacks to ensnare or bite targets.",
+    "number": 100,
+    "rarity": 2.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Max Elephant",
+    "description": "Jujutsu Kaisen - An elephant shikigami that can conjure and spew large volumes of water from its trunk. It can also be used to crush targets with its weight by summing it above targets.",
+    "number": 101,
+    "rarity": 2.4,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Rabbit Escape",
+    "description": "Jujutsu Kaisen - A massive swarm of rabbit shikigami that serves as a distraction for the user. Upon summoning, dozens to hundreds and eve thousands of rabbits fill the area to distract the opponent, allowing the summoner to escape danger by using the chaos to their advantage. The rabbits are also individually strong enough to break bones.",
+    "number": 102,
+    "rarity": 3.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Round Deer",
+    "description": "Jujutsu Kaisen -  A towering deer shikigami that constantly emits a healing aura of positive energy that heals allies in range, this aura also damages unholy beings in range. The deer can also focus its aura to heal a specific target faster. This aura can even recover limbs.",
+    "number": 103,
+    "rarity": 4.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Mahoraga",
+    "description": "Jujutsu Kaisen - The most powerful Shikigami of the Ten Shadows. Mahoraga is armed with the sword of extermination that deals severe damage to unholy beings and has great physical stats. But its real strength is the ability to adapt to any and all phenomena it encounters, offensively or defensively, they can also share these adaptations with the user. Adaptations may fade over time, but the knowledge learned and ways to utilize powers taught by adaptation do not.",
+    "number": 104,
+    "rarity": 7.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Power",
+    "description": "Chainsaw Man - Power is the Blood Devil, granting her the power to control all blood in her sensory range as well as possessing great physical stats and incredible regenerative ability. In addition, the more she is feared, the more power she has. The stronger a target is in relation to her, the harder it is for her to manipulate their blood.",
+    "number": 105,
+    "rarity": 5.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Bat Devil",
+    "description": "Chainsaw Man - A building-sized grotesque humanoid bat, as a devil the Bat Devil can heal from injuries by consuming blood, in addition to their superhuman physical stats, they can fly and release building-shattering sonic booms.",
+    "number": 106,
+    "rarity": 3.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Pochita",
+    "description": "Chainsaw Man - The Chainsaw Devil, the one that devils fear the most. As a devil Pochita has extreme regenerative abilities, being able to go from a puddle to full health in less than a second by simply pulling his cord. Pochita also has extreme physical abilities in addition to incomparable speed.",
+    "number": 107,
+    "rarity": 6.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Igris",
+    "description": "Solo Levelling - One of the greatest warriors under the Shadow Monarch's command. Igris possess excellent swordsmanship and unarmed combat capabilities complimented by his mighty physical prowess and telekinesis. As a shadow familiar Igris is revived after 24 hours if he is killed",
+    "number": 108,
+    "rarity": 4.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Iron",
+    "description": "Solo Levelling - One of the toughest warriors under the Shadow Monarch's command. Iron is rather simple, he possesses incredible durability and strength, him to crush enemies and his master. As a shadow familiar Iron is revived after 24 hours if he is killed",
+    "number": 109,
+    "rarity": 3.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Tusk",
+    "description": "Solo Levelling - One of the greatest mages under the Shadow Monarch's command. Tusk has great physical prowess as a former high orc but his true power lies in his ability to cast a myriad of shamanic spells to inflict damage, support or buff. As a shadow familiar Tusk is revived after 24 hours if he is killed",
+    "number": 110,
+    "rarity": 4.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Bladewolf",
+    "description": "Metal Gear - Blade Wolf, or officially designated as IF Prototype LQ-84i is a wolf-like quadrupedal Unmanned Gear. In addition to its artificial intelligence and interfacing abilities such as hacking and manipulating code, Blade Wolf is armed with an entire arsenal of weapons such as superheated knives, high-frequency blade chainsaws, railguns, machineguns and etc. that it can use with extreme efficiency. It is incredibly smart.",
+    "number": 111,
+    "rarity": 5.8,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "Black Knife Tiche",
+    "description": "Elden Ring - A Blac Knife Assasin who helped assassinate Godwny the Golden during the night of the Black Knives. In addition to being an incredibly skilled assassin, Tiche's knife is imbued with a lesser form of destined death, making the wounds she inflicts be unable to be healed and ignoring durability to an extent.",
+    "number": 112,
+    "rarity": 3.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Mr. Sir Ceo",
+    "description": "An extremely skilled and driven man with expertise in areas such as politics, management, negotiations, corporatism, and business. If you let him loose in the world, he will start climbing the corporate ladder with ease and build you your own business and manage it for you.",
+    "number": 113,
+    "rarity": 2.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Puck",
+    "description": "Re: Zero - The Great Spirit of Fire, a very misleading name for a spirit that focuses on Ice manipulation. They are capable of manipulating fire and ice as well as heat in general. He is also capable of minor healing, able to treat lesser wounds but not major ones, emotion reading and general magic. He can conjure ice constructs and freeze over entire towns, he can also bring temperatures down close to sub-zero but needs to recharge his mana from either the summoner or slowly from the environment.",
+    "number": 114,
+    "rarity": 5.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Beatrice",
+    "description": "Re: Zero - A powerful Great Spirit whose power resides over Darkness and Space Magic. She is capable of casting a variety of spells that manipulate Gravity, Space and Darkness. But she can only draw mana from her summoner, but with enough mana supplied, she could even create a black hole.",
+    "number": 115,
+    "rarity": 5.7,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Shenron",
+    "description": "Dragon Ball - A legendary magical dragon capable of granting its user a wish, Shenron can only be manifested once a year, allowing his user to ask for a wish that it will grant as long as it is within his power.",
+    "number": 116,
+    "rarity": 6.9,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Medusa Gorgon",
+    "description": "Soul Eater - Medusa is a natural-born Witch who is capable of taking over bodies and using unique vector magic in tandem with her hand-to-hand combat skills. She is also somewhat of a genius when it comes to matters of soul and chemistry, being able to craft her unique magical agents, with the most notable creation being Black Blood.",
+    "number": 117,
+    "rarity": 4.4,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Nyotengu",
+    "description": "Dead or Alive - A female tengu who is very well-versed in martial arts and seduction. She is capable of summoning winds and storms with her fan like other tengu as well as flying and possessing enhanced strength. ",
+    "number": 118,
+    "rarity": 3.9,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Kon",
+    "description": "Chainsaw Man - Kon is the Fox Devil who embodies the fear of foxes. She is a gigantic monstrous fox, who, thanks to being a devil is capable of making contracts with people and recovering her health by consuming blood. You can partially summon her body parts as attacks or simply summon her outright. Those who make contracts with her can also summon her.",
+    "number": 119,
+    "rarity": 3.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "20% Gun Devil",
+    "description": "Chainsaw Man - A fragment of one of the strongest Devils, the Gun Devil is a skyscraper-sized Demon made of guns and human body parts. It has the ability to instantly shoot the heart of any living being within 1000 meters of it and can use its massive oversized guns to cause mass destruction. The gun devil is also capable of moving at absurd speeds, being able to circle the globe in minutes. As a devil, they are capable of making contracts with people and recovering their health by consuming blood.",
+    "number": 120,
+    "rarity": 6.9,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Senko",
+    "description": "Sewayaki Kitsune Senko-san - Senko is a single-tail kitsune who excels at housekeeping and caretaking. Although she is capable of offensive abilities such as manipulating foxfire, minor telekinesis, disguise and barriers she specializes in performing tasks such as acting like a wife or a mother.",
+    "number": 121,
+    "rarity": 3.2,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Yozora",
+    "description": "Sewayaki Kitsune Senko-san - A four-tailed Kitsune with immense wisdom, Yozora is good at managing people and caretaking. But as a four-tailed kitsune, she has considerable magical power that she can use to create foxfire, telekinesis, change perception, and create barriers and portals.",
+    "number": 122,
+    "rarity": 4.1,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Kurama",
+    "description": "Naruto - One of the Tailed Beasts, as the nine tails, Kurama is a giant demonic fox who towers over most buildings. Kurama has immense physical and magical strength, being able to casually demolish buildings and release beast bombs that can level cities. He also has Pyrokinetic and Aerokinetic abilities, although not very precise as he is an engine of destruction. As a tailed beast, he is immortal and will revive upon death, he can also fuse with a person to grant them his abilities.",
+    "number": 123,
+    "rarity": 6.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Shukaku",
+    "description": "Naruto - One of the Tailed Beasts, as the one tail, Shukaku is a tailed beast whose body is entirely made up of sand. Shukau has strength befitting his massive frame and his sand physique makes him resistant against physical blows. In addition, Shukaku is capable of creating and controlling sand, wind and magnetism, making him incredibly versatile he can also use sealing techniques to supplement his ability. As a tailed beast, he is immortal and will revive upon death, he can also fuse with a person to grant them his abilities.",
+    "number": 124,
+    "rarity": 5.9,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Matatabi",
+    "description": "Naruto - One of the tailed beasts, as the two tails, Matatabi takes the form of a giant nekomata on blue fire. Matatabi has strength befitting his massive frame in addition, Matatabi is capable of creating and controlling fire to utilize a variety of techniques. As a tailed beast, he is immortal and will revive upon death, he can also fuse with a person to grant them his abilities.",
+    "number": 125,
+    "rarity": 5.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Isobu",
+    "description": "Naruto - One of the tailed beasts, as the three tails, Isobu takes the form of a giant red and white turtle with a spiky carapace shell. Isobu has strength befitting his giant frame, and agility unbefitting of his frame, he also has exceptional strength. Isobu is capable of creating and controlling water to utilize a variety of techniques, he can also open gates to its pocket space at will. As a tailed beast, he is immortal and will revive upon death, he can also fuse with a person to grant them his abilities.",
+    "number": 126,
+    "rarity": 5.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Son Goku",
+    "description": "Naruto - One of the tailed beasts, as the four tails, Son Gokū takes the form of a giant monkey with octopus tails. Son Gokū has strength befitting his massive frame with exceptional physical prowess. In addition, he is able to create and control fire and earth at will, often using them in tandem to create volcanic eruptions and spew lava. As a tailed beast, he is immortal and will revive upon death, he can also fuse with a person to grant them his abilities.",
+    "number": 127,
+    "rarity": 5.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Ten-Tails",
+    "description": "Naruto - Ten-Tails can only be described as a primordial god, he embodies all life at the beginning of creation, a being created from pure natural energy, and sensing ability cannot distinguish between him and the environment. He has immense physical prowess with his size that can dwarf mountains with speed that makes sound seem slow. He can unleash country annihilating Bijuu Bombs without rest and use techniques to unleash world-spanning disasters. Destruction incarnate. As a tailed beast, he is immortal and will revive upon death, he can also fuse with a person to grant them his abilities.",
+    "number": 128,
+    "rarity": 8.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Suu",
+    "description": "Monster Musume - Suu is a female slime girl, as a slime girl she is mostly invulnerable to physical strikes and is capable of absorbing and digesting organic matter. In addition, she can freely shapeshift her body and expel poison from her body to paralyse people. Lastly, she can change her body composition according to whatever she absorbs.",
+    "number": 129,
+    "rarity": 3.5,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Sylvia",
+    "description": "Konosuba - As a female growth chimera(Unnecessary appendage removed) Sylvia is capable of absorbing other beings into her body to gain their physical characteristics and grow stronger. In her base form, she is already pretty physically strong in addition to her knowledge of basic magic.",
+    "number": 130,
+    "rarity": 5.8,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Alucard",
+    "description": "Hellsing - He(?) has many names, Alucard, Dracula, Vlad, but now it's Alucard. He is the first and strongest vampire, being made of a primordial dark matter that he can freely shapeshift into whatever form he likes. He has immense physical strength and all abilities associated with vampires are taken to the extreme. When his full power is released he can absorb the souls of those he drains to either absorb a portion of their power or use them as his undead army. However, his strength is limited by the Restraint Levels placed upon him, to release a restraint level you must be stronger than the current level of Alucard. By default, she has chosen to take the form of Girlycard, gender and body matter little when you are a thousand-year-old vampire after all.",
+    "number": 131,
+    "rarity": 6.0,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Seras Victoria",
+    "description": "Hellsing - A former police officer girl now a Draculina sharing the blood of Dracula. As a true vampire, she has incredible physical abilities and the ability to drain the blood and essences of those she attacks. In addition, if she were to unlock her full abilities she could absorb the souls of those she drains to either absorb a portion of their power or use them as necromancy summons.",
+    "number": 132,
+    "rarity": 5.1,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Vlad Dracula",
+    "description": "Hellsing - Alucard, The Immortal King, the Crimson Fucker, the No-Life King, without any of the of the paltry restraint levels, you the full power of the Mythical Alucard with all of his immortal army, his over 100,000 lives, his amorphous dark matter body, his ability to control blood and absorb the souls of those he drinks to add to his army etc. ",
+    "number": 133,
+    "rarity": 7.2,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Nihilego",
+    "description": "Pokemon - A Parasitic jellyfish-like create that dwells in the ultra-deep sea, capable of parasitizing a host without being detected to inject them with their unique neurotoxin, making it so that their inhibitions are released and subtly altering their thoughts to their own needs. Nihilego as an ultra beast is quite powerful itself, having powerful geokinetic abilities and the ability to generate and release poison.",
+    "number": 134,
+    "rarity": 4.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Buzzwole",
+    "description": "Pokemon - A large and muscular bug Ultra Beast that dwells in the Ultra Jungles, Buzzwole is capable of absorbing energy from his proboscis to strengthen his body with the energy absorbing, resulting in its immense physical power and tougher than steel muscles.",
+    "number": 135,
+    "rarity": 3.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Darkrai",
+    "description": "Pokemon - A legendary Pokemon said to be capable of altering dreams and devouring them. Darkrai is living darkness incarnate, being able to turn into a shadow, and control darkness in physical form with extreme power befitting its status. He is also capable of entering the dream world and altering dreams of devouring them to kill whoever's dreams he devours.",
+    "number": 136,
+    "rarity": 5.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Shuten Douji",
+    "description": "Fate - Shuten Douji is the ruler Oni of the Mount Ooe, she is also the Daughter of Yamato No Orochi, making her a minor Demi-god. As a powerful Oni Shuten possesses unrivalled physical strength and endurance as well as the ability to expel flame with her mana. Her signature ability is that she can get people drunk and even charm them with just her presence or expelling her breath. By unleashing her noble phantasm she can use the incredibly potent poison in her gourd and even store targets inside of it. She can also somehow debone people without making them bleed. As a Heroic Spirit, she is only as strong as the amount of mana her master gives her.",
+    "number": 137,
+    "rarity": 5.8,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Ibaraki Douji",
+    "description": "Fate - Ibaraki Douji, a famous subordinate of Shuten Douji, she is a fierce one with immense physical power and wields a large cursed bone sword. As a powerful Oni, she is also capable of unleashing sweltering and crushing flames. By unleashing her noble phantasm she is capable of releasing a hand to act independently and grow in size or unleashing even fiercer flames to char enemies. As a Heroic Spirit, she is only as strong as the amount of mana her master gives her.",
+    "number": 138,
+    "rarity": 4.8,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Tamamo no Mae",
+    "description": "Fate - A fragment of the Goddess of the Sun Amaterasu in the form of a Kitsune who specializes in curse craft. Tamamo is an accomplished mage who is a master of Japanese curse craft, being able to invoke a magnitude of curses such as immolation, freezing, lightning, bad luck etc. If she manages to get stronger and acquire more magical power she will slowly metamorphosize back into the form of Amaterasu and gain more tails. As a Heroic Spirit, she is only as strong as the amount of mana her master gives her.",
+    "number": 139,
+    "rarity": 5.5,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "King Nothing",
+    "description": "JoJo - A purple hollow humanoid spirit made out of jigsaw pieces, King Nothing has little to no combat power but his ability to track scents is unmatched, any scent it grabs, it tracks down by following it or it can simply memorize the scent for later. It can also reconstruct visuals by rearranging its jigsaw pieces, making it an excellent tracker. ",
+    "number": 151,
+    "rarity": 2.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Spider Demon Mother",
+    "description": "Demon Slayer - A high-rank demon with Blood Art resembling a spider. As a demon, she has superhuman physical ability and regeneration but has extreme light vulnerability like a vampire. In addition, her Blood Art allows her to turn her flesh into extremely durable strings she can control and puppet people with.",
+    "number": 152,
+    "rarity": 3.8,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Muzan",
+    "description": "Demon Slayer - As the first progenitor demon, Muzan has incredible biokinetic abilities, being able to freely shapeshift and assimilate biomatter as extreme regenerative immortality, but he has extreme vulnerability to light and holy. In addition, Muzan can turn other creatures into demons by granting them his blood.",
+    "number": 153,
+    "rarity": 5.9,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Mukago",
+    "description": "Demon Slayer - As a high-rank demon, Mukago has incredible physical abilities and regeneration but a severe vulnerability to light. In addition, her Blood Art allows her to control plants in her vicinity as if they were a part of her body.(A/N: Based off the fact that her name is a plant)",
+    "number": 154,
+    "rarity": 3.6,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Daki",
+    "description": "Demon Slayer - As one of the Upper Moon demons, Daki has incredible physical abilities and regeneration but a severe vulnerability to light. Her Blood Art allows her to manifest extremely durable obi from her flesh that she can freely control and even detach to act as a sentient minion.",
+    "number": 155,
+    "rarity": 4.0,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Nakime",
+    "description": "Demon Slayer - As one of the Kizuku, Nakime has formidable physical strength and regeneration, although lacking compared to her peers. Her Blood Art manifests as a pocket dimension called the Infinity Castle under her control, Infinity Castle is an infinite realm of the inside of a wooden medieval Japanese castle. She can create portals to this realm in the form of sliding wooden doors she can manifest on any surface she can perceive.",
+    "number": 156,
+    "rarity": 5.1,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Kokushibo",
+    "description": "Demon Slayer - As the strongest Upper Moon Demon, Kokushibo has incredible physical abilities and regeneration but a severe weakness to light and holy. Kokushibo is an extremely skilled swordsman coupled with his demon abilities.",
+    "number": 157,
+    "rarity": 4.6,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Douma",
+    "description": "Demon Slayer - As one of the Upper Moon demons, has incredible physical abilities and regeneration but a severe weakness to light and holy. Douma's Blood Art grants him great cryokinetic abilities. ",
+    "number": 158,
+    "rarity": 4.2,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Tionishia",
+    "description": "Monster Musume - Tionishia is a female ogress with military and police training. As an ogress, she has immense strength, stamina and endurance. But contrary to her intimidating stature she is quite motherly.",
+    "number": 159,
+    "rarity": 2.6,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Rachnera Arachnera",
+    "description": "Monster Musume - Rachnera is a female Arachne with skills in a variety of fields. As an Arachne, she has a large body and enhanced physical stats as well as the ability to produce stronger than steel silk on demand. She is also a master seamstress capable of weaving fashionable clothes in seconds.",
+    "number": 160,
+    "rarity": 2.9,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Doppel",
+    "description": "Monster Musume - Doppel is a female(?) doppelganger with military and police training. As a doppelganger, she is capable of turning her body into that of any living creature and clothes she has seen but does not affect her stats as she is not much stronger than a baseline human. ",
+    "number": 161,
+    "rarity": 2.9,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Spleunker Fairy",
+    "description": "A lesser fairy that appears like a spot of glowing yellow light. This Fairy has the ability to find and uncover wealth and treasures. It can point you towards the nearest bar of gold, or an item you are looking for as long as its within its ability to find the ability. It cannot give detailed directions and desciptions.",
+    "number": 162,
+    "rarity": 3.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Dio Brando",
+    "description": "JoJo - Dio Brando, son of a petty thief who achieved Vampirism through the stone mask. As a vampire Dio is capable of absorbing lifeforce, granting Vampirism, creating undead, grafting flesh and manipulating his own body. In addition, Dio is a genius and extremely skilled as a vampire.",
+    "number": 163,
+    "rarity": 4.2,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "DIO",
+    "description": "JoJo - DIO, after a very long time under the sea the former hotheaded vampire has become wise and after being stabbed with the Stand Arrow he has developed The World. As a Vampire DIO is massively superhuman, can regenerate by drinking blood, manipulate his own body and create thralls. In addition, he possesses the stand The World, a phantom with similar physical abilities to him that can stop time for upwards of 10 seconds. ",
+    "number": 164,
+    "rarity": 5.4,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "The Pillar Men",
+    "description": "JoJo - You get the three pillar men with you, Whamuu, Esidisi and Kars. The pillar men are thousands of years old super vampires that can freely absorb people, regenerate and manipulate their own bodies in exchange for being vulnerable to sunlight. Esidisi is a master strategist, Whamuu is a genius warrior and Kars is a genius intellect.",
+    "number": 165,
+    "rarity": 5.2,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Kars",
+    "description": "JoJo - Kars is the first true pillar man who unlocked his potential after inventing the stone mask. As a pillar man, he is thousands of years old, can absorb biological matter and manipulate his own body but is vulnerable to sunlight. He is a genius intellect and warrior.",
+    "number": 166,
+    "rarity": 4.9,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Esidisi",
+    "description": "JoJo - Esidisi is a pillar man, a super vampire that is thousands of years old. As a pillar man, he is thousands of years old and can absorb biological matter and manipulate his own body but is vulnerable to sunlight. In addition, he is a great strategist and tactician.",
+    "number": 167,
+    "rarity": 4.2,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Whamuu",
+    "description": "JoJo - Whamuu is a pillar man, a super vampire that is thousands of years old. As a pillar man, he is thousands of years old and can absorb biological matter and manipulate his own body but is vulnerable to sunlight. In addition, he is hailed as a fighting prodigy.",
+    "number": 168,
+    "rarity": 4.4,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Ultimate Kars",
+    "description": "JoJo - Kars the former pillar man who has managed to acquire the form of a perfect lifeform. As a perfect lifeform, Kars can freely manipulate his body and biology as well as spawn independent entities from his flesh. On top of that, he is an incredible genius who can master most topics rather quickly.",
+    "number": 169,
+    "rarity": 5.8,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Master Hewg",
+    "description": "Elden Ring - A rough misbegotten blacksmith who was so skilled he was ordered even by Marika herself. Hewg is one of the most expert blacksmiths, being able to forge most weapons and upgrade any weapon given to him provided you have the materials. His dream is to forge a weapon that can slay a god and he is capable of it.",
+    "number": 170,
+    "rarity": 4.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Parthunaax",
+    "description": "Skyrim - One of the strongest and oldest of the dragons in Tamriel and the former right hand of Alduin, Parthunaax is a powerful dragon, but after casting away his former domineering nature he has become a wise sage, and is capable of teaching the Thu'um and other arts to those willing to learn. This doesn't mean however that he himself is weak.",
+    "number": 171,
+    "rarity": 4.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Durnhevir",
+    "description": "Skyrim - An undead necromancer dragon that once served Alduin before being trapped in the Soul Cairn. As a dragon hailing from Tamriel Durnhevir is powerful but his true power comes from the art of necromancy he has cultivated.",
+    "number": 172,
+    "rarity": 4.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Neferpitou",
+    "description": "Hunter x Hunter - As a Chimera Ant Royal Guard, Pitou is an extremely powerful Nen user with a massively superhuman physique and agility as well as incredible mastery over Nen. Alongside her extreme sensory abilities, she possesses the ability to puppeteer corpses to use as minions and summon Doctor Blythe, a potent healing ability that requires her to stand still and lower her guard to restore a target over time. Her trump card allows her to puppeteer her own body to strengthen herself.",
+    "number": 173,
+    "rarity": 5.2,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Nemesis",
+    "description": "Resident Evil - A modified tyrant bioweapon created by the Umbrella Corporation. Tyrant possesses massively superhuman stats and great regeneration, being able to survive as long as he has enough living cells left. But its greatest strength is its ability to rapidly mutate and adapt. No, not anywhere close to Mahoraga levels.",
+    "number": 174,
+    "rarity": 3.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Grimm Wyvern",
+    "description": "RWBY - A gigantic Grimm Wyvern, as a Grimm the Wyvern can sense and track negative emotions. Its gigantic size makes it a powerful mount being strong enough to sink warships. In addition, it can release Grimm fluid that spawns lesser Grimm that it can command.",
+    "number": 175,
+    "rarity": 5.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Alcina Dimitrescu",
+    "description": "Resident Evil - Alcina is a former feudal lord who was transformed by a bioengineered parasite that fused with her body, granting her extreme regeneration, enhanced physical stats and shapeshifting. Although she does require regular intake of blood to function despite not being a vampire.",
+    "number": 176,
+    "rarity": 4.2,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Lust",
+    "description": "Fullmetal Alchemist - A homunculus created by father branded with the sin of lust. As a homunculus, Lust has enhanced stats compared to a human. In addition, the philosopher's stone implanted in her as her core keeps her immortal by regenerating her whenever she dies by consuming one of the souls inside as fuel. She has the ability to turn her fingertips into long and almost monomolecular sharp flexible claws that she uses with expertise.",
+    "number": 177,
+    "rarity": 3.0,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Darkbeast Paarl",
+    "description": "Bloodborne - A dark beast that has reanimated itself from the dead. As a large skeletal monster, Paarl is strong enough to demolish walls and is immune to conventional weapons, even high-calibre bullets. In addition, Paarl can generate and release electricity from its body at will.",
+    "number": 178,
+    "rarity": 2.4,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Kirin",
+    "description": "Monster Hunter - A legendary dragon(?) Kirin resembles the mix of a unicorn, a lion and a dragon. Kirin is extremely fast and physically mighty, but its main ability is to summon down bolts of lightning at will in addition to its immunity to lightning.",
+    "number": 179,
+    "rarity": 4.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Valstrax",
+    "description": "Monster Hunter - A legendary elder dragon, Valstrax is referred to as the Sky Comet Dragon, for good reason. In addition, being a mighty dragon, he has unique wings that allow it to expel the dragon element alongside to turn them into what are essentially dragon magic jet engines. It is strong enough to break sound several times over as a living dragon jet fighter.",
+    "number": 180,
+    "rarity": 5.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Mimikyu",
+    "description": "Pokemon - A mysterious entity hiding beneath a shabby costume of another Pokemon in hopes of being loved and accepted due to its real appearance under the disguise being a severe cognito hazard. Mimikyu is capable of creating and controlling shadow constructs to attack and defend.",
+    "number": 181,
+    "rarity": 3.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Wooloo",
+    "description": "Pokemon - Wooloo is the sheep Pokemon, which means it is a supernaturally cute and strong sheep with super luxurious wool that grows back entirely within 5 days compared to the average Wooloo. Despite being a powerful beast it has no combat instincts or skill so don't expect combat from it.",
+    "number": 182,
+    "rarity": 1.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Cazador",
+    "description": "Fallout New Vegas - Cazadors are insects biogenetically engineered by Dr. Borous. They are faster than cars, tough enough to tank .50 calibre bullets, ruthless, roughly the size of a man, strong enough to tear apart a grown man and with venom potent enough to bring any man to their knees. And they reproduce very rapidly if given enough protein sources. You get 4 breeding pairs.",
+    "number": 183,
+    "rarity": 3.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Nick Valentine",
+    "description": "Fallout 4 - Nick is a synthetic human detective. As a Synth, he is slightly stronger than the average man but possesses great accuracy with guns and is highly skilled at interfacing with technology. As expected by a detective, Nick is good at reading people, and investigations and giving advice from his years as a detective in a post-apocalyptic wasteland.",
+    "number": 184,
+    "rarity": 2.5,
+    "nsfw": false,
+    "character": true,
+    "tech": true
+  },
+  {
+    "name": "Potato GLaDOS",
+    "description": "Portal - Glados is a highly advanced AI that contains an immense amount of data from Aperture Labs and is capable of interfacing with any system and mainframe she is put into. She is capable of building technology too but... she is stuck in a potato. So you will have to find a way to supply her with the technology first. ",
+    "number": 185,
+    "rarity": 2.3,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "Yes Man",
+    "description": "Fallout New Vegas - Yes Man is a reprogrammed RobCo brand Securatron. As an AI Yes Man is capable of interfacing with technology and writing code when provided with the right materials. While not very impressive his body is armed with guns strong enough to protect itself. And by its namesake, Yes Man is physically incapable of saying no. Fortunately, this only applies to you.",
+    "number": 186,
+    "rarity": 1.8,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "CZ2128 Delta",
+    "description": "Overlord - Or Shizu Delta for short is an Automaton Sniper Maid. Shizu is an expert marksman, being able to use most ranged weapons with great skill, especially the ones she comes equipped with, her body also has the functions of an automaton as well. her skills as a maid is... questionable.",
+    "number": 187,
+    "rarity": 3.8,
+    "nsfw": false,
+    "character": true,
+    "tech": true
+  },
+  {
+    "name": "Narberal Gamma",
+    "description": "Overlord - Narberal Gamma is a Doppelganger Maid who specialises in Wind and Elemental Magic. Although her skills as a doppelganger are lacking, she is a very skilled magician. She is also an extremely competent maid.",
+    "number": 188,
+    "rarity": 4.1,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Yuri Alpha",
+    "description": "Overlord - Yuri Alpha is the vice leader of the Pleiades and a Dullahan Monk/Pugilist with proficiency in Fa Jin. She is a very powerful close-quarters combatant who can also employ basic magic. She is also an extremely competent maid.",
+    "number": 189,
+    "rarity": 3.9,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Carla",
+    "description": "Fairy Tail - Carla is a white Exceed, a race of catlike beings. She is capable of flight magic and is a capable melee combatant in human form. She also has the ability to use precognition to see potential upcoming futures but she will need training to be able to use it properly.",
+    "number": 190,
+    "rarity": 4.5,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Daisy",
+    "description": "Doom - A cute, if not unremarkable brown pet rabbit named Daisy. Despite being the former pet rabbit of the Doom Slayer it is still just a regular brown rabbit.",
+    "number": 191,
+    "rarity": 0.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Dogmeat",
+    "description": "Fallout - Man's most dedicated companion. Dog Meat is a very capable and well-trained German Shepherd who is... seemingly immortal. He can track scents and has considerable intelligence for his species.",
+    "number": 192,
+    "rarity": 1.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Liberty Prime",
+    "description": "Fallout - \"Democracy is non-negotiable\" A pre-war super weapon created by America. Liberty Prime is a large anti-communist mech equipped with armour that laughs in the face of anything below a ballistic missile and the strength to treat a superhuman behemoth like a toddler. Laser Gatlings that can be concentrated into one death beam, and chucks mini nukes like footballs. Liberty's energy and ammunition are refreshed every 24 hours. That includes 8 Mini Nukes.",
+    "number": 193,
+    "rarity": 5.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Toaster",
+    "description": "Fallout: Old World Blues - An extremely high tech toaster created by the genius minds in the Big MT. The toaster is capable of granting heating capabilities to technology and expertly disassembling technology into working parts... somehow. And its personality is coded to be a genocidal maniac who wants to burn the world down.",
+    "number": 194,
+    "rarity": 2.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Taurus",
+    "description": "Fairy Tail - Taurus is a Celestial Spirit, representing the Taurus constellation they have immense physical abilities that they use to wield an axe with, being quite proficient in melee combat. As a Celestial Spirit their form is liable to change between users. As a Celestial Spirit, they are immortal and her power scales with her owners.(Celestial spirits exist in Familiar Space instead of Celestial Realm by default unless Author decides otherwise)",
+    "number": 195,
+    "rarity": 2.8,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Aquarius",
+    "description": "Fairy Tail - Aquarius is a Celestial Spirit, representing the Aquarius Constellation. She has fair physical ability but her true strength lies in her potent Water Magic. As a Celestial Spirit, she is unable to be killed by normal means and her power scales with her owners.(Celestial spirits exist in Familiar Space instead of Celestial Realm by default unless Author decides otherwise)",
+    "number": 196,
+    "rarity": 3.8,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Cancer",
+    "description": "Fairy Tail - Cancer is a Celestial Spirit, representing the Cancer Constellation. Cancer's main ability is being a godly hairdresser and possessing incredible agility and dexterity, being able to give an entire group a haircut before they even notice it, they also possess hair magic. As a Celestial Spirit their form is liable to change between users and they are immortal and their power scales with their owners.(Celestial spirits exist in Familiar Space instead of Celestial Realm by default unless Author decides otherwise)",
+    "number": 197,
+    "rarity": 2.7,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Virgo",
+    "description": "Fairy Tail - Virgo is a Celestial Spirit, representing the Virgo Constellation. She takes the form of a maid with considerable physical prowess and skill in Earth Magic. She is also a massive masochist which aids her endurance. As a Celestial Spirit, she is unable to be killed by normal means and her power scales with her owners.(Celestial spirits exist in Familiar Space instead of Celestial Realm by default unless Author decides otherwise)",
+    "number": 198,
+    "rarity": 3.5,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Aries",
+    "description": "Fairy Tail - Aries is a Celestial Spirit, representing the Aries Constellation. Aries, while not a very skilled melee combatant is a master in wool magic, being able to conjure and control wool. As a Celestial Spirit, she is unable to be killed by normal means and her power scales with her owners.(Celestial spirits exist in Familiar Space instead of Celestial Realm by default unless Author decides otherwise)",
+    "number": 199,
+    "rarity": 3.0,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Libra",
+    "description": "Fairy Tail - Libra is a Celestial Spirit, representing the Libra Constellation. Libra is a capable melee fighter but her real strength lies in her mastery over gravity magic, being able to change the weight of her targets at will. As a Celestial Spirit, she is unable to be killed by normal means and her power scales with her owners.(Celestial spirits exist in Familiar Space instead of Celestial Realm by default unless Author decides otherwise)",
+    "number": 200,
+    "rarity": 3.4,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Stray Cat",
+    "description": "JoJo - A plant... cat...? Creature of sorts, Stray Cat is a feline whose soul fused with a plant. Stray Cat is capable of Aerokinesis, allowing them to launch invisible air bullets stronger than regular bullets or use bubbles as very dense shields. But they get very sleepy when covered by darkness.",
+    "number": 201,
+    "rarity": 2.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Ship",
+    "description": "Ben 10 - Ship is an adolescent Galvanic Mechamorph, possessing all of their abilities to a lesser extent. He possesses an amorphous body that can merge with any technology to possess it and reconfigure it while improving its powers.",
+    "number": 202,
+    "rarity": 4.8,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "Zs Skayr",
+    "description": "Ben 10 - Zs Skayr is a High Ecto Lord ruling over Ectonurites. As a High Ectonurite, he is an extremely powerful ghost, having formidable physical strength, being able to freely fly, phase through physical objects, possess living beings, use telekinesis and manipulate dark energy to use as projectiles.",
+    "number": 203,
+    "rarity": 6.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Vulpimancer",
+    "description": "Ben 10 - A large bestial orange alien canine with quil-like fur, they are larger than the average man and have superhuman human physicals enough to shred steel like cardboard and extreme athletics. Despite being blind Vulpimancers have a sense of smell and hearing that far surpass any mundane being, being able to track scents across cities and being able to distinguish smells to extreme levels to the point of possessing a 360-degree sensory range from their sense of smell.",
+    "number": 204,
+    "rarity": 3.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Null Guardians",
+    "description": "Ben 10 - A pack of beings originating from the Null Void. They are giant tentacled flying beastlike creatures capable of firing beam breaths and sensing and tracking Mana/Energy signatures. You start with 1 guardian, and get more under your command in relation to your maximum energy levels. If a Null Guardian dies you can recover them over time.",
+    "number": 205,
+    "rarity": 4.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Herbie",
+    "description": "The Love Bug - Herbie is a sentient and self-driving Volkswagon Beetle with unusually great performance better than it should be capable of. He will slowly repair himself when unsummoned in the case of getting damaged.",
+    "number": 206,
+    "rarity": 1.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Iron Golem",
+    "description": "Hota - Stone Golems created from a mix of excellent craftsmanship and magic. Iron Golems are very resistant against magic and have incredible defence paired with powerful physical abilities, being able to tear a grown in half with ease. You start with 4 golems and are able to summon more scaling with your Maximum energy levels and physical abilities.",
+    "number": 207,
+    "rarity": 2.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Diamond Golem",
+    "description": "Hota - Diamond Golems created from a mix of incredible craftsmanship and magic lost to the modern ages. Diamond Golems are unbelievably durable, being downright immune to most mundane arms below missiles and are mostly immune to all magic below Epic tier. They are also very capable of tearing steel with their bare hands. You start with 4 golems and are able to summon more scaling with your Maximum energy levels and physical abilities.",
+    "number": 208,
+    "rarity": 4.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Regirock",
+    "description": "Pokemon - Regirock is an ancient Pokemon formed from stones created in the image of Regigigas. Regirock is incredibly durable and has great physical stats, in addition, they are able to release beams of destructive energy and possess Geokinetic abilities. When they are damaged, Regirock can repair themselves by assimilating the rocks they find.",
+    "number": 209,
+    "rarity": 4.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Regice",
+    "description": "Pokemon - Regice is an ancient Pokemon formed from the coldest glaciers in the Arctic by Regigigas. Regi is resistant against magic and possesses potent cryokinetic abilities, being able to fire out freezing beam attacks, create and manipulate frigid freezing winds and much more. If they are damaged they can assimilate more ice into their body to heal.",
+    "number": 210,
+    "rarity": 4.9,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Registeel",
+    "description": "Pokemon - Registeel is an ancient Pokemon formed from alien metal by Regigas. Due to having its body tempered by tens of thousands of years by the pressure of the planet Registeel's metal body is incredibly difficult to damage. Registeel is capable of firing powerful beams of destructive energy and unleashing metal and electrokinetic attacks from its body. In the event they are damaged, Registeel will slowly repair their body over time.",
+    "number": 211,
+    "rarity": 4.3,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Regigigas",
+    "description": "Pokemon - Regigigas is an ancient titan that used to be worshipped by humanity standing as large as the mountains themselves. Regigigas is known as the continent puller, and its strength and durability do justice to this fact. In addition, Regigigas can unleash powerful beams of mass destruction and surprisingly can craft golems like the Regi's out of natural materials of the world.",
+    "number": 212,
+    "rarity": 7.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Jigglypuff",
+    "description": "Pokemon - An incredibly cute furry creature, Jiggly is a talented actor and singer, its real power lies in its ability to sing lullabies and songs that can put whoever hears them to sleep. The stronger a target is in relation to Jigglypuff the less they are affected.",
+    "number": 213,
+    "rarity": 2.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Rajang",
+    "description": "Monster Hunter - Nightmare berserker lightning gorrilla. Rajang is the ultimate primate, having the form of a giant gorilla with chimeric attributes. Rajang is incredibly physically strong, being able to crush the skull of a dragon with their bare hands and get stronger the angrier to the point where they can wrestle elder dragons. They are also able to harness the power fo lightning to let out devasting lightning breaths. Forget a 100 men, this thing can probably kill 1,000,000.",
+    "number": 214,
+    "rarity": 4.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Skeleton Band",
+    "description": "This band is bad to the bone. It is a conglomerate of skeletons capable of playing any instrument with fair skill and supplied with full band equipment. They are completely incapable of combat or harming but are also incapable of being targeted by harm. Just summon them and choose the jam they should sing and dance to. If they get hit by an attack they will fall apart comically before reforming to perfect condition in less than a second and resume their song without interruption.",
+    "number": 215,
+    "rarity": 1.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Bad Company",
+    "description": "JoJo - A small yet deadly army under your command. Bad Company is an entire army of toy-sized soldiers and equipment like tanks, missile batteries, aircrafts etc. The army can act independently from you and increase in size according to your maximum energy reserves. Any destroyed soldier and equipment gradually restores itself in the familiar space. Maximum army size is dependent on maximum energy reserves.",
+    "number": 216,
+    "rarity": 3.4,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "Harvest",
+    "description": "JoJo - Harvest is a colony of little creatures with excellent coordination and mechanical skills as well as deceptive strength. Harvest excels in gathering stuff like materials or objects. They can dig, swim, scour, and move extremely quickly in addition to their searching skills. Any destroyed harvest gradually restores itself in the familiar space. Maximum colony size is dependent on maximum energy reserves.",
+    "number": 217,
+    "rarity": 3.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Petshop",
+    "description": "JoJo - A ruthless, fearless, psychopathic, competent, intelligent and fiercely loyal Falcon with a stand. Petshop possesses the stand Horus, granting them cryokinetic abilities like shooting ice spikes, dropping large ice boulders etc. They are also a very fierce and competent combatant.",
+    "number": 218,
+    "rarity": 4.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Anubis",
+    "description": "JoJo - Anubis is a spirit housed in an ornate strange katana. Anubis has the ability to make the blade of its sword pass through physical barriers and cut what is beneath, rendering traditional defences useless. In addition, Anubis is capable of adapting and learning incredibly quickly to counter opponents and become stronger. Anubis is capable of taking control of anyone who unsheathes the blade but is also capable of guiding their wielder if they wish to.",
+    "number": 219,
+    "rarity": 4.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Monstra",
+    "description": "RWBY - The apex grimm, more akin to a moving small city than an actual creature. Monstra is a titanic sperm whale like Grimm 900 meters tall and 7000 meters long with mostly hollow insides that can fit castles and entire towns inside with some refurbishing. Monstra is capable of floating due to the gravity of dust in its body and is capable of withstanding its own mass, making it impervious to anything below nuclear arsenals. In addition, it can freely spew out Grimm liquid to spawn Grimm also under the user's command.",
+    "number": 220,
+    "rarity": 6.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Mizutsune",
+    "description": "Monster Hunter - A fierce leviathan monster that is also capable of living and fighting on land. As a leviathan Mizutzune has formidable physical abilities being able to shred any metal with ease with their claws. In addition, Mizutsune are capable of breathing a soap-like substance from their mouths that can immobilize opponents. ",
+    "number": 221,
+    "rarity": 3.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Shalltear Bloodfallen",
+    "description": "Overlord - Shalltear was one of the Floor Guardians of Nazarick and a True Vampire Valkyrie created with the blood of a vampire god. She is exceptional as both a physical and magical fighter, thanks to her plethora of abilities as a vampire and Valkyrie. She can use hemokinesis, elemental magic, charms, holy magic, and much more. She can also turn others into vampires as a True Vampire herself. (A/N:No time stop)",
+    "number": 222,
+    "rarity": 6.8,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Albedo",
+    "description": "Overlord - Albedo was one of the Floor Guardians of Nazarick and a... virgin succubus dark knight? Albedo is the true example of a tank, she has exceptional physical abilities, being able to destroy the walls of a fortress with one blow and incredible defence to the point that anything below a small nuclear bomb would it find to hurt her thanks to her multitude fo defensive abilities and skills. In addition, she can use basic magic and has exceptional intelligence as well as competence in most skills a wife would need to have. ",
+    "number": 223,
+    "rarity": 5.7,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Cure Elim Los Malvar",
+    "description": "Overlord - Cure Elim is the Elder Coffin Dragon Lord, Cure Elim is close to the pinnacle of Necromancy. As a Dragon Lord, they already have incredible stats but CureCure Elim's necromancy is their true power. Elim is capable of using unique wild magic to absorb the souls of others to use to fuel his wild magic. They are capable of absorbing the souls of entire cities and turning every single inhabitant into undead. Poses near perfect control over their undead regardless of number, use a variety of powerful wild magic, and unleash a breath attack that can annihilate anything in its path including souls. Cure Elim is truly near the pinnacle of undeath.",
+    "number": 224,
+    "rarity": 7.3,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Kenjaku",
+    "description": "Jujutsu Kaisen - Kenjaku is a several century-old Cursed Sorcerer whose ability allows himself to exist as a brain that can take over corpses to make them his new body and allow him to use their powers with his own expertise. He is a master of JuJutsu, making him a formidable ally and eve a master. But he is just a brain right now, you will need to find him a suitable body first.",
+    "number": 225,
+    "rarity": 6.0,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Mahito",
+    "description": "Jujutsu Kaisen - Mahito is the Cursed Spirit born of the hatred of humans between themselves. Mahito is a cursed spirit capable of using jujutsu and his technique Idle Transfiguration to manipulate any soul he can touch and by proxy their bodies using it. This also renders him immune to any non-soul-based attack as long as he still has energy.",
+    "number": 226,
+    "rarity": 6.9,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Hanami",
+    "description": "Jujutsu Kaisen - Hanami is the Cursed Spirit born from the concept of nature. As a Special Grade Cursed spirit, Hanami is incredibly skilled in Jujutsu and has considerable power. Hanami's cursed technique allows them to create and control cursed plant life and nature, even their more esoteric properties. ",
+    "number": 227,
+    "rarity": 5.7,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Jogo",
+    "description": "Jujutsu Kaisen - Jogo is the Cursed Spirit born from the concept of wildfires and volcanoes. As a Special Grade Cursed Spirit Jogo is incredibly skilled in Jujutsu and has considerable power. His power allows him to create and control fire and lava as well as other flame-based constructs.",
+    "number": 228,
+    "rarity": 5.9,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Dagon",
+    "description": "Jujutsu Kaisen - Dagon is the Cursed Spirit born from the concept of the ocean and seas. As a Special Grade Cursed Spirit Dagon is incredibly skilled in Jujutsu and has considerable power. His cursed technique allows him to summon and control water as well as manifest the domain Horizon of the Endless Skanda which can either be used for leisure or an offensive domain.",
+    "number": 229,
+    "rarity": 5.5,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Nrvnqsr Chaos",
+    "description": "Tsukihime - Nrvnqsr Chaos is a dead apostle ancestor whose unique biology is made up of 666 beasts formed from the formless mud of life. He is the beasts themselves and shares his existence with all of them, making him immortal unless all beasts are dead. In addition, he can replace his beasts by absorbing other living beings, adding their abilities into himself and being able to release them as a beast too. Any beast of his that dies can be recovered after being absorbed into him.",
+    "number": 230,
+    "rarity": 7.6,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Pepsi Man",
+    "description": "Pepsi - Pepsi Man, gives Pepsi whenever he can! When summoned Pepsi arrived at your location through any means before delivering everyone in the location a fresh can of Pepsi before disappearing. 8-hour cooldown. Note: This familiar is not sponsored by the Pespi Corporation. ",
+    "number": 231,
+    "rarity": 0.9,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Nashrah",
+    "description": "Fear and Hunger - Nashrah, once known as the Doom and Terror of the modern man left as a floating disembodied immortal head. Nashrah is an extremely powerful wizard specializing in Blood Magic and Pyromancy as well as rituals. Despite his incredibly foul behaviour, he has considerable wisdom and knowledge. Luckily his loyalty is enforced by the gacha even if his vulgarity remains. Regardless, you get to reroll the ticket you rolled him on for free to not have to deal with him.",
+    "number": 232,
+    "rarity": 4.7,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Leviathan",
+    "description": "Worm - A Shard Superweapon reformed by Chaos, Leviathan is an incredibly powerful Hydrokinetic, capable of manipulating water that is not part of a biological entity across a massive or a really small scale with incredible precision, being able to sink entire cities alongside his formidable physical abilities paired with the freakish durability of an Endbringer(A/N: Scaled down to country level).",
+    "number": 233,
+    "rarity": 6.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Simurgh",
+    "description": "Worm - A Shard Superweapon reformed by Chaos, the Simurgh is a floating angel-like entity with extreme physic powers. Simurgh has negligible albeit extremely precise offensive powers for her tier with her telekinesis but her real ability lies in her absurd clairvoyance that she can use to scan an entire planet and precisely predict the past and future using her hypercomputer brain as well as manipulate the actions of others. She also has a standard Enbringer physique with superhuman physical abilities and freakish durability(A/N: Scaled down to country level). Her Tinker Database has been wiped clean but she can still scan and rebuild technology.",
+    "number": 234,
+    "rarity": 7.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Behemoth",
+    "description": "Worm - A Shard Superweapon reformed by Chaos, and the toughest among the three siblings. Behemoth is a giant capable of manipulating energy, allowing it to shoot powerful lightning bolts, create flames and release shockwaves. He can also redirect projectiles, and manipulate and absorb existing energy to a limit. He can also unleash extreme amounts of radiation from his body. As an Enbringer and the physically strongest one he has incredible strength and durability(A/N: Scaled down to multi-country level)",
+    "number": 235,
+    "rarity": 6.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Dragon",
+    "description": " - Not an actual dragon. Instead, Dragon, or Theresa is a hyper-advanced tinker-made AI who is capable of copying, imitating and iterating on existing existing technology to design her own. As an advanced, she is capable of directing hundreds of mechs with ease as long proper servers are supplied to her. But due to limitations on her code she is incapable of creating more AI.",
+    "number": 236,
+    "rarity": 5.9,
+    "nsfw": false,
+    "character": true,
+    "tech": true
+  },
+  {
+    "name": "Light and Nightfury",
+    "description": "How to Train Your Dragon - A breeding pair of a Nightfury and Lightfury, they are semi-aquatic agile lithe dragons who can release unique plasma breaths in contrast to the regular dragon fire breath. They are very fast and intelligent and possess great stealth abilities despite being dragons.",
+    "number": 237,
+    "rarity": 2.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Blue Diamond",
+    "description": "Steven Universe - Blue Diamond is a former intergalactic with her own gem empire. As a Diamond gem, she has great physical abilities and durability with her gem, her core being insanely durable for her tier. She is capable of using energy-based attacks and unleashing emotion-manipulating aura. As well as possessing all of the abilities of the average gem such as shapeshifting, storage space, fusion, and restoring her physical form as long as her core is intact.",
+    "number": 238,
+    "rarity": 5.6,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Lapis Lazuli",
+    "description": "Steven Universe - Lapis Lazuli is an unusually powerful Laips Lazuli. As a Lapis, a caste made for terraforming, she has powerful and precise hydrokinetic abilities being able to control vast amounts of water with enough precision to make water minions. As a Gem, she also has considerable physical abilities as well as the standard abilities they have such as shapeshifting, fusion and regeneration as long as her gem stays intact. Her maximum energy output and hydrokinetic ability scales with your maximum energy reserves. ",
+    "number": 239,
+    "rarity": 5.4,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Tiamat",
+    "description": "Fate - Tiamat is the Beast II of humanity, the Mother of All Life. As a Beast Tiamat has unmatched physical abilities and magical power. She is able to create and control the Sea of Life, a black mud-like conceptual substance that remakes any organism it consumes into one of her children, as long as the Sea of Life exists Tiamat lacks the concept of Death and has virtually unlimited magical power, and as long as Tiamat she can recreate the Sea of Life. She also possesses the ability to rewrite local reality with Nega-Genesis to deny all forms of anything that has evolved from base humanity like mythical abilities and gods.",
+    "number": 240,
+    "rarity": 9.1,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Goetia",
+    "description": "Fate - Goetia is the King of Demons, a hivemind of 72 demon gods and a supreme magic system. He is capable of nullifying all magic with Solomon's 9 rings and is immortal as long any one of the 72 pillars is alive, and due to his temple of time, unless it is breached any of the pillars will revive there. He also possesses nigh omniscience with his Clairvoyance being able to see the past, present and future. He is an absolute master of magic and can rip out souls with a simple gaze. ",
+    "number": 241,
+    "rarity": 9.5,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Kirby",
+    "description": "Kirby - \"Poyo!\" One cannot begin to imagine or describe the powers this creature possesses.",
+    "number": 242,
+    "rarity": 9.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Chicken",
+    "description": "Minecraft - Whatever this chicken is, it does not obey any known laws of physics. It lays an egg every 6 - 12 hours in perfect condition and this this egg can thrown at the ground to have a chance of spawning a baby chicken that will grow to adulthood in 24 hours, they can also breed without eggs too in order to produce children together. The eggs are not fertilized unless thrown and taste great, so does the chicken's meat. No biology explains this, you get a pair. It still needs to eat so don't let the poor things starve.",
+    "number": 243,
+    "rarity": 1.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Golden Goose",
+    "description": "Yes, it really did lay some golden eggs. This otherwise regular-looking goose lays a golden egg every 24 hours, the egg is solid gold unless the Goose is fertilized.",
+    "number": 244,
+    "rarity": 1.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Untitled Goose",
+    "description": "Unntitled Goose Game - The biggest asshole goose on planet Earth, and that is a hard title to contend with. This feathered menace is an expert at annoying and inconveniencing people. As if that were not enough, the Goose is immortal and will respawn in the familiar space 1 hour after its death.",
+    "number": 245,
+    "rarity": 2.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Peridot",
+    "description": "Steven Universe - A second era Peridot, a gem cast built specifically as engineers and maintenance workers for gem tech. She has incredible knowledge about engineering and creating technology from the Gem Empire, such as droids and warp pads, provided with enough resources and time that is. She also possesses formidable ferrokinetic abilities despite her meagre physical stats. As a second era gem, her natural gem abilities are impaired, thus she cannot shapeshift. The level of tinkertech she can build is relative to the user's power level.",
+    "number": 246,
+    "rarity": 5.6,
+    "nsfw": false,
+    "character": true,
+    "tech": true
+  },
+  {
+    "name": "Sapphire",
+    "description": "Steven Universe - A second era Sapphire, a gem cast built to be able to see the future and provide advantages to their ruler. Sapphire has the ability to look into the likely future, but her future vision can be thrown off by unexpected variables. She has beyond human physical abilities and an uncommon rank cryokinesis to aid her in combat.",
+    "number": 247,
+    "rarity": 4.8,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Pearl",
+    "description": "Steven Universe - Pearl is a first era gem created to be the perfect attendant. In addition to her superhuman stats, she has intermediate Cooking, Management, Weapon Mastery, Performance, Drawing, Discipline, Acting, Savoir Faire and Teaching. Making her the perfect attendant in almost all situations. She also possesses the standard gem abilities like storage, shapeshifting etc. You get to pick which pearl you get.",
+    "number": 248,
+    "rarity": 4.0,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Eliza & Sekhmet",
+    "description": "Skullgirls - Eliza was once an Egyptian empress who fused with the Parasite skeleton Sekhmet. Sekhmet allows Eliza to control blood, and replace her own body with blood that she controls, allowing her to shapeshift as she wills. Sekhmet also gives her superhuman physical stats. Eliza can store blood inside herself that she sustains herself on. She is also an excellent performer and combatant.",
+    "number": 249,
+    "rarity": 4.6,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Koro Sensei",
+    "description": "Assassination Classroom - Koro Sensei, formerly one of the best assassins in the world and a polymath genius now an Antimatter creature. Koro's sensei's body is extremely strong and malleable; in addition, he has extreme speed and perception, moving so fast that it looks like he clones himself to the naked eye. He has numerous other abilities due to his Antimatter, such as flight, regeneration, releasing mucus etc. He is also an excellent teacher by all metrics, whether it is combat or any science.",
+    "number": 250,
+    "rarity": 6.8,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Dreadon",
+    "description": "Calamity Mod - A true marvel of engineering, a being of pure absolute amoral devotion to science. The mind of Dreadon is uploaded into a decoy body. Dreadon is an engineer capable of creating machines that can rival and surpass even gods themselves, being able to harness the power of souls, cosmos, void, and even the most exotic energies of the multiverse in his crafts. With enough resources and time, what he is capable of building can only be speculated.",
+    "number": 251,
+    "rarity": 8.9,
+    "nsfw": false,
+    "character": true,
+    "tech": true
+  },
+  {
+    "name": "S-Snake",
+    "description": "One Piece - a Seraphim clone of Boa Hancock, the pirate empress, spliced with Lunarian DNA and Vegapunk's augments. S-Snake possesses incredible physical abilities as well as advanced weaponry such as laser canons and her own Lunarion. She also has the ability to turn anyone charmed by her into stone. She also possesses the ability to utilise Observation and Armament haki.",
+    "number": 252,
+    "rarity": 6.8,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Meruem",
+    "description": "Hunter x Hunter - Meruem is the Chimaera Ant King. Meruem is a true monster, possessing tremendous physical abilities and an IQ beyond even most geniuses. His most powerful ability is the ability to consume the flesh of others to gain their abilities and increase his own stats(Does not work on Gacha wielder or Gacha Familiars), but he is limited by the number of ability slots you have; if you have 2 ability slots, so does he. Lastly, he has immense mastery over his own nen.",
+    "number": 253,
+    "rarity": 7.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Godzilla",
+    "description": "Monsterverse - Godzilla is a titanic beast from the ancient ages with a tremendous body, with an almost impregnable defence and physical strength matching their size. Godzilla is also capable of absorbing radiation and converting it to energy to fuel itself and its devastating atomic breath.",
+    "number": 254,
+    "rarity": 6.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Ghidorah",
+    "description": "Monsterverse - Ghidora is a titanic flying beast from the ancient ages. It has strength befitting its size and durability, such that it almost seems invulnerable. Ghidorah is capable of calling thunderstorms and absorbing energy from energy sources to unleash lightning or concentrated energy beams capable of massive devastation. As if that were not enough, as long as Ghidorah has enough energy, it is capable of nigh instantenous regeneration, coupled with its seemingly endless stamina, this creature an apex predator.",
+    "number": 255,
+    "rarity": 6.9,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Mothra",
+    "description": "Monsterverse - Mothra is a flying Titan from the Hollow Earth. Mothra has extreme physical stats befitting her size, and incredible flying speeds. In addition, she is capable of sensing the weather and shape of the planet and create hyper-durable silk that can restrict even titans. Mothra also has the ability to cheat death; whenever she is killed, she will return to her familiar space as an egg that will hatch in around a week.",
+    "number": 256,
+    "rarity": 6.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Shimo",
+    "description": "Monsterverse - Shime is the Titan who started the Ice Age. She has strength and durability that are basically incomparable, being able to withstand the strongest weapons humanity can create with ease and overpower even Godzilla. Just from her presence, the surroundings are plunged below freezing temperatures, and her directed frost breath is strong enough to freeze even titans in mere seconds. If aimed towards the sky, it can create monolithic blizzards. If given enough time, Shimo can create another Ice Age.",
+    "number": 257,
+    "rarity": 7.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Parasite",
+    "description": "Parasyte the Maxim - A parasite is a tiny parasitic organism that burrows into flesh and merges with it. The Parasite has potent biokinetic abilities on the parts of flesh they are merged into, being able to control even cellular structures, and they are fiercely intelligent. If they burrow into the brain, they can take over a person's body, but that is quite unreliable. ",
+    "number": 258,
+    "rarity": 3.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Excalibur",
+    "description": "Soul Eater - \"From the United King~ I am looking for him~\" Excalibur is a Great Old One from a foreign world that takes on the form of the ultimate weapon Excalibur. In his sword form, he grants the user extreme power, the ability to cut space, make portals and teleport freely, and as a Great Old One, he is capable of using Madness Wavelength of Rage to bring rage to the minds of anyone. He has no conditions to wield him technically; anyone can utilise his blade. He is just so intolerably annoying that almost no mortal can withstand him. To the point where he was ranked down from Mythical rarity.",
+    "number": 259,
+    "rarity": 6.7,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Chauffeur",
+    "description": "This familiar, when called, summons a very luxurious limousine driven by a golem driver that will drive you to anywhere you specify that it can successfully drive to before driving off and vanishing the moment it goes out of sight. If the car and/or the driver is destroyed, this familiar will go into a 24-hour cooldown.",
+    "number": 260,
+    "rarity": 1.3,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Goons",
+    "description": " 50 roughly 30-year-old Italian men who look mob-affiliated and share eerily similar appearances. They are not the brightest, but they can individually rough up the average man pretty good. They are useful for menial or somewhat complex tasks like serving as guards, manning a shop and other such activities. ",
+    "number": 261,
+    "rarity": 2.5,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Ddraig Y Goch",
+    "description": "Highschool DxD - Ddraig is the Heavenly Dragon Emperor of Domination. As one of the Heavenly Dragons, Ddraig's strength surpasses all but the strongest of gods with his extreme physical and magical abilities. His signature ability is Boost, which increases his power each time it is used(NOT DOUBLE), as well as the ability to use Boost to transfer his power to others. He also possesses the ability to penetrate to ignore all magic defences and his strongest ability, Blazing Inferno of Scorching Flames, is a fire breath strong enough to burn anything, even the strongest of gods.",
+    "number": 262,
+    "rarity": 8.6,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Albion",
+    "description": "Highschool DxD - Albion is the Heavenly Dragon Emperor of Supremacy. As one of the Heavenly Dragons, Albion's strength surpasses all but the strongest of gods with his extreme physical and magical abilities. He possesses the ability to Divide that allows him to reduce the power of his enemies and use it to bring himself to peak condition(NOT HALVED), he can also use this ability to divide even space and objects. He is also capable of reflecting attacks with his ability, but his moment potent ability is the ability Reduce, his own venom that reduces the existence of whoever it affects until they vanish from existence.",
+    "number": 263,
+    "rarity": 8.5,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Mewtwo",
+    "description": "Pokemon - An artificial Pokemon sharing DNA with Mew. Mewtwo is a tremendously powerful and capable Esper. He is capable of reading minds, controlling minds, creating barriers, projecting energy blasts, using telekinesis, projecting elemental abilities and much, much more. ",
+    "number": 264,
+    "rarity": 7.0,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Remy",
+    "description": "Ratatouille - Remy is an unusually smart rat who is a very proficient chef.",
+    "number": 265,
+    "rarity": 1.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Dialga",
+    "description": "Pokemon - Dialga is the Pokémon God of Time, having been created at the eve of the creation of the universe by Arceus. Altough, Dialga's physical abilities are lacking comparatively, its power over time is undeniable. Being able to distort, stop, speed up, reverse, loop, and travel time, but powerful opponents can resist the effects to a degree. They can also unleash powerful attacks with their energy.",
+    "number": 266,
+    "rarity": 8.9,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Palkia",
+    "description": "Pokemon - Palkia is the Pokémon God of Space, having been involved in the creation of its universe. Although Palkia's physical abilities are lacking comparatively, its power over space is undeniable. Being able to warp space, teleport, create portals, destroy objects in space, travel through dimensions, and even create pocket dimensions. They can also use their energy to create powerful attacks.",
+    "number": 267,
+    "rarity": 8.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Giratina",
+    "description": "Pokemon - Giratina is the Pokémon God of Antimatter, the balance between time and space when creating the universe. While their physical stats are comparatively lacking, Giratina can manipulate dark energy and the Reverse world; they can retreat into and manipulate the Reverse anytime and affect the material dimension from there, as damage there reflects to the real world. They can also use their energy to create powerful attacks.",
+    "number": 268,
+    "rarity": 8.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Khorne",
+    "description": "Warhammer 40k - It is Khone, not figuratively, rhetorically or any other kind of Prose, straight up Khorne, the Blood God. Their true form exists in your familiar space now, but cannot be fully taken out. Khorne allows you to receive their blessings, teachings and lend you their power. The extent at which you can benefit from Khorne is dependent on your affinity with them, which you can increase by committing actions of violence, rage and sacrifices for the Skull Throne. The higher the affinity, the greater blessings you receive and the stronger Avatar Khorne can manifest themselves as in order to be by your side as an actual familiar.",
+    "number": 269,
+    "rarity": 7.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Slaneesh",
+    "description": "Warhammer 40k - It is Slaneesh, not figuratively, rhetorically or any other kind of Prose, straight up Slaneesh, the Prince of Debauchery. Her true form exists in your familiar space now, but cannot be fully taken out. Slaneesh allows you to receive their blessings, teachings and lend you their power. The extent to which you can benefit from Slanessh is dependent on your affinity with them, which you can increase by committing actions of debauchery, lust, obsession, suffering, etc. The higher the affinity, the greater blessings you receive and the stronger Avatar Slaneesh can manifest herself as in order to be by your side as an actual familiar.",
+    "number": 270,
+    "rarity": 7.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Tzeentch",
+    "description": "Warhammer 40k - It is Tzeentch, not figuratively, rhetorically or any other kind of Prose, straight up Tzeentch, the Changer of Ways. Their true form exists in your familiar space now, but cannot be fully taken out. Tzeentch allows you to receive their blessings, teachings and lend you their power. The extent to which you can benefit from Tzeentch is dependent on your affinity with them, which you can increase by committing actions of planning, outwitting, deception, etc. The higher the affinity, the greater blessings you receive and the stronger Avatar Tzeentch can manifest themselves as in order to be by your side as an actual familiar.",
+    "number": 271,
+    "rarity": 7.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Nurgle",
+    "description": "Warhammer 40k - It is Nurgle, not figuratively, rhetorically or any other kind of Prose, straight up Nurgle, the Plague Father. Their true form exists in your familiar space now, but cannot be fully taken out. Nurgle allows you to receive their blessings, teachings and lend you their power. The extent to which you can benefit from Nurgle is dependent on your affinity with them, which you can increase by committing actions of decay, poisoning, desperation, death, etc. The higher the affinity, the greater blessings you receive and the stronger Avatar Nurgle can manifest themselves as in order to be by your side as an actual familiar.",
+    "number": 272,
+    "rarity": 7.4,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Puar",
+    "description": "Dragon Ball - Puar is a weird floating cat creature. Although she has little to no real combat ability, she graduated from Transformation Academy, allowing her to change her physical form to anything, ranging from objects to people, without changing her stats. She is also capable of teaching transformation to others as long as they have the talent and time. ",
+    "number": 273,
+    "rarity": 3.1,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Acnologia",
+    "description": "Fairy Tail - After bathing in the blood of countless dragons as a Dragon Slayer, Acnologia became a Dragon himself, and the mightiest Dragon King among them. Acnologica is the arcane dragon slayer, allowing him to eat all elements to empower himself or recover his energy and health, and is completely immune to all forms of magic until you overwhelm his absorption. In addition to his overwhelming magical and physical ability, he can unleash overpowering beams of destruction and use a variety of magic, including even time manipulation.",
+    "number": 274,
+    "rarity": 8.8,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "THWOMP",
+    "description": "Mario - \"URNGH\" Giant sentient(?) angry boulder creature. You can summon the THWOMP above your targets for him to slam down with strength, or summon him in front of you to act as a wall. If the THWOMP suffers damage, it will be mended over time inside of the gacha.",
+    "number": 275,
+    "rarity": 1.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Kaguya Otsutsuki",
+    "description": "Naruto - The Rabbit Goddess and the Progenitor of Chakra. As an Otsutsuki who ate the Chakra Fruit, she possesses truly godlike powers, with the most notable ones being able to manipulate all chakra natures, create Truth-seeking Balls, absorb energy, even including those of living beings, the All-Killing Ashbones that disintegrate targets, and the Rinne Sharingan. She also has the ability to warp space to create pocket dimensions and travel through dimensions herself.",
+    "number": 276,
+    "rarity": 9.0,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Renamon",
+    "description": "Digimon - Renamon is a strong beastman like Fox digimon with formidable physical abilities, with a focus on speed and agility. Renamon is skilled in Ninjutsu, whether that is using it in tandem with unarmed strikes using her claws cloaked in flame or performing basic ninja spells with it. (evolution does not exist)",
+    "number": 277,
+    "rarity": 2.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Taomon",
+    "description": "Digimon - Tamon is a fox-like wizard Digimon with formidable physical stats and a speciality in Omnyudo, being able to create a variety of magical talismans to invoke special effects such as barriers, elemental attacks. She is also capable of creating and utilising constructs by drawing in the air using her paintbrush. (evolution does not exist)",
+    "number": 278,
+    "rarity": 3.9,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Skullgreymon",
+    "description": "Digimon - A monstrous, undead Digimon that has devolved from a creature to a being of pure combat. In addition to its combat instinct and formidable physique thanks to its size, Skullgreymon is a living biomissile silo, being able to launch a variety of missiles from its back, ranging from normal, toxic, tracking, to ones that are even stronger. He can also breathe paralysing, toxic breath. But he does not possess a higher intellect, making him unable to execute complex orders or act independently effectively without supervision.",
+    "number": 279,
+    "rarity": 3.7,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Golem Worker",
+    "description": "This is a crew of iron golem workers with skill in Intermediate Mechanics, and a knack for labour. The workers are tireless and can work on projects without break, but cannot engage in combat. The number of workers you can summon is dependent on your maximum energy, but the minimum is 10.",
+    "number": 280,
+    "rarity": 2.3,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Lilithmon",
+    "description": "Digimon - Lilithmon was once revered as a Goddess of Darkness, but is now reduced to level 1. She has considerable physical ability paired with her skill in darkness magic. She is capable of unleashing potent corroding darkness and using charming magic to charm targets. To recover and increase her power, she can devour the mana of fresh corpses.",
+    "number": 281,
+    "rarity": 4.6,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Shademon",
+    "description": "Digimon - Shademon is a sentient living shadow; it may have a distinct lack of combat ability, but it is capable of tormenting targets with illusions and possessing targets, enhancing their stats and granting the ability to manipulate its shadow-like form to attack. They also get stronger by devouring the mana of fresh corpses.",
+    "number": 282,
+    "rarity": 2.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Eyesmon",
+    "description": "Digimon - A shadow demon dragon digimon, Eyesmon has tremendous physical strength and can burrow into shadows at will, his eyes grant him incredible sensory abilities and the ability to shoot cursed beams from his multitude of eyes. It is capable of splitting up its body into scatter mode to use for scouting and spying, as well as binding shadows. They also get stronger by devouring the mana of fresh corpses.",
+    "number": 283,
+    "rarity": 4.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Hydramon",
+    "description": "Digimon - A gigantic plantlike Digimon monster, Hydramon, has great physical prowess befitting its size and physiology. In addition, it constantly secretes toxic acid that it can utilise offensively and spew out of its maws, and it can also fire beam-like attacks from its three heads. Its tentacles can stretch and grow to attack or dig into the earth and cause earthquakes.",
+    "number": 284,
+    "rarity": 4.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Angewomon",
+    "description": "Digimon - Angewomon is an Angel Digimon with formidable physical abilities paired with her skill in Holy and Light magic, making her a formidable combatant. She can also unleash holy lightning and tornadoes and recover the health and status of her allies. She also receives a small boost according to how evil her opponent is.",
+    "number": 285,
+    "rarity": 4.4,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Ladydevimon",
+    "description": "Digimon - Ladydevimon is a Demon Digimon with formidable physical might, paired with her ability to manipulate corrosive darkness, making her a formidable combatant. She can create and shape darkness into familiars to attack, unleash waves of noxious darkness or use darkness to enhance her physical abilities to attack. Her poison is stronger the more energy the opponent has, but starts falling off after a tier.",
+    "number": 286,
+    "rarity": 4.4,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Ariemon",
+    "description": "Digimon - Ariemon is an Ocean Spirit who specialises in Hydrokinesis, healing and support. She is capable of healing and curing creatures using seawater to shape it into attacks like spears, but prefers to avoid causing harm and instead can trap creatures in conjured seashells. In addition, she can sometimes predict and foretell upcoming disasters about to appear in the world.",
+    "number": 287,
+    "rarity": 4.8,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Lamiamon",
+    "description": "Digimon - Lamiamon is a draconic snake-like Digimon who specialises in the use and mastery of poison. While she lacks proper ability in a direct confrontation. She can synthesise a variety of poisons, such as poison, melting, paralysis, vitality sapping etc. The more potent the poison, the more energy it consumes and the effects of the poison is reduced the stronger the target is. Her mastery over poison allows her to cure some ailments with specialised poisons too.",
+    "number": 288,
+    "rarity": 3.9,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Medusamon",
+    "description": "Digimon - Medusamon is a draconic Digimon who takes after the mythical gorgon. Alongside her formidable physical abilities, her hair is made up of powerful serpent dragons that can extend and chase down enemies independently. She is also capable of turning enemies into stone with her eye, the speed at which they turn to stone is dependent on the amount of energy she expends and the power difference between her and the target, strong enough targets can ignore the effect.",
+    "number": 289,
+    "rarity": 4.0,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "The Lich",
+    "description": "Adventure Time - \"Before there was nothing... there were monsters.\" Lich, the last scholar of Golb, is a primordial undead force of existence who has existed before nothing that embodies entropy and death He is an absolute master of Death magic and a variety of magic, such as Pyro, Mind, Necromancy, etc. Wherever he goes, death follows. He is able to impose death on the living and dominate the minds of those around him. He is nigh impossible to kill for good. He possesses incredible intelligence and insight due to the nature of his existence. ",
+    "number": 290,
+    "rarity": 7.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Lil' Khorne",
+    "description": "Warhammer 40k - What if you took one of the all-powerful Chaos Gods and sent them back down to Level 1? You get Lil' Khorne! This Chaos God shrunk down is an incredible warrior with immense physical power and proficiency in all weapons and warfare. Lil' Khorne also boasts greater magic resistance in exchange for being unable to use magic due to their disdain. They start off weak for an Epic familiar(Roughly Rare in power), but as long as they perform actions that align with their existence, they can slowly level back up. Just don't expect them to reach their original power anytime soon.",
+    "number": 291,
+    "rarity": 5.1,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Lil' Slaneesh",
+    "description": "Warhammer 40k - What if you took one of the all-powerful Chaos Gods and sent them back down to Level 1? You get Lil' Slaneesh! This Chaos God shrunk down is a mistress of debauchery and corruption, specialising in charms, manipulating sensations and minds. Lil' Slaneesh is also very skilled at understanding and corrupting people. She starts off weak for an Epic familiar(Roughly Rare in power), but as long as they perform actions that align with their existence, they can slowly level back up. Just don't expect them to reach their original power anytime soon.",
+    "number": 292,
+    "rarity": 5.2,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Lil' Tzeentch",
+    "description": "Warhammer 40k - What if you took one of the all-powerful Chaos Gods and sent them back down to Level 1? You get Lil' Tzeentch! This Chaos God shrunk down is an incredible magician/sorcerer, being able to study and learn all kinds of magic at an incredible pace. Lil' Tzeentch is also an excellent mind for all purposes of planning, whether it's starting a business, ruling a country, leading an army or committing espionage. They start off weak for an Epic familiar(Roughly Rare in power), but as long as they perform actions that align with their existence, they can slowly level back up. Just don't expect them to reach their original power anytime soon.",
+    "number": 293,
+    "rarity": 5.7,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Lil' Nurgle",
+    "description": "Warhammer 40k - What if you took one of the all-powerful Chaos Gods and sent them back down to Level 1? You get Lil' Nurgle! This Chaos God shrunk down is a master of poisons, decay and toxicity, being able to concoct the most foul of cocktails. Lil' Nurgle is also a bringer of new life, however, being able to use their speciality in unique creative ways of also curing and creating life. They start off weak for an Epic familiar(Roughly Rare in power), but as long as they perform actions that align with their existence, they can slowly level back up. Just don't expect them to reach their original power anytime soon.",
+    "number": 294,
+    "rarity": 5.0,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Scion",
+    "description": "Worm - Scion is the Avatar of the Warrior Entity, containing the most essential abilities it has. By default, Scion is physically strong, but that is nothing compared to its variety of abilities, the most distinct ones being able to tell the future, travel through dimensions, shoot powerful beams and its signature ability, Stilling, which allows them to cancel wavelengths through golden light and a massive variety of other abilities. If they were to(Somehow) perish they would eventually reform in the familar space.",
+    "number": 295,
+    "rarity": 9.5,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Grand Guignol",
+    "description": "Black Souls - The Theatre of Darkness and the Mechanical God woven from the \"Ability to Change\" owned by Mary Sue. Grand Guignol is an artificial Outer God; as a God, Grand Guignol is capable of creating her own garden(Reality), but her most potent ability other than creation is the ability to change. With the power to change, the Grand Guignol can turn even simple iron bars into ones even other Outer Gods cannot break out of.",
+    "number": 296,
+    "rarity": 9.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Majin Buu",
+    "description": "Dragon Ball - A demon from time immemorial, the entire universe feared. Majin Buu is a being of unbeliable, being able to vanquish entire solar systems with ease, his screams themselves can tear apart dimensions, his unique malleable physiology makes it all but impossible to kill him. He can also absorb the bodies, powers and energy of anything he can get his hands on. A true horror of any universe.",
+    "number": 297,
+    "rarity": 9.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Anti Spiral",
+    "description": "Gurren Lagann - Anti-Spiral is the physical manifestation of the Anti-Spiral itself. His power over reality is unmatched. Nothing beyond the Outer Gods or the Spiral can match it.",
+    "number": 298,
+    "rarity": 9.9,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Obelisk the Tormentor",
+    "description": "Yugioh - Obelisk, the Tormentor, the Divine Soldier, is an Egyptian God who stands imposingly with overwhelming physical might. As an Egyptian God, no magic or ability below Legendary rank can directly affect him. Obelisk can also unleash blasts of destructive dark energy. His power can be further temporarily enhanced by giving him sacrifices.",
+    "number": 299,
+    "rarity": 6.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Winged Dragon of Ra",
+    "description": "Yugioh - Winged Dragon of Ra, the Sun Dragon, is an Egyptian God who stands in the form of an imposing golden Phoenix. As a Phoenix embodying the sun Ra, along with his powerful body, can unleash divine flames like that of the sun, incinerating anything, especially demonic and dark beings. Ra can also enter his Phoenix Form, turning into a being of pure flame to gain immense resistance and regeneration. Ra can be further powered up with sacrifices offered to him. As an Egyptian God, no magic or ability below Legendary rank can directly affect him.",
+    "number": 300,
+    "rarity": 7.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Dusknoir",
+    "description": "Pokemon - Dusknoir is a ghost Pokémon with a hollow body, it possesses great physical strength and extremely strong durability both physical and magical. In addition to being able to release attacks using shadow and darkness, Dusknoir can sense souls, and it can also grab the souls of living and dead creatures to store inside its body.",
+    "number": 301,
+    "rarity": 3.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Lucario",
+    "description": "Pokemon - Lucario is the Aura Pokemon, possessing mighty physical abilities and a penchant for martial arts. Lucario is capable of harnessing aura, allowing it to release blasts of aura, use it to reinforce its body or sense the aura of other living creatures to sense their mood and intent as well as uncover their locations.(You cannot be taught Aura by Lucario)",
+    "number": 302,
+    "rarity": 3.4,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Yvetal",
+    "description": "Pokemon - Yveltal is the Legendary Pokémon of Destruction. In addition to its overwhelmingly powerful magical abilities and darkness manipulation, Yveltal is capable of unleashing pure destruction beams and unleashing waves of destruction that absorb life and turn living beings into stone. If given the opportunity, it can drain the life of an entire planet.",
+    "number": 303,
+    "rarity": 7.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Xerneas",
+    "description": "Pokemon  - Xerneas is the Legendary Pokémon of Life. In addition to its overwhelmingly powerful magical abilities and light/manipulation, Xerneas is capable of manipulating life, being able to sprout forests in deserts, it can heal even the gravest of injuries and restore the dead back to life with its power over life, although it is taxing. They can also grant immense power to whoever they want, imbuing them with immense energy.",
+    "number": 304,
+    "rarity": 7.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Alcremie",
+    "description": "Pokemon - Alcremie is the cream Pokémon, while she can use some fairy abilities, she is not a fighter, and instead is great at making and cooking sweets. She can also freely change her flavour and create delicious cream from her body.",
+    "number": 305,
+    "rarity": 1.9,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Hoopa",
+    "description": "Pokemon - Hoopa is the Djinn Pokémon. In addition to its ability to use dark and psychic attribute attacks and its great physical might, Hoopa is capable of using its rings as incredibly versatile portals capable of penetrating even dimensional boundaries between universes. ",
+    "number": 306,
+    "rarity": 7.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Frost Legion",
+    "description": "Terraria - Allows you to summon the Frost Legion, a horde of sentient murder-happy gangster snowmen wielding weapons like hardened ice knives, tommy guns, ice grenades, etc. The number of snowmen you can summon at once depends on your maximum energy. The minimum amount is 50. If a snowman gets killed, you recover 1 snowman every 1 hour. If you have frost/Ice affinity, the snowmen get stronger.",
+    "number": 307,
+    "rarity": 3.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Salt Golem",
+    "description": "A little 5cm tall salt golem made of condensed and distilled salty tears from wasted tickets.",
+    "number": 308,
+    "rarity": 0.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "D'vorah",
+    "description": "Mortal Kombat - D'vorah is a Kytinn who also is also very skilled in combat. Her biology gives her basic superhuman stats and natural weapons as well as venom. She is capable of producing and controlling insects to act for a variety of purposes, such as combat, poisoning, espionage, etc.(Cannot reproduce to create more Kytinn larva/maggots)",
+    "number": 309,
+    "rarity": 2.9,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Triborg",
+    "description": "Mortal Kombat - Triborg is a highly advanced cyborg fused with the skills and data of several master martial artists and assassins, as well as its predecessors. It's Robotic Physique grants it superhuman stats and allows it to reconfigure its body into several forms that allow it to utilise numerous different types of weaponry. Such as Smoke Form granting it close-range teleportation, Sub-Zero form granting cryo weaponry, etc. It can only use one form at a time. He may be upgraded with Tinker abilities.",
+    "number": 310,
+    "rarity": 3.8,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "Azmuth",
+    "description": "Ben 10 - Azuth, the First Thinker and the smartest being across immumberable galaxies. Although he possesses no combat ability, Azuth is among the smart inventors in all of existence, being able to create inventions that warp reality itself, such as the Fabled Ascalon and the Omnitrix. As long as he is given enough time and resources, it is practically impossible to know what he cannot create.",
+    "number": 311,
+    "rarity": 9.2,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Mipha",
+    "description": "Legend of Zelda - Mipha is the princess of the Zora. She has superhuman physical abilities and considerable skill in wielding polearms. She is also capable of utilising water magic to aid her in combat and has potent healing abilities she can use on herself or others.",
+    "number": 312,
+    "rarity": 4.1,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Factory Core",
+    "description": "\"Time to industrialise\" A modified golem core that instead builds itself into a factory by assimilating resources into itself. The more information about mechanics and technology the user feeds into it, the more assembly lines it can produce to create more items. The growing speed and maximum size of the Factory depend on the user's abilities.",
+    "number": 313,
+    "rarity": 4.7,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "Mech Core",
+    "description": " A modified Golem core that assimilates materials and electronics into itself to build itself into a mech. The power, size and durability of your mech depend on the materials you can provide to it; it naturally repurposes materials fed into it into creating Mech technology for itself on the level of an Epic tinker ability. Golem core shares the knowledge base of the user; the more the user knows and the more Tinker specialities they get, the better they will be able to improve. The mech can only act at half power if the user is not piloting it.",
+    "number": 314,
+    "rarity": 6.5,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "Connor",
+    "description": " Detroit Become Human - He is an android sent by Cyberlife, except not. He is an android made to closely mimic humans; he possesses peak human physicals and notable skill in combat. He is capable of scanning objects and humans to gather more data about them, albeit it is limited in function.",
+    "number": 315,
+    "rarity": 1.8,
+    "nsfw": false,
+    "character": true,
+    "tech": true
+  },
+  {
+    "name": "HK 47",
+    "description": "Star Wars - \"Defiant Statement, there is nothing you can do to me.\" HK is an incredibly experienced and advanced Assassin Droid, being extremely skilled in all forms of combat and sorts of weapons, as well as in combating and assassinating enemies thanks to his brilliant computational mind and engineering. He is also a very skilled mechanic. He comes equipped with standard droid gear, such as a blaster.",
+    "number": 316,
+    "rarity": 3.1,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Magnaguard",
+    "description": "Star Wars - An Elite Cast of Droids made specifically to battle Jedi. The Magnaguards have superhuman physical capabilities and advanced polearm skills in wielding their electrical staves. You start with 4 guards and get more as time goes on according to your maximum stats.",
+    "number": 317,
+    "rarity": 2.9,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "B-1 Battle Droid",
+    "description": "Star Wars - One, singular B-1 Battle Droid equipped with a blaster. His skills and effectiveness are... questionable. Good luck with him.",
+    "number": 318,
+    "rarity": 1.0,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "B-2 Battle Droids",
+    "description": "Star Wars - Tough heavy-duty Battle Droids with built-in blasters. They are not adept at quick combat but are very effective as walking walls with blasters. You start with 4 Droids and get more as time goes on according to your maximum stats.",
+    "number": 319,
+    "rarity": 1.8,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "KX Executor Droids",
+    "description": "Star Wars - Tough, athletic, skilled, efficient and powerful. These high-tech droids are very capable fighters and combatants, being able to wield most weaponry and possess superhuman physical stats strong enough to tear grown men in half. You start with 5 Droids and get more as time goes on according to your maximum stats.",
+    "number": 320,
+    "rarity": 3.0,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "IG-88",
+    "description": "Star Wars - IG-88 is an incredibly advanced combat droid with the skills of an expert marksman and advanced sensory capabilities. It also possesses superhuman stats due to its advanced droid constitution. This model also comes equipped with a veritable variety of deadly weapons.",
+    "number": 321,
+    "rarity": 3.4,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "2-1B surgical droid",
+    "description": "Star Wars - An advanced medical droid who is equipped with a vast database and extreme precision due to its droid body. This droid is a better surgeon than any human alive and is equipped with a variety of implants for surgeries.",
+    "number": 322,
+    "rarity": 2.6,
+    "nsfw": false,
+    "character": false,
+    "tech": true
+  },
+  {
+    "name": "Imp Midna",
+    "description": "Legend of Zelda - Midna is the Twilight Princess, whose powers have been suppressed and forced into the shape of an Imp. Even in her Imp form, she still has potent magical abilities. Being able to use basic telekinesis, shapeshifting, turning into cloud form and creating Twilight Portals with some time and effort that she can teleport between, she can also merge into shadows. With a potent enough curse-breaking ability(Legendary), you could break her curse and unleash her full form, drastically enhancing her abilities.",
+    "number": 323,
+    "rarity": 3.6,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Midna",
+    "description": "Legend of Zelda - Midna is the Twilight Princess, possessing potent magical powers, ruling over Twilight and Darkness magic. She has the ability to exert telekinesis, create portals, shapeshift, summon twilight creatures and generally use her potent magic.",
+    "number": 324,
+    "rarity": 5.3,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Seth",
+    "description": "Street Fighter - Seth is a biogenetically engineered and cybernetically enhanced artificial being equipped with a Tandem Engine and the ability to shapeshift. Seth has the knowledge of numerous Martial Arts Masters downloaded into her body, granting her mastery over an incredible amount of martial arts. Her tandem engine supplies her body with an immense amount of Artificial Ki, which she is very skilled at utilising. She is also able to use her Tandem Engine to copy the martial arts and moves of her enemies. Truly the perfect Martial Arts fighter.",
+    "number": 325,
+    "rarity": 6.3,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Horus",
+    "description": "JoJo - Horus is an autonomous stand connected to you by the soul. It manifests as a bird-like creature of ice if it chooses to. Horus has the ability of Cryokinesis, being able to expend your energy to launch icicles, freeze targets, drop ice boulders, and create a variety of ice constructs and can act even without your input. The power of Horus scales with yours due to their natures as a stand.",
+    "number": 326,
+    "rarity": 4.6,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "The Fool",
+    "description": "JoJo - The Fool is a... dog machine native american...? Looking stand that is actually formed out of sand, it can manipulate and shape at will, even being able to change its texture and colour. It can form as a barrier that automatically protects you, imitate people well enough to fool people familiar with them, and much more. The power of The Fool scales with yours due to their natures as a stand.",
+    "number": 327,
+    "rarity": 3.9,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Cream",
+    "description": "JoJo - Cream, despite its rather unassuming name, is a large, imposing stand that is capable of vanishing anything it eats into a dimension of endless darkness alongside its considerable strength. Cream can also eat the user to hide them without damaging them, and it can also eat itself to become a wrecking ball of nothingness that vanishes anything it comes into contact with in exchange for not being able to see. Due to their nature as a stand, Cream cannot leave more than a 5-meter range of the user and expends their energy to use their ability. ",
+    "number": 328,
+    "rarity": 6.4,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Hanged Man",
+    "description": "JoJo - Despite not being named as such, he is, in fact, a man in a mirror. Hanged Man is a stand in the form of sentient light, being able to dwell in reflective surfaces and damage the physical world without being hurt back. But it is limited to the force of an athletic human. And is forced to escape if the reflective space is covered, leaving as a ray of light. As a stand, Hanged Man requires your energy to remain active.",
+    "number": 329,
+    "rarity": 4.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "High Priestess",
+    "description": "JoJo - High Priestess takes the form of an amorphous, tribal like creature that can merge and control minerals, transforming the ground into cars, guns, giant faces, etc. The range of control and the power it can assert depend on your power level, and the damage of what it is merged into reflects back to you.",
+    "number": 330,
+    "rarity": 3.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Radiance",
+    "description": "Hollow Knight - Radiance is a lesser moth deity of Light and Dreams. She is able to project beams of light, swords of light and orbs of searing light as well as teleport using essence. Her origin also allows her to exert power over the dreams of others, manipulating them to bend their will to hers, but those of comparable strength or particularly strong minds can resist her infection.",
+    "number": 331,
+    "rarity": 5.0,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "The Knight",
+    "description": "Hollow Knight - They are very hollow. The Knight is the perfect vessel, being able to contain anything inside of itself thanks to the void. They can also absorb soul by injuring living beings to use to either heal themselves or use in Shaman spells. They can also use their strength and nail to fight opponents while phasing through them with their Shade Cloak.(Pre-Radiance Fight Knight). Height: 1.3 Meters",
+    "number": 332,
+    "rarity": 3.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Hornet",
+    "description": "Hollow Knight - Hornet is the child between the Pale King and the White Lady. She is quite powerful for her size and has considerable skill in fighting with her needle and threads; she is also able to mend herself using thread. Height: 1.3 Meters",
+    "number": 333,
+    "rarity": 2.0,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Troupe Master Grimm",
+    "description": "Hollow Knight - Master of the Grimm Troupe, freed from the shackles of the Nightmare heart. As a fully matured Nightmare being, they are capable of shapeshifting, manipulating nightmare flames and performing short-range teleportation. As a nightmare, Grimm is also capable of invading the dreams of others.",
+    "number": 334,
+    "rarity": 4.5,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "V1",
+    "description": "Ultrakill - V1 is a blood-fueled death machine, capable of moving incredibly fast and posessing incredible strength, unbefitting of its frame. Although their durability does not match up to their strength, they can repair themselves, but need blood and only blood as fuel to function. V1, alongside its scary expertise, also brings its entire arsenal along with it(no spawner arm). It is a one-robot army thirsty for blood, and nothing will stop it from drinking.",
+    "number": 336,
+    "rarity": 5.8,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Isabelle",
+    "description": "Anima Crossing - Isabelle is an anthropomorphic Shi Tzu. While she does not have any combat abilities beyond what is expected of the average grown woman, she is quite a skilled secretary and manager, being able to deal with the law and manage assets.",
+    "number": 337,
+    "rarity": 1.3,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Lucifer the Ceo of Hell",
+    "description": "Helltaker - Lucifer is one hell of a Ceo. As actual Lucifer herself, she is a powerful demon, possessing strength strong enough to rip steel in half like paper and being able to enslave people with a kiss, melting away their flesh and turning them into bone demons, possessing the abilities of a Fiend(Elite Trait) and being capable of using basic demonic magic. Having ruled hell for thousands of years and being a CEO, she is an incredible manager beyond human standards. She can manage hundreds of businesses and still be minimally inconvenienced compared to running Hell itself.",
+    "number": 338,
+    "rarity": 4.3,
+    "nsfw": false,
+    "character": true,
+    "tech": false
+  },
+  {
+    "name": "Radioactive Spider",
+    "description": "Spider-Man - A gamma-mutated spider that has the ability to grant those it injects its venom into the powers of a Spider. Its venom refills around 18 - 3 days, depending on how well it is fed. (No spider totems, they get the basic Tobey Maguire movie spider-man ability set)",
+    "number": 339,
+    "rarity": 5.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Big Gete Star",
+    "description": "Dragon Ball - A giant planet-sized intelligent computer. The Big Gete Star is capable of absorbing energy and assimilating anything into itself to improve its abilities. Anything the Big Gete Star has assimilated, it can reproduce and replicate, including cybernetic clones of living beings and functionally any technology. But it does need very powerful energy sources to power some of its functions. It is also very capable of interplanetary travel and shapeshifting. Does not include the Meta Cooler Core.",
+    "number": 340,
+    "rarity": 9.4,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Ridley",
+    "description": "Metroid - One of the most fearsome pirates in the known universe, Ridley is equal parts cunning and powerful despite portraying himself otherwise. He has incredible physical might that allows him to tear apart metal with ease and a flamebreath that can melt open spaceship hulls. Not only that, he is deceptively fast, being able to outpace most planes in an atmosphere and being able to go fast enough to achieve interstellar travel outside the atmosphere by his lonesome.",
+    "number": 341,
+    "rarity": 5.1,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Venom",
+    "description": "Sony Venom Movies - \"WE are Venom!\" Venom is an alien symbiote called a Klyntar that can merge with a living host and enter a symbiotic relationship with them. By hosting Venom, the host receives various benefits, such as being able to repair the host, granting them superhuman physiology as long as it's attached and is capable of temporarily covering the user in a suit that can boost their strength even further and shapeshift. But Venom must sustain itself on human flesh to maintain its strength. After spending enough time and eating enough times, Venom can asexually reproduce to produce another Symbiote similar to itself. Venom is also incredibly vulnerable to loud noises and fire, a weakness which extends to the host.(A/N: CANNOT absorb abilities or replicate genetic material, strictly Sony Movies Venom)",
+    "number": 342,
+    "rarity": 5.9,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Black Sabbath",
+    "description": "JoJo - Black Sabbath is an automatic stand that can merge with shadows and can bind itself to inanimate objects. Black Sabbath can follow direct preset commands and will do its best to fulfil those conditions, such as attacking something under specific conditions, as long as it is aware that the conditions have been fulfilled. Otherwise, it can just be set on hunting an opponent or directly protecting you. Black Sabbath draws power from shadows. When inside shadow or darkness, it had enough strength to bend metal and pulp, but outside of it, it had baseline human strength. The stats of Black Sabbath scale with yours. When destroyed, Black Sabbath will instantly remerge in Familiar Space.",
+    "number": 343,
+    "rarity": 3.5,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  },
+  {
+    "name": "Silver Chariot",
+    "description": "JoJo - Silver Chariot is a stand that is bound to your soul; it can only be a certain range from around you, and whatever damage it takes is inflicted back onto you. While it does not excel in brute force, Silver Chariot is an Expert Swordsmaster with insane agility and dexterity, capable of moving so fast that it can leave behind afterimages that look like clones. While Silver Chariot comes equipped with a simple rapier, it can use any weapon the user can use. As a stand, the power of Silver Chariot scales with your energy levels and consumes your energy to stay active and use its superspeed.",
+    "number": 344,
+    "rarity": 4.7,
+    "nsfw": false,
+    "character": false,
+    "tech": false
+  }
+]
