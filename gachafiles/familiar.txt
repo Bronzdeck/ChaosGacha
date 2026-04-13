@@ -784,3 +784,201 @@
 #Monster Hunter - Gore Magala is a Demi Elder Dragon, one that has yet to reach full adulthood. It has six limbs with one pair of arms serving as arms for its massive body. The Gore Magala has considerable physical strength but is blind and relies on its scales to sense find its way around alongside heat. The Gore Magala constantly scatters minuscule pollen-like scales and pollutes the air with them to find its way around. In addition, these pollens contain the Frenzy Virus, an affliction that can infect more Bestial beings to induce a berserk-like state in them while causing Humanoid creatures to be unable to heal naturally for a time. If fed high-quality prey enough, after some time, Gore Magala can metamorphose into a Shagaru Magala.
 393.Shagaru Magala,5.8
 #Monster Hunter - Shagaru Magala is an Elder Dragon and the Mature Species of the Gore Magala. It has immense physical strength contained in its large frame and 6 limbs. The Shagaru Magala has the ability to scatter its minuscule scales like pollen to more accurately perceive its surroundings and inflict the Frenzy Virus, which it can also do with its breath attacks. The Frenzy Virus can induce Berserk in beastial creatures and render humanoid ones unable to heal naturally. The range of Shagaru's scales is large enough to cover the mountain it roosts in. In addition, if the host is compatible enough, the scales of a Shagaru Magala can act like eggs and use the host as a hatchery to spawn infants of its kind.
+394. Alien Companionship,5.0
+#You share a sacred bond with an alien companion who fights, protects and synchronizes with you. Through the union you draw strength from each other and unlock shared abilities. Some aliens are too feral to befriend and your ally is irreplaceable.
+395. Almighty Object,8.5
+#You possess an almighty object, an item that grants you omnipotent or near-omnipotent power. Through it you can satisfy any desire and become virtually unstoppable, but the object itself defines the shape of what you can do, and losing it would mean losing nearly everything.
+396. Angel Companionship,4.5
+#You share a sacred bond with an angel companion who protects, fights alongside and empowers you. Through your synchronized union you draw strength from each other and gain access to a variety of angelic abilities, though certain angels may refuse the bond.
+397. Artificial Intelligence Companionship,4.4
+#You share a sacred bond with an artificial intelligence companion. The AI protects you, assists you, and grows alongside you, and the synchronization between your minds grants you both an array of powers neither would possess alone.
+398. Avian Companionship,2.2
+#You share a powerful, unbreakable bond with an avian companion or a small flock of birds. Whether by natural affinity or training, your feathered partners are devoted to you and nothing can drive them from your side.
+399. Caveman Companionship,3.4
+#You are bonded to a caveman companion, a primal partner whose strength and instincts you share through a sacred friendship. The two of you grow stronger together, drawing power from your bond, but if one of you dies the other suffers terribly.
+400. Cephalopod Companionship,2.4
+#You share a powerful bond with one or more cephalopod companions — octopi, squid, cuttlefish, or nautili — that cannot be broken by anything. Whether by natural affinity or training, your tentacled friends are loyal to the end.
+401. Control Object,4.6
+#You possess an object, be it an accessory, tool or weapon, that grants you a specific form of control power. Depending on the object it might let you puppet bodies, tug emotions, or dominate minds. Inexperienced wielders may struggle to channel its full potential and the object itself can be countered or negated.
+402. Cosmic Symbiosis,7.0
+#A cosmic entity has chosen you as its host, bonding to your soul and lending you its unbelievable powers. Your natural abilities are pushed far beyond what they were, and you inherit a portion of the entity's domain. The tradeoff is sobering: lesser hosts can lose control of their body, or have it puppeted entirely.
+403. Creative Object,5.2
+#You possess a creative object, a weapon, accessory or tool imbued with a creation-based power. The object can manifest constructs, enhance your existing abilities or channel a creative entity bound within it, though inexperienced wielders may struggle to control what it gives them.
+404. Crustacean Companionship,2.8
+#You share a sacred bond with a crustacean companion, a crab, lobster or similar. The relationship is genuine and powerful, granting communication and loyalty, but the death of one companion has serious repercussions on the other.
+405. Cryptid Companionship,5.1
+#You share a sacred bond with a cryptid companion, be it a bigfoot, a chupacabra, a yeti or something stranger. Your friendship empowers both of you, granting you a variety of supernatural gifts drawn from the cryptid's nature and a loyal partner through thick and thin.
+406. Death Knight Companionship,5.3
+#You have formed a sacred bond with a Death Knight who protects and fights alongside you, the two of you drawing strength from each other's presence. Through this bond you share a pool of abilities neither of you could wield alone, and your knight's loyalty is absolute, though certain prouder knights may refuse the pact entirely.
+407. Deity Companionship,6.3
+#You share a sacred and powerful union with a Deity who protects, loves and walks with you. The bond grants you the strength to overcome obstacles and a variety of shared divine powers synchronized between the two of you. You may not be able to befriend every deity though, some simply will not take to you.
+408. Demon Companionship,4.5
+#You share a sacred bond with a loyal demon who fights alongside you, protects you, and draws power from your connection. The two of you can synchronize to access shared abilities, and your bond strengthens over time as your friendship deepens.
+409. Dinosaur Companionship,5.8
+#You share a sacred bond with a Dinosaur partner, a union forged on pure love and mutual protection. You draw strength from one another, synchronize in combat and gain a variety of shared powers born from your friendship. You may not be able to befriend particularly feral or savage dinosaurs.
+410. Doppelgänger Companionship,4.2
+#You share a sacred bond with a Doppelgänger, a shapeshifting companion that can mimic any being it has seen. Together you draw strength from each other's presence, synchronizing your powers and protecting one another. Your companion can impersonate allies, infiltrate enemy ranks and fight alongside you with abilities that grow as your bond deepens.
+411. Dragon Companionship,5.4
+#You have formed a sacred bond with a dragon, a union of pure loyalty and love where both of you draw strength from each other. Your dragon fights alongside you, protects you, and through your bond you gain a variety of draconic powers that synchronize with its own.
+412. Eldritch Entity Companionship,6.6
+#You have forged a sacred bond with an eldritch entity, a cosmic horror whose mere existence contradicts science. The two of you protect and empower each other, and the friendship (or something stranger) can be used to ward off apocalypses and gain the ultimate bodyguard. Feral or utterly alien entities may be impossible to befriend regardless of your efforts.
+413. Elf Companionship,4.8
+#You share a sacred bond with an elf companion, a loyal ally who fights, protects and lives alongside you. Through your bond you synchronize with one another, drawing strength and abilities from the elf's innate magic. The deeper the friendship grows, the more powerful you both become.
+414. Emotion Object,4.0
+#You possess an object imbued with the essence of a specific emotion, granting you access to emotion-based powers as long as you wield it. The potency of the object scales with your emotional state, and losing the object means losing the power.
+415. Equid Companionship,3.2
+#You have an unbreakable bond with an equid companion of your choice, be it horse, donkey, mule, zebra or something more exotic. Nothing can drive the two of you apart and the bond deepens naturally over time, though particularly feral equids may still refuse you.
+416. Esper Companionship,5.4
+#You share a sacred bond with an esper, a being with psychic and ESP abilities. You both protect and empower one another, drawing strength from the pure bond between you and synchronizing to unlock abilities neither of you could access alone. The death of either partner would have catastrophic consequences for the survivor.
+417. Fairy Companionship,4.0
+#You share a sacred bond with a fairy companion, a pure union in which the two of you protect and empower one another. Through this bond you can synchronize with your fairy to access a variety of powers drawn from your mutual friendship.
+418. Fire Spirit Companionship,4.9
+#You have formed a sacred union with a fire spirit, a being of pure flame that fights alongside you and lends you its power over the element. As with any companion, it has its own will, and a poorly-treated spirit may go rogue on you.
+419. Fish Companionship,3.2
+#You share a sacred bond with a fish companion, a union of pure love and mutual care. Through this bond you draw strength from one another, synchronize your senses, and gain a suite of aquatic powers you would otherwise lack. The death of either of you would devastate the survivor.
+420. Frankensteinian Companionship,3.9
+#You have a sacred bond with a Frankensteinian monster, a stitched-together patchwork being who protects you and fights by your side. Through your bond you draw strength from each other, and the love between you grants you a variety of synchronized abilities in combat and hardship.
+421. Fungus Companionship,3.8
+#You share a sacred bond with a companion fungus, a sentient mushroom ally that protects and empowers you in exchange for your care. Together you draw strength from each other and synchronize to access a variety of mycokinetic powers.
+422. Genie Companionship,5.8
+#You share a sacred bond with a genie, a pure union of mutual protection and affection that lets the two of you synchronize and draw strength from each other. Through this bond you can tap into a variety of genie powers, and your companion will defend you with all of their considerable might.
+423. Ghost Companionship,3.9
+#You have a sacred bond with a ghost companion, a spectral ally who protects you and fights alongside you. Your friendship empowers both of you, letting you synchronize and draw strength from each other in times of need. The bond grants you access to a variety of spiritual abilities channeled through your companion.
+424. Ghost Knight Companionship,4.2
+#You share a sacred bond with a spectral knight, a ghostly warrior clad in phantom armor who fights at your side. Your friendship empowers both of you, letting you synchronize in combat and drawing from each other's strength. The knight's loyalty is unshakable and their blade cuts through the living and the dead alike.
+425. Ghoul Companionship,3.5
+#You have a sacred bond with a ghoul companion, an undead flesh-eater who protects you and fights at your side. Your bond empowers both of you, and despite their unsettling appetites your ghoul is unshakably loyal. Together you can draw strength from each other in times of need.
+426. Golem Companionship,5.4
+#You share a sacred bond with a golem partner, a loyal construct that protects you and fights alongside you. The bond allows you to synchronize with your golem, drawing strength from each other and unlocking shared abilities. The golem's power scales with the depth of your trust.
+427. Healing Symbiosis,5.6
+#You host a symbiotic healing entity - an embodiment of restoration or a being of pure curative energy - that grants you profound powers over health, medicine and regeneration. The entity may occasionally try to take over your body, and its power can ironically be dangerous to your own flesh.
+428. Homunculus Companionship,4.3
+#You are bonded to a homunculus companion through a sacred, loving union. You protect each other, draw strength from each other, and synchronise your abilities in combat. The bond grants you a variety of shared powers and the homunculus will never willingly leave your side.
+429. Hybrid Companionship,4.5
+#You share a sacred bond with a hybrid companion, a being of mixed species who fights alongside you and draws strength from your friendship. You can synchronize with them to unlock shared abilities, but the death of one has devastating repercussions for the survivor.
+430. Inorganic Object,4.2
+#You possess an object, such as an accessory, tool or weapon, that grants you inorganic-based powers. The object may be imbued with an inorganic force, possessed by an associated entity, or simply be a unique artifact. Inexperienced users may struggle to control the power it offers.
+431. Kaiju Companionship,5.7
+#You share a sacred bond with a kaiju, a giant monster that protects and cares for you as you do for it. Your friendship empowers you both, granting synchronisation and a variety of shared powers drawn from its monstrous nature. The death of either one of you would shatter the other.
+432. Kitsune Companionship,5.4
+#You have formed a sacred bond with a kitsune, a fox spirit who protects and cares for you as you do for it. Your bond grants you access to a portion of its powers, from illusions and foxfire to shapeshifting, and strengthens both of you the longer you remain partners. The death of one companion has serious repercussions for the survivor.
+433. Lagomorph Companionship,2.6
+#You share an unbreakable bond with a lagomorph companion, whether a rabbit, hare, or pika. The bond between you is so strong nothing can drive you apart, and your companion is preternaturally loyal and intelligent. Losing them would be devastating.
+434. Mage Companionship,4.3
+#You form a sacred bond with a powerful mage, granting you both a shared source of strength and a variety of magical abilities drawn from the union. The bond is empowering as long as it lasts, but the death of your companion would have devastating repercussions.
+435. Magic Cauldron,3.7
+#You possess an enchanted cauldron through which you can channel magical power, brew potions with a wide variety of effects, and cast more powerful spells than you could alone. Magic brewed in it may come with a price, and you are dramatically weaker without it.
+436. Media Companionship,4.0
+#You form a sacred bond with one or many forms of media as an ally, this companion could be a TV show, a website, a social media platform or something stranger. Through them you gain access to information shared across the world and even info beyond normal reach, though you need a device to contact them and they could always leak your secrets.
+437. Merfolk Companionship,4.2
+#You share a sacred bond with a Merfolk companion, a true and loving union in which the two of you protect and empower each other. Through this bond you synchronize and draw strength from one another, gaining a variety of aquatic powers from the connection. The bond is pure, and all the stronger for it.
+438. Mollusk Companionship,2.6
+#You possess an unbreakable bond with a mollusk companion of your choosing, be it a snail, slug, octopus, or clam. Nothing can drive the two of you apart, and your companion will follow and support you faithfully. The specific capabilities of the bond depend on what kind of mollusk you choose.
+439. Mummy Companionship,4.2
+#You share a sacred bond with a mummy companion, an undead guardian who protects you as fiercely as you care for them. Through your synchronized bond you draw strength from each other and gain access to a variety of mummy-related powers so long as you remain loyal to one another.
+440. Mutant Companionship,4.2
+#You share a sacred bond with a mutant companion, the two of you drawing strength from one another. Through your bond you can synchronize and share in each other's abilities, and the love you share grants you power to overcome obstacles that would crush either of you alone.
+441. Mythic Companionship,5.6
+#You form a sacred bond with a mythical being or creature, the two of you protecting and empowering one another through pure love and loyalty. Together you synchronize your strengths and gain a variety of shared powers, letting you both overcome obstacles that neither could face alone.
+442. Nuclear Object,4.7
+#You possess an object, be it an accessory, tool, or weapon, that grants you access to nuclear powers. Whether supernaturally imbued with atomic force or possessed by a nuclear entity, the object channels its abilities through you. If you lose it, you lose the power.
+443. Omni Companionship,9.1
+#You share a sacred and empowering bond with anything and everything — gods, primordial forces, conceptual entities, the dead, the fictional, even inanimate objects. They protect you, draw strength from you, and lend you their power in return. No being in existence is truly a stranger to you.
+444. Parasitic Companionship,3.4
+#You share a sacred bond with a parasitic companion, and the two of you protect and empower one another. The parasite occasionally needs to feed from you to survive, but in exchange it lends you strength, synchronization and a handful of shared abilities.
+445. Pegasus Companionship,4.0
+#You have a pegasus companion bonded to you for life, a winged divine horse of great intelligence and loyalty. Nothing can drive the two of you apart, and with time you may bond with an entire herd of them.
+446. Personal Avatar,5.8
+#You possess your own personal avatar, an entity bonded to you that reflects a unique concept, essence or idea. It may share your appearance to some degree and wield powers that are sometimes inferior and sometimes superior to your own. It fights alongside you and cannot be easily destroyed.
+447. Personal Champion,6.0
+#You possess your own chosen champion or group of champions, mortals, spirits or entities bonded to serve your will. You can bestow powers and equipment upon them, transforming them into superpowered agents who act on your behalf. They are not always perfectly obedient.
+448. Personal Council,3.9
+#You possess a personal council of one or more beings, creatures, or objects chosen specifically to offer you knowledge, wisdom and guidance. They double as therapists in times of distress. Their advice is not always useful, and you are free to ignore it at your own peril.
+449. Personal Drone,4.0
+#You can call forth and control a personal drone, an unmanned vehicular or robotic entity that fights, defends and supports you. It may attach to your body or operate remotely, and sufficiently skilled users can summon more than one. Range and capability depend on the drone's specifications.
+450. Personal Entity,5.5
+#You possess a personal entity fully bound to your will, a uniquely powerful being that can be a human, demon, spirit, angel or something else entirely. It obeys you absolutely and manifests powers according to its nature. The power level of the entity depends on what kind of being answered your call.
+451. Personal Familiar,4.2
+#You possess a familiar, a supernatural entity bound to you by magical contract, usually taking an animal form. It can run errands, provide counsel, cast spells on your behalf and is often only visible to you. The strength and nature of your familiar varies based on what accepted the contract.
+452. Personal Mount,4.5
+#You possess a personal mount bound to you through a supernatural link, serving as both transportation and battle companion. The bond allows you to communicate with your steed, summon it across long distances, and potentially merge with it for combined techniques. The mount's nature determines the abilities you share. Only you can ride it.
+453. Personal Orchestra,7.3
+#You possess your own personal orchestra, a devoted ensemble of musicians, composers and conductors whose collective harmony lets you produce effects far beyond what a single performer could. Through their themes you can alter reality, create, destroy, regenerate and influence entire swathes of creation. They follow your lead like a limb.
+454. Personal Patron,5.6
+#You have a personal patron, a supernatural benefactor (divine, angelic, demonic, spiritual or cosmic) bound to you through a persistent link. They act as guide, protector and power source, granting you specialized abilities, knowledge and equipment as their favor dictates. The strength of your gifts depends on the patron and the bond between you.
+455. Personal Phantasm,5.0
+#You command your own personal ghost or specter, a unique spiritual figure bound to you through birth, summoning or contract. The phantasm can act as attacker, defender, scout or source of eerie powers depending on its nature. Some are tame, others are dangerous enough that keeping them in check is a power in itself.
+456. Personal Symbiote,5.2
+#You possess a personal symbiote, a unique bonded entity that only you can control and draw powers from. It grants you supernatural abilities idiosyncratic to its nature through your physical bond. Lack of synchronicity can lead to rejection or, worse, the symbiote overwhelming and possessing you.
+457. Personal Team,5.5
+#You can summon and command your own personal team, a small but wholly synergistic cadre of entities that act as extensions of your will. Each member has their own distinct nature and abilities, and together they can accomplish things far beyond what any one of them could alone. The team size is capped and scales with your training.
+458. Personal Wish Granter,7.6
+#You possess your own personal wish granting entity, a genie, fairy, otherworldly creature or sentient wishing star bound to you as its master. It grants your desires up to the limits of its nature and power, which vary wildly depending on the entity. May have a limited number of wishes or strict conditions on when it can grant them.
+459. Planimal Companionship,4.6
+#You share a sacred bond with a planimal, a hybrid creature of plant and animal. You protect and draw strength from one another, and the synchronization of your bond grants both of you an array of powers. If one of you dies, the survivor suffers severe repercussions.
+460. Plant Companionship,4.2
+#You share a sacred bond with a particular Plant companion, a union built on mutual care and love. Through this bond, you synchronize with each other and gain a variety of plant-based powers that grow alongside your friendship. The Plant fights beside you and draws strength from your affection.
+461. Portal Object,4.6
+#You possess an object imbued with portal-based powers, whether an accessory, tool or weapon. It can grant you gateway abilities or enhance ones you already possess, drawing power from the entity or force bound within it. Inexperienced wielders may struggle to control what it offers.
+462. Primate Companionship,3.9
+#You share a sacred and powerful bond with a primate companion, your friendship empowering both of you. The two of you synchronize in combat and daily life, drawing strength from the pure love between you and gaining a variety of powers through your connection.
+463. Psychopomp Companionship,6.2
+#You share a sacred bond with a Psychopomp, a guide of souls between the living world and the dead. You protect each other, draw strength from each other, and gain supernatural powers through the union. Your companion's loyalty is unshakable because it is built on genuine love.
+464. Rodent Companionship,2.0
+#You have an unbreakable bond with one or more rodent companions, who are fiercely loyal and will never leave your side. Comes with a natural understanding of rodents and the ability to train and befriend more.
+465. Sentient Anti-Power,6.2
+#You possess an anti-power that has a mind and body of its own, existing within your mind or soul and manifesting when summoned or when it feels like it. It can naturally counteract, nullify or destroy the superpowers of others and acts to protect, adapt or enhance you. However, it has its own personality, its own gender and its own moods, and may refuse to cooperate or even try to take control if you two are not getting along.
+466. Sentient Power,5.7
+#You possess a power that has its own sentience and exists as an independent being inside your mind or soul, manifesting when summoned or when it wants to. It acts on its own to protect, adapt or enhance you in any given situation. However, it has its own gender, name, emotions and moods, meaning it can refuse to work with you or even try to take control if you two fall out.
+467. Sentient Vehicle,4.9
+#You possess a specific vehicle that has a mind of its own, able to move, drive and act on its own initiative. It will come when called, fight alongside you if it can, and generally acts as a loyal companion rather than a tool. Usually limited to one specific vehicle, and it may not always follow instructions to the letter.
+468. Serpent Companionship,3.4
+#You share a sacred bond with serpent companions, who protect and assist you as you do the same for them. The union is genuine, not forced, and breaks if the relationship sours or is coerced.
+469. Skeleton Companionship,3.6
+#You share a sacred and powerful bond with a skeletal being who fights by your side as a loyal companion. Through your bond you both draw strength from one another, granting you a variety of bone-based powers and an unshakable ally in any fight. The skeleton may have its own weaknesses to the holy and blunt force.
+470. Slayer Object,4.0
+#You possess a single Slayer Object, an accessory, tool or weapon imbued with supernatural power to counter a specific type of creature. The object's abilities are fixed by its nature and grow stronger as you bond with it, but the item itself can be lost, stolen or broken.
+471. Slime Companionship,3.1
+#You have formed a sacred bond with a slime companion that protects and assists you through thick and thin. Its weaknesses depend on what type of slime it is, but the bond between you two is unbreakable.
+472. Spirit Companionship,4.6
+#You share a sacred bond with a spirit companion, the two of you drawing strength from one another and synchronizing to unlock new abilities. The bond empowers you both, though certain spirits may refuse your friendship and companions always carry the risk of going rogue.
+473. Spiritual Object,4.0
+#You possess a spiritual object - an accessory, weapon, armor, or trinket - that grants you spiritual powers. Depending on its design or origins, it can impart soul-based abilities to those who wield it or amplify the ones you already have. If the object houses a spirit, you risk possession when the bond is uneven.
+474. Superhuman Companionship,5.5
+#You share a sacred bond with a superhuman partner, a powerful union built on pure affection and mutual trust. Through this bond you synchronize with and draw strength from one another, gaining new powers born of the connection itself. The death of your companion carries devastating consequences.
+475. Supernatural Castle,5.7
+#You possess a supernatural castle, a massive sentient dwelling imbued with magical forces that flow through every hall, tower and stone. The castle and its surrounding land respond to your will, spawning rooms, traps and defenders as needed. Rival forces may still invade it if you are careless.
+476. Supernatural Island,6.5
+#You possess a supernatural island, a semi-sentient tropical nexus imbued with mystical energies that flow through its land and inhabitants. The island provides for its natives, shapes its own weather and climate, and has some grand purpose woven into its existence. It can still be invaded, damaged or destroyed by sufficiently powerful outsiders.
+477. Supernatural Vehicle,5.7
+#You possess a supernatural vehicle, a sentient conveyance imbued with impossible geometry and supernatural materials. It can travel to places ordinary vehicles cannot reach such as other dimensions, different time periods or microscopic planes, and is far more durable and faster than any mundane counterpart. It may still require fuel of some kind.
+478. Transcendent Mecha,8.6
+#You pilot or are bonded to a godlike mecha, a giant robot whose arsenal and defensive suites outclass entire armies of lesser machines. Whether technological, divine or symbiotic in nature, your mech's capabilities are functionally limitless and can share its transcendent status with you. May still be outmatched by other transcendent machines of greater make.
+479. Troll Companionship,3.6
+#You share a sacred bond with a troll companion who protects and cares for you as you do for it. Through this union you can synchronize strength and draw from each other's power, gaining combat prowess and resilience. The troll is loyal and mighty but only as strong as the trust between you.
+480. Undead Companionship,4.8
+#You share a sacred bond with an undead being, a pure union forged in mutual loyalty and love despite the laws of life and death. You and your companion empower each other, synchronize your abilities, and draw strength from the connection. The stronger your bond grows, the more abilities the two of you unlock together.
+481. Underworld Beast Companionship,5.4
+#You share a sacred bond with an underworld beast, a creature drawn from the realms beneath the living world. The two of you draw strength from each other's presence and the companion will fight at your side with unwavering loyalty, synchronizing its infernal abilities with your own.
+482. Vampire Companionship,3.9
+#You share a sacred bond with a Vampire companion, the two of you protecting and empowering each other through mutual devotion. The bond grants you access to a variety of shared vampiric abilities, drawn from the love between you.
+483. Void Object,5.4
+#You possess an object imbued with nothingness, whether a weapon, accessory or tool. It grants you void-based powers through either an elemental imbuement or a bound oblivion entity, and can enhance preexisting powers. Inexperienced users may struggle to control it and it's vulnerable to Object Negation.
+484. Vulpes Companionship,2.8
+#You have formed an unbreakable bond with one or more foxes who accompany and aid you. The bond between you is absolute, and you have a natural gift for training and communicating with canines. The foxes themselves are as capable as ordinary foxes unless paired with another power.
+485. Warg Companionship,4.3
+#Game of Thrones - You have a deep and unbreakable bond with a warg, a massive wolf-like beast the size of a horse with intelligence rivaling a human. Your warg is fiercely loyal, understands you completely, and will fight by your side to the death.
+486. Werebeast Companionship,4.2
+#You have a sacred bond with a werebeast companion who fights alongside you and protects you. Through your friendship you can synchronize with them to draw strength and gain a variety of therianthropic abilities. The strength of the bond scales with the trust between you.
+487. Werewolf Companionship,4.0
+#You have a sacred bond with a werewolf companion who protects you and fights at your side. Your friendship grants you both strength, synchronization and a portion of their therianthropic gifts. The bond deepens with trust and loyalty.
+488. Witch Companionship,4.2
+#You share a sacred bond with a witch who protects and empowers you. Your connection lets you synchronize with each other and draws out a variety of magical abilities, though not every witch will accept you as kin. The strength of the bond scales with the love and trust between you.
+489. Wolf Companionship,3.2
+#You share a deep, unshakable bond with a wolf or a small pack of them. They follow your lead, fight at your side, and share an almost instinctive understanding of your intent. Some initial training or time spent earning their trust may be required to form the bond.
+490. Yokai Companionship,5.2
+#You share a sacred bond with a yokai companion, a supernatural spirit who protects and fights alongside you out of pure love. The friendship grants you both a variety of shared powers and you can synchronize to overcome nearly any obstacle. Should one of you die, the survivor suffers devastating repercussions.
+491. Zodiac Companionship,5.4
+#You share a sacred bond with the living embodiment of your zodiac sign, a powerful celestial companion who fights, protects and empowers you. Your synchronization with them grants shared strength and access to a spread of zodiac-flavored powers drawn from your mutual love.
+492. Zombie Companionship,3.8
+#You share a sacred bond with a Zombie companion who protects, empowers and fights alongside you. Your friendship grants you both strength drawn from the bond, and together you gain a variety of undead-flavored powers. Feral or fully mindless zombies may refuse the connection.
