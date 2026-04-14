@@ -956,7 +956,7 @@ When you roll a ticket, you have the option to reroll it, but with its rarity lo
 #Hollow Knight - You are a vessel, capable of absorbing and channelling "soul" to either yourself by focusing or training to use it in Shaman spells as Howling Wraiths, creating Soul Nails, short-range teleportation, and other such spells. You gain soul by inflicting injuries on living beings, and your maximum storage scales with your maximum energy, but is distinctly separate.
 479.Ambidexterous,1.2
 #You are perfectly ambidexterous, you can use both of your arms and hands as if they were both dominant hands. The same applies to all of your limbs, perfectly balanced, as all things should be.
-480,Tune Up,3.3
+480. Tune Up,3.3
 #You have received a body tune-up, an upgrade to every aspect of your body, slightly increasing all of your physical stats, your energy reserves, and most importantly, fixing all of the physical or genetic problems ailing in your body at the moment of you rolling this trait.
 481.Greater Beastkin,4.4
 #Race Change - You are a greater beastkin, a creature that is half beast and half whatever you are. As a Greater Beastkin, you possess superhuman physical abilities and enhanced natural senses and instincts. You possess more affinity towards nature-based abilities and spells, allowing you to utilise them more effectively. Your Beast side is powerful too; even simple cat claws are tough as iron. (Chosen beast is decided by the writer, not an in-story choice)
@@ -1132,7 +1132,7 @@ Whichever city you are currently living in, you get the equivalent of 2x the dai
 #Street Fighter - You have awakened the Satsui no Hado, the Surge of Killing Intent, otherwise known as the Dark Hado, allowing you to tap into your inner Ki reserves thanks to it. This Hado requires the pracitioner to tap into their inner animalistic bloodlust, rage, and murderous intent to physically manifest your killing intent and tap into your inner energy through it. Using the Hado will slightly transform the user, enhancing their physical strength, allowing them to imbue energy into their strikes, and turn their Ki into dark flame-like energy. Skilled enough users may even be able to use it to telekinetically control objects. The more someone practices the Hado, the stronger they will become, and so will their desire for conflict and conquest. If one cannot control their Hado properly, they may even transform into an Oni. But it is possible to tame this power no matter how difficult.
 567.Reptilian Rapport,2.7
 #You have great affinity with lizards, reptiles, and creatures that are aligned with them. Making it easier to earn their affection and favor, and form relationships with them. Thanks to your affinity with Reptilians, regeneration-based effects, abilities, and spells applied to you are more potent.
-567.Canis Companion,2.6
+5324. Canis Companion,2.6
 #You have great affinity with dogs, canines, wolves, and creatures that are aligned with them. Making it easier to earn their affection and favor, and form relationships with them. Thanks to your affinity with the Canis, your sense-based abilities and traits are more potent, and it is easier to control your own senses.
 568.Arthropod Affiliate,2.4
 #You have great affinity with insects, arachnids, crustations, and creatures that are aligned with them. Making it easier to earn their affection and favor, and form relationships with them. Thanks to your affinity with the Arthropods, you possess slightly increased durability and armor-based abilities, and effects cost slightly less energy to use.
