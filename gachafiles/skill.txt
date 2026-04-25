@@ -598,10 +598,6 @@
 #You can read the past, present and future by interpreting patterns in sand, dust, ash and other small particles. Useful for divining answers and finding lost things, though deciphering the patterns takes time and you need a steady supply of loose grains.
 300. Ability Teaching,4.6
 #You have a natural gift for training and instructing others in the use of supernatural powers and abilities. Anything you understand, you can teach. Students still require time to learn and will eventually plateau at the peak of their own potential.
-301. Absolute Arts,8.5
-#You practice the Absolute Arts, a system of techniques rooted in supreme and possibly omnipotent power. Through your training you can tap into any preternatural force you become aware of, and your physical, mental, and spiritual prowess grows without ceiling. The more you train, the more your potential reveals itself to be infinite.
-304. Absorption Arts,4.5
-#You are trained in the Absorption Arts, a specialized system of techniques built around assimilative power. By incorporating energy, matter, entities and powers into yourself, you can metabolize them for sustenance and vigor, or replicate elemental essences and supernatural traits from what you have absorbed. The deeper your study, the wider the arsenal.
 307. Absorption Sword Proficiency,4.5
 #You are a master of wielding swords made of or imbued with absorption, capable of leveraging the blade's draining nature for both offense and defense. The flavor of absorption shapes the swordsmanship; a soul-drinker fights very differently from an elemental-eater.
 308. Abstract Strategy Game Mastery,4.6
@@ -614,8 +610,6 @@
 #You are a true master of the accordion, capable of playing any piece on it with effortless skill and emotional depth. You can charm a tavern, lead a parade, or make a stranger weep with a single melody.
 313. Accounting Mastery,3.2
 #You are the ultimate accountant. Recording, summarizing, analyzing and reporting financial transactions is second nature to you, your books are always perfect, and you can spot fraud or inefficiency in a ledger at a glance. Tax season holds no fear for you.
-314. Acid Arts,5.2
-#You are practiced in the Acid Arts, a specialized supernatural style built around serqekinetic technique. You can offensively wield acid in combat, raise corrosive defenses, and even use it for healing and purification with the right forms.
 316. Acoustics Mastery,3.5
 #You are a master of acoustics, the science of producing, controlling, transmitting, and receiving sound and vibrations. You can design rooms with perfect sound, identify the source of any noise, and intuitively understand how to manipulate any auditory environment to your advantage.
 318. Actuary Mastery,2.6
@@ -624,8 +618,6 @@
 #You can perform divination through needles, casting them and reading the patterns to glimpse the past, present or future. Visions take time and concentration to form, and predictions are not set in stone, sometimes coming to pass in unexpected ways.
 320. Acupuncture Needle Proficiency,2.3
 #You are a master of wielding acupuncture needles, both for traditional medicinal purposes and as throwing weapons. In your hands a tiny needle can be as deadly as a knife if it lands on the right pressure point.
-322. Adaptive Arts,6.5
-#You wield the Adaptive Arts, a class of supernatural techniques that lets you spontaneously invent new techniques on the fly. You can scan beings and phenomena to incorporate their effects, absorb energy to power up, and recombine known effects into brand new ones. Limited by your understanding of what you want to do.
 324. Adaptive Sword Proficiency,4.6
 #You are a master of wielding swords infused with or made of pure adaptive force. Both offensively and defensively the blade reacts to its opponent and changes its properties accordingly, and your swordsmanship complements its evolving nature seamlessly.
 325. Administration Mastery,4.2
@@ -648,8 +640,6 @@
 #You are a master swordsman wielding blades of pure compressed wind or air-infused steel. The longer the duel drags on, the harder it gets to maintain the blade's edge without an outside hilt to anchor it.
 335. Aerospace Engineering Mastery,4.8
 #You are a perfect master of aerospace engineering, able to design, build and test aircraft, spacecraft, propulsion systems and orbital hardware with flawless intuition. Aerodynamics, materials science and control systems all feel as natural to you as breathing, although you still need the resources to actually build what you imagine.
-336. Aether Arts,5.7
-#You are trained in the Aether Arts, a specialized system that cultivates and channels aether through its four aspects of aura, chi, mana and quintessence. You can wield it offensively, defensively or to heal, although ignorance of the deeper techniques can backfire dangerously.
 337. Aether Sword Proficiency,5.7
 #You are a master at wielding a sword of pure Aether or one infused with it, fighting with the grace and skill of a celestial swordsman. Depending on the type of Aether channeled through the blade, you can cleave through divine defenses, sever spiritual connections, or unleash cascading waves of quintessential energy with each swing.
 341. Agriculture Mastery,3.6
@@ -662,20 +652,14 @@
 #You are a master of wielding wind-infused bows, capable of using their air-based properties for both offensive and defensive combat. Your arrows fly true on currents only you can feel, and you can call them back with a thought.
 346. Air Guitar Mastery,0.4
 #You are a true master of the air guitar. Your riffs and solos are unmatched, your stage presence is legendary, just don't ask you to actually play a real guitar.
-347. Alchemic Arts,5.1
-#You are a practitioner of the Alchemic Arts, the ancient hermetic system of techniques that aims to bring about transcendence in body, mind and spirit. You can craft gold and panaceas, control the essence of life to bring new entities into being, and pursue personalized transformation, though lack of proper knowledge can lead to dangerous effects.
 350. Alchemy,4.0
 #You are a true alchemist, capable of elemental transmutation, brewing potions of healing and rejuvenation, and even creating homunculi given enough time. You may need a workshop, hermetic circles or a focusing item like the Philosopher's Stone, and your effectiveness scales with your knowledge.
-352. Alien Arts,5.2
-#You practice the Alien Arts, a system of techniques built around channeling extraterrestrial essence, energy and entities. You can conjure alien elements, enhance your body with otherworldly forces and even call upon alien spirits. Improper use can leave you possessed or overwhelmed.
 353. Alien Combat,4.6
 #You possess fighting skills derived from extraterrestrial techniques, mimicking alien movements, martial styles and physiologies in your strikes. Some users learn through Alien Physiology, others through direct training under alien masters.
 355. Alien Weaponry Intuition,4.6
 #You can instantly wield any alien weapon as if you have been training with it your entire life, regardless of how complex, foreign or counterintuitive its design. Blades from another reality, ballistics from another dimension, artifacts whose function defies physics — all of them feel natural in your hands.
 356. Alternative Medicine Arts,3.3
 #You are versed in the Alternative Medicine Arts, the holistic and esoteric healing traditions that predate modern medicine: herbal concoctions, energy channeling, prayer and occult practice. Widely derided as pseudoscience, yet in your hands they actually work, though improper knowledge can cause real harm.
-359. Ambient Arts,4.6
-#You are trained in the Ambient Arts, a specialised system of techniques that draws power from your immediate surroundings. No matter where you are, you can siphon and reshape the latent forces of the environment to fuel your attacks, defenses and utility, never bound to a single element or location.
 360. Ambush Mastery,4.5
 #You are a complete master of conducting ambushes, with perfect instinct for concealment, timing and the element of surprise. You know how to lure enemies into traps, where to lie in wait, and how to strike before your target ever knows you are there. Every ambush you set is executed with flawless technique.
 361. Amusement Park Mastery,2.3
@@ -688,12 +672,8 @@
 #You are a master of wielding bodies, organs and limbs as weapons. A severed arm becomes a club, a spinal column becomes a whip, a ribcage becomes a shield. Grim work, but devastating in the right hands.
 365. Anchor Proficiency,2.6
 #You are a master of using anchors as weapons in combat. You can swing them, throw them and wield them with terrifying precision regardless of size or weight. A niche weapon, but one most opponents will never have trained against.
-367. Angelic Arts,5.2
-#You can utilize the Angelic Arts, a specialized system of techniques that channels angelic essence and calls upon angels or fallen angels to perform various feats. With these arts you can conjure holy elements, supernaturally enhance your body, and access angelic materials.
 370. Angelology Mastery,3.6
 #You are a master angelologist, instinctively understanding the ranks, anatomy, behavior, weaknesses, and origins of angels of every tradition. When facing an angelic being, you can quickly deduce what it is, how it fights, and how to negotiate with or oppose it.
-371. Animal Arts,4.3
-#You are trained in the Animal Arts, a specialized martial system that channels beastly essence to mimic animal traits, enhance physical prowess, and possibly call upon beast entities for aid. The deeper your knowledge of beasts, the more techniques you can perform.
 374. Animal Training Mastery,3.0
 #You are a master of training animals, capable of teaching any beast specific responses to specific stimuli for companionship, protection, detection or performance. With enough patience you can train creatures most would consider untrainable, including some non-human supernatural beings.
 375. Animalistic Combat,4.2
@@ -708,12 +688,6 @@
 #Street Fighter - You are a master of ansatsuken, the assassination fist, any martial art developed specifically with the purpose of killing. Every strike you throw is engineered to end a life, and you instinctively understand the lethal vulnerabilities of any anatomy you encounter. The Satsui no Hado is a known risk.
 380. Anthropology Mastery,3.5
 #You are a master anthropologist, capable of understanding cultures, traditions and customs at a glance. You can pick up on social hierarchies, etiquette and unspoken rules of any society you encounter, and you have an encyclopedic knowledge of human history, folklore and oral tradition.
-381. Anti-Energy Arts,5.7
-#You are trained in the Anti-Energy Arts, a specialized martial system based around channelling anti-energy, a supernatural force that destabilizes and annihilates all forms of energy. You can shape the anti-energy into appendages, armor and weapons. Lack of proper discipline may leave you overwhelmed by your own techniques.
-383. Anti-Force Arts,5.8
-#You are trained in the Anti-Force Arts, a specialized system of techniques built around anti-forces. These supernatural counterparts to fundamental forces flip their effects on their heads — anti-gravity repels instead of attracts, anti-friction creates frictionless slipping, anti-strong force makes nuclei explode. Mastery requires deep understanding or you risk dangerous backlash.
-386. Anti-Magic Arts,6.0
-#You are trained in the Anti-Magic Arts, a specialized system devoted to absorbing, diluting, destroying and negating magical energies. Your techniques may actually use magical forces themselves, but the end result is always the unmaking of magic. With practice you can use anti-magic for physical augmentation and matter manipulation.
 387. Anti-Magic Sword Proficiency,4.4
 #You are a master of wielding swords made of or infused with anti-magic, either innately or through training. Combined with such a blade you become an extraordinary mage-killer, able to cut through wards, sever spells mid-cast and parry magical attacks with practiced ease.
 388. Anti-Power Arts,5.2
@@ -842,8 +816,6 @@
 #You are a master of the shinai, the bamboo sword used in kendo training and friendly competition. Your form is impeccable and your strikes are precise, but a bamboo sword is built for sparring and your killing power is sharply limited.
 478. Banishment Arts,4.7
 #You are trained in the Banishment Arts, a specialized system of techniques for expelling and exorcising entities, spirits, demons, angels, gods, beasts and even objects from a location or host. With unique gestures, prayers and energies you can eject unwanted forces and restore the affected place to its original state.
-479. Banishment Combat,4.6
-#You combine banishment powers with physical combat skill, weaving exorcism into your strikes so that every blow risks ejecting your opponent from the immediate vicinity. The stronger the target the more power required to actually banish them, and some beings are simply unmovable.
 481. Banjo Mastery,1.4
 #You are a master of the banjo and related instruments. You can pluck out a tune that gets a whole bar stomping along, and your fingers move on the strings as if they have been doing it all your life.
 482. Banking Mastery,2.6
@@ -856,8 +828,6 @@
 #You are a master of Bartitsu, the gentleman's martial art that blends boxing, jujitsu, savate, and cane fighting. Sherlock Holmes himself would consider you a worthy adversary, and your walking stick is more dangerous than most people's swords.
 486. Baseball Bat Proficiency,2.2
 #You are a master of swinging baseball bats in combat, dealing devastating blunt force trauma with every strike. Whether smashing through walls or breaking armored knees, the bat is an extension of your arm. Home run.
-487. Baseball Combat,2.6
-#You can fight using baseball equipment and even invoke baseball rules in combat, three strikes will genuinely incapacitate a foe if you can sell the bit. Works best with a bat in hand.
 488. Baseball Glove Proficiency,1.6
 #You are a master of the baseball glove, capable of catching nearly any ball thrown your way and using the glove itself as a surprisingly effective bludgeon or shield in a pinch.
 489. Baseball Mastery,2.8
@@ -866,8 +836,6 @@
 #You can use baseballs as makeshift throwing weapons with surprising accuracy and force. A well-thrown fastball from you can crack skulls.
 491. Bashosen Proficiency,4.6
 #You are a master of wielding the Bashosen, the legendary Banana Palm Fan. With a single wave you can summon powerful winds, two waves bring storm clouds, three waves unleash a torrential downpour. Requires the actual fan to use.
-492. Basketball Combat,2.6
-#You can fight using basketball equipment and invoke basketball rules in combat. Dribbling, fouls and three-pointers all become viable techniques in your hands as long as you have a ball.
 493. Basketball Mastery,2.8
 #You are a master of basketball, your dribbling, shooting, and ball-handling are at the level of an NBA legend. You can sink three-pointers from absurd ranges and weave through defenders like they are standing still.
 494. Baton Proficiency,1.7
@@ -898,8 +866,6 @@
 #You are a master of bikes of every variety, from man-powered cycles to heavy motorcycles. You can weave through traffic, scale stairs, drift around corners and pull off stunts that would kill most riders.
 509. Binding Arts,4.7
 #You have trained in the Binding Arts, a specialized system of techniques built around restrictive power. Through physical movements and harnessed energies you can bind anything from mortals to spirits to gods, though your reach is limited by your knowledge.
-510. Binding Combat,4.1
-#You have integrated binding techniques into your fighting style, allowing you to halt and capture opponents mid-exchange while disrupting their abilities. Finding an opening to apply the bind in a real fight is the hard part.
 512. Bio-Energy Arts,4.8
 #You have been trained in the Bio-Energy Arts, the disciplined techniques that let a practitioner harness the chemical, electrical, thermal and particle energies present in all life. Through breath, posture and exercise you can call upon your inner reserves to perform feats that look outright supernatural to the untrained.
 515. Bio-Technology,5.7
@@ -944,8 +910,6 @@
 #Berserk - You are a master of wielding blessed blades, your swordsmanship channels the power of the holy weapon as naturally as breathing. The bond between you and any sanctified sword is instinctive, granting access to the blade's full repertoire of blessed abilities. Powerful curses may still overwhelm you.
 540. Blessing Arts,5.5
 #You have mastered the Blessing Arts, a specialized system for creating and casting positive supernatural effects. You can bless allies with enhancements, environments with protection, and even inflict offensive blessings on enemies. Lacking proper knowledge can backfire dangerously, and curse manipulation is your natural counter.
-542. Blood Defense,3.6
-#You possess defensive skills empowered by blood, allowing you to block, parry and dodge attacks with supernatural reflexes drawn from blood-based energy. Overdrawing in a single fight risks exhausting you or wounding yourself.
 543. Blood Science,4.7
 #You are a master of blood science, an esoteric and dangerous discipline that treats blood as the ultimate experimental medium. Different blood types yield different formulas, and through it you can unlock blood-based abilities, brew strange concoctions, and uncover truths hidden in a person's veins. Tends to corrupt the practitioner over time.
 547. Bloodlust Suppression,2.7
@@ -990,8 +954,6 @@
 #You are a master of bomb disposal, possessing the knowledge, steady hands and intuitive grasp of explosives needed to defuse almost any device. From IEDs to military ordnance, you can identify triggers, cut the right wire and walk away clean. Complex or unfamiliar bombs still take time to work through.
 574. Bone Arts,4.6
 #You have trained in the Bone Arts, a specialized combat and cultivation system built entirely around the manipulation of bone. You can unleash offensive bone techniques, raise osseous defenses, and perform supportive rituals, but improper use of the deeper techniques risks being overwhelmed or even possessed by the arts themselves.
-575. Bone Defense,3.4
-#You are trained in using bones as the core of your defensive style, blocking, parrying and deflecting with osseous reinforcements. Whether drawing from your own skeleton or external sources, you turn bone into shields, braces and guard structures on the fly.
 577. Book Proficiency,0.8
 #You know how to wield a book as a makeshift weapon, and a thick enough one even doubles as a shield. Still vulnerable to fire and blades like any other book.
 578. Boomerang Arts,4.2
@@ -1004,8 +966,6 @@
 #You are a master botanist with an intuitive rapport with plants, fungi, algae, and even bacteria. You understand their growth, reproduction, and behavior on a near-spiritual level, and this connection lets you coax results out of them no trained scientist could match.
 583. Bottle Proficiency,1.5
 #You are a master of wielding bottles as weapons, whether full, empty, or freshly broken. Bottles do tend to shatter with use, so keep a bar nearby.
-584. Bouncing Combat,2.9
-#You infuse your fighting style with bouncing, weaving rebounds and ricochets into strikes to create a wildly unpredictable combat flow. Just don't expect to always control which direction you bounce off to.
 585. Bow Arts,4.8
 #You have trained in the Bow Arts, a supernatural discipline built around bows, crossbows, and the concept of the arrow itself. Practitioners can perform impossible feats with their shots, curving arrows through mazes, loosing volleys that split mid-air, or firing techniques that pierce through entire armies. Lack of proper knowledge in the forms can lead to backlash or power loss.
 586. Bow Combat,3.8
@@ -1056,10 +1016,6 @@
 #You have mastered the Bubble Arts, a specialized martial system built around the cultivation and manipulation of bubbles. You can wield bubbles offensively, defensively and even to heal, shaping foam and film into whatever the moment calls for.
 609. Bubble Blowing Mastery,0.6
 #You are a master of blowing bubbles, capable of producing shapes, sizes and formations no ordinary person ever could. Great for entertaining children, not much else. You still need soap and a wand.
-610. Bubble Combat,3.9
-#You can combine bubbles and foam seamlessly with your physical combat style, granting you extreme maneuverability and bubble-based attacks woven into every strike. Your durability needs to be high enough for the bubbles to actually hold up mid-fight.
-611. Bubble Defense,2.8
-#Your defensive instincts are supernaturally augmented when bubbles are involved, letting you block, parry and dodge using them as a medium. Without a source of bubbles nearby, the power is nearly useless.
 612. Bubble Science,4.1
 #(Tech) You can use different formulas to create and weaponize bubbles as a form of super science, producing compounds and devices that deliver bubble-based effects to almost any purpose. Unlike Bubble Manipulation, this relies strictly on scientific reasoning and crafted equipment.
 613. Bubble Wand Proficiency,1.1
@@ -1170,16 +1126,12 @@
 #You are able to wield your nails, claws, hooves or talons with deadly precision in physical combat, slashing and slicing opponents or trampling them beneath your hooves. Claws may wear down or break during prolonged fights against armored or exceptionally tough foes.
 678. Chemical Arts,5.2
 #You wield the Chemical Arts, a specialized martial system built around the manipulation of chemistry, chemical reactions and chemical energy. You can use it offensively, defensively or to heal, blending alchemy and combat into a devastating fighting style. Improper knowledge can lead to power loss or dangerous side effects.
-680. Chemistry Combat,4.3
-#You have mastered a form of combat that weaves chemical substances into physical fighting, using reagents, vials and reactions as extensions of your martial style. Every strike can carry a different chemical effect, turning a brawl into an unpredictable laboratory.
 681. Chemistry Mastery,3.8
 #You are a master of chemistry, with an intuitive and profound grasp of elements, compounds, reactions and energy dynamics. Formulas come to you as naturally as breathing, and you can identify, synthesize or counteract substances that would stump entire research teams.
 682. Chess Mastery,3.2
 #You are a master of chess, either through innate talent or rigorous training. Grandmasters look like children next to you, and you can see dozens of moves ahead as naturally as breathing. The strategic mindset carries over into any situation resembling a board.
 683. Chi Arts,5.2
 #You are a practitioner of the chi arts, the ancient discipline of harnessing the life energy present in all things. Through rigorous physical and mental training you can awaken superhuman strength, speed, durability and reflexes, and at higher levels unleash elemental blasts and healing techniques. A lifetime of mastery compressed into muscle memory.
-684. Chi Combat,3.8
-#You have trained your body and chi in unison, allowing you to weave raw life-force into your strikes, blocks, and movements. Every punch hits like a truck, every block tanks like a wall, and your fighting style becomes as much about energy flow as it is about technique.
 686. Chi Mastery,5.8
 #You are a true master of chi, able to perceive and understand it like no other and learn virtually any chi-based application with ease. Even with a below-superhuman body you can perform feats that defy ordinary limits, survive wounds that would kill anyone else, and cripple enemies by striking the paths their life-force flows through.
 687. Chi Sword Proficiency,5.0
@@ -1232,8 +1184,6 @@
 #You are a practitioner of the Cloth Arts, a martial discipline built around the manipulation of cloth and textiles. Whether drawn from your surroundings or produced from your own body, cloth becomes a weapon, armor, and extension of your techniques. Masters can weave defensive cocoons, razor ribbons and body modifications from the same scrap of fabric.
 716. Clown Arts,4.4
 #You are versed in the Clown Arts, a specialised system of techniques drawing power from the unique place clowns hold in the collective unconscious. From jesters to mimes to rodeo wranglers, each archetype grants its own buffoonish techniques that blur the line between entertainment and battle.
-717. Clown Combat,4.1
-#Allows you to infuse clown skills with physical combat, weaving acrobatic feats, comedy routines, props and foolish behaviour into your fighting style. The sheer unpredictability of your techniques makes you shockingly dangerous, as long as your opponent is not a Clown Slayer.
 718. Clown Weaponry,3.8
 #You wield objects and paraphernalia associated with clowns and carnivals as lethal weapons, from hoops and juggling pins to balloons, ribbons, throwing knives and playing cards. In your hands, even a gag flower becomes a genuine threat.
 719. Club Proficiency,2.6
@@ -1282,12 +1232,8 @@
 #You have peak human skill in hiding your presence, evading detection and getting the drop on unaware opponents. Advanced thermal, x-ray and vibration-based systems can still pick you up.
 744. Conceptual Arts,7.6
 #You are trained in the Conceptual Arts, a disciplined system of techniques for wielding conceptual power. Through practice you can manifest abilities ranging from physical enhancement and supernatural attacks to full-blown reality manipulation, all channelled through the concept you have affinity with. Lack of knowledge can lead to catastrophic backlash.
-746. Concrete Combat,3.1
-#You are trained in a martial art that incorporates concrete into physical combat. You can coat your fists, feet and body in concrete for devastating strikes, shift concrete beneath your opponent to unbalance them, or hurl chunks telekinetically mid-combo. Requires a source of concrete nearby to be fully effective.
 747. Conditional Arts,4.6
 #You practice a contingent system of techniques, each tied to a specific rule, object, proximity, or contract. Obey the conditions and you can pull off supernatural feats far beyond your actual power level. Break a rule mid-technique and the backlash can be severe.
-748. Conditional Combat,3.6
-#Your fighting prowess only activates under specific circumstances, rules, or contracts. When the conditions are right, you fight like a veteran several tiers above your station. Outside of those moments you rely on whatever skill you trained the normal way.
 749. Conducting Mastery,2.6
 #You are a master of conducting, capable of directing an orchestra or choir with total authority over tempo, dynamics, and feel. Musicians under your baton play beyond their usual skill, and a good performance under you becomes a great one.
 750. Confectionery Mastery,2.8
@@ -1296,12 +1242,8 @@
 #You are a practitioner of the Consciousness Arts, a system of techniques built around shifting between states of mind - wakefulness, sleep, meditation, hypnosis, trance, intoxication and more. Each state unlocks different insights and capabilities, and a master can slip between them like changing clothes.
 752. Consciousness State Combat,4.7
 #You have learned to fuse physical combat with specific states of consciousness, fighting while in berserk rage, drunken stupor, meditative calm, or even fast asleep. Each state grants different strengths and quirks, and a skilled practitioner can shift between them mid-fight, though losing control in the wrong state is its own danger.
-753. Consciousness State Defense,4.3
-#You possess defensive techniques powered by states of consciousness, letting you block, parry, dodge and deflect through the strength of your mental state. A meditative trance turns incoming blows aside, a drunken sway makes you impossible to predict, a sleeping guard shrugs off strikes unconsciously.
 754. Conservation Mastery,2.6
 #You possess the full expertise of a veteran park ranger, gamekeeper or conservation officer. You understand ecosystems, track wildlife effortlessly, manage habitats, handle poachers, and know the law inside and out. Most useful in the wilderness or when nature itself needs defending.
-755. Construct Combat,4.6
-#You have mastered the art of weaving construct creation directly into your physical combat style, summoning weapons, shields and platforms mid-swing to supplement every move. Requires you already possess some form of Construct Creation, and durability depends entirely on your concentration and willpower.
 756. Construction Mastery,3.2
 #You are a master of construction, capable of building and rebuilding structures ranging from timber bridges to skyscrapers with ease. Give you the materials and time and you could raise a town from nothing.
 757. Construction Tool Proficiency,2.3
@@ -1320,8 +1262,6 @@
 #You can navigate any conversation with flawless precision, instinctively selecting the exact words, tone and emotional weight needed to produce the desired effect. You intuit the speaker's fears, desires and unspoken intent, turning suspicion into trust and hostility into allegiance with frightening ease. Does not work on mindless beings like corpses, robots or the truly insane.
 769. Cooperation Mastery,3.8
 #You are the ultimate team player. No matter how different your allies are, no matter how much you dislike them or disagree with their views, you automatically fall into perfect coordination with them. Your timing, technique and contribution to any joint effort is always flawless, making you the keystone of any group you join.
-770. Coral Combat,3.1
-#You are trained in a combat style that incorporates coral, whether by forming it into weapons mid-fight, reinforcing your strikes with it, or using it to trap and impale opponents. Pairs well with any coral generation ability.
 771. Corkscrew Proficiency,1.1
 #You are an expert in using corkscrews as makeshift weapons in combat. You know just where to twist them in, and can open a bottle of wine with terrifying flair.
 772. Corruption Arts,5.8
@@ -1392,20 +1332,12 @@
 #You are a master of dambe, the martial art of the Hausa people. Your strong-side fist is the spear, wrapped in knotted cord and devastating in close quarters, while your open-palm shield hand grabs and controls, and your chain-wrapped lead leg strikes with brutal efficiency on both offense and defense.
 822. Dance Combat,4.5
 #You have integrated the art of dance into your combat style, each movement flowing seamlessly into the next with the grace of a dancer and the lethality of a martial artist. Your footwork is impossibly light, your strikes unpredictable, and you weave through attacks as if they were choreography only you know.
-824. Dark Matter Arts,5.3
-#You are trained in a specialized martial discipline built around the cultivation and channeling of dark matter. You can wield it offensively, defensively, or even to heal through focused techniques. Lack of proper knowledge of the deeper forms may cause your power to slip or misfire dangerously.
 828. Dark Science,5.4
 #You have mastered the malefic branches of science the ethics boards scream about. Reanimating corpses, stitching life from offcuts, weaponizing biology, unnatural chemistry, you know how to do it and how to do it well. Prolonged practice tends to erode empathy and push the user toward cold cruelty.
-829. Darkness Arts,5.3
-#You have been trained in the Darkness Arts, a specialized system of techniques for the cultivation and manipulation of umbrakinetic power. You can apply them to offense, defense, and even healing, wielding shadow as a disciplined martial discipline rather than raw elemental dump.
 831. Darts Mastery,1.4
 #You have a master's eye for the bullseye and a rock-steady grip on the dart. You will dominate any pub game and could go pro with minimal additional training, but the applications outside of dart throwing are slim.
-832. Day of the Dead Arts,4.7
-#You have mastered a specialized system of techniques based around the phenomenon of Day of the Dead. You can cultivate and wield various aspects of the holiday offensively, defensively, and even to heal, calling upon marigolds, sugar skulls, and the spirits of the returning dead. Your power peaks during the holiday itself.
 833. De-Extinction,4.1
 #You have the scientific knowledge to reverse the extinction of species, using cloning, selective breeding, and genetic alteration to bring back creatures long gone. The results are rarely perfect, however, and the resurrected species are usually hybrids or altered versions of the original. Requires some genetic material from the source species to work at all.
-835. Death-Force Arts,5.5
-#You have trained in the Death-Force Arts, a specialized system of techniques built around channeling necrotic energy. Through this discipline you gain supernatural skills tied to decay, the dead, and the realms beyond life, with your prowess scaling directly with your overall mastery of death-force. Lack of proper knowledge can cause your techniques to backfire dangerously.
 839. Decapitation,3.5
 #You possess the lethal skill to decapitate opponents with a single decisive strike, usually with a blade but potentially with your bare hands given enough strength. Useless against cutting immunity, invulnerability or anyone who can survive without a head.
 840. Deception Mastery,4.5
@@ -1428,8 +1360,6 @@
 #You are a master of degustation, able to sample, compare and evaluate any food or drink with incredible precision. You can pick out individual ingredients, detect poisons, and identify the origin of a dish with a single taste. Useless if you suffer from a tasting deficiency.
 850. Delivery Mastery,2.3
 #You are an unparalleled master of getting things from point A to point B. Whether by road, sea, air, or sneakier means, you know the fastest routes, the best methods, and how to ensure your package arrives intact. Smuggling counts too.
-851. Demonic Arts,5.0
-#You are trained in the Demonic Arts, a specialized system of techniques channeling infernal essence and summoning diabolical entities. You can conjure hellfire, enhance your body with demonic power, and access infernal materials. Lacking knowledge of what you invoke may get you corrupted or possessed.
 854. Demonic Knife Proficiency,3.8
 #You are highly skilled with knives and daggers forged from or infused with demonic energy. The power does not extend to larger blades - a longsword in your hands is just a longsword - but in close quarters with the right blade you are something nightmarish.
 855. Demonic Polearm Proficiency,4.2
@@ -1442,32 +1372,22 @@
 #You are skilled at fighting using your teeth, biting and mauling opponents with trained precision. Hope you have a good dentist, because teeth tend to break against armored foes and reinforced skin.
 860. Dentistry Mastery,2.1
 #You are a master of dentistry, capable of treating, repairing and maintaining teeth for your own species or others. You cannot heal mouth wounds directly, but there is no cavity, abscess or crooked jaw you cannot fix with time and the right tools.
-863. Destruction Arts,5.7
-#You are trained in the Destruction Arts, a specialized system of techniques that channel the primal concept of annihilation. Through practiced forms and katas you can eradicate matter, essence and form, your skill determining just how much you can unmake. Lack of proper knowledge risks power loss or catastrophic backlash.
 864. Destruction Mastery,3.3
 #You are a master of demolition and deconstruction, able to efficiently bring down buildings, ships, bridges, and concrete formworks with precise knowledge of where to strike. Less of a supernatural power and more of expert craftsmanship in the art of breaking things.
 869. Dice Game Mastery,3.8
 #You are the ultimate dice game player, playing every game involving dice with automatic perfect skill, technique and timing. From craps to backgammon to any obscure tavern gamble, you dominate the competition through an unearthly sense of the dice themselves and the flow of chance around the table.
 871. Dice Proficiency,2.6
 #You are a master of wielding dice as weapons, whether flicking them like bullets, palming them in melee, or loading them with enough spin to crack bone. Your dice can still be broken, so keep a set of good ones.
-872. Digital Arts,4.5
-#You are trained in the Digital Arts, a specialized system of techniques built around the manipulation of data and digital information. Your techniques can be negated by Data Erasure or Digital Negation, and improper practice may leave you overwhelmed or possessed by corrupted data.
 875. Dim Mak Mastery,5.2
 #You are a master of the Death Touch, capable of killing, crippling, or damaging targets by striking their pressure points with seemingly gentle force. A single tap to the right spot can stop a heart, paralyze a limb, or delay a kill by hours. Against supernaturally durable targets you may need more energy and precision to land an effective strike.
-877. Dimensional Arts,5.8
-#You are trained in the Dimensional Arts, a specialized system of techniques drawing on dimensional power. You can open portals, teleport across short distances, manipulate exotic dimensional matter and energy, and link spaces together. Depth and variety depend on how deep your training runs, and poor knowledge can backfire badly.
 880. Disarming Mastery,4.5
 #You are a master of disarming techniques, able to strip weapons from armed opponents using only your bare hands or their own weapons against them. Attacks aimed at you are almost automatically redirected into a disarm, though concealed weapons and innate natural weaponry remain a problem.
 881. Disco Mastery,2.1
 #You are a master of disco, the dance and the subculture. You can pull off the Bump, the Penguin, the Boogaloo, the Watergate and the Robot flawlessly, and you freestyle with the best of them. At the very least, you'll never embarrass yourself on a dance floor again.
-882. Disease Arts,4.7
-#You have been trained in the Disease Arts, a specialized martial system built around the cultivation and manipulation of pathogens. Attacks, defenses, and self-enhancement are all filtered through the lens of disease, making every strike a potential infection vector. Lack of proper knowledge can lead to losing control of your own techniques.
 884. Disguise Mastery,3.3
 #You are a master of disguise, able to conceal your identity and alter your physical appearance using makeup, props, posture and voice work to avoid identification. With enough preparation you can pass as almost anyone, though wearing too many faces for too long may cause the personas to bleed into your own personality.
 885. Displaced Space Maneuvering,2.7
 #You can move with perfect coordination through spaces that are rotating, tilting or otherwise in motion around you. Fighting inside a spinning room, running across a collapsing bridge, or navigating a tumbling spaceship is no different to you than walking down a hallway.
-886. Distortion Arts,6.2
-#You are trained in the Distortion Arts, a specialized system of contortive techniques that warp targets out of their original form or state-of-being. With proper training you can twist matter, senses, thoughts, and even space, time and the fabric of reality itself. Lack of proper knowledge risks dangerous backlash.
 888. Divination,4.9
 #You are practiced in divination, the occult art of reading the past, present and future through standardized rituals and patterns. You can commune with gods, spirits and demons, interpret dreams, uncover forgotten secrets and foretell future events, though it is useless against those with Psychic Shield or Precognitive Immunity.
 889. Divine Arts,6.7
@@ -1720,10 +1640,6 @@
 #Naruto - You have trained in ninjutsu combined with elemental release, allowing you to weave hand seals to produce elemental techniques for combat, stealth, and espionage. From fireballs to water dragons to earth walls, your shinobi arsenal is defined by your nature affinity and training.
 1042. Elemental Object Arts,4.6
 #You have trained in the specialized techniques of wielding elemental objects - accessories, weapons, tools, or apparel imbued with elemental power. Whether divine, demonic, or natural in origin, you know how to draw out their abilities and avoid the dangerous backlash that comes with misuse.
-1043. Elemental Object Combat,4.2
-#You are skilled at wielding elemental objects in physical combat, blending martial arts with the offensive and defensive capabilities of your chosen item. A fan of wind blades, gauntlets of living stone, a whip of fire - each object becomes an extension of your fighting style.
-1044. Elemental Object Defense,3.8
-#You are highly skilled at using elemental objects to block, parry, deflect and dodge incoming attacks. Your defensive instincts are sharpened when a weapon or construct of your affinity is in your hands.
 1045. Elemental Polearm Proficiency,3.8
 #You are a master of wielding elemental polearms, moving with the haft as though it were an extension of your body. The element the polearm embodies unlocks a variety of combat applications, both offensive and defensive.
 1046. Elemental Scythe Proficiency,3.9
@@ -1882,8 +1798,6 @@
 #You possess deep knowledge and proficiency with explosive arrows, knowing exactly how to nock, loose and time them for maximum effect. Every shot is calculated for blast radius, fuse timing and trajectory, and you rarely waste a quiver.
 1154. Explosive Boomerang Proficiency,2.6
 #You are an expert at throwing boomerangs that detonate on impact, able to arc them around cover for surprise blasts or chain multiple detonations with a single throw. Even on a return trip a missed boomerang can still take out whatever is standing behind you.
-1155. Explosive Combat,4.2
-#You have trained your body to weave explosions into every punch, kick, block, and step. Every strike detonates on contact and every dodge is a blast step, though friendly fire is a constant risk in close quarters.
 1157. Explosive Gauntlet Proficiency,3.3
 #You have natural aptitude for wielding gauntlets designed to generate explosions, whether magical or technological in origin. Larger gauntlets may be unwieldy and you are locked into close-range combat.
 1158. Explosive Polearm Proficiency,4.2
@@ -2026,14 +1940,10 @@
 #You are a master of wielding gambling equipment as weapons. Playing cards become razor shuriken in your hands, dice become knuckle-duster projectiles, roulette wheels become bladed discs. Anything from the casino floor is fair game.
 1265. Enhanced Gambling Mastery,3.2
 #You gamble at a master level, with a natural instinct for reading the table, the odds, and your opponents. Card counting, tells, bluffs, bankroll management, it all comes easily to you. You are the person casinos politely ask to leave.
-1266. Supernatural Gambling Mastery,5.4
-#You can gamble beyond normal limitations, your skill crossing into the supernatural. In addition to being a master of every conventional game of chance, you can wager on abstract things, luck itself, future events, promises, memories, as long as both parties agree to the stakes.
 1267. Gambling Mastery,3.0
 #You are a master gambler, skilled in every form of wagering from dice to cards to sports betting. You have a strong grasp of odds, risk management and reading your opponents, but you still need actual money to bet and you can still lose it.
 1268. Game Arts,5.2
 #You wield the Game Arts, a specialised system of supernatural techniques built around the principle of play. By framing a conflict as a game, whether chess, a sport, or a children's playground contest, you can channel recreational power into real effects. Requires knowledge of the game's rules to be effective, and losing the game has real consequences.
-1270. Game Defense,4.3
-#Your defensive skill is enhanced by the power of games. You can block, parry, dodge and deflect with recreational flair, treating incoming attacks like moves in a match you fully intend to win. Runs on stamina, so don't expect to tank a siege.
 1271. Game Mastery,4.2
 #You are a Master of Games, with a strategist's mind, an intuitive grasp of any game's rules, and the ability to rapidly reach grandmaster level in anything you pick up. You rarely need to cheat but always know how, and you spot others cheating instantly. In a video game tournament you are functionally unbeatable.
 1272. Game Show Mastery,2.1
@@ -2208,8 +2118,6 @@
 #You are a master of haggling and bargaining. Vendors find themselves slashing prices they never intended to lower, and you can sniff out the true value of any good at a glance.
 1373. Hair Arts,4.5
 #You are trained in the Hair Arts, a specialised martial system built around comakinetic power. Your techniques include hair-based attacks, hair defences and shaped hair constructs, allowing you to weaponise every strand at your command.
-1374. Hair Combat,3.8
-#You are trained in hair-based combat, weaving your strands into weapons, tools and defensive wraps mid-fight while also grappling your enemy's own hair against them. Fragile to fire and cutting, and a bad haircut ends the fight.
 1375. Hairdressing Mastery,2.1
 #You are an innate master of hairdressing, capable of cutting, colouring, styling, and treating hair to perfection. No matter the texture, length, or type, you know exactly how to make it look its absolute best, and clients will line up for your work.
 1376. Halberd Proficiency,3.4
@@ -2254,8 +2162,6 @@
 #You are a master of using hats as weapons. Whether it is a razor-brimmed bowler thrown like a discus or a helmet swung like a club, any piece of headwear becomes lethal in your hands.
 1397. Healing Arts,5.0
 #You have mastered the Healing Arts, a specialized system of supernatural medicine combining deep anatomical knowledge with restorative energy. At high levels you can heal nearly any ailment or injury, speed recovery to impossible rates, and even grant new abilities to those you treat.
-1402. Heat Arts,4.6
-#You are trained in the Heat Arts, a specialized martial system built around calokinetic power. By manipulating the kinetic energy in particles, you can unleash supernatural techniques ranging from thermal strikes to environmental effects. Mastery requires proper instruction, as improper technique can cause the heat to overwhelm you.
 1405. Heat Pulse,2.6
 #By sending a pulse of heat into matter and reading how it returns, you can learn the internal composition, structure and density of whatever you scan. Works best on inorganic objects, organic matter throws off conflicting heat signatures.
 1410. Heliomancy,4.1
@@ -2410,8 +2316,6 @@
 #You are the ultimate master of jewelry design and crafting. Any gemstone or precious metal you touch can be shaped into a work of art with perfect skill, technique and timing. With the right materials you could craft pieces fit for kings and gods alike.
 1546. Jian Arts,5.4
 #You are a practitioner of the supernatural Jian Arts, a specialized system of blade techniques. At low levels you can cut steel like paper, at high levels you can slice the heavens themselves with a tree branch, as long as you hold it like a sword.
-1547. Jian Combat,4.6
-#You can seamlessly infuse your mastery over jians with your physical combat, making every strike, footwork and deflection flow into the motion of the blade. Countless Blade Style, a thousand cuts hidden in every gesture.
 1548. Jian Proficiency Supernatural,5.8
 #Your skill with a jian is supernatural, allowing you to cut through intangible or nigh invulnerable targets, deflect what should be undeflectable and slash enemies from any distance. You can even wield Empathic and Bound blades that would reject lesser swordsmen.
 1549. Jian Proficiency,4.0
@@ -2422,14 +2326,10 @@
 #You have true mastery of Judaism in all its depth — the Torah, the Talmud, halakha, and the mystical traditions of Kabbalah. You can speak with divine authority, invoke the covenant, and understand the hidden meanings behind every letter of scripture. A sage of the Abrahamic tradition.
 1552. Judo Mastery,3.0
 #You have complete mastery of judo, the Japanese art of throws and ground control. You can redirect any opponent's force against them, throwing much larger enemies with minimal effort, and lock them down with near-inescapable holds once on the ground.
-1553. Juggling Combat,2.4
-#You can use juggling as a form of combat, weaving thrown objects in continuous deadly arcs around yourself and your enemies. Balls, knives, torches, grenades — anything you can keep in the air becomes a weapon in flight.
 1554. Juggling Mastery,2.1
 #You are a master juggler, capable of keeping an absurd number of objects in the air no matter their size or shape. You can infuse this with combat for unpredictable strikes and distractions, making you a surprisingly dangerous opponent.
 1555. Jujutsu Mastery,3.8
 #You are a master of jujutsu, the Japanese art of turning an opponent's force against them. You can subdue armed and armored foes with nothing but your bare hands, redirecting momentum and applying joint locks with effortless precision.
-1556. Jump Combat,2.7
-#You have mastered the art of infusing jumping with physical combat, landing on opponents, leaping into the air, and using the momentum of your jumps to attack and defend. Efficiency scales with your skill.
 1557. Jump Pack Proficiency,2.9
 #Warhammer 40k - You are highly skilled with jump packs, able to leap into groups of enemies to crush them, retreat from a lost battle in a single bound, or re-engage the fray in seconds. Watch your fuel gauge or your landing may be fatal.
 1558. Jump Rope Proficiency,2.1
@@ -2450,8 +2350,6 @@
 #You are a karting prodigy, capable of drifting, overtaking and hugging racing lines like a seasoned pro. Hand you the wheel of a go-kart and you will embarrass anyone who isn't also gacha-blessed. Sadly does not transfer to actual cars.
 1566. Katana Arts,5.7
 #You are a practitioner of the supernatural Katana Arts, a discipline where each technique bends reality through the cut. Starting with basic iai draws and slashes, with mastery you can eventually cleave the heavens with a tree branch or sever intangible things like shadows and promises. Proper knowledge is critical, botching a technique can backfire badly.
-1567. Katana Combat,4.0
-#You seamlessly integrate katana techniques into your physical combat, flowing between draws, slashes, kicks and grapples as though the blade were another limb. Your footwork, breathing and cuts all form one unified martial expression.
 1568. Katar Proficiency,2.2
 #You are a master of the katar, the horizontal-handled punching blade. Your thrusts are precise and devastating, and you have an intuitive sense for the strange geometry of fighting with a weapon that extends from your fist rather than your hand.
 1569. Kemetism Mastery,4.6
@@ -2532,8 +2430,6 @@
 #You are a master of the laser whip, a high-tech weapon whose thong is made of stimulated-emission light. You can crack it with lethal accuracy at long range, cut through armor and disarm opponents, though you'll struggle up close and the weapon is far deadlier than a normal whip.
 1616. Lasso Proficiency,2.3
 #You are a master of the lasso, able to wield it with incredible range, accuracy and speed. You can bind opponents, yank weapons out of hands, snatch objects from a distance and swing from rooftops with cowboy flair. Close quarters are not your strong suit.
-1617. Lava Surfing Mastery,3.1
-#You are a master of surfing on lava, riding molten waves with physics no normal surfer could handle. Repeated exposure has also given you some natural resistance to the heat. A very specific skillset that only pays off near volcanoes.
 1620. Law Mastery,3.6
 #You are an intuitive master of legal systems, doctrines and loopholes. You instinctively know how to phrase a contract, argue a case, or craft legislation to bend any situation in your favor. In a courtroom you are nearly untouchable, and you could draft laws that make your enemies legally helpless given enough time.
 1621. Lawn Mower Proficiency,0.4
@@ -2570,8 +2466,6 @@
 #You are incredibly skilled with lighters, able to use them in ways no one else would think to. Still runs out of fuel like any other lighter.
 1646. Liminality Arts,5.7
 #You are trained in a specialized martial and mystical system built around liminal power - the threshold between phases, states, and places. You can draw strength from twilights, solstices, doorways, purgatories and rites of passage, turning in-between states into a weapon and a discipline.
-1647. Limit Mastery,4.7
-#You have an innate understanding of limits, in yourself, others, and objects. You can sense exactly where the maximum and minimum thresholds lie and intuitively know how to either break them or work within them to maximum effect.
 1648. Line Dancing Mastery,1.1
 #You are a master of line dancing, able to flawlessly follow and lead any choreographed line dance sequence. Boot scootin' boogie, electric slide, cha cha slide - you've got them all locked in.
 1649. Linguistics Mastery,3.0
@@ -2610,10 +2504,6 @@
 #You are a master of machine guns of all kinds, from belt-fed heavies to squad automatics. You can lay down sustained suppressive fire with impossible accuracy, manage recoil effortlessly, and reload at speeds that would make a drill instructor weep.
 1675. Magic Circle Combat,4.5
 #You are trained in the combat art of drawing magical circles mid-fight, each inscribed with runes and incantations that release arcane energies in different forms. The circles also protect you from demons and spirits within their boundary. If the circle is broken, its power ceases.
-1676. Magic Combat,4.4
-#You are skilled in infusing your physical attacks with raw magical energy, hexing opponents on contact, augmenting your strikes, and weaving spellwork into martial exchanges. The specific effect depends on the magic you use and can be affected by opposing magics.
-1677. Magic Defense,4.2
-#Your defensive skill is enhanced by magical power, letting you block, parry and dodge with spellwork rather than raw reinforcement. Unlike reinforcement magic which hardens things, this is pure defensive craft - the Defense Against the Dark Arts of the Chaos Gacha. Counterable by standard anti-magic.
 1678. Magic Mastery,5.7
 #You are a master of magic in all its myriad forms. Any spell, any school, any ritual you witness or study you can learn and perfect with outstanding ease, and your instinctive use of magic is always at peak timing and technique. Your understanding of magic is always growing, making you the ultimate magician given enough time.
 1679. Magic Ranged Weaponry,3.2
@@ -2636,8 +2526,6 @@
 #You are a master of stage magic and sleight of hand, capable of pulling off tricks and deceptions no non-magician could ever hope to see through. You can weave actual small-scale spells into your performances, turning a flashy show into a genuinely deadly one. Those with sharp perception powers may still catch on.
 1688. Magma Arts,4.5
 #Naruto - You are trained in the Magma Arts, a specialized system of techniques based on the cultivation and manipulation of molten earth. You can channel these techniques into combat strikes, defensive formations, and transmutative effects that reshape the battlefield.
-1689. Magma Combat,4.6
-#You are trained in combining molten rock with martial prowess, letting your punches, kicks and throws carry devastating heat damage alongside their physical force. Some techniques are slow due to magma's viscosity, but few things can tank a lava-infused haymaker.
 1690. Magnet Proficiency,1.9
 #You are an expert at using magnets as makeshift weapons in combat, whether horseshoe magnets, lodestones, or industrial electromagnets. A niche specialty but deceptively effective against the right opponent.
 1691. Magnetic Arts,4.2
@@ -2828,12 +2716,8 @@
 #(Tech) You practice a form of supernatural science treating the multiverse as a system of laws, constants and experiments. You can formulate equations that apply across realities, engineer outcomes across infinite possibilities, harness raw multiversal energy in controlled ways and alter the rules of multiple universes through careful structured observation and engineering.
 1830. Musical Arts,4.2
 #You have trained in the Musical Arts, a specialized system of techniques built around melodious power. Through instruments, voice, or even your own body you can channel songs that influence minds, stir souls, and produce subtle supernatural effects. Lacking proper knowledge of a technique can cause power loss or dangerous backfire.
-1831. Musical Mastery,5.0
-#You are a supernatural master of all forms of music and instruments. You immediately understand and master any instrument you pick up, can replicate any song heard or described with perfect pitch, and every performance of yours instantly hooks any listener as the very peak of music itself.
 1832. Musical Weapon Proficiency,4.3
 #You are a master of wielding musical weaponry, guitars that fire chords, flutes that slice, drums that shake the earth. You may also have a degree of natural sound-based ability complementing your instrument-wielding. A true one band army.
-1833. Supernatural Musicianship Mastery,5.4
-#You possess supernatural proficiency in musicianship, making you an immensely greater musician than any regular being in your verse. Your understanding of instruments, notes, and composition transcends mortal limits, and your performances carry a weight of power no ordinary musician could match.
 1834. Musicianship Mastery,3.0
 #You possess mastered skills in musicianship, whether playing instruments, composing, singing, dancing, or understanding rhythm and pitch. You're the kind of musician people drop their jaws at, but still firmly within the realm of human talent.
 1835. Mutagenetics Mastery,4.8
@@ -2950,8 +2834,6 @@
 #You can move easily and fluidly on surfaces off the ground, whether that be tree branches, poles, rooftops, or thin platforms. Your flow of movement is never interrupted by the uneven or unstable terrain, though a strong enough impact can still knock you off.
 1914. Ofuda Proficiency,3.8
 #You possess great skill and knowledge in wielding ofuda, the sacred talismans of Shinto and Daoist tradition. You know exactly which talisman to use for which situation, how to inscribe them properly, and how to activate them for maximum effect. In your hands a humble slip of paper becomes a potent instrument of warding, binding and blessing.
-1916. Oil Arts,4.7
-#You have trained in the Oil Arts, a specialized martial system built around petrokinetic power. You can wield oil offensively as whips, projectiles and slicks, defensively as barriers and cushions, and even medicinally to heal wounds. Fire and heat based powers are dangerous counters, and lack of proper knowledge in the art can cause backlash.
 1917. Old Maid Mastery,0.4
 #You are a master of Old Maid, the Victorian card game. You can read your opponents, palm cards flawlessly, and almost never end up holding the lone queen. A devastating skill if your entire enemy organization plays Old Maid.
 1921. Omni-Arts,7.8
@@ -2968,8 +2850,6 @@
 #You have mastered the art of opera, from bel canto to verismo. Your vocal control, breath support, and stage presence are those of a world-class performer, and you have encyclopaedic knowledge of the repertoire, libretti, and composers of the Western classical tradition. You could hold La Scala in the palm of your hand.
 1933. Orchestra Mastery,3.2
 #You are a master conductor and ensemble leader, able to organise dozens of instrumentalists into a single cohesive musical force. You understand every section intimately and can draw performances from an orchestra that move crowds to tears.
-1935. Ordered Arts,6.0
-#You have trained in the Ordered Arts, a specialized martial and metaphysical system built around the essence of order. Practitioners gain abilities ranging from physical enhancement and regeneration up to universal law alteration and nigh-omnipotence at the highest tiers. Requires proper knowledge to wield safely, and chaos-based arts directly counter it.
 1939. Organic Sword Proficiency,3.8
 #You are a master of wielding blades made from or infused with organic material, whether bone swords, wood katanas, or living vine-whips hardened into edges. The blade's effects shift with its composition, and some forms require extreme finesse to wield without cutting yourself.
 1940. Origami Mastery,2.6
@@ -2992,8 +2872,6 @@
 #You are a true master of palm reading, able to glean the past, present and future of anyone whose hand you examine, or discern the solution to their problems through the lines and mounts of their skin. Visions come through the palm, so if you can't see the hand, you see nothing.
 1953. Pankration Mastery,3.6
 #You are a master of pankration, the ancient Greek martial art combining boxing and wrestling with brutal holds, joint locks, chokes and strikes. A practitioner of pankration is essentially an MMA fighter from antiquity, ruthless and effective in any close quarters fight.
-1954. Paper Arts,4.2
-#You are trained in the Paper Arts, a specialized martial and mystical discipline built around papyrokinetic techniques. Your style covers offense, defense, and even healing, using paper as medium for everything from razor constructs to restorative wards. Lack of proper knowledge may limit what branches you can access.
 1955. Paper Proficiency,2.0
 #You are a master of wielding paper as a weapon, be it folded shuriken, flicked cards, or bare sheets turned into razor edges in your hand. Useless against fire and water, but in the right hands a single page becomes a lethal tool.
 1957. Parachronics Mastery,5.4
@@ -3002,10 +2880,6 @@
 #You are a master of handling all things paranormal and supernatural, whether it be monsters, ghosts, aliens, cursed sites or eldritch mysteries. You know how to detect, understand and combat the creatures of the night, from vampires to things that shouldn't have names.
 1959. Parapsychology Mastery,3.2
 #You are a master of parapsychology, the scientific study of paranormal phenomena like ESP, psychokinesis and the survival of consciousness after death. You can design rigorous experiments to detect and measure psychic activity, and your intuition for the paranormal is uncanny even without powers of your own.
-1960. Parasitic Arts,4.3
-#You have been trained in the Parasitic Arts, a supernatural discipline that channels parasitic essence to enhance the body and perform unique feats. Practitioners need not be parasites themselves, but improper technique can leave you overwhelmed or possessed by what you are trying to wield.
-1962. Parasol Combat,2.3
-#You can infuse your control over parasols into your physical fighting style, blending graceful spins, blocks and jabs into a combat art. Mary Poppins would approve.
 1963. Parasol Defense,1.8
 #You can use a parasol or umbrella for defense, blocking blows, catching projectiles and deflecting attacks with surprising effectiveness. The better the parasol, the better the defense.
 1964. Parasol Proficiency,2.2
@@ -3016,8 +2890,6 @@
 #You are highly proficient in parkour, the art of moving from point A to point B by the most direct route possible, vaulting, sliding, climbing and leaping over, under, through or across any obstacle in your path. You make shortcuts out of walls.
 1969. Parkour Mastery,3.8
 #You are a master of parkour at the peak of human capability. Any environment becomes a playground, you can vault, climb, roll and swing through complex terrain with fluid efficiency, taking the fastest route between any two points without assistive equipment. Your eye instinctively maps every ledge, rail, and gap into a viable path.
-1971. Particle Arts,5.8
-#You are trained in the Particle Arts, a supernatural martial system built around the cultivation and manipulation of particles such as molecules, atoms, electrons, photons and gravitons. You can channel this skillset offensively, defensively or even for healing, with techniques ranging from piercing particle strikes to atomic reinforcement of your own body.
 1974. Particle Physics Mastery,4.0
 #You are a master of particle physics, with deep knowledge of the elementary building blocks of matter and radiation and how they interact. You understand the nature of mass, energy and matter at a level that would make you welcome at any research lab, and you can intuit particle behavior the way others do arithmetic.
 1975. Party Mastery,2.2
@@ -3064,8 +2936,6 @@
 #You are a master of drums and all percussion instruments, from the full drum kit to bongos and tambourines. Your rhythm is impeccable and your solos are legendary.
 2008. Performance Art Mastery,3.5
 #You are a master of the performing arts, be it acting, singing, dancing or anything else that demands a stage. You can captivate an audience with ease, slip into any role convincingly, and carry a tune that can move people to tears. Some aspects may require specific training to truly shine.
-2009. Perfume Arts,4.2
-#A specialized martial art centered around the cultivation and manipulation of perfume and fragrance. You can manifest scents that soothe, seduce, intoxicate, or disorient, and with enough training weaponize fragrance into lingering clouds that coat targets and mark them across great distances. Lack of proper knowledge could backfire dangerously.
 2013. Personal Alternative Medicine,4.0
 #You possess your own personalized alternative medicine, a naturopathic practice of techniques, forces, or object-based rituals capable of curing and restoring others. With mastery, you can control the body in uniquely creative ways, potentially even using your practice to harm as well as heal. Certain conditions may lie outside your scope.
 2015. Pest Control Mastery,2.1
@@ -3100,8 +2970,6 @@
 #You are a practitioner of the Physical Arts, a supernatural discipline rooted in the body itself. You can increase, decrease, negate or transfer physical attributes like strength, speed and durability between yourself and others through your techniques. Requires proper knowledge to avoid dangerous feedback.
 2035. Physical Attack Reversal,4.6
 #You are a master of reversing physical attacks, turning your opponent's strength against them. The greater their power and skill, the more devastating your counter becomes. Special attacks and absolute attacks cannot be reversed, and failing a counter leaves you taking the full blow.
-2038. Physics Combat,5.2
-#You are skilled at combining physical combat with the branches of physics, from theoretical to quantum. Every strike carries the weight of an equation, every dodge an elegant use of vectors, and your creativity determines how devastating your technique can be. Weak against Physics Defiance.
 2039. Physics Mastery,3.3
 #You are a master of physics in all its branches, from classical mechanics and thermodynamics to electromagnetism and quantum theory. You can discern the structure of atoms, analyze the behavior of light and radiation, and understand nearly any physical phenomenon you observe.
 2040. Piano Combat,2.1
@@ -3184,10 +3052,6 @@
 #You have mastered the Potential Energy Arts, cultivating and channeling stored-up energy through a disciplined skillset that can be turned to attack, defence or healing. The power sleeps in every object until you call it awake.
 2104. Potion Arts,4.3
 #You are a practitioner of the Potion Arts, a specialized system of techniques built around supernaturally concocted mixtures. You can brew, prepare and deploy potions in all their forms, from drinkable liquids to pills, powders and even enchanted food, each made to serve a specific purpose ranging from healing and augmentation to intoxication and death.
-2105. Potion Combat,4.0
-#You have mastered the art of combining physical combat with magical concoctions, wielding potions as tools of war. You can quaff buffs mid-swing, hurl debilitating brews at enemies, and incorporate elixirs fluidly into your martial style without breaking rhythm.
-2106. Potion Defense,3.6
-#You possess defensive combat skills enhanced by magical concoctions, letting you block, parry, dodge and deflect with the aid of potions. Shielding brews, slipstream elixirs and reflexive draughts all blend into a fluid, potion-driven defense.
 2107. Potion Mastery,4.1
 #You have innate and highly-trained mastery over the brewing and invention of potions. Whether working with the finest ingredients or the most repugnant scraps, your intuition lets you produce astonishingly effective brews, and you can tackle even the most advanced recipes with ease.
 2108. Potion Proficiency,3.4
@@ -3228,16 +3092,12 @@
 #You can effortlessly adopt primal, feral stances like those of apes, big cats, or reptiles. Useful for intimidation, flexibility and adopting unorthodox martial styles, though on its own it's just body posture.
 2128. Primordial Arts,7.4
 #You are trained in the Primordial Arts, a specialized system of techniques built around channeling primeval power drawn from ancient deities, prehistoric energies, or the raw events of creation itself. Through proper discipline you can wield forces that would incinerate the uninitiated. Lack of knowledge leads to power loss or catastrophic backlash.
-2129. Primordial Force Combat,7.5
-#You have trained your physical combat around the use of primordial force, weaving primeval power into every strike, block and stance. At this level it is less about throwing energy and more about becoming a conduit for it in motion. Mishandling the primeval in close combat can still kill you.
 2130. Probability Arts,5.5
 #You have trained in the Probability Arts, a specialized system of techniques built around bending chance. You can nudge the odds of specific events, direct fortune or misfortune toward chosen targets, and weave probabilistic effects through your fighting style. Lack of knowledge can cause the arts to backfire.
 2131. Profession Mastery,4.0
 #You are a master of any profession you commit to, either innately or through training. You can achieve veteran-level competency in your chosen job in a fraction of the usual time, and your intuition for its demands and techniques far surpasses the average worker in that field.
 2132. Programmable Arts,5.7
 #You have mastered the Programmable Arts, a set of techniques that let you modify the inherent parameters of your own powers. Where most superpowers are locked in a set form, yours can be rewritten on the fly to suit whatever situation you are in, changing how they attack, defend, or interact with reality.
-2133. Programmable Combat,5.4
-#You can program your combat abilities with preset parameters before a fight. You input conditions like attack prediction, reactive counters, or weakness detection, and your body executes them reflexively in battle. Combat programs may only last for a limited duration or range before resetting.
 2134. Programming Mastery,4.2
 #You are the ultimate programmer. Any language, any paradigm, any stack, you grasp it instinctively and write flawless code at incredible speeds. You can debug by intuition, architect massive systems in your head, and reverse engineer software just by looking at it. Given enough time, there is no software problem you cannot solve.
 2135. Projectile Cutting,3.2
@@ -3258,8 +3118,6 @@
 #You wield psychology as a supernatural martial discipline, analyzing neurological patterns, cultural context and behavioral cues to rewire how people think and act. With enough mastery you can talk someone into a mental breakdown or out of a suicide attempt. Requires real knowledge to wield safely.
 2150. Psychological Combat,4.2
 #You fight with psychology as much as fists, breaking your opponents mentally mid-fight with subliminal cues, seduction, taunting and strategic mindgames. A master troll in combat form. Useless against the truly unpredictable or those with Psychic Shields.
-2151. Psychological Defense,4.0
-#You incorporate psychology into your defense, using manipulation, misdirection and emotional reads to dodge, parry and deflect. You don't block attacks so much as convince your opponent not to land them in the first place.
 2152. Psychological Mastery,5.5
 #You are a master psychologist, capable of reading anyone like an open book and wrapping them around your finger within moments through body language, tone and deceptive tactics. You can forge fanatical loyalty or shatter a person's sense of self with a conversation. Doesn't work on the truly indomitable.
 2153. Peak Human Punch,2.0
@@ -3398,8 +3256,6 @@
 #You are a master of the revolver, able to fire with pin-point accuracy and even wield multiple at once in a flurry of precise shots. Your reload is faster than most people can draw, and you can pull off trick shots that modern shooters would consider impossible. Still limited by outdated ammo capacity.
 2236. Rhetoric Mastery,4.6
 #You are a master of rhetoric and eloquence, capable of articulating, explaining, persuading and manipulating anyone with flawless precision. Given enough time you could change anyone's views on any subject, and in a crowd you are a spark that can start revolutions. Doesn't work on those with Indomitable Will far beyond your own.
-2237. Rhythm Combat,3.5
-#You fight to the beat, every strike, dodge and step synchronized to an underlying rhythm that massively amplifies your combat effectiveness. As long as you can hear or feel a rhythm, whether music, a heartbeat or even the drumming of rain, you move with supernatural coordination and power.
 2238. Ribbon Stick Proficiency,2.8
 #You are a master of the ribbon stick, able to use its flowing motion to confuse opponents, obscure your movements and guide their attacks astray. Combined with acrobatic skills it becomes a surprisingly effective combat tool, particularly for controlling a battlefield.
 2239. Riddle Mastery,3.9
@@ -3432,8 +3288,6 @@
 #You are a master of rodeo, able to ride bucking broncos, rope steers and wrangle livestock with peerless cowboy skill. Comes with a natural feel for horses and cattle. Yeehaw.
 2257. Roller Skating Mastery,1.6
 #You are a master of roller skating, capable of pulling off jaw-dropping tricks, speed-skating routines, and using skates as a graceful and efficient method of transportation. Requires skates to actually use.
-2258. Rolling Combat,2.6
-#You are able to fight entirely through rolling and tucking into a ball, using the momentum of your body to both attack and defend. You can ricochet off walls, crush enemies underfoot, and dodge incoming blows by simply rolling out of the way.
 2259. Rolling Pin Proficiency,1.1
 #You are a master of the humble rolling pin, whether for baking the finest pastries or caving in the skull of an intruder who thought the kitchen was a safe place to corner you.
 2260. Rope Proficiency,2.9
@@ -3498,8 +3352,6 @@
 #You have intuitive mastery over scheming, conspiracies and plots. You can instantly understand the mechanics of any plot laid before you and formulate underhanded plans that leave no trace, giving you enormous leverage in any political or social situation.
 2294. School Weaponry Proficiency,2.4
 #You are a master of wielding school utilities as weapons, turning rulers, pencils, scissors and pens into lethal tools. Your pencils fly like bullets and your scissors cut tendons, though you are much stronger on offense than defense.
-2295. Science Combat,4.8
-#You fight using science as an integrated part of your combat style, weaving physics, chemistry and biology into every strike. Requires quick calculation on the fly and lower-level users remain bound by the physical laws of their universe, but at its peak your fists rewrite matter itself.
 2296. Science Mastery,5.4
 #You are a master of science and all its fields, possessing intuitive polymathic understanding of every discipline from biology to quantum physics. You can conduct experiments, run calculations, and innovate inventions at a level that would leave normal scientists speechless. Given time and resources, mass production and new sciences are trivial to you.
 2297. Science-Magic Mastery,5.8
@@ -3508,16 +3360,12 @@
 #You practice the Scientific Arts, a specialised system of combat and utility techniques rooted in scientific disciplines. You can channel chemistry into strikes, mathematics into evasion, and biology into healing, turning experimentation itself into a martial practice. Lack of knowledge can cause your techniques to backfire dangerously.
 2300. Scissor Arts,4.6
 #You are a practitioner of the Scissor Arts, a supernatural discipline of techniques built around scissor-based power. With enough mastery you can perform feats ranging from simple snips to slicing the heavens in half with a mere tree branch.
-2301. Scissor Combat,3.4
-#Also known as Countless Scissor Style, this lets you infuse your control over scissors directly into your physical combat, turning every step and strike into a flurry of snipping blades.
 2302. Scissors Proficiency,3.3
 #You wield scissors as a melee weapon with supernatural accuracy and mastery, as deadly as any swordsman with a blade. You can slice steel, deflect projectiles, and even disconnect the scissors at the joint to dual-wield them as twin blades.
 2303. Scooter Mastery,1.4
 #You are a master of riding scooters, manual and electric alike. Every curb is a ramp, every hill is a race, and nobody is beating you in a Lime-rental drift contest.
 2304. Screw Proficiency,2.3
 #You are a master of wielding screws and bolts as weapons, turning humble hardware into deadly projectiles and melee tools with supernatural accuracy.
-2305. Scroll Combat,3.2
-#You infuse your control over scrolls with your physical combat, whipping them out as whips, shields, binding ropes, or unrolling them at high speeds to slash and bind opponents. Volumenkinetic Combat in the fancy name.
 2306. Scroll Proficiency,2.4
 #You are a master at wielding scrolls as weapons, whether as whips, shields, or bludgeons. Scrolls are still made of paper though, so expect them to burn and tear if you are reckless.
 2307. Sculpting Mastery,3.5
@@ -3526,14 +3374,10 @@
 #You are a master of the scythe, a weapon most warriors find clumsy and unwieldy. The heavy curved blade feels weightless in your hands, and you can reap enemies as effortlessly as a farmer harvests wheat, turning an awkward farming tool into a terrifying instrument of death.
 2309. Sealing Arts,5.5
 #Naruto - You are a practitioner of the Sealing Arts, a precise and scholarly system of techniques for confining power into symbols and vessels. Every seal you draw must be exact, every placement deliberate, but the payoff is immense - with enough study you could seal a tailed beast into a newborn.
-2310. Sealing Combat,5.2
-#You have mastered the art of combining sealing techniques with physical combat, allowing you to bind an opponent's body, movements or powers mid-fight. A single well-placed strike can seal away a limb's function or lock a rival's signature ability for the duration of the battle.
 2311. Sealing Sword Proficiency,4.3
 #You are a master of wielding swords made of or infused with seals, capable of cutting down targets while simultaneously locking away their powers, movements, or essence. The sword's versatility depends entirely on the kinds of seals you know.
 2312. Security Mastery,4.2
 #You are the ultimate security expert, able to protect any person or object with flawless technique, construct and repair any security system, and penetrate any security you come across. Your skill with locks, alarms, cameras, and protocols is beyond any professional in the field.
-2313. Seismokinetic Combat,4.5
-#You have mastered a fighting style that channels seismic energy and shockwaves into every blow. Whether from supernatural vibration powers or purely technical form, your strikes release devastating shockwaves that rattle through flesh, stone, and steel.
 2314. Selenomancy,3.2
 #You are skilled in the art of moon divination, using lunar energies as a focus to see visions of the past, present and future. Your insights are sharper on full moon nights and useless during the new moon, and not every vision is guaranteed to come to pass.
 2315. Self-Hypnosis,3.4
@@ -3546,8 +3390,6 @@
 #You can fight, move and act with full competence even when every one of your five senses is stripped away. Blind, deaf, numb and unable to smell or taste, you still carry yourself through a battlefield as if nothing is wrong. Your body knows where to go even when your mind has nothing to tell it.
 2319. Sensory Arts,4.8
 #You are trained in the Sensory Arts, a specialised system of techniques built around perception. You can freely develop and apply enhanced senses, perceive intangible aspects like body heat, electrical fields or the passage of time, and even cultivate supernatural awareness abilities. Lack of proper technique can result in dangerous backlash.
-2320. Sensory Combat,5.0
-#You seamlessly integrate sense manipulation into your fighting style, distorting, removing or controlling an opponent's senses in the middle of combat. You might blind them mid-swing, mute their hearing as you close the distance, or flood their nerves with false pain. May be less effective against those with extrasensory capabilities or Protected Senses.
 2321. Sentient Arts,5.8
 #You are trained in the Sentient Arts, a specialized discipline of techniques built around harnessing intelligent sources of supernatural power. Rather than forcing your will onto a power, you bond with it, and in return it lends you vitality and adaptive capabilities. Requires deep trust, and improper knowledge or a poor bond can lead to power loss or accidental possession.
 2322. Sentient Sword Proficiency,5.4
@@ -3562,10 +3404,6 @@
 #(Nsfw) You are a master of inducing sexual gratification in any partner. Every touch, rhythm and word is precisely calibrated to drive the other person to ecstasy, regardless of their preferences or experience. Useless against those with seduction immunity or apathy, and you may personally loathe the partners you're obligated to please.
 2327. Shamanism Arts,4.1
 #You are trained in the Shamanism Arts, a set of techniques that let you enter trances, channel spirits, and broker pacts between the living world and the spirit realm. With drumming, prayer or ritual you can heal, divine the future, or call upon spirits for aid. Improper rites can backfire catastrophically.
-2328. Shamanism Combat,4.3
-#You are able to weave shamanism into physical combat, channelling spirits, natural forces and totemic power through your strikes. Your fists might carry the weight of a bear spirit, your kicks the speed of a hawk, and your body may briefly be wreathed in ancestral energies during a fight.
-2329. Shamanism Defense,4.0
-#Your defensive techniques are enhanced by shamanistic power, allowing you to parry blows with bound spirits, raise totemic wards, or dodge with the grace of a borrowed animal spirit. Sustained defense drains your spiritual reserves quickly.
 2330. Shamanism Mastery,6.8
 #You are a master of shamanism in all its forms, able to perceive the workings of spirits and ceremonies with effortless clarity. Any school of shamanism can be learned in days rather than decades, and you can freely modify, merge and invent new rites on the fly. Your intuition for countermeasures against rival shamans is near-prophetic.
 2331. Shamisen Mastery,2.1
@@ -3578,8 +3416,6 @@
 #You are so skilled with a bladed weapon that you do not need to draw it from its sheath to cut or stab your target. Your opponents will wonder how they got sliced open while your sword was clearly still at your hip.
 2336. Sheer Skill,7.4
 #You transcend the limits of raw power through pure mastery and technique. You can overpower opponents vastly stronger than you, block intangible attacks with a perfectly timed parry, and craft objects so flawlessly they surpass their material limitations. Your feats look impossible because by any sensible metric they should be.
-2337. Shell Combat,3.2
-#You are able to weave your shell or carapace into physical combat, turning defense into offense with every rolling tackle, spinning slam and shield-bashing counter. Your shell becomes both armor and weapon in fluid motion.
 2338. Shell Proficiency,2.1
 #You are highly proficient at using animal shells as weapons, whether they be turtle shells, snail shells or bivalves. You can chuck a Koopa shell with deadly accuracy and parry with a clam like it's a buckler.
 2339. Shield Blade Proficiency,3.6
@@ -3628,8 +3464,6 @@
 #You are a master of silat, the Indonesian martial art family that blends vicious strikes, joint manipulation, and weapon work into one fluid fighting style. Your movements are deceptively smooth and your strikes land with precision at every range.
 2364. Silk Arts,4.6
 #You are trained in the Silk Arts, a supernatural discipline of metáxikinetic techniques focused on the cultivation and manipulation of silk and webbing. You can weave strands for offense, defense or even healing, binding wounds shut or wrapping opponents in inescapable cocoons. Improper technique can leave you ensnared in your own work.
-2365. Silk Defense,3.0
-#Your defensive combat skills are amplified by silk, allowing you to block, parry and dodge using woven strands that wrap incoming blows and redirect their force. You can catch arrows mid-flight with a flick of silk or turn a punch aside with a webbed bracer. Heavy use will exhaust you.
 2366. Simmering Mastery,2.0
 #You are a complete master of simmering, able to coax the deepest flavor from any broth, stew or sauce with inhuman intuition for heat and time. Your cooking pot is a battlefield and you never lose. Less useful outside the kitchen.
 2367. Singing Mastery,3.2
@@ -3684,8 +3518,6 @@
 #You are a master of snowball warfare, capable of packing, aiming, and launching snowballs with uncanny accuracy and force. You will never lose a schoolyard snowball fight again.
 2401. Snowboarding Mastery,2.1
 #You are a master snowboarder, capable of carving down any slope with grace, landing tricks that would break lesser riders, and reading terrain at a glance. Requires an actual slope and snow to be of any use.
-2402. Soap Defense,1.9
-#Your defensive techniques are enhanced by soap, letting you block, parry, and dodge with slick lathers and bubbling barriers. Overuse leaves you worn out and sticky.
 2403. Soccer Ball Proficiency,0.4
 #You are unusually proficient with a soccer ball, whether kicking it into a goal or bouncing it off someone's head. Without a ball, this skill is useless.
 2404. Soccer Combat,3.2
@@ -3764,8 +3596,6 @@
 #Bleach - You are trained in the Spiritual Arts, a specialized system of techniques based on manipulating ethereal essence and souls rather than mystical mana. Through these arts you can manifest combat skill, physical enhancement, healing and other supernatural feats, though lack of knowledge can backfire dangerously.
 2458. Spiritual Bow Proficiency,4.7
 #Bleach - You are a master of the spiritual bow, able to wield bows infused with spiritual energy or arrows manifested from your very soul. You can reshape the weapon on the fly, adjusting its draw, range and form to adapt to any combat situation.
-2460. Spiritual Defense,3.5
-#You possess defensive techniques enhanced with spiritual energy, letting you block, parry and dodge with spirit force reinforcing every movement. Pushing too much energy at once can leave you exhausted or wounded.
 2461. Spiritual Flame Sword Proficiency,4.6
 #You are a master of wielding blades made of or coated in spiritual flame. The fire cuts through both body and soul, and its properties shift depending on the nature of the flame. Requires finesse to avoid burning yourself, and water, ice and dark-based opponents are rough matchups.
 2462. Spiritual Gun Proficiency,4.8
@@ -3804,8 +3634,6 @@
 #You can spin your staff with impressive flair, useful for deflecting attacks, looking cool, or stylishly sheathing it after a fight. Works best with a staff you are familiar with.
 2481. Stage Magic,2.6
 #You are a master of stage magic, performing tricks, sleight of hand, illusions and escape acts with flawless presentation. Against true magic users you are mostly outmatched, but a good magician never reveals their secrets.
-2482. Stamina Combat,3.5
-#You mix your endurance with physical combat, allowing you to fight for prolonged periods while slowly wearing your opponents down. A battle of attrition is where you shine, though foes with greater stamina than you will simply outlast you in turn.
 2483. Stance-Based Combat,4.5
 #You are a master of unorthodox and irregular stances, thriving on unpredictability. Your postures look awkward, unbalanced, even nonsensical at first glance, but each is carefully calculated to mask your intentions and create openings no traditional style would allow. Skilled opponents may adapt given enough time.
 2484. Status Mastery,4.2
@@ -3820,8 +3648,6 @@
 #You have peak human stealth ability, allowing you to move quickly and quietly through most environments. You can scale walls, hide in shadows, blend into crowds, and gather information in hostile territory with the best of any human professional. Still firmly within human limits, so you can be spotted.
 2489. Stellar Arts,5.4
 #You are a practitioner of the Stellar Arts, a specialized system of techniques that channels stellar essence and may call upon cosmic entities. You can conjure stellar elements, empower your body supernaturally, and access stellar materials. Improper use may leave you overwhelmed or possessed.
-2490. Stellar Defense,4.3
-#Your defensive technique is enhanced by stellar energies, allowing you to block, parry and dodge with the power of the stars behind every motion. Overdraw your reserves and you risk exhaustion or burnout.
 2491. Stereobatics,2.2
 #You can perform aerobatic-style stunts on any solid surface as if gravity were merely a suggestion. Loops, corkscrews, barrel rolls, upside-down sprints, and figure tracings are all second nature as long as you have something solid to move on. Does not work in air or water.
 2492. Stick Proficiency,1.6
@@ -3838,10 +3664,6 @@
 #You are a master of wielding rocks and stones in close-quarters combat. A palm-sized pebble in your hand does the work of a warhammer, and you instinctively know how to grip, throw and swing any rock you pick up for maximum blunt force trauma.
 2498. Street Dance Mastery,2.3
 #You are a master of every form of street dance, from breakdancing and popping to locking, krumping and waacking. Your body moves with rhythm and finesse that translates surprisingly well into dodging, footwork and acrobatics in a fight.
-2499. Strength Combat,4.3
-#You know how to properly channel raw physical strength into close-quarters combat, turning each blow into a crippling force meant to maim or kill. Relying purely on brute force will fail against more skilled or more powerful opponents, but against equal or lesser foes you are a wrecking ball with a pulse.
-2500. Strength Defense,4.2
-#Your defensive technique is powered by raw strength, letting you block, parry and even dodge through sheer might alone. The strength used can be physical, mental or spiritual depending on what you are defending against. Overuse will exhaust or even injure you.
 2501. Strong Force Arts,6.3
 #You have trained in a supernatural martial system built around the strong nuclear force. Through precise technique you can bind or shatter subatomic particles, trigger localized nuclear reactions, and manipulate the very glue that holds matter together. Improper use can violently unmake both your target and yourself.
 2503. Stun Grenade Proficiency,2.4
@@ -3888,8 +3710,6 @@
 #You are a surgeon of supernatural skill, capable of augmenting physiology, implanting new powers, curing incurable diseases and even reanimating the dead on the operating table. You still need proper tools, time, and medical knowledge to put it to use and your results live or die by your skill.
 2528. Superpower Science,6.5
 #(Tech) You can create and manipulate superpowers through advanced science, whether via high-tech devices or artificial enhancements to biology. Unlike general Superpower Manipulation, your approach is strictly scientific, meaning you can engineer, replicate and bestow abilities given the right equipment and resources. Without proper knowledge, your experiments may create unpredictable results or produce a singularity-level power that endangers everything around it.
-2529. Support Combat,4.7
-#You have the skill to weave your support powers into physical combat, turning heals into counterattacks and buffs into strike modifiers. A well-timed shield can become a ram, a debuff can be stapled to a punch. Requires actual combat expertise to use effectively in a real fight.
 2530. Surface Grinding,1.6
 #You can grind on any surface like a skater grinds rails, regardless of how wide or flat it is. Hill, concrete, tabletop, pond, it doesn't matter, you can ride it. Requires focus to stay balanced and may not work on every material.
 2531. Surface Hanging,0.7
@@ -3924,12 +3744,6 @@
 #You are a master of throwing your sword as a ranged weapon with lethal accuracy. Advanced users can curve the blade mid-flight and call it back like a boomerang. Unless you can retrieve it, expect to fight unarmed afterwards.
 2546. Swordstick Proficiency,2.7
 #You are a master of the swordstick, able to wield it as both a walking cane and a deadly concealed weapon. You excel at rapid stabbing and thrusting attacks, and because almost all swordsticks look like ordinary canes, you can carry one almost anywhere unnoticed.
-2547. Symbiotic Arts,5.7
-#You are trained in the Symbiotic Arts, a specialized discipline built around deepening the bond between host and symbiote. Through this training you can manipulate symbiotic matter and energy, enhance your physical condition and unlock new powers born from the link itself. Improper technique can leave you overwhelmed or outright possessed.
-2551. Symbol Arts,5.5
-#You are trained in the Symbol Arts, a specialized system of techniques that draws power from emblems, glyphs and runes representing ideas and concepts. Your understanding of these symbols grants you access to phenomena that would otherwise be incomprehensible, but poor knowledge can backfire or leave you possessed by what you invoke.
-2554. Symbolic Arts,5.8
-#You are trained in the Symbolic Arts, a specialized system of techniques drawing power from representations of ideas, beliefs, soul and philosophy. At its simplest you can manifest attacks and transformations tied to your inner symbolism, and at the highest levels you can rewrite aspects of reality that align with what you personify.
 2556. Synthesizer Mastery,2.2
 #You are a master of the synthesizer. You can coax any sound imaginable out of the instrument, from lush pads to filthy basslines, and could probably produce a hit album if you had the rest of the gear.
 2557. Syringe Proficiency,2.3
@@ -3944,8 +3758,6 @@
 #You possess exceptional strategic acumen, capable of crafting plans that run multiple steps ahead of your opponents. You excel at reading battles, strategic games, and complex situations, anticipating obstacles and seizing opportunities with cold calculation. You cannot outthink true omniscience, and may buckle under the guilt of sacrificing allies for the greater plan.
 2562. Tactical Genius,7.4
 #You are a genius-level strategist and tactician whose mind sees through every angle, pattern, and variable of any situation. You devise plans that guarantee victory, anticipate every obstacle, seize every opportunity, and make optimal decisions for both short and long term outcomes. Only omniscience or omnichronal perception can out-plan you, though emotional toll from sacrificial tactics remains.
-2563. Tactile Arts,5.0
-#You wield the Tactile Arts, a specialized system of supernatural techniques powered through physical contact. By touching a target you can unleash forceful palpable techniques, and the intimate bond formed through contact grants greater potency than remote powers. Bonded substances or specific targets may empower certain techniques further.
 2564. Tae Kwon Do Mastery,3.3
 #You have complete mastery over Tae Kwon Do, the Korean martial art built around devastating kicks, spinning jumps and lightning-fast footwork. Your legs are weapons and your body is disciplined by years of mental armament.
 2565. Tai Chi Mastery,3.4
@@ -3968,36 +3780,16 @@
 #You are highly skilled in the use of tape, whether for quick repairs, binding foes, or improvised weaponry. A handyman's dream, a prisoner's nightmare.
 2574. Tasseomancy,2.6
 #You can read the past, present and future by interpreting the patterns left by tea leaves, coffee grounds and wine sediment. The readings are accurate but deciphering the symbols takes time, patience and a steady cup of tea. Greater questions require finer leaves and longer brewing.
-2575. Tattoo Arts,4.5
-#You are trained in the ancient supernatural discipline of Tattoo Arts, etching symbols into skin to channel mystic power. Each tattoo is a technique, a spell or a latent weapon, and with proper study you can stack meanings upon meanings across your body. The more tattoos you master, the more versatile your arsenal becomes.
 2578. Taunting Mastery,3.5
 #You are a master of getting under people's skin. Your insults, comebacks and mockery land with surgical precision, chipping away at confidence, inducing blind rage or throwing opponents off balance at the exact moment they need focus. A well-timed quip from you can turn a fight before the first punch is thrown.
-2579. Team Arts,5.2
-#You are trained in the Team Arts, a supernatural discipline built around the proverb 'unity is strength'. When you fight or work alongside others you can synchronize minds, energies and souls to produce techniques no lone practitioner could manage. Your power scales dramatically with the quality of your teammates and the trust between you.
-2580. Technological Arts,5.7
-#You are a practitioner of the Technological Arts, an advanced martial system that fuses the human body with cutting-edge machinery. Through rigorous training your physical and mental prowess is augmented by integrated technology, allowing you to perform feats no ordinary martial artist could. Vulnerable to Crash and EMP effects.
 2582. Technological Ninjutsu,5.2
 #Naruto/Boruto - You are a practitioner of a shinobi art enhanced by cutting-edge technology, fusing traditional ninjutsu with integrated machinery to execute techniques no classical ninja could match. Electromagnetic interference may disrupt your tools and training is still required to reach true effectiveness.
-2584. Technomagical Arts,6.5
-#You are trained in the technomagical arts, a specialized discipline that combines magical and technological techniques into one system. Through training you can unlock superhuman capabilities ranging from enhanced physical condition all the way up to reality manipulation, and due to its dual nature these techniques are considerably more powerful than either discipline alone.
-2586. Technomechanical Arts,5.2
-#You are trained in the Technomechanical Arts, a specialized discipline focused on cultivating and manipulating technomechanical substances — machinery that flexes like living flesh while retaining perfect machine precision. Lack of proper knowledge can cause power loss or dangerous misfires.
-2588. Technorganic Arts,5.2
-#You are trained in the Technorganic Arts, a discipline that fuses biological systems with technological devices for effects neither could achieve alone. You can manipulate cyber-organic material and entities through trained technique, though lack of proper knowledge could cause the power to backfire badly.
 2590. Tekkō Proficiency,2.7
 #You are a master of the tekkō, the weaponized stirrups and horseshoes of Okinawa, as well as their bladed cousin the tekkō-kagi. You can strike, parry, and rend with them as naturally as your own fists, turning what looks like a handful of iron into a deadly close-range weapon.
 2591. Telecommunications Mastery,3.2
 #You are a master of all telecommunications and telecommunications engineering. Radios, phones, satellites, the internet, you understand them to the circuit and can design, repair, or subvert them with little trouble. With the right tools you could build a phone network from scratch or crack into one you shouldn't be on.
-2592. Telekinetic Arts,5.6
-#You are a practitioner of the Telekinetic Arts, a specialized system of techniques built around the cultivation and manipulation of telekinetic force. You can produce refined manifestations of telekinesis that ordinary telekinetics could never achieve, from cutting techniques to constructs to combat forms, all rooted in mastering the discipline rather than raw power.
-2595. Telepathic Arts,5.4
-#You have trained in the Telepathic Arts, a specialized system of mental techniques that lets you cultivate and refine your telepathic force into formal disciplines. You can manifest taught techniques for communication, combat, defense, and enhancement, provided you have the knowledge to wield them safely.
-2597. Teleportation Arts,5.8
-#You are trained in the Teleportation Arts, a specialised martial system built entirely around warping. You can weave teleportation into strikes for impossibly fast attacks, dodge by phasing out mid-motion, and redirect incoming force through short hops. Lack of proper training can cause misfires with dangerous consequences.
 2598. Teleportation Boomerang Proficiency,3.6
 #You are a master of throwing boomerangs infused with teleportation, able to warp them mid-flight for impossible angles of attack and guarantee the return. Skilled enemies may still catch them, and Teleportation Negation grounds your trickery entirely.
-2601. Temporal Arts,6.3
-#You are a practitioner of the Temporal Arts, a specialized discipline of techniques that channel temporal essence and call upon temporal entities. With proper training you can summon time storms, halt time, and alter timelines. Improper knowledge can lead to possession by temporal entities or backlash that erases you from the timeline.
 2602. Temporal Science,6.2
 #You are a master of temporal super science, capable of using formulas and equations to manipulate, exploit and create the forces of time. Unlike raw Space-Time Manipulation this is strictly scientific, meaning you can build chronometric engines, temporal reactors, time-warping devices and exploit chronal energy through pure applied knowledge.
 2603. Tennis Combat,2.3
@@ -4014,10 +3806,6 @@
 #You are a master of thanatology, the scientific study of death. You understand decomposition, postmortem biology and the psychological weight death carries, and your expertise extends into the supernatural, giving you insight into zombies, ghosts, vampires and anything else that defies the laws of mortality.
 2609. Therianthropology Mastery,3.8
 #You are a master of therianthropology, the study of werebeasts in all their forms. You know the behavior, abilities, weaknesses and anatomy of werewolves, werecats, wererabbits and every obscure variant in between, making you a walking field guide to beast-shifters.
-2610. Thermal Arts,5.3
-#You have mastered the Thermal Arts, a specialized martial system built around thermokinetic power. By controlling the kinetic energy of atoms, you can channel searing heat or killing cold through your strikes, freeze the air around an opponent, or boil a foe's blood with a touch. Lack of knowledge in the art can cause it to backfire dangerously.
-2613. Thief Arts,5.2
-#You are trained in a specialized system of larcenous techniques that go far beyond mundane theft. You can instantly gain mastery over anything you steal, wielding a stolen weapon like a veteran or using a stolen skill as if you had trained for decades. Knowledge absorption and theft nullification counter you.
 2614. Thievery Mastery,5.4
 #You are a master thief in every conceivable sense. Breaking into any home, safe or vault is trivial, you move unseen and unheard, and you can formulate heist plans with perfect timing and technique on the fly. You feel no moral hesitation before, during or after the deed, and your hands steal with a precision that borders on the supernatural.
 2615. Enhanced Thievery,3.0
@@ -4030,8 +3818,6 @@
 #Allows you to concentrate your mind with razor precision on a single thought while dissociating from all others. This lets you resist mental inducements by redirecting your focus, and helps you access mental-linked powers far more smoothly than someone with a cluttered mind.
 2620. Thought Regulation,3.2
 #Allows you to regulate and control your own thought patterns at will, shutting down intrusive thoughts, redirecting anxiety, and reacting to situations with a clear head. As a side effect, your regulated mind is significantly more resistant to psychic attack.
-2621. Thread Arts,5.4
-#You have trained in the Thread Arts, a specialized system of techniques built around supernaturally charged threads. These threads can come in countless forms, accessories, weapons, tools, or even part of your own physiology, with origins ranging from divine to demonic. Wielding them properly still takes considerable training and study.
 2624. Three-Section Staff Proficiency,3.2
 #You possess unparalleled mastery over the three-section staff, the Chinese flail weapon of three wooden or metal staffs connected by rings or rope. You can swing the sections in unison or independently, delivering rapid fluid strikes that combine reach, flexibility and raw momentum.
 2625. Throwing Dart Proficiency,1.4
@@ -4060,8 +3846,6 @@
 #You are a master at wielding torture devices of all varieties, knowing exactly how to apply them to make your target break in the shortest time. A grim specialization but a horrifyingly effective one.
 2643. Toxicology Mastery,3.9
 #You are a master of toxicology, with an innate understanding of how to create, identify and use poisons of all kinds. You can brew lethal toxins from common ingredients, though you'll need proper protection or Poison Immunity to avoid dosing yourself.
-2645. Toy Arts,4.7
-#You are trained in the supernatural Toy Arts, a martial discipline that treats playthings as weapons and conduits of power. Through toys you can channel enhanced physical abilities, energy attacks, and even healing techniques. Your effectiveness scales with your training and the toys you wield.
 2646. Toy Combat,3.8
 #You are capable of weaving toys of any kind into physical combat, turning yo-yos, dolls and action figures into credible weapons. Fragile toys may break after a few uses and most toys burn easily, so you'll want to rotate your arsenal.
 2647. Toy Hammer Proficiency,0.4
