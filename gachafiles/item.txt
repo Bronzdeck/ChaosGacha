@@ -41,7 +41,7 @@
 21. Pokeball Set, 3.3
 #Pokemon - A set of Pokeballs that can capture creatures and house them for convenient storage, creatures caught by Pokeballs are registered as familiars by the system. Contains 6 regular pokeballs. Restock timer: 24 hours
 22. Inverted Spear of Heaven, 5.3
-#JJK - The inverted spear of heaven is capable of dispelling any active ability effect it comes into contact with such as a fireball or a barrier, but does not work on basic energy applications and magic. Cannot dispell effects beyond its rank.
+#Jujutsu Kaisen - The inverted spear of heaven is capable of dispelling any active ability effect it comes into contact with such as a fireball or a barrier, but does not work on basic energy applications and magic. Cannot dispell effects beyond its rank.
 23. Cornucopia, 3.9
 #A horn that contains an unlimited amount of delicious and fresh mundane vegetables, fruits and fruits etc. that can be taken out at any time, the user has to think of the ingredient they want before pulling it out.
 24. Tome of the Erdtree, 4.7
@@ -57,19 +57,19 @@
 29. Stone of Aja, 4.2
 #JoJo - A legendary jewel that has the ability to amplify hamon and light to extreme levels, wearing this pendant makes light abilities stronger, and using it with the stone mask one can turn themselves into a perfect lifeform.
 30. Grimoire of the Twice Dead Death Mage, 5.7
-#Death Mage - A grimoire belonging to a magician of death who has died twice. Allows you to learn death attribute magic belonging to Vandalieu https://death-mage.fandom.com/wiki/Death-attribute_magic
+#(Tome)Death Mage - A grimoire belonging to a magician of death who has died twice. Allows you to learn death attribute magic belonging to Vandalieu https://death-mage.fandom.com/wiki/Death-attribute_magic
 31. Grimoire of the White Mage, 4.1
-#A tome containing a variety of spells about White Magic allowing the reader to learn White Magic spells such as healing, curing, buffs, and warding from it.
+#(Tome)A tome containing a variety of spells about White Magic allowing the reader to learn White Magic spells such as healing, curing, buffs, and warding from it.
 32. Grimoire of the Pyromancer, 4.3
-#A tome containing a variety of spells about fire and flame allowing the reader to learn Fire Magic from it.
+#(Tome)A tome containing a variety of spells about fire and flame allowing the reader to learn Fire Magic from it.
 33. Grimoire of the Cryomancer, 4.2
-#A tome containing a variety of spells about ice and cold allowing the reader to learn Ice Magic from it.
+#(Tome)A tome containing a variety of spells about ice and cold allowing the reader to learn Ice Magic from it.
 34. Grimoire of the Aeromancer, 4.4
-#A tome containing a variety of spells about Wind and Lightning allowing the reader to learn Air Magic from it.
+#(Tome)A tome containing a variety of spells about Wind and Lightning allowing the reader to learn Air Magic from it.
 35. Alchemilia, 3.6
-#A tome containing guides on how to make a lot of minor yet useful potions such as healing, energy recovery, etc. from mundane or ordinary ingredients. Those who haven't read Alchemilia physically cannot craft the potions it gives knowledge about.
-36. Midas' Bag of Holding, 3.3
-#A small pouch the size of a human hand that contains a 1km x 1km square of space inside of it, whoever puts their hand inside can pull out what they are looking for no problem, the weight of the pouch does not change. 
+#(Tome)A tome containing guides on how to make a lot of minor yet useful potions such as healing, energy recovery, etc. from mundane or ordinary ingredients. Those who haven't read Alchemilia physically cannot craft the potions it gives knowledge about.
+36. The Assembly,5.2
+#(Tech)The Assembly is a large room-sized machine; you can throw any item into the assembly and it will disassemble it down to its most basic components(Down to the size of snowflakes). The assembly can reassemble any item it has broken down into ingots or materials for the user's use or reassemble them into an item, as long as the user can provide the blueprint. 
 37. Bar of Vibranium, 5.1
 #Marvel - A bar of pure and refined Wakandan Vibranium ready to be processed, Vibranium has the special property of being able to absorb kinetic energy and vibrations, making it nigh unbreakable by conventional means. Restock Timer: 168 Hours
 38. Angel Ring, 4.7
@@ -89,8 +89,8 @@
 45. HF Murasama, 4.7
 #(Tech)Metal Gear Rising Revengence - A crimson expertly crafted High Frequency blade, the best of it's kind, capable of cutting through practically any physical material, in addition, this blade comes with a gunslash in order to better facilitate Iai moves. The sheath has infinite charge to supply the blade.
 46. Playful Cloud, 4.1
-#JJK - A cursed three-sectioned staff that amplifies in destructive power the higher the strength of its user.
-47. Pokedex,4.3
+#Jujutsu Kaisen - A cursed three-sectioned staff that amplifies in destructive power the higher the strength of its user.
+47. Pokedex,3.3
 #(Tech)Pokemon - A smart handheld device that can scan, identify, categorize, and analyze any race or species of creature in less than 10 seconds.
 48. The Infinite Magazine,4.0
 #A magazine that can morph into the magazine of any projectile shooting weapon and will supply it with infinite amounts of the ammo it uses as long as it stays attached.
@@ -101,9 +101,9 @@
 51. Triactis True Paladinian Mage-Hammer of Might,7.1
 #Calamity Mod - A hammer once wielded by the greatest Paladin. Using this hammer amplifies the user's magical and physical abilities considerably as well as augmenting all spells that use the hammer as a focus. This hammer possesses tremendous might capable of flattening mountains, and when thrown, this hammer will find its way back to its user like the Mjolnir.
 52. Ticket to the ITOPOD,3.0
-#When used it sends you to the ITOPOD otherwise known as the Infinite Tower of Pissed Off Dudes. Every floor contains an enemy with an ability as strong as the corresponding floor. According to the floor you manage to finish your climb at, you will get an item of equal level. The tickets dissappears upon being torn.
+#NGU Idle - When used it sends you to the ITOPOD otherwise known as the Infinite Tower of Pissed Off Dudes. Every floor contains a random enemy as strong as the corresponding floor which you will have to fight in a row in gauntlet format.. According to the floor you manage to finish your climb at, you will get an item of equal level but if you die, you die. One time use. (A/N: Each floor corresponds to a Familiar in the gacha whose rariy is equal to the Floor Number divided by 10. Floor 1 is a 0.1 rarity Familiar while floor 32 is a 3.2 familiar.)
 53. Tome of Hands,3.7
-#Love Advice From the Great Duke of hell - While holding this tome you are capable of transforming and creating hands out of any surface that you can control like your own limbs, with practice and study you can learn to do it without relying on the tome.
+#(Tome)Love Advice From the Great Duke of hell - While holding this tome you are capable of transforming and creating hands out of any surface that you can control like your own limbs, with practice and study you can learn to do it without relying on the tome.
 54. Furniture Catalog,2.5
 #Allows you to instantly buy and get delivered any mundane furniture in your current world to your location via teleportation, all pieces of furniture cost their manufacturing cost. Cannot be accessed while in combat or in hostile territory.
 55. Abyssal Diving Suit,4.2
@@ -265,7 +265,7 @@
 133. Grimoire of Wind Magic,4.7
 #(Tome)Black Clover - A book containing the secrets of Wind Magic from the Clover Kingdom, allowing its users to learn and utilize Aeromancy. Spell List: https://blackclover.fandom.com/wiki/Wind_Magic
 134. Lightsaber,3.1
-#Star Wars - A classic textbook lightsaber made from a Kyber Crystal that projects a blade of energy, no, you do not need force powers to use this one. 
+#(Tech)Star Wars - A classic textbook lightsaber made from a Kyber Crystal that projects a blade of energy, no, you do not need force powers to use this one. 
 135. Wand of the Ice Fairy,4.7
 #A wand made of blue ice crystals that is somehow not cold to the touch but pleasantly cool instead, using this wand as a focus for cold and ice abilities and spells increases their potency and reduces their cost.
 136. Divine Shotgun,3.5
@@ -422,9 +422,9 @@
 #One Piece - Holds a lot of sentimental value to a certain sun god but not much material value.
 212. Modified Compound V,3.4
 #The Boys - Upon consuming this, the drinker will gain a random ability from the Gold Gacha that they can use even when in ability storage.
-213. Sharingan,4.5
+213. Sharingan Jar,4.5
 #Naruto - A pair of Sharingan plucked freshly from a Sasuke Uchiha who just unlocked them, stored in a special fluid that makes sure they don't degrade. If you find a skilled enough doctor you can have them implanted.
-214. Byakugan,4.4
+214. Byakugan Jar,4.4
 #Naruto - A pair of byakugan plucked freshly from a Neji Hyuga who just unlocked them, stored in a special fluid that makes sure they don't degrade. If you find a skilled enough doctor you can have them implanted.
 215. Iron Man Armor Mark III,3.7
 #(Tech)Marvel - The iconic armored suit of the Iron Man, while useful is not particularly powerful, and if it breaks, good luck repairing it.
@@ -504,8 +504,8 @@
 #DxD - Battle Axe of the Nemean, one of the Longinus crafted by god himself. As its base form, it is a large golden powerful battle axe that protects its user from projectiles when they wield it, it can also turn into a projection of the original Nemean Lion with its invincible skin that can act independently. With training the user can even unlock its balance breaker forms. When taken out of the inventory, it resembles a small marble that fuses with the person who swallows it.
 253. Nereied Kyre,7.4
 #DxD - One of the newly manifested Longinus, its user is capable of controlling the ocean and charming dragons with their singing, their ability to charm and control dragons is limited by their singing and magical power. A powerful enough user could use it to sink continents and tame the grandest of dragons. When taken out of the inventory, it resembles a small marble that fuses with the person who swallows it.
-254. Procellarum Phantom,3.4
-#DxD - An armor that manifests primarily as leg armor that enhances its user's kicks and speed.
+254. Can of Pain,1.5
+#A simple can of drink that tastes somewhat like cola, drinking it causes the drinker immense agony that can last up to several minutes. Restock Timer: 24 hours
 255. Nights Edge,4.2
 #Terraria - A sword of night formed from the essences of the world. In addition to its exceptional durability and sharpness this blade also enhances the potency of all darkness abilities when used as a focus. Under certain conditions, this sword can unlock its true power comparable to the Excalibur itself.
 256. Moonveil,3.5
@@ -513,38 +513,38 @@
 257. Malikeths Black Blade,5.7
 #Elden Ring - A sword that still carries traces of the destined death inside of its blade, by expending your own energy/mana you can unleash black flames of destined death that permanently harm the lifeforce of any it harms, making them unable to be healed by anything lesser than divine intervention. 
 258. Beginners Guide to Runecraft,3.3
-#Fate - A beginner's guide on basic Nordic/Scandinavian runecraft written personally by the Allfather Odin himself. Allowing those who study it to learn the art of Runecraft.
+#(Tome)Fate - A beginner's guide on basic Nordic/Scandinavian runecraft written personally by the Allfather Odin himself. Allowing those who study it to learn the art of Runecraft.
 259. Grow Your Own Golem Kit,3.2
 #A beginner-friendly kit for growing your very own golem that even a child can use. Contains a comically large pot the size of a person, a watering can, a pack of cores, and a notebook. Simply put the core in the comically large pot alongside the items you want the golem to be made out of and then put in a piece of paper detailing the specifications of the golem you want to be made. Then bury it all with any kind of dirt and water 2 times morning and night for 7 days in a spot where it can receive sunlight and then dig up your ready golem from the dirt! You can make the process faster by using energy-rich soil.
-260. Kiriichimonji,3.6
-#Akame Ga Kill - A katana that creates wounds that refuse to heal by normal means, you need healing of at least Epic level to heal a wound inflicted by Kiriichimonji.
-261. Water Dragon Sword,3.9
-#Akame Ga Kill - An ancient longsword that resembles a dragon, there are two fangs on the hilt of the sword, and if the user stabs their body on the fangs they gain massively enhanced physical stats and minor draconic characteristics for 3 minutes, after the 3 minutes wear off the user becomes extremely tired and fatigued. 
-262. Incursio,5.3
-#Akame Ga Kill - In its dormant state the Incursio resembles a short sword that can be activated into a white armor that completely covers the user and grants them enhanced physical stats as well as the ability to turn invisible for a duration. But the true strength of the Incursio lies in its ability to adapt and become stronger, so the longer you use it the stronger it will become and acquire new forms.
-263. Demon Extract,5.4
-#Akame Ga Kill - An incredibly powerful extract created from the blood of a mythical beast. Drinking the blood from this chalice grants the user the Legendary Rank Ability: Demon's Extract but if their willpower is not strong enough they will be driven insane by the power.
-264. Perfector,2.5
-#Akame Ga Kill - A pair of gloves that gives their user almost perfect dexterity and speed for their fingers and hands, allowing them to move with extreme speed and precision beyond the realm of human speeds.
+260. Cape of Rebellion,4.2
+#A cape stained red with countless blood shed, while wearing this cape, every negative status effect the user bears(burning, poisoned, cursed, freezing, bleeding, blinded, etc.) the wearers Physical Abilities and Regeneration is is augmented proportionally.(A/N: Gacha curses do not count)
+261. Halo of Light,5.6
+#The Halo of an angel that can be worn like a hat and does not fall off unless removed somehow. When worn, this Halo provides the user with resistance towards all ailments and especially Dark and Infernal attacks and effects while greatly boosting the power of Light and Holy abilities. In addition, the Halo constantly applies a slight healing effect to the wearer.
+262. Devil Horns,3.2
+#A headband in the shape of a pair of cartoonish devil horns. When worn these horns provide a substantial boost to all Darkness and Infernal abilities and traits of the wearer.
+263. Blade of Hatred,4.0
+#An old, worn, and rusty blade covered in dried blood. It is about as strong as it looks, unless the blade is brandished against a target that has inflicted suffering on the user. In which case this blade powers up proportionally to the amount of damage the target has ever inflicted on the user. But against anyone else, the power drops back down. Against a mortal enemy, it might be as powerful as a legendary blade, but against someone you are fighting for the first time, it may as well be trash.
+264. Brass Knuckles,0.4
+#A pair of simple but sturdy brass knuckles.
 265. Ring of the Paladin,4.2
 #An enchanted ring worn by a legendary paladin, now infused with his prayers. This ring can hold a total of 3 charges and recovers a charge every hour. You can spend a charge to cast a Rare tier Heal on yourself or a target, grant a target any one Uncommon tier blessing like strength or agility or you can bless an object with holy energy to either create holy water or create a temporarily blessed weapon effective against the unholy.
-266. Yatsufusa,4.6
-#Akame Ga Kill - A katana with the ability to reanimate undead to serve as their puppets, only 8 undead can be maintained at a time and the undead are in the same state as they have died, they cannot learn any new skills but they maintain all the skills they had in their life. In addition, for every undead animated the user loses a portion of their own strength.
-267. Spectator,5.1
-#Akame Ga Kill - A mechanical third that manifests on the user's forehead, this eye can be used to read the surface of targets you are focused on, see through walls and clothing, have perfectly clear vision and clairvoyance as well as combat precognition by reading minute muscles movements in targets bodies.
-268. Murasame,5.2
-#Akame Ga Kill - A cursed blade that inflicts a killing curse on whatever it cuts, once cut the curse markings will originate from where the cut is placed and move towards the heart before stopping it. This can be resisted by cutting off the inflicted area, having resistance to curses, or being stronger than the blade.
+266. Earplugs,1.0
+#A pair of simple earplugs that, when worn, blocks out the sense of hearing of the user completely.
+267. Second Face,2.4
+#A simple white mask that when worn makes you appear as a completely different person, acting as a second identity but the person the mask makes you appear as is always the same person.
+268. Mirror Blade,4.2
+#A sword that embodies envy, by its lonesome, this sword is only as strong as a sharp Iron Sword. But has the ability to temporarily turn into the strongest weapon in a 1km radius for 1 hour before going on a 24 hour cooldown.
 269. Amulet of Imitation,3.7
 #An amulet that lets you transform into the shape of whatever creature you touch while also holding the amulet, you will be in the form of the creature until you dispel the transformation. Cooldown: 8 Hours
-270. Balzac,4.7
-#Akame Ga Kill - When worn, Balzac can tap into the wearer's body and mind and unlock their potential by 100%, giving the wearer super speed, super strength, lightning-quick agility, and unparalleled intelligence. After all of the wearer's potential is unlocked, it cannot exceed that person's limits. Wearing it for an extended amount of time can cause extreme exhaustion.
-271. Black Marlin,4.6
-#Akame Ga Kill - The user can control any liquid around themselves, including water and blood with simple hand gestures by expending their energy/mana. However, it only functions in the presence of water or any other form of liquid around. Oftentimes, the water takes the shape of serpents or dragons. 
+270. Light Sword,1.6
+#Not to be confused with a Light Saber, this is a sword crafted purely out of solid light. It is incredibly light and sharp but somewhat fragile, but in the event it breaks, it can be left out in a spot that receives light and gradually repair itself. 
+271. Private Jet,3.7
+#Your very own luxury private jet that comes with its own Golem Pilot and Golem Server. The jet requires no fuel to run and the snacks and amenities inside of it replenish over time.
 272. Charismatic Sunglasses,1.3
 #A pair of really cool-looking sunglasses that make you seem more charismatic. Are the sunglasses charismatic because they look cool or do they look cool because they make you more charismatic?
 273. Sword of Judgement,3.8
 #Hota - A sword blessed by the divine that imbues its user with great might and magical power. But it also fills them with righteous rage, making them berserk against unholy and undead beings unless they can tame the sword. Boosts the power of holy and light abilities when used as a focus.
-274. Armageddon Blade, 5.4
+274. The Armageddon Blade, 5.4
 #Hota - The blade of Armageddon in myths. This sword imbues its user with great power but burns to touch, the user can expend their energy to call down armageddon, a swarm of hellfire raining down from the skies onto the mortal world.  Boosts the power of fire and unholy abilities when used as a focus.
 275. Sword of Hellfire,3.3
 #Hota - A sword forged and bathed in hellfire, the user can expend their energy to cover the blade in violent flames. Boosts the power of fire abilities when used as a focus.
@@ -597,7 +597,7 @@
 299. Elixir of Life,6.2
 #Hota - The legendary Elixir of Life, drinking it grants boundless vitality, immunity to most poisons and illnesses, and a lifespan increasing a hundredfold.
 300. Endless Purse of Gold,4.0
-#Hota - A purse filled with endless riches, every 24 hours, 500 200-gram pure gold goins fill this bag and the bag can hold an infinite amount of these coins.
+#Hota - A purse filled with endless riches, every 24 hours, 500 200-gram pure gold coins fill this bag and the bag can hold an infinite amount of these coins.
 301. Horn of the Abyss,6.9
 #Hota - A horn from the deep, abyssal depths with eldrich power. This horn can raise the dead as shoggoths, fangarms, or other creatures from the depths that are loyal to you.
 302. Archmages Robes,4.4
@@ -671,7 +671,7 @@
 336. Endless Bag of Ninja Supplies,3.6
 #A bag the size of a satchel that contains 100 shurikens, 100 kunai, 100 caltrops, 50 explosive tags, and a Katana all made out of high quality steel that replenishes itself every 24 hours.
 337. Portable Supercomputer,4.8
-#A laptop with computational power on par with humanity's strongest supercomputers and is always connected to the native internet of the world regardless of location.
+#(Tech)A laptop with computational power on par with humanity's strongest supercomputers and is always connected to the native internet of the world regardless of location.
 338. Bag of Ore,3.8
 #A duffel bag the size of an average human's torso that you can pull 33 kilograms of any mundane ore out of every 24 hours.
 339. Portable Pharmacy,3.2
@@ -787,7 +787,7 @@
 393. Sandevistan,4.6
 #(Tech)Cyberpunk 2077 - A cybernetic spine replacement augment that allows the user to massively increase their perception of time, making time slow around them in exchange for taxing their brain. Overuse may cause brain damage. This item manifests as a ticket that will be installed instantly on whoever rips it.
 394. Omni Phone,3.3
-#A mobile phone that has everything you need, being able to connect to a network regardless of distance, more storage space than you can count in numbers, a firewall that would take a machine got an aeon to crack and enough processing power to make a supercomputer blush.
+#(Tech)A mobile phone that has everything you need, being able to connect to a network regardless of distance, more storage space than you can count in numbers, a firewall that would take a machine got an aeon to crack and enough processing power to make a supercomputer blush.
 395.Ender Pearl,3.2
 #Minecraft - A round crystalline pearl containing spatial energies, when thrown by someone, it teleports them to wherever the pearl breaks on. Restock Timer: 8 Hours
 396.Character Card Wolverine,5.0
@@ -832,7 +832,7 @@
 #Naruto - Danzo's Right Arm torn fresh off of the torso in mint condition. This right arm is made up of Hashirama cells and implanted with 10 sharingans. You can either implant this arm onto your own body to enjoy the benefits of Sharingan and Hashirama cells or dismantle it to use all parts separately.
 416.Hashirama Cells,5.4
 #Naruto - A vial containing the living cells of Hashirama Senju, due to the sheer potency of Hashirama's genetics if you successfully manage to implant these cells in your body, they will increase your vitality and energy reserves considerably. Not only that but they also grant you considerable passive regenerative ability that consumes your energy.
-417.Rinnegan,7.2
+417.Rinnegan Jar,7.2
 #Naruto - A pair of Rinnegan plucked fresh off of Nagato's body contained in preserving fluid. These eyes can be surgically implanted in yourself or others to gain access to their abilities. Beware, you will need a lot of energy to handle them.
 418.Fire Release Jutsu Scroll,5.2
 #(Tome)Naruto - A large scroll containing information on all Fire Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Fire Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll. 
@@ -857,9 +857,9 @@
 428.Wado Ichimonji,3.4
 #One Piece - A great-grade katana crafted by a master blacksmith in Wano. This sword is extremely sharp and absurdly durable, the perfect pick for any swordsman. In addition, this sword is great at channelling energy after years of use, making abilities using it as a channel cost slightly less energy.
 429.Tozama,1.7
-#JJK - A basic cursed tool in the form of a short sword. The sword sword is sharp and durable while also being able to interact with and harm spiritual beings.
+#Jujutsu Kaisen - A basic cursed tool in the form of a short sword. The sword sword is sharp and durable while also being able to interact with and harm spiritual beings.
 430.Split Soul Katana,5.2
-#JJK - A powerful cursed tool in the form of a large Japanese Broadsword. This sword is capable of cutting through all physical matter by ignoring durability to strike at the soul directly, inflicting wounds that cannot be healed by normal means.
+#Jujutsu Kaisen - A powerful cursed tool in the form of a large Japanese Broadsword. This sword is capable of cutting through all physical matter by ignoring durability to strike at the soul directly, inflicting wounds that cannot be healed by normal means.
 431.Repair Powder,2.5
 #Darksouls - An enchanted golden powder, when the entire bag is spread across a weapon its durability is restored and its damages repaired as long as the item is in one piece. The stronger or more magical an item is, the more powder is required. Restock Timer: 12 Hours
 432.Threaded Cane,1.7
@@ -876,7 +876,7 @@
 #A simple bottle of slimy lotion that contains an infinite amount of lotion inside. Lotion must be squeezed out manually and trying to tamper with the bottle will simply break it.
 438.Power Pole,3.0
 #Dragon Ball - An incredibly durable Bo Staff wielded by Son Goku(The Saiyan, not the god), that allows the user to freely extend its length by expending their energy.
-439.Kubikiribochi,2.2
+439.Kubikiribocho,2.2
 #Naruto - An oversized cleaver-shaped curved sword revered as one of the blades wielded by the seven swordsmen of the mist. This blade is incredibly durable and conducts energy well. In addition, no matter how damaged the blade is, it will repair itself as long as it absorbs blood.
 440.Malorian Overture,2.0
 #(Tech)Cyberpunk 2077 - A heavy-duty, powerful double-action revolver produced by Malorian Arms. This gun is incredibly powerful, even being able to punch a hole in half-borgs with each bullet. You also get 30 bullets every day for it. 
@@ -901,7 +901,7 @@
 450.Archenemy,5.7
 #Fairy Tail - A sealed sword imbued with extremely uncontrollable amounts of magical power. The moment the sword is unsheathed it will produce a slash that can cut through several city blocks like butter at minimum. It is advised to keep it inside the sheath.
 451.Magic Ticket,4.7
-#Fairy Tail - A magical ticket that when you rip allows you to choose a grimoire that contains a branch of magic from the world of Fairy Tale. Chosen magic cannot be a Lost Magic, Ancient Magic, Time Magic, Space Magic, Dragonslayer Magic, Archive Magic or otherwise any magic above Elite tier. The Chosen Magic category is transformed into a Grimoire you can study to learn from.
+#(Tome)Fairy Tail - A magical ticket that when you rip allows you to choose a grimoire that contains a branch of magic from the world of Fairy Tale. Chosen magic cannot be a Lost Magic, Ancient Magic, Time Magic, Space Magic, Dragonslayer Magic, Archive Magic or otherwise any magic above Elite tier. The Chosen Magic category is transformed into a Grimoire you can study to learn from.
 452.Fev Vat,4.0
 #(Tech)Fallout - An industrial vat filled with Forced Evolutionary Virus. Turning any human dropped inside into a Super Mutant. In addition, it can also affect animals dropped inside too, usually granting them increased abilities or killing them.
 453.Null Void Projector,6.8
@@ -916,8 +916,8 @@
 #(Tome)Skyrim - A tome that compiles the various alteration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Alteration_(Skyrim)
 458.Tome of Illusion,4.2
 #(Tome)Skyrim - A tome that compiles the various illusions spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Illusion_(Skyrim)
-459.Potarra Earrings,5.5
-#(Tome)Dragon Ball - A pair of magical earrings that when worn one each by two different beings, permanently fuses them into one entity that possesses the sum of their powers and abilities.
+459.Potara Earrings,5.5
+#Dragon Ball - A pair of magical earrings that when worn one each by two different beings, permanently fuses them into one entity that possesses the sum of their powers and abilities.
 460.Celestial Bronze,2.6
 #Percy Jackson - A mythical metal native to Mount Olympus. Celestial Bronze possesses the property of being deadly to any magical or mythical being while being completely harmless to anything mundane, passing through them like it's not even there. You get 3 10kg bars. Restock Timer: 24 Hours
 461.Stygian Iron,3.4
@@ -931,7 +931,7 @@
 465.Ricks Portal Gun,7.2
 #(Tech)Rick and Morty - A portal gun built by one of the smartest yet stupidest and drunkest inventors in the multiverse. This portal gun is capable of opening portals to any non-spatial blocked location including other universes as long as you know the location's co-ordinates or specifications. The portal fluid refills every 24 hours.
 466.Ring of the Bull,3.1
-#This golden ring ruby ring grants its wearer increased strength and endurance when worn. These increased stats are half a flat boost and half a percentage boost.
+#This golden ruby ring grants its wearer increased strength and endurance when worn. These increased stats are half a flat boost and half a percentage boost.
 467.Riptide,2.2
 #Percy Jackson - Riptide is the sword of the demigod son of Poseidon made of Celestial bronze. Making it exceptionally durable and sharp while being unable to hurt anything or anyone mundane. In addition it is able to switch between the form of a pen and a sword at will for you to decide which is stronger. Boosts the power of water affinity when used as a focus.
 468.Helm of Darkness,5.8
@@ -1064,24 +1064,6 @@
 #Xiaolin Showdown - A Shen Gong Wu monocle that grants its wearer super sight, allowing them to see through objects, see in the dark and see far.
 532.Mantis Flip Coin,1.5
 #Xiaolin Showdown - A Shen Gong Wu coin tied to a rope fashioned into a necklace. When worn around the neck or anywhere around your body the coin grants you the ability to jump high and enhances your acrobatics skills.
-524.Sword of the Storm,2.6
-#Xiaolin Showdown - A Shen Gong Wu in the form of an intangible that the user can imbue their energy into to create powerful winds and enhance the power of wind and weather-based abilities. 
-525.Third Arm Sash,1.9
-#Xiaolin Showdown - A Shen Gong Wu in the form of a sash that can act as a third arm under your control, it is long and flexible while also being considerably stronger than a grown man.
-526.Ascalon,9.6
-#Ben 10 - A sword created by the Thinker Azmuth, one of the greatest weapons of the Universe in the form of a sword. The blade Ascalon channels the fundamental forces of reality and creates an armour created out of Cosmic energy, granting them an incredible physical boost, and defence and immunity to mental effects. By channelling the fundamental powers of the universe, the blade can cleave anything, even realms and reality itself, or the fabric of spacetime to teleport. It allows the user to project energy slashes. It can deflect, reflect and cut energy itself. It can also drain the powers of opponents it stabs into the blade.
-527.Duffel of Hardware,3.6
-#(Tech)A simple backpack that contains anything you could reasonably find in the average hardware store in unlimited quantities, but you need to physically reach in and pull the item out. To retrieve an item, you have to at least know what you are pulling out.
-528.The Market Catalogue,3.8
-#(Tech)A simple catalogue that allows you to order anything from any regularly accessible store from Base Earth that will be instantly delivered to your location. Everything in the catalogue costs double the regular cost of the items, adjusted to the economy of the world you are currently in.
-529.Stockpile,2.9
-#(Tech)A Simple cardboard box that contains a seemingly infinite amount of mundane raw materials like wood, stone, ore, rope and other such materials that the average person could get their hands on. Only 50kg of materials may be taken out every 24 hours. If the box is somehow lost or destroyed, you will be able to stumble upon it in perfect condition if you go searching for it.
-530.Box of Scraps,3.8
-#(Tech)"If Tony Stark could make do with it, so can you" It's a box containing an unlimited amount of scrapped electronics that are stealthily stolen from Earth. Any broken electronic that the average Joe may have thrown away is in here. You have to physically reach in and grab it, though. No turning the box upside down.
-531.Scrapyard,4.2
-#(Tech)Allows you to place down the scrapyard on a location of your choosing. The scrapyard is 250 x 250 meters wide and produces scrap for your use. The scrapyard fills with scrap over time, ranging from busted-up cars to thrown-away electronics sourced from copies of the original Earth. If you are lucky, you might find an almost intact military tank, or you might find a rotten bed. Who knows? 
-532.The Assembly,5.2
-#(Tech)The Assembly is a large room-sized machine; you can throw any item into the assembly and it will disassemble it down to its most basic components(Down to the size of snowflakes). The assembly can reassemble any item it has broken down into ingots or materials for the user's use or reassemble them into an item, as long as the user can provide the blueprint. 
 533.Captain's Shield,4.3
 #Marvel - The Shield of Captain America, created out of Pro-Adamantium, one of the toughest materials known to man, capable of withstanding even the toughest of blows. The shield also has a knack for bouncing back to its owner when thrown.
 534.Guardian Shield,2.5
@@ -1107,11 +1089,11 @@
 544.Robot Assembly,5.6
 #(Tech)An advanced room-sized station that allows you to assemble robots by inputting raw materials that are converted into Robot parts that can be assembled into Robots. The robots that can be assembled depend on the blueprints you can feed into the machine. By default, the machine has access to the blueprints of Fallout Robots. The quality of the robot parts depends on the quality of the material you feed into the machine.
 545.Web Fluid & Shooters,3.4
-#Spider-Man - "Don't forget the hyphen!" A vial of Spider-Man's patented web fluid and a pair of webshooters you can equip to your wrists. You get one full vial every 24 hours.
+#(Tech)Spider-Man - "Don't forget the hyphen!" A vial of Spider-Man's patented web fluid and a pair of webshooters you can equip to your wrists. You get one full vial every 24 hours.
 546.Goblin Glider,2.8
-#Spider-Man - A high-tech glider that can fly at great speeds and can be controlled by the user's mind, it also has bladed edges to be used as a weapon. It includes some storage space for your needs if needed. It gets refuelled every 8 hours, and as long as it is not completely damaged, it will slowly repair itself.
+#(Tech)Spider-Man - A high-tech glider that can fly at great speeds and can be controlled by the user's mind, it also has bladed edges to be used as a weapon. It includes some storage space for your needs if needed. It gets refuelled every 8 hours, and as long as it is not completely damaged, it will slowly repair itself.
 547.Mechanical Tentacles,3.1
-#Spider-Man - A high-tech harness that has 4 mechanical tentacle arms fused into it, you can move the tentacles with your thoughts, or they can move independently according to your commands. The arms possess supernatural strength and have several tools integrated into them depending on what they need to do.
+#(Tech)Spider-Man - A high-tech harness that has 4 mechanical tentacle arms fused into it, you can move the tentacles with your thoughts, or they can move independently according to your commands. The arms possess supernatural strength and have several tools integrated into them depending on what they need to do.
 548.2008 Menu #4 Cheese and Vegetable Omelette,0.5
 #The infamous MRE nicknamed "Vomelette" by the troops. It may not be palatable, but it is food, and it is digestible. Restock Timer: 10 minutes
 549.Favour Cheque,4.8
@@ -1205,14 +1187,14 @@
 593.Mimic Ore,3.8
 #A blank featureless ore that by itself has the exact same properties as iron. But when this ore has been in direct contact with another metal weighing at least 5kg for 1 hour, it will transmute its subatomic structure and magical composition to become that ore and lose its mimicing properties as long as said ore is Epic rarity or lower. You get 3 5kg bars. Restock Timer: 240 hours   
 594.Idiot's Guide to Einzbern Homunculi,3.8
-#Fate - A guide to creating homunculi simplified enough that even a regular person can understand it without compromising its effectiveness, written personally by Justeaze Lizrich von Einzbern herself. It details the process of creating Einzbern Homunculi, and more advanced Homunculi modelled after Justeaze herself, also includes the methods to build Homunculi vats and other related items concerning Homunculi production inside.
+#(Tome)Fate - A guide to creating homunculi simplified enough that even a regular person can understand it without compromising its effectiveness, written personally by Justeaze Lizrich von Einzbern herself. It details the process of creating Einzbern Homunculi, and more advanced Homunculi modelled after Justeaze herself, also includes the methods to build Homunculi vats and other related items concerning Homunculi production inside.
 595.Idiot's Guide to Amestris Alchemy,4.2
-#Fullmetal Alchemist - A guide to performing the Alchemy developed by the State Military as taught by the Amestris. It details how to draw Transmutation Circles of all basic elements(Water, Earth, Wind, Fire, etc.) and how to activate them, and more advanced guides on how to use them effectively. In order to use Alchemy, one must have read the guide to using them.(Note: Does not include human transmutation, Scar's disintegration, Philosopher Stone creation, only transmutation circles that have been used before by State Alchemists)
+#(Tome)Fullmetal Alchemist - A guide to performing the Alchemy developed by the State Military as taught by the Amestris. It details how to draw Transmutation Circles of all basic elements(Water, Earth, Wind, Fire, etc.) and how to activate them, and more advanced guides on how to use them effectively. In order to use Alchemy, one must have read the guide to using them.(Note: Does not include human transmutation, Scar's disintegration, Philosopher Stone creation, only transmutation circles that have been used before by State Alchemists)
 596.Idiot's Guide to Father's Philosophy,5.2
-#Fullmetal Alchemist - A simple guide written by Father, otherwise known as the Dwarf in the Flask, to performing specialised Alchemy to create Philosopher Stones and advanced Homunculi. By studying this book, you can create Human Transmutation circles to convert living Human or Humanoid souls to Philosophers Stones, very potent energy stones that serve as excellent fuel by draining the souls inside. You can also create advanced superhuman homunculi with special abilities by using Philosopher's Stones as a base. You can grant a homunculus you made a copy of any ONE ability in your possession, Elite rank or below. While creating them, they will draw on the power of the Philosopher's Stone to use said ability, and if the stone runs out of energy, it will need to be replaced. The more powerful an ability, the more energy they will need to use it.
+#(Tome)Fullmetal Alchemist - A simple guide written by Father, otherwise known as the Dwarf in the Flask, to performing specialised Alchemy to create Philosopher Stones and advanced Homunculi. By studying this book, you can create Human Transmutation circles to convert living Human or Humanoid souls to Philosophers Stones, very potent energy stones that serve as excellent fuel by draining the souls inside. You can also create advanced superhuman homunculi with special abilities by using Philosopher's Stones as a base. You can grant a homunculus you made a copy of any ONE ability in your possession, Elite rank or below. While creating them, they will draw on the power of the Philosopher's Stone to use said ability, and if the stone runs out of energy, it will need to be replaced. The more powerful an ability, the more energy they will need to use it.
 597.Chekov's Gun,1.8
 #An otherwise ordinary M1 Garand. But whenever you are in a situation where this gun would come in useful, you will be able to quickly find it, no matter, whether that is by reaching under a couch, or under a rug, etc. No matter where the gun was or its condition was, when you find it, it will be in pristine condition and fully loaded. The gun can be modified without losing these properties.
-598.Icon of Geed,5.8
+598.Icon of Greed,5.8
 #"They would do anything for it." A simple gold coin that embodies the concept of greed. Whoever sees will feel the need for it, an incredible compulsion to get possession of the coin, no matter the cost, whether that is selling their family, swearing fealty, or killing their kin. The stronger an entity is, the more resistance they have towards the compulsion. Once willingly given to someone, the coin loses this property and returns to being a normal coin. Despite that, whatever they traded for the coin will still be yours, and they will feel no need to get them back, being satisfied with the deal.
 599.Heal Juice,6.0
 #A green juice in a glass vial, drinking this vial restores the consumer to perfect health with all health complications and negative status effects resolved without complications. To take effect, one must consume the full dose; dilution will ruin the dose. It will heal literally anything that is not death, as long as the target can consume it.
@@ -1285,7 +1267,7 @@
 633.Dunce Cap,0.2
 #A simple white cap with the words "dunce" written on top, usually used to shame someone.
 634.Hera's Breastmilk,4.2
-#"Hey, it worked for Hercules" A bottle filled to the brim with the Goddess Hera's freshly squeezed breastmilk, when someone consumes the entire bottle, the potential of their body will vastly increase, allowing even a regular human to train to reach superhuman levels of strength and durability. This does not, however, increase your talent or the speed at which you will reach that strength. Restock Timer: 168
+#"Hey, it worked for Hercules" A bottle filled to the brim with the Goddess Hera's freshly squeezed breastmilk, when someone consumes the entire bottle, the potential of their body will vastly increase, allowing even a regular human to train to reach superhuman levels of strength and durability. This does not, however, increase your talent or the speed at which you will reach that strength. Restock Timer: 168 hours
 635.Mystic Eye Killers,1.6
 #Type Moon - An otherwise ordinary-looking pair of stylish glasses that, when worn, forcefully suppresses eye-based abilities and magic and also makes the owner resistant to other ocular/eye-based abilities. Too strong abilities can overpower this effect. 
 636.Nichirin Ingots,1.7
@@ -1482,3 +1464,237 @@ An ornate key that, when turned in a sufficiently large space, creates a portal 
 #The white and black robes belonging to clergy, a sign of faith and devotion, when this garb is worn, it grants a minor resistance to darkness, curses, and negative energy. The fabric itself is also very tough.
 711.One Day Blinding Stew,0.5
 #A good and reasonable punishment for those who misbehave. This is an unusually hot and spicy but still nutritious stew that renders whoever drinks it blind for 24 hours. Restock Timer: 12 Hours
+712.Clown Nose,0.1
+#A bright red clown nose that makes a honking noise when squeezed.
+713.Sword of the Storm,2.6
+#Xiaolin Showdown - A Shen Gong Wu in the form of an intangible sword that the user can imbue their energy into to create powerful winds and enhance the power of wind and weather-based abilities. 
+714.Third Arm Sash,1.9
+#Xiaolin Showdown - A Shen Gong Wu in the form of a sash that can act as a third arm under your control, it is long and flexible while also being considerably stronger than a grown man.
+715.Ascalon,9.6
+#Ben 10 - A sword created by the Thinker Azmuth, one of the greatest weapons of the Universe in the form of a sword. The blade Ascalon channels the fundamental forces of reality and creates an armour created out of Cosmic energy, granting them an incredible physical boost, and defence and immunity to mental effects. By channelling the fundamental powers of the universe, the blade can cleave anything, even realms and reality itself, or the fabric of spacetime to teleport. It allows the user to project energy slashes. It can deflect, reflect and cut energy itself. It can also drain the powers of opponents it stabs into the blade.
+716.Duffel of Hardware,3.6
+#(Tech)A simple backpack that contains anything you could reasonably find in the average hardware store in unlimited quantities, but you need to physically reach in and pull the item out. To retrieve an item, you have to at least know what you are pulling out.
+717.The Market Catalogue,3.8
+#(Tech)A simple catalogue that allows you to order anything from any regularly accessible store from Base Earth that will be instantly delivered to your location. Everything in the catalogue costs double the regular cost of the items, adjusted to the economy of the world you are currently in.
+718.Surplus Stockpile,2.9
+#(Tech)A Simple cardboard box that contains a seemingly infinite amount of mundane raw materials like wood, stone, ore, rope and other such materials that the average person could get their hands on. Only 50kg of materials may be taken out every 24 hours. If the box is somehow lost or destroyed, you will be able to stumble upon it in perfect condition if you go searching for it.
+719.Box of Scraps,3.8
+#(Tech)"If Tony Stark could make do with it, so can you" It's a box containing an unlimited amount of scrapped electronics that are stealthily stolen from Earth. Any broken electronic that the average Joe may have thrown away is in here. You have to physically reach in and grab it, though. No turning the box upside down.
+720.Scrapyard,4.2
+#(Tech)Allows you to place down the scrapyard on a location of your choosing. The scrapyard is 250 x 250 meters wide and produces scrap for your use. The scrapyard fills with scrap over time, ranging from busted-up cars to thrown-away electronics sourced from copies of the original Earth. If you are lucky, you might find an almost intact military tank, or you might find a rotten bed. Who knows? 
+721.Peach Tree,1.6
+#Chinese Myth - An apotropaic Peach Tree, every part of this peach tree, ranging from the leaves, bark, wood, and fruit, has the property of warding against evil, curses, and demonic entities. A wooden sword made from its wood would be as effective as a steel sword against a ghost or demon. Alongside this tree, you also get multiple saplings to plant.
+722.Thirty Dollars,0.3
+#Thirty dollars in cash.
+723.Life Fiber Loom,5.9
+#A large and sophisticated Loom that allows the user to weave and create Life Fibers they can sew into clothing by sacrificing their own vitality or the vitality of others and turning it into Life Fibers. The higher the quality of the lifeforce fed into the loom, the more fiber can be extracted.
+724.Flesh Eater Core,5.2
+#Xenoblade - A perfected Flesh Eater Core that, when pressed into the chest of a person, will merge with them and turn them into a Flesh Eater, a mix of a Blade and a Living Being. Being a Flesh Eater grants the user increased stats, a signature element, and a signature weapon they can manifest at any moment. As a flesh eater, they can choose someone suitable to be their driver which they can take energy from to fuel themselves and share their Blade powers with.
+725.Empty Key,5.0
+#An ornate crystal key that, when turned in a sufficiently large area, creates a portal that leads to a dimension of total emptiness. The entire dimension is 100km x 100km x 100km inside, and the only thing in the dimension is air and a glass-like floor that is completely indestructible. The portal leading to the outside of the dimension is always open and leads to where the key was used last.
+726.Clarent,5.6
+#Fate - Clarent, the Brilliantly Shining Royal Sword, is the sword used by Mordred to slay her father, Artoria Pendragon. Wielding this sword amplifies all of the physical abilities of the user and their energy output and increases their charisma so long as they have rightfully claimed the title of King. But this blade can be transformed into Clarent Blood instead by claiming the life of a Monarch using it. In Clarent Blood form, the previous restrictions are lifted for the user, and they can freely use the blade. If the conditions are not met, the blade is only a very durable and blunt blade.
+727.Flesh Prison,5.0
+#Ultrakill - A non-sentient Prison of Flesh created by angels, combining both Holy and Unholy energy to defend itself at all costs. The Flesh Prison itself contains the Prime soul of King Minos, which can be released by slaying the prison. Beware that the occupant may or may not be friendly.
+728.Jason's Mask,0.2
+#Friday the 13th - The iconic hockey mask of Jason Voorhees, it is dirty and smells absolutely foul.
+729.Green Spandex,1.8
+#Naruto - A green spandex suit filled to the brim with the power of YOUTH!!!!! While wearing this suit and nothing else, gains from physical training and stamina recovery are slightly enhanced. YOUTH!!!!!!
+730.The House of Leaves,5.2
+#House of Leaves - A simple brass key that, when turned in a sufficiently open space, opens the door to a small pocket dimension containing a relatively normal-looking suburban home perfect for a family to live in. Just ignore the sometimes non-Euclidean geometry, constantly changing measurements, impossibly large labyrinthine structures, infohazards, and a sentient house that may or may not try to kill you. A n d t h e M  I  N  A  T  A  U  R.
+731.The Dragon Balls,6.4
+#Dragon Ball  - Are in your world! The seven dragon balls are randomly scattered across the current planet you are living on, and once all seven are brought together, the one who brought them together is granted one wish by Shenron, who can grant you a wish that is within his power or give you any ability below a 6.9 rating.
+732.Pika Pika no Mi,8.0
+#One Piece - The Pika Pika no Mi is a Devil Fruit, a fruit with awful taste that, when eaten, grants the user the ability [Light Logia](Divine) in exchange for inflicting them with the Curse of the Sea, which makes them unable to use energy when submerged in still water and rapidly drains their stamina. The first person who digests a part of the fruit gets the ability, and the rest of the fruit is rendered inert. If two Curse of the Sea's are stacked together on one person, they will die instantly.
+733.Magu Magu no Mi,7.2
+#One Piece - The Magu Magu no Mi is a Devil Fruit, a fruit with awful taste that, when eaten, grants the user the ability [Magma Logia](Mythical) in exchange for inflicting them with the Curse of the Sea, which makes them unable to use energy when submerged in still water and rapidly drains their stamina. The first person who digests a part of the fruit gets the ability, and the rest of the fruit is rendered inert. If two Curse of the Sea's are stacked together on one person, they will die instantly.
+734.Hie Hie no Mi,7.0
+#One Piece - The Hie Hie no Mi is a Devil Fruit, a fruit with awful taste that, when eaten, grants the user the ability [Ice Logia](Mythical) in exchange for inflicting them with the Curse of the Sea, which makes them unable to use energy when submerged in still water and rapidly drains their stamina. The first person who digests a part of the fruit gets the ability, and the rest of the fruit is rendered inert. If two Curse of the Sea's are stacked together on one person, they will die instantly.
+735.Bashonen,4.7
+#Naruto - Bashonen is a large fan that allows the user to imbue energy into it and say a verbal command to release large amounts of one of five elements by swinging it(Fire,Wind,Earth,Lightning,Water), with the quantity depending on the amount of energy you expend.
+736.Sword of the Thundergod,4.5
+#Naruto - A Vajra-shaped sword handle that, when imbued with energy, creates an energy blade created out of lightning whose power scales with the amount of energy imbued into it. Electricity-based abilities channeled through this blade are more potent.
+737.Knuckleblaster,3.8
+#Ultrakill - A ticket that, when torn, installs this mechanical arm to the one who tore it. The Knuckleblaster is a very strong mechanical arm made for close confrontations and has the ability to generate shells using spare metal that it can expend in order to cause shockwaves. Just don't try to parry using it.
+738.The Slave Waiver,4.6
+#A simple notebook, inside the notebook is the explicit and direct explanation of how this book works. When a person who is smart enough to comprehend the consequences of signing this Waiver and having read the rules, signs it. They relinquish all of their rights to you, after which are forced to obey all commands you give to them, and are forbidden from acting against you in any way.
+739.Phone A Friend,2.4
+#A simple one-use landline phone. When you dial the phone while picturing the face of someone whose name you know in the current universe you are in, they will receive a copy of this phone to answer your call with. The call can last at most 1 hour, after which the phone will be erased from all existence.
+740.Ejaculatte,2.5
+#(Nsfw)A can of otherwise normal-looking, if not strangely branded coffee that, when drunk, makes the drinker intensely and uncontrollably orgasm. Restock Timer: 8 Hours.
+741.The Census,6.8
+#A book that contains the name, address, occupation, and a short bio of every living Sapient creature with a name inside it that is within a 1 million-kilometer range. The book will automatically sort itself for you based on who you are looking for, filtering by age, race, address, height, etc., according to your specifications. You can also directly open the page that contains a being as long as you know their name and appearance.
+742.Extremely Loud Metal Pipe,0.4
+#An otherwise ordinary-looking aluminum pipe that, when dropped, produces an extremely loud clattering noise, enough to cause hearing damage in proximity.
+743.Hell Taxes,2.6
+#It seems like hell owes you taxes now. The taxes Hell owes you are paid in the form of 100 envelopes, each containing the soul of a sinner, which can be used as you like, to either trade with people wanting souls or using them for your own twisted means. Restock Timer: 336 hours.
+744.Heaven Taxes,2.8
+#Damn, even Heaven has to pay taxes now. The taxes Heaven owes you are paid in the form of 100 envelopes, each containing a dose of Holy Energy. Opening the envelope, the holy energy can either be used as a dose of an uncommon healing spell, an uncommon dispel, or 50 envelopes can be used at once to invoke the Ability: Summon Angelic Guardian once. Restock Timer: 336hours.
+745.Hircine's Ring,3.4
+#Skyrim - A deadric artifact of Hircine, the wearer of this ring is able to transform into a Werewolf at will and grants them greater control over any transformation-based ability.
+746.Physician's Ring,1.8
+#A simple platinum and pink diamond ring that, when worn, increases comprehension, dexterity, and mental acuity when it comes to medical matters such as medicine making or surgery.
+747.Leather Bag of Holding,0.9
+#A rudimentary bag of holding made out of worn leather, the inside of the bag is larger than it seems on the outside, containing 1x1x1m space inside. And whoever plunges their hand inside instinctively knows everything inside and how to pull out what they want.
+748.Bronze Bag of Holding,1.5
+#A simple yet dashing bag of holding woven out of bronze, the inside of the bag is larger than it seems on the outside, containing 5x5x5m space inside. And whoever plunges their hand inside instinctively knows everything inside and how to pull out what they want.
+749.Silver Bag of Holding,2.4
+#A proper bag of holding woven out of silver, the inside of the bag is larger than it seems on the outside, containing 25x25x25m space inside. And whoever plunges their hand inside instinctively knows everything inside and how to pull out what they want.
+750.Golden Bag of Holding,3.6
+#An exceptional bag of holding woven out of gold, the inside of the bag is larger than it seems on the outside, containing 100x100x100m space inside. And whoever plunges their hand inside instinctively knows everything inside and how to pull out what they want. In addition, time and space do not flow properly inside the bag, meaning everything put inside will be in statis.
+751.Platinum Bag of Holding,4.2
+#A brilliant bag of holding woven out of shimmering platinum. The inside of the bag is actually a subspace with a size of 2500x2500x2500m inside. Whoever plunges their hand inside instinctively knows everything inside and how to pull out what they want. The bag also comes with a spatial statis and cleaning option, putting objects inserted into it into statis and cleaning them(if the user wants).
+752.Diamond Bag of Holding,5.3
+#A new frontier in Bag of Holding engineering, this bag of holding is woven out of Diamond. The inside of the bag is a subspace with a size of 100x100x100km in which time does not flow. Whoever plunges their hand inside instinctively knows everything inside and how to pull out what they want. In addition, this bag has the ability to split off into multiple bags of holding(up to 100) that all lead into the same supspace and merge the copies into one bag also.
+753.Gate of Holding,6,8
+#An ornate key that, for as long as it is in your possession, allows you to expend your energy to open portals into a dimension of holding in which time does not pass and contains nigh infinite space, but which only inanimate objects enter. The holder of the key is always aware of what is contained inside the gates and can open portals that can either drop out or eject any chosen content of the holding at considerable speeds by expending more energy.
+754.Tobimune,6.3
+#Kagurabachi - One of the Seven Enchanted Blades, the Tobimune is a powerful sword that amplifies the energy of the user and uses it to activate 3 different abilities contained in the blade but it is very difficult to master. But a true master can unlock abilities beyond what already exists. The main ability is the ability to create and control Black Feathers which can be used to create wings on the user and sense the surroundings. \nCrow: Allows the user to swap their weapon or themselves with any feather in range. \nOwl: Allows the user to create massive Owl eyes in the sky that massively expands their sensory range. \nSuzaku: Expends energy to create Flames that both heal the user and damage enemies.
+755.Cloud Gouger,6.1
+#Kagurabachi - One of the Seven Enchanted Blades, the Cloud Gouger is a powerful sword that amplifies the user's energy and converts it into Clouds and Cloud Dragons that can be converted into three different techniques. \nMei: Turns the Cloud Dragon into a powerful bolt of lightning, or cloaks  the user in lightning to amplify their speed. \nYui: Turns the Cloud and Cloud Dragon into massive bursts of ice and freezing. \nKou: Turns the Cloud and Cloud Dragon into massive waves of water or dense mist clouds.
+756.Arata,5.6
+#Tokyo Ghoul - Arata is a quinque made from the Kakuja of the Corpse Collector in the form of a briefcase that, when activated, dons the user in a bodysuit made of Kakuja far tougher than any mundane metal that greatly boosts their physical abilities at the cost of placing heavy strain on them, and if worn for long periods of time, will start to try and eat the user.
+757.Rubicante,4.5
+#Akame Ga Kill - Dubbed the "Purgatory's Invitation", the Rubicante is a Teigu in the shape of a Flamethrower with a large wearable canister. Rubicante has the ability to release streams of incredibly hot flames that can even melt metal and are incredibly difficult to put out, sticking to everything like glue and not even getting extinguished by water. In addition, it can release the flames in projectile form like fireballs or self-destruct into an almost nuclear explosion. As this item is a Teigu, it is difficult to use and can only be used by people who are compatible with it.
+758.Pumpkin,5.2
+#(Tech)Akame ga Kill - Dubbed the "Roman Artillery", the Pumpkin is a Teigu in the form of a large gun that draws upon the user's energy reserves to shoot beams of energy as projectiles with three different modes: sniper for distance, rifle for power, and machine gun for barrages. In addition, this Teigu has the ability to amplify its output based on the danger the user is currently in and their emotional state. As this item is a Teigu, it is difficult to use and can only be used by people who are compatible with it.
+759.Shambala,5.1
+#Akame ga Kill - Dubbed the "Dimensional Formation", the Shambala is a Teigu in the form of a pendant that allows the user to teleport themselves and others over short and long distances through sigils it can set up, but puts a considerable strain on the user's stamina and usually needs time in between uses. As this item is a Teigu, it is difficult to use and can only be used by people who are compatible with it.(A/N: Anime Exclusive Trump Card is not included)
+760.L'Arc Qui Ne Faut,4.3
+#Akame ga Kill - A Teigu in the form of a Bow and Quiver, this teigu has the ability to force all arrows shot from it to infinitely track their target by calling out the target's name as long as they stay within the bow's effective range. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it.
+761.Cross Tail,5.0
+#Akame ga Kill - Dubbed the "Infinite Uses", the Cross Tail is a Teigu in the form of gloves and thread that the user can manipulate when they don the gloves. The strings that make up the cross tail are very durable and flexible and can be woven with great precision thanks to the Teigu. In addition, it has the trump card of Realm Cutting Threads that can be used by those who master the Teigu, taking the form of nigh-unbreakable strings. More thread can be generated from the spool by expending energy. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it. 
+762.Erastone,5.1
+#Akame ga Kill - Dubbed the "Absolute Limitation", the Erastone is a Teigu in the shape of a Crown with a jewel that allows the user to shine a light onto a target that shatters all of their equipment and items that is weaker than Legendary Rank. But as the jewel shatters after use, there is a week-long cooldown until it regenerates. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it.
+763.Yatsufusa,4.6
+#Akame ga Kill - Dubbed the "March of the Dead", the Yatsufusa is a Teigu in the shape of a katana. As a Teigu, it is incredibly durable and sharp. It possesses the ability to raise up to 8 corpses as the user's puppets; these corpses retain all the abilities and skills they used to possess as well as some of their habits from when they were alive, but cannot grow any stronger nor learn any new things. But each corpse takes a portion of the user's strength to raise, which returns when they are returned to the grave. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it, among which Yatsufusa requires a special macabre mindset to wield.
+764.Spectator,5.4
+#Akame ga Kill - Dubbed the "Almighty Five Sights", the Spectator is a Teigu in the shape of a mechanical third eye that bonds with the user. While worn, Spectator massively boosts the ocular abilities of the user to the point where they can even read minute muscle movements, and also use clairvoyance to move their sight through the world like a camera and also see through physical objects. A skilled enough user can even predict the movements of their opponents through extreme observation of their micro movements and habits. The trump card also allows the user to put a target in an illusion where they perceive the user as a loved one. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it.
+765.Absordex,3.9
+#Akame ga Kill - Dubbed the "Blood Collection", the Absordex is a Teigu in the shape of artificial vampire-like fangs that allows the user to bite living beings and drain their blood to recover their energy and temporarily boost their physical abilities, scaling with the quality and quantity of blood drained. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it.
+766.Grand Chariot,6.0
+#Akame ga Kill - Dubbed the "Absolute Carnage", the Grand Chariot is a Teigu in the form of a short sword that, when activated, allows the user to don a full body armor that is incredibly resilient and boosts the physical prowess of the user and allows them to freely fly through the air. The Grand Chariot also has a built-in spear for offense. But this Teigu has great stamina drain and will rapidly drain the stamina and energy of most users. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it.
+767.Incursio,7.2
+#Akame ga Kill - Dubbed the "Demon Armor", the Incursio is a Teigu in the form of a shortsword "Key" that allows the user to activate it to form an armor around the user that is incredibly durable and massively enhances the physical abilities of the user. In addition, the Incursio can blend in with its environment and turn invisible, but in reality its real ability comes from the semi-living armor that can adapt to the world around it and more effectively survive it and evolve over time depending on its compatibility with its user, but has a massive stamina drain. A compatible enough user can further evolve the Incursio and fuse with it to further power up the armor and even fuse with the form of the beast that originally formed the armor, becoming a full dragon. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it. Someone incompatible trying to activate it may even die straight up.
+768.Demon's Extract,6.8
+#Akame ga Kill - Dubbed the "Demon God Manifestation", the Demon's Extract is a Teigu in the form of a chalice filled with the lifeblood of a super class Danger Beast. Those who drink this blood fully are granted the power to freeze objects and create and control Ice telekinetically. Skilled enough users can even create ice soldiers that move independently and functioning arms of ice. But enduring drinking this Teigu requires inhuman willpower and a monstrous mindset to come out of it alive and acquire the ability.(A/N: No time stop trump card)
+769.Perfector,3.6
+#Akame ga Kill - Dubbed the "Glorious Hands of God", the Perfector is a pair of gloves that, when donned, gives the fingers of the user impossible dexterity and precision surpassing that of a machine or any tool. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it.
+770.Shitoukazer,6.2
+#Akame ga Kill - Dubbed the "National Defense Machine God", the Shitoukazer is a massive mech-like Teigu that the user pilots through the core in its chest. The Shitoukazer is insanely durable and powerful, having numerous weapon systems such as mortar barrages, homing missiles, and giant laser cannons in addition to being incredibly strong with its body and physical strikes alone. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it.(A/N: No Purge Mode)
+771.Heavy Pressure,3.2
+#Akame ga Kill - Dubbed the "Great Tremor", the Heavy Pressure is a Teigu in the shape of a Microphone that turns the voice of its user into shockwaves capable of shattering stone, and amplifies the power of sound-based abilities. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it, which are, for some reason, usually cheerful young women.
+772.Scream,4.2
+#Akame ga Kill - Dubbed the "Military Music Dream", the Scream is a Teigu in the shape of a flute-like instrument that the user can play to influence the emotions of those who listen to the song, such as aggravating them, pacifying them, emboldening them, bringing them joy or sorrow. But the effects can be resisted by those with strong willpower or dispelled by pain. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it and have sufficient musical talent.
+773.Shamshir,3.6
+#Akame ga Kill - Dubbed the "Moonlight Sword Dance" the Shamshir is a Teigu in the form of a durable and sharp curved sword. The Shamshir has the ability to release flying slashes by expending the energy of the user. Depending on the phase of the moon during the night, the Shamshir's power is increased. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it.
+774.Murasame,5.5
+#Akame ga Kill - Dubbed the "One-Cut Killer" the Murasame is a Teigu in the shape of a durable and sharp sword that has the ability to kill any living being with a single cut, no matter how shallow, by imbuing a poisonous curse into their body that worms its way to their heart, but stronger targets may prove slightly resistant. In addition, the trump card of the Murasame can be experienced by experiencing great loss, which massively boosts the user's speed and strength for a short period of time. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it, Murasame specifically can only be used by those with the mindset of a true killer who finds the blade to be beautiful.
+775.Balzac,4.0
+#Akame ga Kill - Dubbed the "Power Surging", the Balzac is a Teigu in the shape of a weird-looking mask that, for as long as it is worn fully, unleashes the Mental and Physical capabilities of the user, bypassing any limitation and allowing them to perform to their fullest potential but greatly straining their mind and body while doing so. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it.
+776.Gaea Foundation,3.8
+#Akame ga Kill - Dubbed the "Phantasmagoria", the Gaea Foundation is a Teigu in the shape of a large makeup kit that allows its user to disguise themselves as any living being they have seen before, such as people, birds, cats, etc., but the more their form diverges from that of their base body, the faster their stamina will drain. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it. 
+777.Rongo Rongo,5.3
+#Akame ga Kill - Dubbed the "Complete Book of the World" the Rongo Rongo is a book that contains a map of the entire world you are on in detail, showing countries, villages, structures, and extensive information about all locations and even lists future natural disasters such as earthquakes, tsunamis, storms, rains, etc., acting as an encyclopedia for the planet. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it. 
+778.Mastema,3.9
+#Akame ga Kill - Dubbed the "Thousand Mile Flight", the Mastema is a Teigu in the form of Disks that form wings that allow the user to fly through the air and unleash volleys of sharp and durable feathers as projectiles. In addition, skilled enough users can unlock the trump card of "Gods Wings" that allow them to turn the wings ethereal and use them to reflect projectiles at a large stamina cost. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it. 
+779.Adramelech,5.4
+#Akame ga Kill - Dubbed the "Thunder God's Rage", the Adramelech is a Teigu in the form of Gauntlets that allow the user to conjure electricity and summon it down from the sky by expending energy, such as launching lightning orbs, beams of electricity, or direct lightning from the sky, the power of the electricity scaling with the amount of energy expended. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it. 
+780.Extase,3.2
+#Akame ga Kill - Dubbed the "Cutter of Creation", the Extase is a Teigu in the form of a large pair of scissors; the signature ability of Extase is its incredibly durable and sharp blades, being able to cut through even metal like ribbons. In addition, unlocking the Trump Card of Extase allows the user to emit blinding light from the blade. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it. 
+781.Belvaac,3.0
+#Akame ga Kill - Aptly dubbed the "Double Bladed Axe", the Belvaac is a Teigu in the form of a short double-bladed axe with great density, allowing it to land devastating blows. And the axe can split into two and be thrown, which will track onto opponents as long as they stay in range. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it, preferring people of great strength.
+782.Black Marlin,5.0 
+#Akame ga Kill - Dubbed the "Water Dragon Possession", the Black Marlin is a Teigu in the shape of an ornate ring that, when worn, allows the user to telekinetically control water and water-based liquids around them by expending energy and stamina. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it. 
+783.Big Leaguer,4.6
+#Akame ga Kill - Dubbed the "Chaos Throw", the Big Leaguer is a Teigu in the form of 6 elemental balls that the user can throw to create explosions with varying effects. In order: \nStorm Orb: Creates a large whirlwind \nExplosion Orb: Creates an explosion \nFire Orb: Douses whatever is hit by it in searing flame \nIce Orb: Freezes whatever is by it by covering it in ice \nLightning Orb: Explodes into bolts of lightning and electricity \nRot Orb: Creates a cloud of eroding mist \nAs this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it.
+784.Lionel,4.6
+#Akame ga Kill - Dubbed the "King of Beasts Transformation", the Lionel is a Teigu in the form of a Belt that allows the user to transform into a half-beast lion that grants them increased physical abilities and sharp enhanced senses. In addition, Lionel gives the user exceptional vitality and regenerative power, allowing them to regrow even their eyes and reattach limbs as long as they have stamina. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it; Lionel specifically seems to prefer free-spirited busty women.
+785.Hekatonkheires,4.0
+#Akame ga Kill - Dubbed the "Magical Beast Transformation", the  Hekatonkheires is a Teigu in the shape of an ugly, unpleasant, unlikeable dog-like thing under the user's control that can transform into a larger form that has great physical strength and incredible regenerative ability capable of regrowing limbs in seconds and has large blade-like teeth. This damn creature can also go into Berserker mode, which further increases its physical abilities but makes the Teigu unusable for a few days afterwards. As long as its core is not broken, this bastard can keep regenerating. As this item is a Teigu, it is difficult to master and can only be used by people who are compatible with it; this overgrown rat seems to have terrible taste for picking masters.(A/N: Stylish modifications not included)
+786.Horse Electrolytes,0.5
+#A full container of powder horse electrolytes. Drink it. Restock Timer: 1 hour.
+787.Apple,0.5
+#A regular juicy shiny red apple, if there are any registered practicing doctors within 25 meters of you while you eat this, they will be repelled away from you. Restock Timer: 24 hours 
+788.Blood Vial,2.8
+#Bloodborne - A vial of blood sourced and diluted from a Blood Saint, distributed by the Healing Church as a cure for all kinds of ailments.When used in moderation, the Blood Vials provide considerable healing effects for both wounds and disease, but can have addictive effects. Abuse of Blood Vials can eventually cause people who are susceptible to devolve into a beast.
+789.Saint Blood Vial,3.5
+#Blood - A vial of blood sourced directly from a Blood Saint cultivated by the Healing Church, contains potent traces of the Old Ones, granting it great healing power, capable of healing even severe injuries and illnesses. Beware that the blood of Yharnam can have addictive effects, and overuse can cause people who are susceptible to devolve into a beast.
+790.Surströmming,0.3
+#A can of fermented Baltic Sea Herring, it smells foul, and tastes foul. It requires a particularly disturbed mind to enjoy eating it. Restock Timer: 30 minutes.
+791.Magician's Hat,1.0
+#A classic showman magician's hat, whenever you reach into this hat, you are able to pull out a rabbit or a dove. But only one at a time, and you have to reach in to do it.
+792.Artoria Fumo,5.2
+#Fate - A Fumo of the true king of Britain, shake this plushie violently to temporarily enact the effect of Avalon, shielding whoever shook it in a nigh absolute barrier, but the user cannot move or use abilities while the barrier is active.
+793."Alice" Fumo,4.8
+#Blacksouls - A Fumo of the Dear Girl, shake this plushie violently in order to reroll your most recently rolled ticket. Cooldown: 336 Hours
+794.Node Fumo,5.0
+#Blacksouls - A Fumo the White Queen, Node, all cooldowns and restock timers pass 5x faster when sleeping in the same building or room as this plushie.
+795.Mabel Fumo,5.7
+#Blacksouls - A Fumo of a certain Girl of Nihility. Every 168 hours, this plushie produces a Random Gold Ticket that it can be found holding.
+796.Mary Sue Fumo,5.3
+#Blacksouls - A Fumo of a certain Annoying Fairy, slamming this plushie against a wall or punching it allows you to change the type of any one ticket in your possession. Cooldown: 168 hours
+797.Reimu Fumo,4.1
+#Touhou - A Fumo of a certain destitute Shrine Maiden, shake this plushie violently in order to erect a spiritual barrier that is effective against Unholy/Dark-aligned beings around a location. Only one barrier can be erected at a time.
+798.Cirno Fumo,3.5
+#Touhou - A Fumo of a certain Genius Ice Fairy, if you imbue your energy into this plushie and smack a target with it, they will be frozen. The potency of this freezing effect scales with the amount of energy you expend and how hard you slam the plushie.
+799.Remilia Fumo,3.9
+#Touhou - A Fumo of the Mistress of the Scarlet Devil Mansion, shake this plushie violently in order to temporarily gain a boost to your luck on the level of [Rabbit's Foot(Rare Trait)] for 24 hours, or smack a target with it to inflict [Jinx(Rare Ability)] on a target for 24 hours. Cooldown: 72 Hours.
+800.Flandre Fumo,5.4
+#Touhou - A Fumo of a certain Destructive Vampire, when holding this plushie, the holder will be allowed to bypass all immunities and resistances of a target, such as barrier magic, elemental immunity, magic resistance, scrying resistance, etc.(Does not bypass regular durability or magical toughness, etc.)
+801.Patchouli Fumo,4.6
+#Touhou - A Fumo of a certain lazy magician, while in the same room as this Fumo, all comprehension and learning speeds are boosted, allowing people to study and learn magic much faster, especially in libraries.
+802.Eirin Fumo,3.5
+#Touhou - A Fumo of a certain pharmacist, for as long as the plushie is held or is sitting on someone's head, they are temporarily granted Adept Medicine skill, and the potency of all Healing abilities and spells are increased.
+803.Suika Fumo,4.0
+#Touhou - A Fumo of a certain drunk Oni, this plushie is exceptionally durable, and it can temporarily increase its density by absorbing energy from the user, making it a fearsome bludgeon.
+804.Youmu Fumo,1.8
+#Touhou - A Fumo of a certain half-phantom sword master, vigorously rub this plushie against a sword in order to temporarily bless it with increased sharpness and the ability to interact with spiritual entities.
+805.Ran Fumo,2.2
+#Touhou - A Fumo of a certain fox shikigami, this plushie possesses Master level Mathematics. If given a method to write down her calculations, she will attempt her very best to tackle any question posed to her. This process can be sped up by shaking the plushie.
+806.Suwako Fumo,5.5
+#Touhou - A Fumo of a certain Mountain God, shaking this plushie allows the user to terraform the world around them by expending energy, such as diverting rivers, slowly raising mountains, moving forests, creating caves, etc., but cannot be used for combat.
+807.Koishi Fumo,4.2
+#Touhou - A Fumo of a certain easily overlooked yokai, holding this plushie or letting this plushie sit on your head boosts the power of Stranger abilities and Traits. Leaving this plushie in a building or area will make that area far easier to overlook or more difficult to perceive for those who have not interacted with the plushie before.
+808.Kaguya Fumo,1.1
+#Touhou - A Fumo of a certain Lunar Princess, this plushie is eternal, meaning that no matter what damage it takes or what happens to it, it will return to perfect condition almost instantly. Even if you tear it apart, smack it, soak it in milk, and throw it against the wall, it will be fine.
+809.Yuyuko Fumo,5.8
+#Touhou - A Fumo of a certain Ghost Princess, this plushie passively attracts the souls of the departed towards it and helps pacify them. Ghosts and the dead affected by this fumo instinctively feel the need to protect it and are much more agreeable towards the holder of the plushie.
+810.Yuugi Fumo,3.3
+#Touhou - A Fumo of the Strongest Oni, holding this plushie or letting it sit in their head, passively grants the user the ability [Strength(Rare)] without taking up an ability slot.
+811.Utsuho Fumo,5.6
+#Touhou - A Fumo of a certain Nuclear Bird, vigorously shaking or bonking this plushie in the head will start a 10-second countdown, after which the Fumo will release a nuclear explosion with the force of 50 megatons, which itself is not affected by. Cooldown: 240 hours
+812.Kanako Fumo,5.4
+#Touhou - A Fumo of a certain Sky God, shaking this plushie allows the user to modify the weather and climate around them by expending energy, such as turning it summer, winter, autumn, spring, etc. in an area, making it rain, diverting clouds, etc. but cannot be used for means of hurting others or for combat.
+813.Mokou Fumo,1.8
+#Touhou - A Fumo of a certain Burning Immortal Girl, this plushie is immortal, meaning that no matter what damage it takes or what happens to it, it will return to perfect condition almost instantly. Even if you tear it apart, smack it, soak it in milk, and throw it against the wall, it will be fine. In addition, whatever surface this Fumo is rubbed against will spontaneously catch on fire.
+814.Junko Fumo,6.1
+#Touhou - A Fumo of a certain Grieving Woman, rubbing this plushie against things or having it maintain contact slowly purifies targets. Rubbing it against rusted metal will eventually restore it to a pristine state; someone dying of a disease can hold onto it to eventually be cured; dunking it in a polluted river can eventually restore it to a crystal clear state. The stronger the Impurity or Corruption, the longer the plushie takes to purify it.
+815.Tewi Fumo,4.2
+#Touhou - A Fumo of a certain Rabbit Yokai, holding this plushie or letting it sit on your head temporarily grants you good luck on the level of [Rabbit's Foot(Rare Trait)]. 
+816.Meiling Fumo,3.7
+#Touhou - A Fumo of a certain Lazy Gatekeeper, performing Physical or Martial training in the same room as this plushie accelerates your rate of Physical and Martial development. In addition, sleeping while hugging this plushie greatly accelerates physical recovery.
+817.Utsuho Deka Fumo,7.1
+#Touhou - A Deka Fumo of a certain Nuclear Bird, this large plushie passively produces up to 100 Terawatts of energy per second if hooked up to something that needs or transfers energy. In addition, if you imbue energy into this fumo while holding it, it will shoot out nuclear beams with the force of 50 megatons from its eyes.
+818.Reimu Deka Fumo,5.9
+#Touhou - A Fumo of a certain Floating Shrine Maiden, wherever this large plushie is placed, it erects a Holy Spiritual Barrier around that location and turns the area into sanctified ground. All Unholy/Dark beings below Elite rank are repelled from entering, and the ones that do breach the barrier are weakened.
+819.The Table,0.2
+#Code Geass - A large, sturdy, and high-quality oak table stolen straight out of Ashford High School after it was violated by Nina Einstein.
+820.The Chair,1.2
+#Devil May Cry - The iconic cheap plastic chair of Vergil Sparda; it is rumored that sitting on this greatly increases the motivation of anyone who does.
+821.The Master Sword,5.5
+#The Legend of Zelda - The Master Sword, the Blade that Vanquishes Evil, and the former sword of the Goddess Hylia, bathed in Sacred Flames. The Master Sword, alongside being nigh unbreakable, has the power to Vanquish Evil and Darkness, dealing extreme damage and ignoring resistances when up against ALL Unholy and Darkness-aligned targets, while also being able to release slashes of light when imbued with energy. \nThe Sword is also capable of absorbing Holy energy, becoming permanently stronger the more Holy energy it absorbs, and is capable of housing blessings inside it permanently. But only a worthy Hero who has proven their Pure Heart, Courage, Wisdom, and Power can wield it.
+822.Hylian Shield,4.8
+#The Legend of Zelda - The shield of the Legendary Hero of Hyrule, it is a shield typically used by the Knights of Hyrule that has been tempered numerous times across its journey. In addition to being absurdly durable, this shield possesses great magical resistance and extreme resiliency against all Unholy or Darkness attribute attacks.
+823.Mirror Shield,5.1
+#The Legend of Zelda - An exceptional magical shield with a mirror surface. While only a decent shield against physical attacks, this shield has the ability to reflect all Light-based and Magical attacks that impact its mirror surface. 
+824.Bottle of Milk,1.4
+#The Legend of Zelda - A bottle of incredibly high-quality milk sourced from Malon. Drinking this milk restores some vitality and vigor to the drinker. Restock Timer: 12 hours
+825.Earth Key,6.5
+#An ornate key that, when turned in a sufficiently large space, creates a portal leading into a pocket dimension that is 20,000km x 20,000km x 20,000km in size that contains planet Earth. The entire thing, at least, a version of Earth where humans never existed, only consisting of untamed wilds. The gate that leads outside the dimension is always open and leads to where the entrance was last opened.
+826.Bathouse Key,3.5
+#An ornate key that, when turned in a sufficiently large space, creates a portal leading into a pocket dimension that is 250x250x250m in size that contains a luxurious opulent bathhouse that is staffed, maintained and operated by homunculi attendants that exist to serve the entrants, the water inside the bathhouse is excellent for recovering both Health and Energy. The gate that leads outside the dimension is always open and leads to where the entrance was last opened.
+827.A chocolate chip cookie but with the chips picked off for some reason,0.1
+#Cookie Clicker - The saddest cookie you have ever seen. Giving it a restock timer would be an insult.
+828.A handful of chocolate chips,0.1
+#Recently plucked off a cookie, they are still slightly warm and some cookie crumbs are still attached to the chips.

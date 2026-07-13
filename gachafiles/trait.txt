@@ -274,7 +274,7 @@
 #You fade into the background really easily, unless you do something to draw attention to yourself people overlook you very often and it becomes very hard to notice you. Does not work on people who are looking for you or are aware that you specifically are there. Stranger class abilities are slightly more potent.
 138. Untraceable,3.8
 #You are very hard to track, cameras mysteriously stop recording when you step into the frame, your footprints get covered by the natural elements, and normal people just cannot remember which way you went when someone asks them. Very good for a serial killer or a paranoid.
-139. Golden Goose,5.7
+139. The Favorite,5.7
 #People want you on their side and they will dote on you to make sure you don't defect from their side, if you are in an organization your higher-ups like you way easier and they will try to accommodate you. If the king or queen meets you they will probably also take a liking to you.
 140. Ex Nihilo,5.0
 #All abilities that create constructs or new matter now cost significantly less energy to produce and maintain.
@@ -359,7 +359,7 @@
 180. Last Stand,3.5
 #When your health is down 10% or when you are on the brink of death your physical stats increase by a stage.
 181. Lord Death of Murder Mountain,4.5
-#Murder and maiming are just instinct, you were born with blood in your hands and you will spill many more. 
+#Your mindset when it come to killing is a marvel of nature, you have a special instinct towards killing and brutality, instinctively knowing how to land lethal blows on targets and finding their weakpoints through sheer animal instinct.
 182. Enhanced Strength,2.5
 #Enhances the user's existing strength, increasing the physical force they can exert proportional to their own strength.
 183. Enhanced Agility,2.8
@@ -418,7 +418,7 @@
 #Specialization - You are a natural-born necromancer, dealing with death and souls is just your lane of business. Any death or soul-related ability is easier to master and costs less energy.
 210. Plaugemaster,4.2
 #Specialization - You are a natural-born contagion, spreading disease, poison, and decay is second nature to you. Any poison or disease-related ability is easier to master and costs less energy to use.
-211. Shaper,4.8
+211. Shapesmith,4.8
 #Specialization - You are a natural-born shaper, shaping the body is second nature to you, all biological or body alteration abilities are easier to master and cost less energy.
 212. Non Binding Clause,5.3
 #That contract you just signed? The one with the soul bindings or magical enforcement? Yeah, unfortunately for them it's non-binding for you. At any time you choose to, you can destroy any contract or clause bound to you that you have agreed to. The fae will cry.
@@ -602,10 +602,10 @@
 #Your fate is strong, things are not moderate for you, destiny curves in your direction like a main protagonist. You have plenty of luck, bad and good.
 302. Dealmaker,4.5
 #"A Deal's a Deal." Whenever people make a deal with you, they feel compelled to fulfil their end of the deal that they agreed on, so long as the deal was explicit in its conditions(No clever wording or Fae deals). In addition, it's far easier to goad people into making outrageous bets. 
-303. Hentai Logic,4.8
-#(Nsfw)Apparently this world runs on Hentai Logic, objects revolving around you are far more perverted and people's logic is slightly skewed.
-304. Ecchi Logic,3.5
-#(Nsfw)Apparently this world runs on Ecchi Logic, objects revolving around you are far more perverted and people's logic is slightly skewed.
+303. Hentai Protagonist,4.8
+#(Nsfw)Apparently your fate has changed, you are much more likely to encounter and fall into situations one might consider "erotic" such as encountering a hot single mom that moved next door, getting into situations that are much more likely to end up in sexual encounters, and people in general seem to be far more affected by sexual situations involving you.
+304. Ecchi Protagonist,3.5
+#(Nsfw)Apparently your fate has changed, you are much more likely to encounter situations such as accidently walking into someone changing, being placed into a dorm of attractive people you are interested in, getting locked into a closed with a hot person etc, your path in life seems to be influenced by the Ecchi genre.
 305. Honesty,2.2
 #You have an aura around yourself that seems to garner honesty from people. People are worse at lying around you and feel worse and more remorseful about trying to deceive you. 
 306. Truthspeaker,4.2
@@ -640,14 +640,14 @@
 #"You really don't" Everyone you meet has a good impression of you, even evil dictators, violent murderers or mindless beasts have a decent liking of you as soon as they get to know about you. Only works on named characters.
 321.My Friend Now,5.5
 #Everyone you meet starts off friendly to you as long as they don't have a preconceived opinion of you. You can walk up to Thanos and open a can of beer with him. Even death seems to like the cut of your gib.
-322.Uchiha,5.4
-#Naruto - You are a member of the Uchiha Clan, granting you increased martial talent, energy reserves, fire affinity and a natural sharingan that does not take up an ability slot.(Does not give Chakra)
-323.Uzumaki,5.9
-#Naruto - You are a member of the Uzumaki clan, granting you increased life force and endurance. In addition, you can heal yourself and others by imbuing your blood with your energy and life force. And with training, you can unlock the ability to create sealing adamantine chains capable of suppressing and sealing energy.(Does not give Chakra)
-324.Hyuga,5.1
-#Naruto - You are a member of the Hyuga clan, granting you increased dexterity, energy reserves and fine control over your body and energy. In addition, you possess a natural Byakugan that does not take up an ability slot. You also may or may not have dormant alien-good genes.(Does not give Chakra)
-325.Senju,6.0
-#Naruto - You are a direct descendant of Hashirama Senju, granting you greatly increased lifeforce and energy reserves as well as martial prowess. In addition, you possess a natural Wood Release and have increased Natura Affinity.(Does not give Chakra)
+322.Uchiha,6.1
+#Naruto - You have the blood of the Uchiha Clan running through your veins, granting you increased Martial Talent, Energy Reserves and Fire Affinity. In addition, you possess the signature trait of the clan, a Natural Sharigan(Epic Ability) that you can activate by slotting it into an ability slot.(Does not give Chakra)
+323.Uzumaki,5.7
+#Naruto - You have the blood of the Uzumaki Clan running through your veins, granting you greatly increased Vitality and Energy Reserves. You can also heal yourself and others by imbuing your blood with your energy and life force. In addition, you naturally possess the Adamantine Sealing Chains(Epic Ability) that you can activate by slotting it into an ability slot.(Does not give Chakra)
+324.Hyuga,4.8
+#Naruto - You have the blood of the Hyuga Clan running through your veins, granting you increased Martial Talent, Energy Reserves and Dexterity. In addition, you possess a natural Byakugan(Elite Ability) that you can activate by slotting it into an ability slot.(Does not give Chakra or dormant alien god genes)
+325.Senju,6.4
+#Naruto - You are a direct descendant of Hashirama Senju, granting you greatly increased lifeforce and energy reserves as well as martial prowess. In addition, you possess a natural Wood Release and have increased Nature Affinity.(Does not give Chakra)
 326.Hanma,3.5
 #Baki - You are a Hanma, you are incredibly genetically gifted, possessing increased resistance to poisons and your physical stats grow way faster. In addition, you have so much testosterone in you, any other men may as well be a girl in comparison. Your talent in martial arts is also greatly increased. If you are female the same effects apply without the testosterone, you are just a genetically gifted freak.
 327.Lesser Undead,2.5
@@ -764,7 +764,7 @@
 #There is something primordial inside you and it devours. Any infiltrator or transgressor in your mind, soul, body or any form of your existence will get devoured. Even a god trying to possess you would get shredded to the ether, even telepathic connections will be torn apart and turned to pure energy to nourish you. May the nuclear chaos have mercy on anything trying to touch your soul.
 383.Renown,2.4
 #You are quite well known, aren't you? The news of your exploits and accomplishments travel fast. And the effect on your reputation is slightly increased. If you saved a village even the king may learn about it and decide to reward you. Your reputation is always well known if possible.
-384.Buerocrats Eye,2.2
+384.Bureaucrats Eye,2.2
 #You have the eye of a bureaucrat, allowing you to easily understand all legal jargon and loopholes in contracts as well as being able to quickly brief documents. This will definitely save you some time in any world with an established government.(If not, the ticket this trait came from can be rerolled)
 385.Legal Exemption,2.5
 #"It has been officially exempted? How? Do not ask." You do not pay taxes or rent as those are waived by the government or the people who want you to pay them. The officials or authority figures may even look over minor crimes or mischiefs and pardon you.
@@ -776,7 +776,7 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 #Demon Slayer - You are a demon transformed by the blood of Muzan. Granting you a superhuman physique and biological immortality, in exchange for being lethally harmed by sunlight and the light attribute. You also develop your own demon blood art that is equal to an uncommon rank ability. Lastly, you need to consume humans to sustain yourself otherwise you will starve to death. 
 389.Progenitor Demon,6.9
 #Demon Slayer - You are a progenitor sharing all of the powers of Muzan Kibitsuji. Allowing you to freely shapeshift and have extremely powerful regeneration as well as the ability to turn others into demons with your own blood in addition to your superhuman physical abilities. But sunlight is extremely lethal to you.
-390.Regenerator,4.7
+390.Regenerative,4.7
 #Your body is unusually receptive to all forms of healing. Your natural regeneration when not affected by anything is increased by 5x and all healing effects you receive are 2x more effective on you.
 391.Wardrobe,3.5
 #Ever want the advantage of your equipment but don't want to wear it? Perhaps you want the powers and safety of the dread armour without looking like a dark lord? With Wardrobe active any items you put on will be sent to your wardrobe while you still retain their bonuses. But you can't wear two magical items that go on the same part of the body and only wear mundane items while active.
@@ -828,7 +828,7 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 #Your luck with your romantic life seems to be greatly increased. Remember to thank Cupid.
 415.Blessing of Zeus,3.7
 #(Nsfw)You are a child blessed by Zeus; there is nothing you can't fuck. What did you expect? You gain increased charisma, fertility and talent in the carnal arts. Changer abilities are easier to use and cost less energy to use and maintain. ...Oh, and your lightning-based abilities are stronger too.
-416.Infinity,9.1
+416.Infinite,9.1
 #You possess an infinite source of energy for every use, magical power, stamina, soul energy, whatever you need. In addition, your energy output is massively increased. Even a common rank fire ability could dwarf nuclear bombs ten times over.
 417.Absolute Victory,9.7
 #You will win, there is absolutely no way you won't. Reality passively eliminates outcomes where you fail to accomplish your objective. As long as you actively pursue your goal, you will succeed somehow. The degree of success may depend on your own abilities.
@@ -836,7 +836,7 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 #No rhetoric or any other outcome, you are immortal in every way that matters. You regenerate faster than the eye can see, even if the universe were to collapse into you, even if the One Above All tried to erase you, you would simply regenerate back, even from absolute nothingness. Perhaps you could even survive the Blind Idiot.
 419.Elemental Immunity,8.1
 #You are absolutely immune to all damage from attacks of natural elements such as Fire, Water, Earth, Wind, Light and Dark. Even a Supernova or an Absolute Zero won't even scuff your clothes. But physical attacks and unreal elements such as Space, Time, Raw Energy can get past your defences. 
-420.The Absorber,9.1
+420.Absolute Absorber,9.1
 #You are the absorber; your body and soul can absorb anything. Especially Energy. You would survive being dropped into the sun because your body could soak up all of the heat energy and convert it into your energy reserves. The speed and degree of absorption scale with your stats, but even as a base human, nothing short of a nuclear bomb could get past your basic absorption.
 421.Cosmetic Calibration,1.8
 #While cosmetic calibration is active, changes such as transformations or race changes will not affect your looks in ways you view as undesirable.
@@ -1114,7 +1114,7 @@ You are a psionic, someone who specialises in the Mind and Mental world. Grantin
 #Your preferred partners at least twice your age are more attracted towards you, and it is easier to earn their favor. In addition, your romantic partners and your looks never age beyond their peak. Does not stop physical aging.
 558.Violence of Heaven,5.4
 #You wield a body blessed by the Heavenly realm to carry out violence in their stead. All your physical abilities are augmented, and these boosts are further amplified in blessed grounds. You possess an increased resistance against curses, necromancy, and darkness-based attacks. Even a regular joe would be able to flip cars and break the bones of demons.
-559.Harphy,3.7
+559.Harpy,3.7
 #Race Change - You are a half avian creature, possessing the characteristics of a hawk creature mixed with your own race. You have slightly enhanced physical abilities and senses, alongside heightened predatory instincts. In addition, you have retractable talons and wings either fused into your arms, shoulder blades, or back. With training, you can learn to suppress your more avian characteristics. You possess increased wind affinity but decreased water affinity.
 560.Roc,4.8
 #Race Change - You are a Roc hybrid, a creature that possesses the characteristics of a Roc, mixed with your own race, a giant elephant-eating hawk. You possess increased strength and durability, incredible but sensitive eyesight, and hearing alongside fearsome predatory instincts. You possess large, powerful wings either fused to your arms or back, at least as strong as your arms, and allow you to fly and dive with great speed, as well as retractable talons that are tougher than steel. You possess increased wind affinity but decreased water affinity.
@@ -1173,7 +1173,7 @@ Whichever city you are currently living in, you get the equivalent of 2x the dai
 585.Adamantine Fist,5.5
 #Your fists are like Adamantine, unbreakable and incredibly powerful. Your fists are incredibly durable, and the power behind all unarmed strikes is greatly enhanced. All fist-based abilities are easier to use and are more powerful.
 586.Regenerator,5.9
-#Hellsing - You are a Regenerator, a race of Advanced Human that is a Bioengineering marvel, granting you superhuman physical performance and incredible natural regenerative abilities enough to heal from bullet wounds in seconds without changing anything fundamentally from humanity. 
+#Hellsing - You are a Regenerator, a race of Advanced Human that is a Bioengineering marvel, granting you superhuman physical performance and incredible natural regenerative abilities enough to heal from bullet wounds in seconds without changing anything fundamentally from humanity. But lethal wounds are still lethal wounds that will kill you so be exercise caution.
 587.The Santa Clause,1.9
 #You are under the same Clause as Santa himself, meaning that people do not mind you entering places you shouldn't be, or lingering in places you are not meant to. But they can still get offended and angry if you cause a disturbance or do something that would offend them.
 588.Sexercise,1.5
@@ -1184,3 +1184,83 @@ Whichever city you are currently living in, you get the equivalent of 2x the dai
 #"Pain in their eyes" You are a sadist, you enjoy pain and the suffering of others. Whenever you inflict damage on a target, your Health and Energy recovery speeds are increased for a short amount of time.
 591.Starman,8.5
 #"There is a Starman waiting in the sky." Your hope fuels you, literally, the more hope and determination you have, the faster your energy and vitality regenerate, and in addition, as long as you hold out hope, you cannot be killed. Whenever someone places their hopes into you, that hope is converted into energy and vitality to fuel you.
+592.Ceo of Sex,7.6
+#(Nsfw)You are the CEO of Sex, as in, you are the one chosen by sex. It is conceptually impossible for you to be an unsatisfying sexual partner, no matter who you are up against. You can easily tell someone's kinks and preferred partners at a glance, and all sexual actions you take are greatly enhanced. You can finger the earth to make a geyser spurt out, and you can thrust into the ocean to let the waves carry you to where you need to be. 
+593.Firestarter,1.3
+#You are a novice firestarter, you are slightly more resistant towards Heat and fire-based effects, and your fire-based abilities and spells are slightly more efficient.
+594.Burner,2.5
+#You are one with a will to burn, baby. You are more resistant against heat and fire-based effects, while at the same time, your fire-based abilities and spells are somewhat more efficient.
+595.Electrician,1.8
+#You are a novice electrician-to-be, you are slightly more resistant towards Electricity-based effects, and your Electricity-based abilities and spells are slightly more efficient.
+596.Lightning Catcher,2.6
+#You are one with a will to catch lightning itself, you are somewhat more resistant towards Electricity-based effects, and your Electricity-based abilities and spells are somewhat more efficient.
+597.Thirsty,3.4
+#You love water, you can't get enough of it. When water is in contact with your skin, you slowly absorb it through osmosis, a process that accelerates your energy recovery speeds, even more so when said water is energy-rich in some way.
+598.Heavyweight,3.5
+#Your body possesses far more virtual mass than it looks when in combat, making hits push your back far less and enhancing the power behind your physical attacks without affecting your mobility.
+599.Super Heavyweight,4.4
+#Your body possesses far more virtual mass than it looks when in combat, making you incredibly hard to move and putting great power behind every move of yours without affecting your mobility.
+600.Titanweight,6.5
+#Your body possesses far more virtual mass than it looks when in combat, as if having the stature of a giant in the body of a man. Making it incredibly difficult to move you while putting immense power behind your strikes.
+601.Shoulder to Shoulder,4.0
+#The potency of the weakest ability you have slotted in is enhanced proportionally to the difference in rarity with the strongest ability you have slotted in. 
+602.Emergency Responder,3.1
+#Someone call a doctor! Oh, wait, that's you. The more injured you are, or the closer to death you are, the more powerful your healing abilities and spells are. If you do not have any healing abilities or spells, depending on how injured you are, you get Novice Medicine up to Expert Medicine temporarily.
+603.Swimmer,1.1
+#You are a natural swimmer, you are slightly more resistant towards Water and sea-based effects, and your water-based abilities and spells are slightly more efficient.
+604.Mice Mate,2.5
+#You are a friend to all Mouse, Rat, and Mice-kind. Your affinity with such creatures and beings is greatly increased, and in addition, lesser Rodents are automatically friendly towards you; the mice might help clean your floors, or the rats might bring you shiny things they find around.
+605.Health Insurance,2.4
+#Your health is insured, no need to worry. Whenever you are wounded, you will be granted the exact amount of money you would need to pay a professional to treat your injuries or illnesses. Beware, trying to commit insurance fraud may have your trait get revoked. 
+606.Touch of Death,4.6
+#You have an uncanny intuition when it comes to linking blows and keeping your momentum when attacking. The moment you land your first attack, you will have a much easier time keeping up the pressure and linking attacks while taking advantage of the opportunity your first attack left.
+607.No Life King,7.6
+#Hellsing - You are a vampire from the lineage of the original Vampire, Dracula, Nosferatu, the No Life King. In addition to massively increased physical abilities, you are able to convert your body into Shadow Matter at will and shapeshift using it. In addition, by feeding on the blood of others, you can fully heal yourself and absorb their souls to use them as your familiars.
+608.Bully,2.5
+#Against opponents that are already greatly weaker than you, you possess increased physical stats, and your abilities cost less energy.
+609.Luddite,4.2
+#(Tech)No machine is going to take your job! Or your life, for that matter. Whenever you are against an opponent that relies on high-level technology, you gain augmented reflexes, comprehension, and combat instincts against them, and attacks produced by high technology constructs are less effective against you.
+610.Technoclast,7.1
+#(Tech)The bane of Man and its Machine. Whenever against a high-technology target, all of your abilities are greatly augmented, and you gain massively increased combat instincts against them. In addition, you are rendered massively resistant to any effect brought upon by a piece of high technology to the point where a railgun might as well be a slingshot. All of these effects are further amplified if your opponent is an artificial high-tech lifeform.
+611.Style,4.2
+#Ultrakill - You have a style meter now, which means the more stylishly you engage in combat, the faster you regenerate Vitality and Energy, up to 3x faster on top of all of your multipliers, provided you are stylish enough during your fight.
+612.Acid Reflux,2.1
+#Whenever a target damages you, all of your bodily fluids act as acid towards them, including your blood, spit, sweat etc. with the potency of the acid scaling with your physical stats.
+613.Sober,1.8
+#Junkie? You? No way. You are immune to all addictive effects, you could slam hard drugs, cigarettes, alcohol, venom, mentats, psycho, black lace every other day and be able to drop them at a moment's notice without suffering from any withdrawal or symptoms of addiction..
+614.Variable Gene,4.9
+#Your genetics seem awfully variable, don't they? You can now toggle Racial traits, either turning back to your original race at will or becoming 100% of another Race Trait you own at will and back.
+615.Firebender,5.1
+#Avatar - You have natural talent as a Firebender, allowing you to naturally produce and bend fire through Firebending; the potency of your Firebending depends on your natural attunement to the element, your skill in martial arts, and your energy levels. Skilled enough users of Fire can even generate and direct electricity. The potency of firebending is also affected by the positioning of the sun, weaker at night, stronger at day, and unusable during an eclipse.
+616.Earthbending,5.2
+#Avatar - You have natural talent as an Earthbender, allowing you to bend and control Earth through Earthbending; the potency of your Earthbending scales with your attunement with the Earth, your skill in martial arts, and your energy levels. Skilled enough users of Earthbending can sense the Earth through tremors and even manipulate impure metals and lava.
+617.Waterbending,6.2
+#Avatar - You have natural talent as a Waterbender, allowing you to bend and control Water through Waterbending; the potency of your Waterbending; the potency of your waterbending scales with your attunement with Water, your skill in martial arts and finesse, and your energy levels. Skilled enough Waterbenders can even transform water into ice and heal wounds with their bending... and some might even be able to bend the blood of those weaker than them. The potency of Waterbending is also affected by the position of the moon; it is at its strongest during the night and a full moon and weaker during day.
+618.Airbending,5.8
+#Avatar - You have natural talent as an Airbender, allowing you to manipulate and bend Air through Airbending, the potency of your Airbending scales with your attunement to Air, your skill in martial arts, your mentality, and your energy levels. Skilled enough Airbenders can achieve flight and even bend air out of someone's lungs; they can also sense vibrations through the air.
+619.Hypertrophic Mechanic,4.4
+#(Tech)Whenever you use machinery or sufficiently complex technology, it develops hypertrophy. After using it and letting it rest or repairing the item, it will become slightly more robust and more powerful. Slow and steady wins the race.
+620.Item Hypertrophy,5.3
+#Who said only living beings could experience hypertrophy? All items that you use become stronger over time after rigorous use and wear; letting the item rest or repairing it after great use makes the item slightly more robust and powerful. Slow and steady wins the race.
+621.Super Sniffer,5.4
+#Demon Slayer - Your nose is scarily good, to the point where it is impossibly accurate and precise. You can discern people by smell, sniff out emotions, sniff out even intent and just about anything that the ol’ sniffer can sense.
+622.Enhanced Lungs,2.4
+#You’ve got an exceptional set of breathers on you, your lungs are tougher and more flexible, and they process the air far better, delivering more energy to your body and oxygen to your blood far easier.
+623.Nature Lungs,3.5
+#Your lungs are optimized to harmonize with the world around you with every breath. You take in energy from the environment and process it in your body to enhance your energy and vitality recovery.
+624.Fairy Lungs,4.6
+#You’ve got the lungs of a Fairy, every breath you take energizes you, especially when you are in an area with high energy concentration, breathing imbues your blood with the energy from the environment, increasing your Vitality and Energy recover speeds and physical performance depending on the energy density of the environment.
+625.Hard Heart,2.1
+#Your heart is a marvel of nature, it is far tougher than it should be yet more efficient than it would otherwise be at beating, needing to beat far less while beating far more efficiently. Anyone trying to stab your heart thinking it is your weak spot will have a bad time as it is just as tough as your bones.
+626.Spine of Steel,1.8
+#Your spine is incredibly durable and well built, it is far more difficult to break or injure compared to your other bones and increases the amount of strength you can exert compared to normal since you don’t have to worry about your formerly weak spine. In addition, even if your spine was utterly shattered, it will heal properly and heal far faster.
+627.Super High Capacity,6.0
+#You have 2 extra ability slots.
+628.Thermal Adaptor,2.6
+#The output of your Ice and Fire based abilities are increased depending on the temperature of your environment, the colder it is, the easier it is to use and resist Ice based abilities while the hotter it is, the easier it is to use and resist fire based abilities.
+629.Eye of the Tiger,3.6
+#You’ve got the eye of the Tiger, the willingness to push forward and see it through, the will to break your body training and not shed a tear. You are exceptional at training, being able to push your limits when training far easier, and recovering from the effects of training far faster. 
+630.Castle Doctrine,3.2
+#Whenever you fight in an area that you own as the defender, all of your physical stats are enhanced and your abilities cost less energy to use. This effect extends to all of your allies in the same area.
+631.Six Eyes,7.0
+#Jujutsu Kaisen - Your eyes are that of the fabled Six Eyes of the Gojo Clan, passively granting you extreme visual prowess that can even see through physical obstacles and can detect all forms of energy extremely well. These eyes also act like a Supercomputer when it comes to processing energy and information, granting you incredible efficiency when it comes to using your abilities and allows you to passively make incredibly taxing calculations. But these eyes are taxing to use and you may need to cover your eyes to rest them due to the amount of information they passively process.

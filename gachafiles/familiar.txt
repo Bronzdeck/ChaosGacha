@@ -207,9 +207,9 @@
 104. Mahoraga,6.3
 #Jujutsu Kaisen - The most powerful Shikigami of the Ten Shadows. Mahoraga is armed with the sword of extermination that deals severe damage to unholy beings and has great physical stats. But its real strength is the ability to adapt to any and all phenomena it encounters, offensively or defensively, and it can also share these adaptations with the user. Adaptations fade over time or when unsummoned, but the knowledge learned and ways to utilise powers taught by the adaptation do not. The more complex a phenomenon is, the longer Mahoraga takes to adapt to it. The power of shikigami scales with your own energy levels. 
 105. Power, 5.8
-#Chainsaw Man - Power is the Blood Devil, granting her the power to control all blood in her sensory range as well as possessing great physical stats and incredible regenerative ability. In addition, the more she is feared, the more power she has. The stronger a target is in relation to her, the harder it is for her to manipulate their blood.
-106. Bat Devil, 3.0
-#Chainsaw Man - A building-sized grotesque humanoid bat, as a devil the Bat Devil can heal from injuries by consuming blood, in addition to their superhuman physical stats, they can fly and release building-shattering sonic booms.
+#Chainsaw Man - Power is the Blood Devil, granting her the power to control all blood in her sensory range as well as possessing great physical stats and incredible regenerative ability. In addition, the more she is feared, the more power she has. The stronger a target is in relation to her, the harder it is for her to manipulate their blood.(Cannot do Heart replacement)
+106. Bat Devil, 3.7
+#Chainsaw Man - A building-sized grotesque humanoid bat, as a devil the Bat Devil can heal from injuries by consuming blood, in addition to their superhuman physical stats, they can fly and release building-shattering sonic booms.(Cannot do Heart replacement)
 107. Pochita, 6.6
 #Chainsaw Man - The Chainsaw Devil, the one that devils fear the most. As a devil Pochita has extreme regenerative abilities, being able to go from a puddle to full health in less than a second by simply pulling his cord. Pochita also has extreme physical abilities in addition to incomparable speed.
 108. Igris, 4.5
@@ -235,7 +235,7 @@
 118. Nyotengu,3.9
 #(Character)Dead or Alive - A female tengu who is very well-versed in martial arts and seduction. She is capable of summoning winds and storms with her fan like other tengu as well as flying and possessing enhanced strength. 
 119. Kon,3.7
-#Chainsaw Man - Kon is the Fox Devil who embodies the fear of foxes. She is a gigantic monstrous fox, who, thanks to being a devil is capable of making contracts with people and recovering her health by consuming blood. You can partially summon her body parts as attacks or simply summon her outright. Those who make contracts with her can also summon her.
+#Chainsaw Man - Kon is the Fox Devil who embodies the fear of foxes. She is a gigantic monstrous fox, who, thanks to being a devil is capable of making contracts with people and recovering her health by consuming blood. You can partially summon her body parts as attacks or simply summon her outright. Those who make contracts with her can also summon her.(Cannot do heart replacemenet)
 120. 20% Gun Devil,6.9
 #Chainsaw Man - A fragment of one of the strongest Devils, the Gun Devil is a skyscraper-sized Demon made of guns and human body parts. It has the ability to instantly shoot the heart of any living being within 1000 meters of it and can use its massive oversized guns to cause mass destruction. The gun devil is also capable of moving at absurd speeds, being able to circle the globe in minutes. As a devil, they are capable of making contracts with people and recovering their health by consuming blood.
 121. Senko,3.2
@@ -342,7 +342,7 @@
 #Skyrim - One of the strongest and oldest of the dragons in Tamriel and the former right hand of Alduin, Parthunaax is a powerful dragon, but after casting away his former domineering nature he has become a wise sage, and is capable of teaching the Thu'um and other arts to those willing to learn. This doesn't mean however that he himself is weak.
 172.Durnhevir,4.1
 #Skyrim - An undead necromancer dragon that once served Alduin before being trapped in the Soul Cairn. As a dragon hailing from Tamriel Durnhevir is powerful but his true power comes from the art of necromancy he has cultivated.
-173.Neferpitou,5.2
+173.Neferpitou,5.7
 #(Character)Hunter x Hunter - As a Chimera Ant Royal Guard, Pitou is an extremely powerful Nen user with a massively superhuman physique and agility as well as incredible mastery over Nen. Alongside her extreme sensory abilities, she possesses the ability to puppeteer corpses to use as minions and summon Doctor Blythe, a potent healing ability that requires her to stand still and lower her guard to restore a target over time. Her trump card allows her to puppeteer her own body to strengthen herself.
 174.Nemesis,3.7
 #Resident Evil - A modified tyrant bioweapon created by the Umbrella Corporation. Tyrant possesses massively superhuman stats and great regeneration, being able to survive as long as he has enough living cells left. But its greatest strength is its ability to rapidly mutate and adapt. No, not anywhere close to Mahoraga levels.
@@ -354,9 +354,9 @@
 #(Character)Fullmetal Alchemist - A homunculus created by father branded with the sin of lust. As a homunculus, Lust has enhanced stats compared to a human. In addition, the philosopher's stone implanted in her as her core keeps her immortal by regenerating her whenever she dies by consuming one of the souls inside as fuel. She has the ability to turn her fingertips into long and almost monomolecular sharp flexible claws that she uses with expertise.
 178.Darkbeast Paarl,2.4
 #Bloodborne - A dark beast that has reanimated itself from the dead. As a large skeletal monster, Paarl is strong enough to demolish walls and is immune to conventional weapons, even high-calibre bullets. In addition, Paarl can generate and release electricity from its body at will.
-179.Kirin,4.0
-#Monster Hunter - A legendary dragon(?) Kirin resembles the mix of a unicorn, a lion and a dragon. Kirin is extremely fast and physically mighty, but its main ability is to summon down bolts of lightning at will in addition to its immunity to lightning.
-180.Valstrax,5.0
+179.Kirin,4.1
+#Monster Hunter - Kirin is an Elder Dragon Kirin resembling a Unicorn. The Kirin is known for its exceptional speed and agility paired with its great physical might. In addition to its speed and strength, the Kirin has the ability to freely summon down lightning and cover its body with lightning to enhance its powers. 
+180.Valstrax,5.7
 #Monster Hunter - A legendary elder dragon, Valstrax is referred to as the Sky Comet Dragon, for good reason. In addition, being a mighty dragon, he has unique wings that allow it to expel the dragon element alongside to turn them into what are essentially dragon magic jet engines. It is strong enough to break sound several times over as a living dragon jet fighter.
 181.Mimikyu,3.0
 #Pokemon - A mysterious entity hiding beneath a shabby costume of another Pokemon in hopes of being loved and accepted due to its real appearance under the disguise being a severe cognito hazard. Mimikyu is capable of creating and controlling shadow constructs to attack and defend.
@@ -383,9 +383,9 @@
 192.Dogmeat,1.7
 #Fallout - Man's most dedicated companion. Dog Meat is a very capable and well-trained German Shepherd who is... seemingly immortal. He can track scents and has considerable intelligence for his species.
 193.Liberty Prime,5.6
-#Fallout - "Democracy is non-negotiable" A pre-war super weapon created by America. Liberty Prime is a large anti-communist mech equipped with armour that laughs in the face of anything below a ballistic missile and the strength to treat a superhuman behemoth like a toddler. Laser Gatlings that can be concentrated into one death beam, and chucks mini nukes like footballs. Liberty's energy and ammunition are refreshed every 24 hours. That includes 8 Mini Nukes.
+#(Tech)Fallout - "Democracy is non-negotiable" A pre-war super weapon created by America. Liberty Prime is a large anti-communist mech equipped with armour that laughs in the face of anything below a ballistic missile and the strength to treat a superhuman behemoth like a toddler. Laser Gatlings that can be concentrated into one death beam, and chucks mini nukes like footballs. Liberty's energy and ammunition are refreshed every 24 hours. That includes 8 Mini Nukes.
 194.Toaster,2.7
-#Fallout: Old World Blues - An extremely high tech toaster created by the genius minds in the Big MT. The toaster is capable of granting heating capabilities to technology and expertly disassembling technology into working parts... somehow. And its personality is coded to be a genocidal maniac who wants to burn the world down.
+#(Tech)Fallout: Old World Blues - An extremely high tech toaster created by the genius minds in the Big MT. The toaster is capable of granting heating capabilities to technology and expertly disassembling technology into working parts... somehow. And its personality is coded to be a genocidal maniac who wants to burn the world down.
 195.Taurus,2.8
 #(Character)Fairy Tail - Taurus is a Celestial Spirit, representing the Taurus constellation they have immense physical abilities that they use to wield an axe with, being quite proficient in melee combat. As a Celestial Spirit their form is liable to change between users. As a Celestial Spirit, they are immortal and her power scales with her owners.(Celestial spirits exist in Familiar Space instead of Celestial Realm by default unless Author decides otherwise)
 196.Aquarius,3.8
@@ -459,14 +459,14 @@
 230.Nrvnqsr Chaos,7.6
 #(Character)Tsukihime - Nrvnqsr Chaos is a dead apostle ancestor whose unique biology is made up of 666 beasts formed from the formless mud of life. He is the beasts themselves and shares his existence with all of them, making him immortal unless all beasts are dead. In addition, he can replace his beasts by absorbing other living beings, adding their abilities into himself and being able to release them as a beast too. Any beast of his that dies can be recovered after being absorbed into him.
 231.Pepsi Man,0.9
-#Pepsi - Pepsi Man, gives Pepsi whenever he can! When summoned Pepsi arrives at your location through any means before delivering everyone in the location a fresh can of Pepsi before disappearing. 8-hour cooldown. Note: This familiar is not sponsored by the Pespi Corporation. 
+#Pepsi - Pepsi Man, gives Pepsi whenever he can! When summoned Pepsi arrives at your location through any means before delivering everyone in the location a fresh can of Pepsi before disappearing. 8-hour cooldown. Note: This familiar is not sponsored by the Pepsi Corporation. 
 232.Nashrah,4.7
 #(Character)Fear and Hunger - Nashrah, once known as the Doom and Terror of the modern man left as a floating disembodied immortal head. Nashrah is an extremely powerful wizard specializing in Blood Magic and Pyromancy as well as rituals. Despite his incredibly foul behaviour, he has considerable wisdom and knowledge. Luckily his loyalty is enforced by the gacha even if his vulgarity remains. Regardless, you get to reroll the ticket you rolled him on for free to not have to deal with him.
-233.Leviathan,6.1
+233.Endbringer Leviathan,6.1
 #Worm - A Shard Superweapon reformed by Chaos, Leviathan is an incredibly powerful Hydrokinetic, capable of manipulating water that is not part of a biological entity across a massive or a really small scale with incredible precision, being able to sink entire cities alongside his formidable physical abilities paired with the freakish durability of an Endbringer(A/N: Scaled down to country level).
-234.Simurgh,7.0
+234.Endbringer Simurgh,7.0
 #Worm - A Shard Superweapon reformed by Chaos, the Simurgh is a floating angel-like entity with extreme physic powers. Simurgh has negligible albeit extremely precise offensive powers for her tier with her telekinesis but her real ability lies in her absurd clairvoyance that she can use to scan an entire planet and precisely predict the past and future using her hypercomputer brain as well as manipulate the actions of others. She also has a standard Enbringer physique with superhuman physical abilities and freakish durability(A/N: Scaled down to country level). Her Tinker Database has been wiped clean but she can still scan and rebuild technology.
-235.Behemoth,6.7
+235.Endbringer Behemoth,6.7
 #Worm - A Shard Superweapon reformed by Chaos, and the toughest among the three siblings. Behemoth is a giant capable of manipulating energy, allowing it to shoot powerful lightning bolts, create flames and release shockwaves. He can also redirect projectiles, and manipulate and absorb existing energy to a limit. He can also unleash extreme amounts of radiation from his body. As an Enbringer and the physically strongest one he has incredible strength and durability(A/N: Scaled down to multi-country level)
 236.Dragon,5.9
 #(Character)(Tech)Worm - Not an actual dragon. Instead, Dragon, or Theresa is a hyper-advanced tinker-made AI who is capable of copying, imitating and iterating on existing existing technology to design her own. As an advanced, she is capable of directing hundreds of mechs with ease as long proper servers are supplied to her. But due to limitations on her code she is incapable of creating more AI.
@@ -493,7 +493,7 @@
 247.Sapphire,4.8
 #(Character)Steven Universe - A second era Sapphire, a gem cast built to be able to see the future and provide advantages to their ruler. Sapphire has the ability to look into the likely future, but her future vision can be thrown off by unexpected variables. She has beyond human physical abilities and an uncommon rank cryokinesis to aid her in combat.
 248.Pearl,4.0
-#(Character)Steven Universe - Pearl is a first era gem created to be the perfect attendant. In addition to her superhuman stats, she has intermediate Cooking, Management, Weapon Mastery, Performance, Drawing, Discipline, Acting, Savoir Faire and Teaching. Making her the perfect attendant in almost all situations. She also possesses the standard gem abilities like storage, shapeshifting etc. You get to pick which pearl you get.
+#(Character)Steven Universe - Pearl is a first era gem created to be the perfect attendant. In addition to her superhuman stats, she has intermediate Cooking, Management, Arms Mastery, Performance, Fine Arts, Discipline, Acting, Savoir Faire and Teaching. Making her the perfect attendant in almost all situations. She also possesses the standard gem abilities like storage, shapeshifting etc. You get to pick which pearl you get.
 249.Eliza & Sekhmet,4.6
 #(Character)Skullgirls - Eliza was once an Egyptian empress who fused with the Parasite skeleton Sekhmet. Sekhmet allows Eliza to control blood, and replace her own body with blood that she controls, allowing her to shapeshift as she wills. Sekhmet also gives her superhuman physical stats. Eliza can store blood inside herself that she sustains herself on. She is also an excellent performer and combatant.
 250.Koro Sensei,6.8
@@ -629,7 +629,7 @@
 315.Connor,1.8
 #(Tech)(Character) Detroit Become Human - He is an android sent by Cyberlife, except not. He is an android made to closely mimic humans; he possesses peak human physicals and notable skill in combat. He is capable of scanning objects and humans to gather more data about them, albeit it is limited in function.
 316.HK 47,3.1
-#(Character)Star Wars - "Defiant Statement, there is nothing you can do to me." HK is an incredibly experienced and advanced Assassin Droid, being extremely skilled in all forms of combat and sorts of weapons, as well as in combating and assassinating enemies thanks to his brilliant computational mind and engineering. He is also a very skilled mechanic. He comes equipped with standard droid gear, such as a blaster.
+#(Character)(Tech)Star Wars - "Defiant Statement, there is nothing you can do to me." HK is an incredibly experienced and advanced Assassin Droid, being extremely skilled in all forms of combat and sorts of weapons, as well as in combating and assassinating enemies thanks to his brilliant computational mind and engineering. He is also a very skilled mechanic. He comes equipped with standard droid gear, such as a blaster.
 317.Magnaguard,2.9
 #(Tech)Star Wars - An Elite Cast of Droids made specifically to battle Jedi. The Magnaguards have superhuman physical capabilities and advanced polearm skills in wielding their electrical staves. You start with 4 guards and get more as time goes on according to your maximum stats.
 318.B-1 Battle Droid,1.0
@@ -666,7 +666,7 @@
 #A large ball of tentacles covered in a slimy substance, which is actually an incredible cleaning agent that has no smell or leaves any residue. The tentacle creature is very dexterous and skilled, being able to clean even the most complex of machinery without disturbing its mechanisms due to its morphing tentacles. No combat ability but they are very dedicated to their job.
 334.Troupe Master Grimm,4.5
 #(Character)Hollow Knight - Master of the Grimm Troupe, freed from the shackles of the Nightmare heart. As a fully matured Nightmare being, they are capable of shapeshifting, manipulating nightmare flames and performing short-range teleportation. As a nightmare, Grimm is also capable of invading the dreams of others.
-335Tinker Bell,1.4
+335.Tinker Bell,1.4
 #(Character)Peter Pan - Tinker Bell is a fairy from Neverland. Due to her size, she is quite weak and unable to meaningfully participate in combat. But she can fly and allow others to fly temporarily by sprinkling fairy dust on them; she can produce a decent amount of fairy dust regularly. 
 336.V1,5.8
 #(Tech)Ultrakill - V1 is a blood-fueled death machine, capable of moving incredibly fast and posessing incredible strength, unbefitting of its frame. Although their durability does not match up to their strength, they can repair themselves, but need blood and only blood as fuel to function. V1, alongside its scary expertise, also brings its entire arsenal along with it(no spawner arm). It is a one-robot army thirsty for blood, and nothing will stop it from drinking.
@@ -677,7 +677,7 @@
 339.Radioactive Spider,5.5
 #Spider-Man - A gamma-mutated spider that has the ability to grant those it injects its venom into the powers of a Spider. Its venom refills around 18 - 3 days, depending on how well it is fed. (No spider totems, they get the basic Tobey Maguire movie spider-man ability set)
 340.Big Gete Star,9.4
-#Dragon Ball - A giant planet-sized intelligent computer. The Big Gete Star is capable of absorbing energy and assimilating anything into itself to improve its abilities. Anything the Big Gete Star has assimilated, it can reproduce and replicate, including cybernetic clones of living beings and functionally any technology. But it does need very powerful energy sources to power some of its functions. It is also very capable of interplanetary travel and shapeshifting. Does not include the Meta Cooler Core.
+#(Tech)Dragon Ball - A giant planet-sized intelligent computer. The Big Gete Star is capable of absorbing energy and assimilating anything into itself to improve its abilities. Anything the Big Gete Star has assimilated, it can reproduce and replicate, including cybernetic clones of living beings and functionally any technology. But it does need very powerful energy sources to power some of its functions. It is also very capable of interplanetary travel and shapeshifting. Does not include the Meta Cooler Core.
 341.Ridley,5.1
 #Metroid - One of the most fearsome pirates in the known universe, Ridley is equal parts cunning and powerful despite portraying himself otherwise. He has incredible physical might that allows him to tear apart metal with ease and a flamebreath that can melt open spaceship hulls. Not only that, he is deceptively fast, being able to outpace most planes in an atmosphere and being able to go fast enough to achieve interstellar travel outside the atmosphere by his lonesome.
 342.Venom,5.9
@@ -708,7 +708,7 @@
 #Terraformars - A giant humanoid 2 meter tall 100kg+ cockroach with superhuman physique and the ability to fly, absolutely ruthless and deceptively smart, it can reproduce asexually, and all genetic memory is passed down to the next generation. It rapidly adapts each generation and possesses the incredible survival abilities of a cockroach. Just a single one is more than enough to start an entire civilisation of these monsters. Very few civilisations can survive a full-on Terraformar infestation.
 355.Made in Heaven,8.1
 #JoJo - Made in Heaven is a stand bound to your soul that has the ability to accelerate time on a universal scale, although thanks to being bound to a more pilable soul, it can exert more control over its abilities. Allowing it to infinitely accelerate the speed of the user according to the amount of energy they expend or any target they choose to target, whether it is a planet, an apple, a person or the entire universe. It consumes you energy to activate its ability; the amount of energy consumed scales with the amount you accelerate time by, does not take the size of targets into account.
-356.Amaterasu,8.4
+356.Goddess Amaterasu,8.4
 #(Character)Fate - Amaterasu, the Goddess of the Sun and a potential Beast Candidate. Although weakened due to no longer being able to hide in her pocket of Age of the Gods or being boosted by Fate Concepts, she is still an incredibly powerful Divine Spirit with Great Might and Immense Magical Power. Her divinity allows her to use incredibly powerful Light and Fire magic, as well as all of the abilities possessed by Tamamo no Mae, boosted to incredible levels.(Output reduced to Satellite Class)
 357.Dwarf in the Flask,5.9
 #(Character)Fullmetal Alchemist - The Dwarf in the Flask, the first homunculus created by Hohenheim with a shard of the eye. It possesses a completely amorphous darkness physique that can shred tanks and great physical might, but that is not its main power. The homunculus possesses immense alchemy knowledge and transmutation, being able to create transmutation circles, create philosopher stones out of souls, creating homunculi, creating chimera and much more with its extensive knowledge, even being able to teach the art of Alchemy to others.(Note: Does not possess the power of Truth nor can it reach it due to it not existing in other worlds)
@@ -763,7 +763,7 @@
 382.Miriel the Pastor of Vows,1.9
 #(Character)Elden Ring - "The best dog" Miriel is an ancient, aged, sentient, and intelligent turtle officially ordained as a pastor. While he may not have notable powers beyond his sturdy shell, he is an incredibly skilled and compassionate teacher, in both spiritual, emotional, and even magical matters, being able to provide guidance to many. While he may not come with any of his miracles and spells from his own world, he would be incredibly helpful if you choose to study with his help on the magic of your own world, or any Grimoires you might receive thanks to his great insight and teaching ability.
 383.Bucky,1.9
-#(Character)Chainsaw Man - Bucky is the Chicken Devil, as a devil he can form devil contracts with others and heal himself through blood, but due to the lack of fear towards chickens, he is even weaker than a cat and without any special abilities beyond his Devil Physiology.
+#(Character)Chainsaw Man - Bucky is the Chicken Devil, as a devil he can form devil contracts with others and heal himself through blood, but due to the lack of fear towards chickens, he is even weaker than a cat and without any special abilities beyond his Devil Physiology.(Cannot do Heart replacemenet)
 384.Earthmover,6.4
 #(Tech)Ultrakill - THR 1000 - Earthmover is a Supreme Machine of titanic size, it is a moving military base of immense destruction made to turn cities into ashes in its wake, with its Lightning Spear's power eclipsing most nuclear weapons, and its forcefield that can easily withstand its own spears. It is also equipped with other weapons like missile platforms, giant autocanons, and laser canons. Due to its sheer size, there is a small city on the Earthmover's back that is completely livable, and it contains drones to repair itself. The Earthmover requires sunlight and Blood to fuel itself; its ammunition and blood reserves are refueled every 24 hours.
 385.Flesh Leviathan,4.6
@@ -784,3 +784,137 @@
 #Monster Hunter - Gore Magala is a Demi Elder Dragon, one that has yet to reach full adulthood. It has six limbs with one pair of arms serving as arms for its massive body. The Gore Magala has considerable physical strength but is blind and relies on its scales to sense find its way around alongside heat. The Gore Magala constantly scatters minuscule pollen-like scales and pollutes the air with them to find its way around. In addition, these pollens contain the Frenzy Virus, an affliction that can infect more Bestial beings to induce a berserk-like state in them while causing Humanoid creatures to be unable to heal naturally for a time. If fed high-quality prey enough, after some time, Gore Magala can metamorphose into a Shagaru Magala.
 393.Shagaru Magala,5.8
 #Monster Hunter - Shagaru Magala is an Elder Dragon and the Mature Species of the Gore Magala. It has immense physical strength contained in its large frame and 6 limbs. The Shagaru Magala has the ability to scatter its minuscule scales like pollen to more accurately perceive its surroundings and inflict the Frenzy Virus, which it can also do with its breath attacks. The Frenzy Virus can induce Berserk in beastial creatures and render humanoid ones unable to heal naturally. The range of Shagaru's scales is large enough to cover the mountain it roosts in. In addition, if the host is compatible enough, the scales of a Shagaru Magala can act like eggs and use the host as a hatchery to spawn infants of its kind.
+394.Nick O' Teen,1.0
+#DC - The dastardly Nick O' Teen is a supervillain who is severely addicted to nicotine and likes getting people addicted to smoking. When summoned, he will arrive at the current location and hand everyone a pack of cigarettes before leaving. This familiar has a 24-hour cooldown.
+395.The Fallen Aces,3.2
+#(Character)Fallen Aces - Your own whole gang of Goons and Mooks to command, where did they come from? Why do they all look so similar? Are they even real people? Who knows? They are all roughly middle-aged Italian men of varying gooning and mooking proficiencies, ranging from barehanded fighting, attacking with pipes, and wielding ranged weapons. Beware, they are not very smart but very loyal. You start with 100 Goons/Mooks and gain more as you become stronger. Reference: https://fallenaces.wiki.gg/wiki/Category:Enemies#Gangster_enemies-0
+396.Rodent of Usual Size,0.1
+#An appropriately sized common rat.
+397.Rodent of Unusual Size,0.5
+#Princess Bride - An unusually large rat, strong enough to maim a grown man.
+398.Cancerous Rodent,1.5
+#Ultrakill - An otherwise normal gnarly looking glowing green rat that constantly emits harmful radiation at levels that surpass Radium or Enriched Uranium.
+399.Mythra and Prya,6.3
+#(Character)Xenoblade - Mythra and Pyra are a Legendary Blade, a lifeform created out of a Core Crystal linked to the user who possess the signature weapon of Aegis Blade and possess the elements Light and Fire. As a Legendary Blade, both Mythra and Prya are incredibly capable, with Mythra possessing short-range precognition, light element manipulation, and incredible speed, while Prya has incredible destructive power with her fire element manipulation. Mythra and Pyra are the alternate forms of the same entity, and only one may be out at once. As a Blade, they can grant their Driver(the person they are linked to) a portion of their abilities and their signature armament when they are manifested, but at the same time, they require energy from their user in order to use their abilities. The strength of a blade scales with that of their user and their bond with their user.(No core revival or Pneuma)
+400.Aegaeon,5.6
+#(Character)Xenoblade - Aegaeon is a Legendary Blade, a lifeform created out of a Core Crystal bound to their Driver, whose signature weapon is a Chroma Katana and possesses the Water Element,. As a Legendary Blade, Aegaeon has incredible capabilities, namely his incredible swordsmanship and physical abilities. As a Blade, they can grant their Driver(the person they are linked to) a portion of their abilities and their signature armament when they are manifested, but at the same time, they require energy from their user in order to use their abilities. The strength of a blade scales with that of their user and their bond with their user.
+401.Brighid,5.7
+#(Character)Xenoblade - Brighid is a Legendary Blade, a lifeform created out of a Core Crystal bound to their Driver, whose signature weapon is a pair of Blade Whips and possesses the Fire Element. As a Blade who has lived countless years, Brighid is incredibly capable with great wisdom, immense skill and mastery over the Fire Element. As a Blade, they can grant their Driver(the person they are linked to) a portion of their abilities and their signature armament when they are manifested, but at the same time, they require energy from their user in order to use their abilities. The strength of a blade scales with that of their user and their bond with their user.
+402.Dromarch,4.9
+#(Character)Xenoblade - Dromarch is a Blade, a lifeform created out of a Core Crystal bound to their Driver, whose signature weapon is a pair of Twin Rings and possesses the Water Element. As a Blade, Dromach possesses formidable capabilities, including his powerful physique, healing abilities, and mastery over the Water Element; he can also be ridden as a mount. As a Blade, they can grant their Driver(the person they are linked to) a portion of their abilities and their signature armament when they are manifested, but at the same time, they require energy from their user in order to use their abilities. The strength of a blade scales with that of their user and their bond with their user.
+403.Perdido,5.0
+#(Character)Xenoblade - Perdidois is a Special Blade, a lifeform created out of a Core Crystal bound to their Driver, whose signature weapon is a Decimation Cannon and possesses the Fire Element. As a Blade, Perdido possesses formidable capabilities, including his great physical abilities and his mastery over many different weapons in his arsenal and control over the Fire Element. As a Blade, they can grant their Driver(the person they are linked to) a portion of their abilities and their signature armament when they are manifested, but at the same time, they require energy from their user in order to use their abilities. The strength of a blade scales with that of their user and their bond with their user.
+404.Zenobia,4.8
+#(Character)Xenoblade - Zenobia is a Rare Blade, a lifeform created out of a Core Crystal bound to their Driver, whose signature weapon is a Greataxe and possesses the Wind Element. As a Blade, Zenobia possesses formidable capabilities, including his great physical abilities and use of the wind element. In addition, her nature as a berserker allows her to get stronger the more wounded she is. As a Blade, they can grant their Driver(the person they are linked to) a portion of their abilities and their signature armament when they are manifested, but at the same time, they require energy from their user in order to use their abilities. The strength of a blade scales with that of their user and their bond with their user.
+405.Nia,6.1
+#(Character)Xenoblade - Nia is a Legendary blade, but not only that, she is a Flesh Eater Blade, a Hybrid of a Blade and Gormotti with the powers of a Blade while being a living creature with the water element, and her signature weapon Catalyst Scimitar. Her Blade abilities grant her increased physical abilities and the ability to control the water element, and the unique ability of Biokinesis, allowing her to help people regenerate, drain life force, and even invert regeneration on opponents. While she can act independently, Nia can also link with a Driver who can supply her with energy to make her stronger while she shares a portion of her powers with them.
+406.Nosferatu Zod,3.0
+#(Character)Berserk - Zod is an Apostle, an inhuman creature associated with the God Hand, with inhuman strength, agelessness, and regeneration. Due to having lived a long time, Zod is very proficient in combat both in his "human" form and his "Apostle" form. Being capable of tearing steel with his hands with ease and being immune to conventional weapons, in his Apostle form, he is also capable of flight.
+407.Mizune Family,3.8
+#(Character)Soul Eater - The Mizune Family are a set of 5 almost identical-looking mice witches who can freely change between their Mice and Human forms at will. The Mizune family excel at stealth and espionage and have their unique magic of Beam Whiskers, which shoot straight laser attacks. The 5 Mizune are capable of merging into stronger forms depending on how many merge at once.
+408.Eruka Frog,3.9
+#(Character)Soul Eater - Eruka is a Witch Frog, a frog who can take on the form of a woman and a frog at will. As a witch, Eruka is quite good at magic, with her signature magic being her Calculation magic and Tadpole Bombs which is a simple offensive spell, while Calculation Magic, which Eruka is a master at, allows her to do calculations at a pace that can match and even surpass a supercomputer under the right circumstances. This also allows her to cast other types of spells with incredible precision.
+409.Chaomorph,4.3
+#The Greater Chaomorph is a formless information-based entity created out of an infinitesimally small fragment of the Nuclear Chaos. The Chaomoph is capable of taking the form of any familiar Uncommon rank and below that it feels is the most optimal to fulfill its duties, but is without any abilities in its base form. If the Chaomorph dies, it will revive within 24 hours.
+410.Greater Chaomorph,6.6
+#The Greater Chaomorph is a formless information-based entity created out of an infinitesimally small fragment of the Nuclear Chaos. The Chaomoph is capable of taking the form of any familiar Elite rank and below that it feels is the most optimal to fulfill its duties but is without any abilities in its base form. If the Chaomorph dies, it will revive within 24 hours.
+411.Faceless One,8.3
+#A fragment of the Faceless God forged into the form of a familiar. The Faceless one is capable of transforming into any Legendary Rank and below familiar at will but is without any abilities in it's base form. And in the event of its death, will revive after 1 hour.
+412.Investigator,2.6
+#This familiar manifests as a nondescript phone. Using this phone, you can call the Investigator and describe a target that you know the appearance and face of, after which the Investigator will start their investigation on this person with the stats of a regular human and the skills of Expert Spycraft and Expert Stealth. You can ask for updates on the investigation using the phone or give other orders.
+413.Investinggator,1.5
+#No no, you read that right. This reptile is a master of the free market and stock speculation. If you leave money with him to invest with, you can rest assured that your money is in the right hands... claws... maw?
+414.Instiggator,1.7
+#No no, you read that right. This reptile is a master of provocation and causing conflicts, he easily knows to enrage or provoke people or a group of people despite being an otherwise ordinary alligator.
+415.Interroggator,1.3
+#No no, you read that right. This reptile is a master of interrogation and getting answers from people, coaxing the truth out of them through any means in their disposal despite being an otherwise ordinary alligator.
+416.Litiggator,1.2
+#No no, you read that right. This reptile is a master of litigation and the art of being an attorney; they are very well read on the laws of the world you are in, but may have some trouble representing you in court on account of being a regular reptile. 
+417.Naviggator,1.4
+#No no, you read that right. This reptile is a master of navigation and has an excellent sense of direction, if you give it a map and a compass, it can almost certainly lead you to where you need to go, despite being a regular alligator.
+418.Carpenter Ants,1.6
+#This massive ant colony is made up of incredibly skilled, hardworking, and talented ants that are masters of carpentry. As long as they are provided with the wood and related materials, these ants can build a house in a single day and expand their colony by recycling the wood waste. If the colony grows large enough, they could even build a town in a day.
+419.Hubert Jura Hound,0.5
+#Otherwise known as a Bloodhound is a regular purebred St. Hubert Jure Hound dog that are known for their exceptional sense of smell.
+420.Four Dark Devas of Destruction,0.7
+#Danganronpa - Despite their grandiose and strange name, the Four Dark Devas of Destruction are actually a set of 4 very quirky but well trained hamsters with their own unique personalities. 
+421.Patrasche,1.4
+#Re:Zero - Patrasche is an unusually intelligent and emotionally aware Ground Dragon, a lesser dragon more akin to a horse as a bipedal lizard. She is strong enough to bite off the head of a grown man and can ride as fast as a horse even when a carriage is attached to her due to her Divine Protection of Wind Evasion which nullifies wind resistance for her and things in contact with her.
+422.Gacha Man,3.3
+#What is that? An event instead of a regular familiar? That's right, Gacha Man is in your world right now! He is within roughly an hour of travel away from you at most, and holds a briefcase. If you manage to locate and execute him within an hour, you will find an Advantage Gold Choice Gacha Ticket inside. If you fail to kill him in an hour, he will leave, and you will get nothing.(Gacha Man is not elligible for revival or insurance, he must die.)
+423.Piercing Ox,3.5
+#Jujutsu Kaisen - An Ox Shikigami of great physical power. Alongside being a very physically powerful shikigami, the Piercing Ox has the ability to get stronger the longer it goes in a straight line. In addition, as a Shikigami, the power of the Piercing Ox scales with your own energy levels.
+424.Tiger Funeral,5.4
+#Jujutsu Kaisen - A humanoid tiger shikigami with great physical power and incredibly sharp claws that can easily shred metal. Tiger Funeral possesses the ability to temporarily revive the familiars/summons of the user in shadow forms, and even create multiple shadows at once as long as the user can supply the energy to maintain them. In addition, as a Shikigami, the power of the Tiger Funeral scales with your own energy levels.
+425.Beldia,4.8
+#(Character)Konosuba - Beldia is a Dullahan and a former general of the Demon King. Despite his flippant attitude, he is a very powerful and skilled Knight. Beldia possesses incredible physical strength and night unlimited, which, paired with his skill in swordsmanship, makes him very formidable. He can also cast powerful curses and summon Death Knights.
+426.Hans,5.1
+#(Character)Konosuba - Hans is a massive Dead Poison Slime and a former general of the Demon King. Hans' body is made up of extremely deadly poison capable of instantly melting the body of a regular human on contact. He can also detach parts of himself to poison things. In addition, his composition makes him nigh immune to physical attacks and resistant to magical attacks.
+427.Echidna,0.2
+#A small, spiny, and cute mammal. Although utterly useless in terms of utility as a familiar, they are pretty cute.
+428.Krombopulous Michael,3.2
+#(Character)Rick and Morty - "Oh boy, here I go killin' again." Michael is a Gromflomite assassin, among the best of the best. He has mastered the art of killing and infiltration, being extremely skilled at espionage and all forms of weapons. And on top of that, he has absolutely zero morals and standards.
+429.Merged Beast Agito,5.0
+#Jujutsu Kaisen - Agito is a Merged Shikigami of great power. In addition to possessing extremely strong physical abilities, Agito has the power to manipulate and emit Electricity. While also possessing the power to use Reverse Cursed Energy to both heal and disrupt negative energies.
+430.Vernum Carnis,4.6
+#Vita Carnis - Vernum Carnis, otherwise known as a Singularity, is an unknown extraterrestrial lifeform in the shape of a floating matte orb with the ability to interfere with electromagnetic signals and turn any dead flesh into Scandere Carnis, or crawl, a strange biological creature that can expand by consuming more nutrients and create a variety of flesh monsters over time.
+431.Raccoon,0.4
+#A regular raccoon, it is really good at scrounging through trash and eating said trash.
+432.A Tanuki,0.5
+#A regular tanuki, as in the Japanese Raccoon Dog, not the yokai. They don't really do much, but they are pretty cute.
+433.Arvak,1.4
+#Skyrim - Arvak is a cool and badass undead skeleton horse, it is fairly strong and has infinite stamina, allowing it to be ridden for practically forever. In addition, even if Arvak is killed, he can be respawned within 10 seconds.
+434.Appa,2.5
+#Avatar - Appa is a massive Sky Bison, a race of creatures capable of airbending by nature. In addition to his massive stature, surpassing that of an elephant, which he can use to fight, he is also capable of flying using airbending to cross large distances, even with passengers.
+435.Hamsuke,3.5
+#(Character)Overlord - Otherwise known as the Wise King of the Forest, Hamsuke is a gigantic hamster-like creature with a long prehensile snake-like tail. Despite their appearance, Hamsuke is very physically strong, with her fur being as durable as steel and her tail being able to rip the head off of a knight in one blow. In addition to her physical abilities, she can cast basic low-tier magic thanks to the sigils on her body.
+436.Militech Chimera,3.5
+#(Tech)Cyberpunk - The Militech Chimera is a state-of-the-art autonomous tank filled to the brim with numerous weapons, self-repair, and considerable mobility. Such as automated flechette cannons, plasma cannons, machine guns, poison gas, explosives, and repair bots to repair its body. However, it may be vulnerable to attacks from above. It is piloted by a smart AI.
+437.Butter Passing Robot,0.6
+#(Tech)Rick and Morty - A small sentient robot on treads, created by one of the greatest minds in all of reality for the purpose of passing butter. Though it can do other very inconsequential menial tasks too, such as pulling a lever or passing margarine.
+438.Magnamalo,3.7
+#Monster Hunter - Magnamalo is a Fanged Wyvern with fearsome physical abilities and tough armor like hide that is stronger than even steel and possesses blades on several limbs. In addition to its fearsome predator instincts, agility and strength, the Magnamalo can expel extremely volatile purple known as 'Hellfire' from several points in its body. The Magnamalo also regenerates from non-severe wounds quite quickly thanks to its incredible metabolism.
+439.Lunagaron,4.0
+#Monster Hunter - Lunagaron is a powerful Fanged Wyvern resembling a frozen werewolf. It is a born apex predator with strength enough to crush armored opponents like tin cans and extreme agility capable of running on walls. In addition, Lunagaron possesses a special organ that allows it to supercool air and expel supercooled mist from its body, and create a special kind of ice on its body that is incredibly resistant to heat. They can also enter a berserk form by stopping their thermoregulation to increase their strength and enter a bipedal stance.
+440.Shogun Caenataur,4.2
+#Monster Hunter - The Shogun Caanataur is a massive creature resembling a lobster and a crab with massive blade-like limbs. Despite its size, the Shogun is very agile and can swing its blade limbs at great speeds with considerable strength. In addition to the giant blades on its limbs, it can also shoot out pressurized water from its shells to attack at range.
+441.Zinogore,3.1
+#Monster Hunter - Zinogore is a large bestial quadrapedal fanged wyvern of great size and considerable physical power and the instincts of a hunter. In addition, the Zinogore's fur is a breeding ground for Thunderbugs(included with the familiar) which it can use to imbue its attacks with lightning or direct them to attack.
+442.Voljang,4.3
+#Monster Hunter - Voljang is a relative of the Rajang, a massive towering gorilla-like monster with immense physical strength and temper. The Voljang is also capable of breathing flames and coating its body in flames to assist its attacks. In addition, Voljang can also enter a berserk state where its physical abilities and flames become stronger.
+443.Nakarkos,5.2
+#Monster Hunter - Nakarkos is an Elder Dragon, or more like a giant bone-covered cephalopod-like monster with two dragon tentacles. Despite its aquatic nature, Nakarkos can easily move through land too, and they possess immense physical strength and the ability to expel incredibly sticky and viscous fluid that it uses to trap prey and add bones to its body to make itself stronger. It can also condense dragon energy in its limbs to shoot beam attacks.
+444.Amatsu,5.6
+#Monster Hunter - Amatsu is an Elder Dragon known as the Calamity of the Skies. This Dragon is capable of manipulating weather around it by manipulating Water and Wind, allowing it to create hurricanes, control weather over a massive area, fire off pressured water breaths, and rain down lightning while flying around effortlessly.
+445.Garangolm,4.9
+#Monster Hunter - Garangolm is a massive Fanged Beast resembling a gorilla with immense might. Garangolm can release sap-like fluid that feeds and promotes plant life from its body, allowing plants to grow on its body. In addition to their immense might, Garangolm can cover their body in hardened earth to guard themselves or cover their hands in earth and then melt it to use lava gauntlets.
+446.Velkhana,5.3
+#Monster Hunter - Velkhana is a majestic Elder Dragon with power over ice. As a dragon, Velkhana can fly fast and possesses great physical power. In addition to its powerful body, Velkhana has the ability to breathe out supercooled liquid to flash freeze objects and manipulate ice to manifest icebergs and armor itself with ice.
+447.Elder Gammoth,3.3
+#Monster Hunter - The Elderfrost Gammoth is a massive Mammoth-like Fanged Beast, larger than a siege machine. With her great size and incredible strength and durability, Gammoth can charge through the walls of a castle with ease. In addition, she can also breathe out ice and snow from her trunk.
+448.Goss Harag,2.6
+#Monster Hunter -  Goss Harag is a large Yeti/Bear/Demon-like Fanged Beast of great stature. In addition to their physical might, the Goss Harag can spit out supercooled fluid that forms into ice. They can not only use this to freeze opponents, but also form ice bludgeons and blades on their arms to attack opponents with.
+449.Malzeno,6.0
+#Monster Hunter - The Malzeno is an Elder Dragon of incredible power, known as the Scarlet Feast. The Malzeno, in addition to being an incredibly strong dragon capable of wielding Dragon Energy to fire off breaths and attacks, has developed a symbiotic relationship with Qurio, a parasitic creature, allowing it to drain life and use the energy they collect. Swarms of Qurio use its bodies as a nest, from which they will assist the Malzeno, draining vitality and blood from targets while poisoning them and bringing the collected Blood and Vitality to the Malzeno to heal it, strengthen it, and even allow it to go into a stronger Bloodening form.
+450.Ruiner Nergigante,5.5
+#Monster Hunter - The Ruiner Nergigante is an Elder Dragon who has matured to an elder level. The Ruiner possesses immense physical strength and great agility, which it uses in tandem with the countless hyper-tough spikes growing from its body to crush, shred, and impale enemies. In addition, the Ruiner has great regenerative abilities as long as it is fed, being able to regrow spikes in seconds and heal from even lethal wounds, and every fight it survives, it and the spikes on its body become stronger. A Nergigante reproduces asexually by laying eggs in the form of their spike as long as they have a large excess of nutrients and bio energy.
+451.Qurio Swarm,4.6
+#Monster Hunter - the Qurio are a species of flying parasitic leeches that have the ability to latch onto targets and drain their Vitality and Blood before returning to their host to share that energy with them. They also carry potent diseases that can drive targets berserk or slowly kill them. The swarm cannot reproduce but replenish their numbers over time if killed. You start with 10 Qurio and get more as you become stronger.
+452.Canyne Pack,2.9
+#Monster Hunter - A pack of well-trained Canyne, very smart and loyal Fanged Beasts resembling canines. Canynes are strong enough to run with considerable speed even when an armored person is riding on their back and agile enough to scale walls. Alongside that, Canynes are smart enough to know how to use tools and know how to help their companions. You start with a pack of 5 and get more as you become stronger.
+453.Fatalis Trio,6.5
+#Monster Hunter - A Trio of Fatalis', the apex Elder Dragons of their native world that hold immense power enough to raze castles with their breath and ruin countries overnight. All three Fatalis have immense physical power and regenerative abilities. The regular Fatalis specializes in immense firepower capable of vaporizing steel; the Crimson Fatalis is a less stable and more powerful Fatalis capable of manipulating magma and summoning meteors, while the eldest White Fatalis instead is even stronger and has the ability to manipulate Red Lightning infused with Dragon Energy and call down beams of energy. It is unknown how they reproduce, but you can probably figure it out somehow.
+454.Lil' Entity,7.5
+#Worm - Just a lil' guy multidimensional guy the size of a country made up of countless shards contained entirely in the Familiar Space. The Lil' Entity is a baby Entity, a race of massive hypercomputer-like alien entities of immense energy with the ability to analyze and replicate phenomena through their shards. Thanks to being connected to Chaos, this lil' guy instead has the ability to analyze and replicate the Abilities and Traits of its user; the stronger and more esoteric an Ability or Trait, the more time it needs to analyze and replicate it. Once the lil' fella is done analyzing, they can distribute shards to targets that allow them to use copies of the user's abilities by using them as a liaison.
+455.Common Blade Core,2.8
+#Xenoblade - A Common Blade Core that, when imbued with energy, forms into a Common Blade with a weapon and element compatible with the one who imbued them with energy and bonds with them as their driver.
+456.Rare Blade Core,4.5
+#Xenoblade - The core of an unidentified Rare Blade. By imbuing energy into this core, it will bond with the user and form into one of the Rare Blades that are compatible with them.
+457.Investiggator,2.6
+#No no, you read that right. This reptile is a master of Detective and Investigation work, possessing the skills of Expert Spycraft, Expert Stealth, Expert Interfacing, and Expert Savoir Faire, but is otherwise a regular Alligator.
+458.Coco Jumbo,1.7
+#JoJo - A seemingly regular Turtle that possesses a stand that allows others to use the key embedded on its back to enter a room contained inside of it and leave it will.
+459.Hollow Army,2.5
+#Dark Souls - A small army of hollows to serve you. While they are not very smart or very strong, they know how to use their weapons. This army includes Hollow Soldiers that wield swords, shields, spears, and crossbows. You start with an army of 50 that increases in number as you become stronger.
+460.Lopunny,2.3
+#Pokemon - "There are no laws against the pokemon Batman!" Lopunny is a bunny like pokemon of great agility and exceptional leg strength, being able to deliver devastating kicks and move around rapidly.

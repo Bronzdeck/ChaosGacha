@@ -15,11 +15,11 @@
 8. Intermediate Mechanics, 2.2
 #You are a decent mechanic, you can fix most mundane appliances when given the right tools and have a good knowledge base of how most machines work and how to build basic machines.
 9. Intermediate Biology, 2.6
-#you are learned enough in the field of Biology to be a professor, and you have good knowledge of how most organs and organisms function, you know how most things interact with biology and how to affect biology yourself.
+#You are learned enough in the field of Biology to be a professor, and you have good knowledge of how most organs and organisms function, you know how most things interact with biology and how to affect biology yourself.
 10. Intermediate Physics, 2.7
-#you are learned enough in the field of Physics to be a professor, you know how physics works and how they interact with objects. You can spot and understand how most phenomena interact with the laws of the universe.
+#You are learned enough in the field of Physics to be a professor, you know how physics works and how they interact with objects. You can spot and understand how most phenomena interact with the laws of the universe.
 11. Intermediate Chemistry, 2.5
-#you are learned enough in the field of Chemistry to be a professor, enough to be a professor, you understand how most common compounds are formed and remember the interactions of chemicals and reactions well.
+#You are learned enough in the field of Chemistry to be a professor, enough to be a professor, you understand how most common compounds are formed and remember the interactions of chemicals and reactions well.
 12. Intermediate Math, 2.8
 #You are very good at math, enough to be considered somewhat of a savant. You can rapidly calculate numbers in your head very accurately, faster than most people. You can also keep track of numbers and variables especially well.
 13. Intermediate Blacksmithing, 2.0
@@ -179,7 +179,7 @@
 90. Adept Kama Sutra, 3.3
 #(Nsfw)You are very talented in the carnal art, being able to spot signs of arousal and attraction, in addition, you instinctively know how to pleasure your partner in bed and be a very pleasant recipient, enhancing pleasure for both of you.
 91. Adept Taming, 3.1
-#You are great at taming, making beings submit to your ownership or superiority. You know how to gain the obedience and loyalty of eligible families and people to a lesser extent. You are also good at training them too.
+#You are great at taming, making beings submit to your ownership or superiority. You know how to gain the obedience and loyalty of eligible familiars and people to a lesser extent. You are also good at training them too.
 92. Adept Massage, 3.6
 #You are as skilled as a seasoned masseuse, being able to give a variety of massages that help get rid of exhaustion, recover stamina, revitalize the body and mind and even invoke sexual pleasure. Few would leave the massage bed unsatisfied.
 93. Adept Driving, 3.0
@@ -394,14 +394,14 @@ You have mastered the art of stealth, you blend in with the shadows and move wit
 #You have Adept-level expertise in all basic trades (Adept Blacksmithing, Medicine, Mechanics, Cooking, Interfacing) with competence comparable to an actual veteran of the trade and are greatly talented in those fields. 
 198.Ace of All Trades,6.2
 #You have Expert-level expertise in all basic trade skills(Expert Blacksmithing, Medicine, Mechanics, Cooking, Interfacing), granting you expertise comparable to the real masters of the trades. And if you choose to train them further, you are also far more talented in any Trade field.
-199.Firebending,4.7
-#Avatar - You are an apprentice Firebender, being able to convert your internal energy into fire you can manipulate with your own form of movements and martial arts. The more experienced and trained you are the stronger your bending.
-200.Waterbending,4.6
-#Avatar - You are an apprentice Waterbender, being able to use your internal energy to interact with the water in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.
-201.Airbending,4.9
-#Avatar - You are an apprentice Airbender, being able to use your internal energy to interact with the air in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.
-202.Earthbending,4.5
-#Avatar - You are an apprentice Earthbender, being able to use your internal energy to interact with the earth in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.
+199.Calligraphy,0.8
+#You have excellent handwriting, allowing you to write extremely fast while maintaining appealing writing.
+200.Meditation,2.5
+#You are well-versed in the art of meditation, which is calming down and clearing your mind of distractions. While in a meditative state, your energy recovers slightly faster.
+201.Etiquette,1.0
+#You have excellent etiquette, knowing how to present yourself with a regal bearing and not breaking rules of high society while maintaining decorum and politeness.
+202.Swimming,1.1
+#You know how to swim very well, on par with an Olympian swimmer even; if you are dunked into water, chances are, you won't drown.
 203.Novice Performance,1.0
 #You know how to put in a performance. You are able to play all musical instruments enough to play basic songs, you can also sing decently, you can dance without tripping. You would fit right in with a high school band.
 204.Intermediate Performance,2.1
@@ -592,3 +592,13 @@ Demon Slayer - You have completely mastered Total Concentration Breathing techni
 #Elden Ring - You have learned the art of boiling some mean crab, prawn, and crustations in general with great skill on the level of the great Big Boggart. While your crab might be the magical ones from the Lands Between, it will taste spectacular nonetheless.
 297.Hacking,2.5
 #You are skilled at leveraging your skills to get into networks and get past digitized and cyber defenses.
+298.Crying,0.5
+#You know how to cry at will, and it is very convincing too.
+299.Judging,2.7
+#You are very skilled in judging and figuring out the morality of the people you encounter, as well as spotting ill intent.
+300.Commerce,2.5
+#You are very skilled in haggling and figuring out monetary values and getting a good price for everything.
+301.Tax Evasion,1.0
+#You are a master of tax evasion. If you desire it, the government will not see a particle of your money more than you want them to. Knowing the ins and outs of money laundering, obfuscating, etc.
+302.Kidnapping,1.8
+#You are very skilled at kidnapping targets, allowing you to plan for such occasions with great skill and finesse, and execute them with practiced moves.
