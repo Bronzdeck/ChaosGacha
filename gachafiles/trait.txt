@@ -641,7 +641,7 @@
 321.My Friend Now,5.5
 #Everyone you meet starts off friendly to you as long as they don't have a preconceived opinion of you. You can walk up to Thanos and open a can of beer with him. Even death seems to like the cut of your gib.
 322.Uchiha,6.1
-#Naruto - You have the blood of the Uchiha Clan running through your veins, granting you increased Martial Talent, Energy Reserves and Fire Affinity. In addition, you possess the signature trait of the clan, a Natural Sharigan(Epic Ability) that you can activate by slotting it into an ability slot.(Does not give Chakra)
+#Naruto - You have the blood of the Uchiha Clan running through your veins, granting you increased Martial Talent, Energy Reserves and Fire Affinity. In addition, you possess the signature trait of the clan, a Natural Sharingan(Epic Ability) that you can activate by slotting it into an ability slot.(Does not give Chakra)
 323.Uzumaki,5.7
 #Naruto - You have the blood of the Uzumaki Clan running through your veins, granting you greatly increased Vitality and Energy Reserves. You can also heal yourself and others by imbuing your blood with your energy and life force. In addition, you naturally possess the Adamantine Sealing Chains(Epic Ability) that you can activate by slotting it into an ability slot.(Does not give Chakra)
 324.Hyuga,4.8
